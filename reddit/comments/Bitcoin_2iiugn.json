@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "facebook.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iiugn",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "TeamFairlay",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2iiugn",
+            "permalink": "/r/Bitcoin/comments/2iiugn/ftcom_wtf_how_can_this_ever_be_an_argument/",
+            "stickied": false,
+            "created": 1412682153,
+            "url": "https://www.facebook.com/video.php?v=10152718415845750&amp;set=vb.8860325749&amp;type=2&amp;theater",
+            "author_flair_text": null,
+            "title": "Ft.com WTF, how can this ever be an argument AGAINST Bitcoin?! \"You can't have money without government. Money was invented by government. It's to control the people. Therefore you have to have governments controlling the flow of value.\"",
+            "created_utc": 1412653353,
+            "ups": 7,
+            "upvote_ratio": 1,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iiugn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iiugn",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2jq3c",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "TeamFairlay",
+                      "parent_id": "t1_cl2jnk7",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "governments preceded roads to control the flow of people. Therefore you can't have roads without governments.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;governments preceded roads to control the flow of people. Therefore you can&amp;#39;t have roads without governments.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2jq3c",
+                      "created": 1412682604,
+                      "author_flair_text": null,
+                      "created_utc": 1412653804,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2jnk7",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Voogru",
+            "parent_id": "t3_2iiugn",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Money preceded governments, just like roads.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Money preceded governments, just like roads.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2jnk7",
+            "created": 1412682446,
+            "author_flair_text": null,
+            "created_utc": 1412653646,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

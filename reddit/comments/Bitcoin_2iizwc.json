@@ -1,0 +1,431 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iizwc",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Sistertwist",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iizwc",
+            "permalink": "/r/Bitcoin/comments/2iizwc/so_how_many_of_you_invested_heartily_after_the/",
+            "stickied": false,
+            "created": 1412685481,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iizwc/so_how_many_of_you_invested_heartily_after_the/",
+            "author_flair_text": null,
+            "title": "So, how many of you invested heartily after the Bearwhale buyout?",
+            "created_utc": 1412656681,
+            "ups": 1,
+            "upvote_ratio": 0.56,
+            "num_comments": 9,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iizwc",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iizwc",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iizwc",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iizwc",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2lmnb",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "Sistertwist",
+                                          "parent_id": "t1_cl2lbft",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Read again, silly. **RECENT** bottom.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Read again, silly. &lt;strong&gt;RECENT&lt;/strong&gt; bottom.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2lmnb",
+                                          "created": 1412687537,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412658737,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iizwc",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iizwc",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2m302",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Sistertwist",
+                                                    "parent_id": "t1_cl2lhmj",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Do you have a low-end figure you would like to bandy about? :) ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Do you have a low-end figure you would like to bandy about? :) &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2m302",
+                                                    "created": 1412689014,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412660214,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2lhmj",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "hendrixski",
+                                          "parent_id": "t1_cl2lbft",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Not sure if you're a troll... but I agree. $275 is not where the BearWhale stops. There's another one or two steps downwards before this the next uptrend. I will buy heartily then.  No point in being caught in a bull trap right now.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not sure if you&amp;#39;re a troll... but I agree. $275 is not where the BearWhale stops. There&amp;#39;s another one or two steps downwards before this the next uptrend. I will buy heartily then.  No point in being caught in a bull trap right now.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2lhmj",
+                                          "created": 1412687106,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412658306,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2lbft",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "KKK_GRAND_WIZARD",
+                                "parent_id": "t1_cl2l5p8",
+                                "score": -3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "lol you think $275 is the bottom?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol you think $275 is the bottom?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2lbft",
+                                "created": 1412686606,
+                                "author_flair_text": null,
+                                "created_utc": 1412657806,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2l5p8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Sistertwist",
+                      "parent_id": "t1_cl2l1t6",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I just missed the recent 275 bottom. I am extremely envious of you. :)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I just missed the recent 275 bottom. I am extremely envious of you. :)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2l5p8",
+                      "created": 1412686153,
+                      "author_flair_text": null,
+                      "created_utc": 1412657353,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2l1t6",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "TruValueCapital",
+            "parent_id": "t3_2iizwc",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Been buying since $600.  Bought some more at $275 bottom.  Ordered my trezor for long term storage.  Using Circle as my Hot Wallet for daily spending - when I can find someone to take BTC.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Been buying since $600.  Bought some more at $275 bottom.  Ordered my trezor for long term storage.  Using Circle as my Hot Wallet for daily spending - when I can find someone to take BTC.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2l1t6",
+            "created": 1412685857,
+            "author_flair_text": null,
+            "created_utc": 1412657057,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iizwc",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iizwc",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2lpex",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Sistertwist",
+                      "parent_id": "t1_cl2l9zz",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Hehe hearty is relative I expect. :)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hehe hearty is relative I expect. :)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2lpex",
+                      "created": 1412687772,
+                      "author_flair_text": null,
+                      "created_utc": 1412658972,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2l9zz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "mrtnrd",
+            "parent_id": "t3_2iizwc",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Probably doesn't qualify as 'heartily', but I bought another 0.5 BTC at 299. :)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Probably doesn&amp;#39;t qualify as &amp;#39;heartily&amp;#39;, but I bought another 0.5 BTC at 299. :)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2l9zz",
+            "created": 1412686489,
+            "author_flair_text": null,
+            "created_utc": 1412657689,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iizwc",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2lvot",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bitchpleaseno",
+            "parent_id": "t3_2iizwc",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I went long at 290, moon is next destination.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I went long at 290, moon is next destination.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2lvot",
+            "created": 1412688322,
+            "author_flair_text": null,
+            "created_utc": 1412659522,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

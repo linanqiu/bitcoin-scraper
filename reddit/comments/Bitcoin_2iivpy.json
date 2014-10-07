@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I can maintain a list here.  &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I can maintain a list here.  ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iivpy",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "yunvme",
+            "media": null,
+            "score": 11,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iivpy",
+            "permalink": "/r/Bitcoin/comments/2iivpy/huge_potential_market_for_btc_hostels_and_p2p/",
+            "stickied": false,
+            "created": 1412682865,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iivpy/huge_potential_market_for_btc_hostels_and_p2p/",
+            "author_flair_text": null,
+            "title": "HUGE potential market for BTC: Hostels and p2p vacation rentals. Foreign currency conversion fees for tenants and credit card fees for hosts; thus, mutual BTC benefits. Let's create a list of contacts for the most popular establishments around the world, so we all can let them know about Bitcoin.",
+            "created_utc": 1412654065,
+            "ups": 11,
+            "upvote_ratio": 0.88,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iivpy",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2l27k",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "anon515",
+            "parent_id": "t3_2iivpy",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think there was some discussion about AirBnb accepting Bitcoin.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think there was some discussion about AirBnb accepting Bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2l27k",
+            "created": 1412685886,
+            "author_flair_text": null,
+            "created_utc": 1412657086,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -3,12 +3,14 @@ var fs = require('fs');
 var request = require('request');
 var junk = require('junk');
 
+var redditPath = './reddit'
+
 var threads = [];
 
 function scrapeThreads(subreddit) {
   reddit.r(subreddit).sort('new').all(function(res) {
 
-    var fileName = './threads/' + subreddit;
+    var fileName = redditPath + '/threads/' + subreddit;
 
     var i = 0;
 
@@ -59,7 +61,7 @@ function scrapeComment(thread) {
   var id = thread['data']['id'];
 
   reddit.comments(subreddit, id, function(err, data, res) {
-    fs.writeFile('./comments/' + subreddit + '_' + id + '.json', JSON.stringify(data, null, 2), function(err) {
+    fs.writeFile(redditPath + '/comments/' + subreddit + '_' + id + '.json', JSON.stringify(data, null, 2), function(err) {
       if (err) {
         throw err;
       }
@@ -74,6 +76,6 @@ var scrapeThreadsForComments = function(threads) {
 }
 
 // scrapeThreads('bitcoin');
-loadThreads('./threads', scrapeThreadsForComments);
+loadThreads(redditPath + '/threads', scrapeThreadsForComments);
 
 

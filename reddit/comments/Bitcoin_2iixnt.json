@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If you cornered the gold market it&amp;#39;s value would probably increase. Allegedly this is what De Beers has done with diamonds. Warren Buffet also allegedly tried to corner the silver market. However, if one person cornered the Bitcoin market its value would plummet to 0 because people would switch to an alt-coin or start over using our current knowledge rather than buy them from a monopoly source. Conversely, if we could somehow get bitcoins in everyone&amp;#39;s hands in proportion to their current wealth or equally per-capita Bitcoin&amp;#39;s utility and thus its value would skyrocket.  One of the benefits of the mining process is it allows the coin to gradually diffuse into the population and gradually increase in value. In my mind its still a flaw that the unknown founder has so many.&lt;/p&gt;\n\n&lt;p&gt;The other benefit of mining of course is security. Bitcoin security also benefits from a high value. The higher the value and the longer it&amp;#39;s been around the more confidence we can have that it is secure.&lt;/p&gt;\n\n&lt;p&gt;In this way there is an element of a self fulfilling prophecy with Bitcoin because another person buying a bitcoin not only increases the price but also increases the usefulness of Bitcoin as a whole. However unlike an MLM which would have its business model collapse if everyone joined Bitcoin would be much more useful if everyone joined.&lt;/p&gt;\n\n&lt;p&gt;Because wealth follows a power law with the top few percent controlling a vast share of wealth it will be interesting to see how this plays out.&lt;/p&gt;\n\n&lt;p&gt;source: &lt;a href=\"http://singularitybookreviews.com/an-irony-about-the-price-of-bitcoin/\"&gt;http://singularitybookreviews.com/an-irony-about-the-price-of-bitcoin/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "If you cornered the gold market it's value would probably increase. Allegedly this is what De Beers has done with diamonds. Warren Buffet also allegedly tried to corner the silver market. However, if one person cornered the Bitcoin market its value would plummet to 0 because people would switch to an alt-coin or start over using our current knowledge rather than buy them from a monopoly source. Conversely, if we could somehow get bitcoins in everyone's hands in proportion to their current wealth or equally per-capita Bitcoin's utility and thus its value would skyrocket.  One of the benefits of the mining process is it allows the coin to gradually diffuse into the population and gradually increase in value. In my mind its still a flaw that the unknown founder has so many.\n\nThe other benefit of mining of course is security. Bitcoin security also benefits from a high value. The higher the value and the longer it's been around the more confidence we can have that it is secure.\n\nIn this way there is an element of a self fulfilling prophecy with Bitcoin because another person buying a bitcoin not only increases the price but also increases the usefulness of Bitcoin as a whole. However unlike an MLM which would have its business model collapse if everyone joined Bitcoin would be much more useful if everyone joined.\n\nBecause wealth follows a power law with the top few percent controlling a vast share of wealth it will be interesting to see how this plays out.\n\nsource: http://singularitybookreviews.com/an-irony-about-the-price-of-bitcoin/",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iixnt",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "172",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iixnt",
+            "permalink": "/r/Bitcoin/comments/2iixnt/an_irony_about_the_price_of_bitcoin/",
+            "stickied": false,
+            "created": 1412684011,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iixnt/an_irony_about_the_price_of_bitcoin/",
+            "author_flair_text": null,
+            "title": "An irony about the price of Bitcoin",
+            "created_utc": 1412655211,
+            "ups": 3,
+            "upvote_ratio": 0.71,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iixnt",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2l78a",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "tetondon",
+            "parent_id": "t3_2iixnt",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt; Warren Buffet also allegedly tried to corner the silver market.\n\nNever happened. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Warren Buffet also allegedly tried to corner the silver market.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Never happened. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2l78a",
+            "created": 1412686272,
+            "author_flair_text": null,
+            "created_utc": 1412657472,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iixnt",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iixnt",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iixnt",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2lf7w",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "KKK_GRAND_WIZARD",
+                                "parent_id": "t1_cl2ld4x",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt;In this moment, I am euphoric. Not because of any phony fiat's blessing, but because I am enlightened by my own bitcoins.\n\n -Satoshi, 2014",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;In this moment, I am euphoric. Not because of any phony fiat&amp;#39;s blessing, but because I am enlightened by my own bitcoins.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;-Satoshi, 2014&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2lf7w",
+                                "created": 1412686907,
+                                "author_flair_text": null,
+                                "created_utc": 1412658107,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2ld4x",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BTCisGod",
+                      "parent_id": "t1_cl2keg3",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "lololol",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lololol&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2ld4x",
+                      "created": 1412686737,
+                      "author_flair_text": null,
+                      "created_utc": 1412657937,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2keg3",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "KKK_GRAND_WIZARD",
+            "parent_id": "t3_2iixnt",
+            "score": -3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "lol I love how bitcoiners love to parrot some shit another guy said back to r/bitcoin and pretend to be all philosophical about bitcoin",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol I love how bitcoiners love to parrot some shit another guy said back to r/bitcoin and pretend to be all philosophical about bitcoin&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2keg3",
+            "created": 1412684172,
+            "author_flair_text": null,
+            "created_utc": 1412655372,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -3
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

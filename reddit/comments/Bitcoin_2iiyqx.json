@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I get the premise of using a different address every time&lt;/p&gt;\n\n&lt;p&gt;but I don&amp;#39;t get the practicality.&lt;/p&gt;\n\n&lt;p&gt;lets say I have 3 addresses &amp;quot;A, B, C&amp;quot; with 1 bitcoin each. And then I want to make a 2.5btc bitpay transaction in the alotted 15 minute time window, to their 1 address &amp;quot;X&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;If I just tell any software client, send 2.5 btc to &amp;quot;X&amp;quot;, it will combine the bitcoin from all the addresses, and now all those addresses are obviously controlled by one person in any blockchain analysis.&lt;/p&gt;\n\n&lt;p&gt;If I did three transactions, then address &amp;quot;X&amp;quot; just has all multiple bitcoin, where its likely that they were controlled by the same person&lt;/p&gt;\n\n&lt;p&gt;how is this notion of using different addresses every time practical?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I get the premise of using a different address every time\n\nbut I don't get the practicality.\n\n\nlets say I have 3 addresses \"A, B, C\" with 1 bitcoin each. And then I want to make a 2.5btc bitpay transaction in the alotted 15 minute time window, to their 1 address \"X\"\n\nIf I just tell any software client, send 2.5 btc to \"X\", it will combine the bitcoin from all the addresses, and now all those addresses are obviously controlled by one person in any blockchain analysis.\n\nIf I did three transactions, then address \"X\" just has all multiple bitcoin, where its likely that they were controlled by the same person\n\nhow is this notion of using different addresses every time practical?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iiyqx",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "cqm",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iiyqx",
+            "permalink": "/r/Bitcoin/comments/2iiyqx/tutorial_for_practically_using_a_different/",
+            "stickied": false,
+            "created": 1412684746,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iiyqx/tutorial_for_practically_using_a_different/",
+            "author_flair_text": null,
+            "title": "Tutorial for practically \"using a different address every time\", all my wallet clients combine bitcoin from the separate addresses",
+            "created_utc": 1412655946,
+            "ups": 4,
+            "upvote_ratio": 1,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iiyqx",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iiyqx",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2l3js",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "cqm",
+                      "parent_id": "t1_cl2komd",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "so does every other client I use.\n\nexplain how this answers the question, do I put a label on each address input/output and carefully structure transactions each time \"but coin control makes this easier\" or what",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;so does every other client I use.&lt;/p&gt;\n\n&lt;p&gt;explain how this answers the question, do I put a label on each address input/output and carefully structure transactions each time &amp;quot;but coin control makes this easier&amp;quot; or what&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2l3js",
+                      "created": 1412685991,
+                      "author_flair_text": null,
+                      "created_utc": 1412657191,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2komd",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "howtovanish",
+            "parent_id": "t3_2iiyqx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Perhaps you should use Armory because it creates a new address for change every transaction and you can use Coin Control.\n\nhttp://www.bitcoinarmory.com",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Perhaps you should use Armory because it creates a new address for change every transaction and you can use Coin Control.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.bitcoinarmory.com\"&gt;http://www.bitcoinarmory.com&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2komd",
+            "created": 1412684876,
+            "author_flair_text": null,
+            "created_utc": 1412656076,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iiyqx",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iiyqx",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iiyqx",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2l7qg",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "nybe",
+                                "parent_id": "t1_cl2l4nu",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "it all boils down to what're hiding from... if you're doing illegal shit and don't want to leave a trace, then mix away.\n\nIf you're just using money for services then what's the problem.\n\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it all boils down to what&amp;#39;re hiding from... if you&amp;#39;re doing illegal shit and don&amp;#39;t want to leave a trace, then mix away.&lt;/p&gt;\n\n&lt;p&gt;If you&amp;#39;re just using money for services then what&amp;#39;s the problem.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2l7qg",
+                                "created": 1412686310,
+                                "author_flair_text": null,
+                                "created_utc": 1412657510,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2l4nu",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "cqm",
+                      "parent_id": "t1_cl2l2zw",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "the question is about when I send a payment.\n\nI'm starting to get the impression that nobody actually uses this, or just blindly uses it without even considering what others can see on the blockchain",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;the question is about when I send a payment.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m starting to get the impression that nobody actually uses this, or just blindly uses it without even considering what others can see on the blockchain&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2l4nu",
+                      "created": 1412686075,
+                      "author_flair_text": null,
+                      "created_utc": 1412657275,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2l2zw",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "nybe",
+            "parent_id": "t3_2iiyqx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Anonymity aside, For security purposes it's good to use an address only once. if you use a deterministic wallet it all happens in the background; the wallet generates a new address to use every time for you to accept payment.\n\n\nIf you wanna retain your anonymity, use a mixing service.",
+            "edited": 1412657331,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Anonymity aside, For security purposes it&amp;#39;s good to use an address only once. if you use a deterministic wallet it all happens in the background; the wallet generates a new address to use every time for you to accept payment.&lt;/p&gt;\n\n&lt;p&gt;If you wanna retain your anonymity, use a mixing service.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2l2zw",
+            "created": 1412685947,
+            "author_flair_text": null,
+            "created_utc": 1412657147,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iiyqx",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2latv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BobAlison",
+            "parent_id": "t3_2iiyqx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "In your example, the only immediate option is to combine the three coins into a multiple input transaction, and in so doing link the transactions that produced each one. If any of these previous three transactions becomes linked to your identity, this could link you personally to the other two transactions and/or the following one.\n\nYou can do slightly better by sending all three coins to a mixer. But the problem with that is that you must trust the mixer. Trust means the operator does a lot of things right 100% of the time. Good luck.\n\nOne step up from there would be to send all three coins to Shared Coin, a CoinJoin implementation from Blockchain.info that may or may not be broken, depending on who you ask.\n\nDarkWallet is supposed to do CoinJoin mixing, but the wallet is marked as unsuitable for use on Mainnet:\n\nhttps://wiki.unsystem.net/en/index.php/DarkWallet/CoinMixing\n\nThe most effective and least trusting method I know of is CoinShuffle. Send the three coins in, and get three new ones back. But no wallet has implemented it, AFAIK.\n\nhttps://bitcointalk.org/index.php?topic=567625.0\n\nOf course, none of these tools do you any good if your wallet tries to hide what's really going on behind a lick-worthy UI. You need a wallet that shows you the coins _and_ lets you decide whether and when to combine them.\n\nIt's called coin control. Bitcoin Core has implemented it, and Electrum uses a weak form:\n\nhttps://bitcoinspakistan.com/blog/coin-control-in-electrum/\n\nThe trend in wallets has been to dumb down and hide the protocol. I'm not sure this is a good idea. I wonder if in the fervor to make wallets simple, this important issue has been ignored, to the detriment of end user privacy.",
+            "edited": 1412658238,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In your example, the only immediate option is to combine the three coins into a multiple input transaction, and in so doing link the transactions that produced each one. If any of these previous three transactions becomes linked to your identity, this could link you personally to the other two transactions and/or the following one.&lt;/p&gt;\n\n&lt;p&gt;You can do slightly better by sending all three coins to a mixer. But the problem with that is that you must trust the mixer. Trust means the operator does a lot of things right 100% of the time. Good luck.&lt;/p&gt;\n\n&lt;p&gt;One step up from there would be to send all three coins to Shared Coin, a CoinJoin implementation from Blockchain.info that may or may not be broken, depending on who you ask.&lt;/p&gt;\n\n&lt;p&gt;DarkWallet is supposed to do CoinJoin mixing, but the wallet is marked as unsuitable for use on Mainnet:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://wiki.unsystem.net/en/index.php/DarkWallet/CoinMixing\"&gt;https://wiki.unsystem.net/en/index.php/DarkWallet/CoinMixing&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The most effective and least trusting method I know of is CoinShuffle. Send the three coins in, and get three new ones back. But no wallet has implemented it, AFAIK.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://bitcointalk.org/index.php?topic=567625.0\"&gt;https://bitcointalk.org/index.php?topic=567625.0&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Of course, none of these tools do you any good if your wallet tries to hide what&amp;#39;s really going on behind a lick-worthy UI. You need a wallet that shows you the coins &lt;em&gt;and&lt;/em&gt; lets you decide whether and when to combine them.&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s called coin control. Bitcoin Core has implemented it, and Electrum uses a weak form:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://bitcoinspakistan.com/blog/coin-control-in-electrum/\"&gt;https://bitcoinspakistan.com/blog/coin-control-in-electrum/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The trend in wallets has been to dumb down and hide the protocol. I&amp;#39;m not sure this is a good idea. I wonder if in the fervor to make wallets simple, this important issue has been ignored, to the detriment of end user privacy.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2latv",
+            "created": 1412686556,
+            "author_flair_text": null,
+            "created_utc": 1412657756,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]
