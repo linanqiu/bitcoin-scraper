@@ -1,0 +1,572 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m from the UK and just tried depositing $500 using my Visa card and got this:&lt;/p&gt;\n\n&lt;p&gt;U.S.-based bank account or credit card required.\nAt this time, bank accounts and credit cards from your country cannot be linked to Circle. Our apologies for the inconvenience. We’re working on it and hope to be able to provide this functionality soon.&lt;/p&gt;\n\n&lt;p&gt;In the meantime, your account is ready to send, receive, and store bitcoin. Your Circle account is insured and protected by our rigorous security practices.&lt;/p&gt;\n\n&lt;p&gt;Questions? Please contact our support team.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I'm from the UK and just tried depositing $500 using my Visa card and got this:\n\nU.S.-based bank account or credit card required.\nAt this time, bank accounts and credit cards from your country cannot be linked to Circle. Our apologies for the inconvenience. We’re working on it and hope to be able to provide this functionality soon.\n\nIn the meantime, your account is ready to send, receive, and store bitcoin. Your Circle account is insured and protected by our rigorous security practices.\n\nQuestions? Please contact our support team.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idlwn",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "oi_Mista",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idlwn",
+            "permalink": "/r/Bitcoin/comments/2idlwn/i_thought_circlecom_was_now_open_to_the_world/",
+            "stickied": false,
+            "created": 1412564521,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idlwn/i_thought_circlecom_was_now_open_to_the_world/",
+            "author_flair_text": null,
+            "title": "I thought circle.com was now open to the world?",
+            "created_utc": 1412535721,
+            "ups": 6,
+            "upvote_ratio": 0.72,
+            "num_comments": 12,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idlwn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idlwn",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idlwn",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idlwn",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idlwn",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idlwn",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idlwn",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2idlwn",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2idlwn",
+                                                                                            "likes": null,
+                                                                                            "replies": "",
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl1qa9u",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "kiisfm",
+                                                                                            "parent_id": "t1_cl1q9zg",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "You're right",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;re right&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl1qa9u",
+                                                                                            "created": 1412611415,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412582615,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl1q9zg",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "oi_Mista",
+                                                                                  "parent_id": "t1_cl1pvsc",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Limbo?\n\nA big error message appears on my screen saying I can't deposit using a card from my country, would you just go ahead and confirm the transfer then sit with your fingers crossed to see if it shows up or maybe try and find out a bit more information as to what is going on and why that message appeared.\n\nThere are a couple of other posts with users having issues with circle atm, I'm just taking a precaution.",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Limbo?&lt;/p&gt;\n\n&lt;p&gt;A big error message appears on my screen saying I can&amp;#39;t deposit using a card from my country, would you just go ahead and confirm the transfer then sit with your fingers crossed to see if it shows up or maybe try and find out a bit more information as to what is going on and why that message appeared.&lt;/p&gt;\n\n&lt;p&gt;There are a couple of other posts with users having issues with circle atm, I&amp;#39;m just taking a precaution.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl1q9zg",
+                                                                                  "created": 1412611369,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412582569,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl1pvsc",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "kiisfm",
+                                                                        "parent_id": "t1_cl1puyc",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Where else would it go? ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Where else would it go? &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl1pvsc",
+                                                                        "created": 1412609244,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412580444,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1puyc",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "oi_Mista",
+                                                              "parent_id": "t1_cl1dqp2",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Scared?  If I say yes to my card provider and the money is released, I have no idea if it will land in my account.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Scared?  If I say yes to my card provider and the money is released, I have no idea if it will land in my account.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1puyc",
+                                                              "created": 1412609129,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412580329,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1dqp2",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "kiisfm",
+                                                    "parent_id": "t1_cl18f3h",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Stop being so scared",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Stop being so scared&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1dqp2",
+                                                    "created": 1412577746,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412548946,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl18f3h",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "oi_Mista",
+                                          "parent_id": "t1_cl181a8",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I received a notification from my card company asking if I had made the transaction to which I haven't replied yet as I'm uncertain if I say yes will the amount be deposited.\n\nI've asked the question to circle, waiting for a response.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I received a notification from my card company asking if I had made the transaction to which I haven&amp;#39;t replied yet as I&amp;#39;m uncertain if I say yes will the amount be deposited.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve asked the question to circle, waiting for a response.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl18f3h",
+                                          "created": 1412567042,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412538242,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idlwn",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1iojp",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "neverbeenfisted",
+                                          "parent_id": "t1_cl181a8",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "You dont get the option to add a card, when you click on Fund Account you get a message your country isn't supported",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You dont get the option to add a card, when you click on Fund Account you get a message your country isn&amp;#39;t supported&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1iojp",
+                                          "created": 1412588613,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412559813,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl181a8",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "tucari",
+                                "parent_id": "t1_cl17ab5",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Ignore the warning, most cards work. I'm UK and mine does.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ignore the warning, most cards work. I&amp;#39;m UK and mine does.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl181a8",
+                                "created": 1412566299,
+                                "author_flair_text": null,
+                                "created_utc": 1412537499,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl17ab5",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "oi_Mista",
+                      "parent_id": "t1_cl176s8",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Wow, UK isn't listed on there, that sucks.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Wow, UK isn&amp;#39;t listed on there, that sucks.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl17ab5",
+                      "created": 1412564898,
+                      "author_flair_text": null,
+                      "created_utc": 1412536098,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl176s8",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sgornick",
+            "parent_id": "t3_2idlwn",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "In this post is a list of the countries: http://koinify.com/blog/cryptocrowdfunding-now-instantly-possible-thanks-to-circle/",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In this post is a list of the countries: &lt;a href=\"http://koinify.com/blog/cryptocrowdfunding-now-instantly-possible-thanks-to-circle/\"&gt;http://koinify.com/blog/cryptocrowdfunding-now-instantly-possible-thanks-to-circle/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl176s8",
+            "created": 1412564710,
+            "author_flair_text": null,
+            "created_utc": 1412535910,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idlwn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idlwn",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1blf8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "carloschimbo",
+                      "parent_id": "t1_cl17728",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Source?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Source?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1blf8",
+                      "created": 1412573189,
+                      "author_flair_text": null,
+                      "created_utc": 1412544389,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl17728",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "lechango",
+            "parent_id": "t3_2idlwn",
+            "score": -2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "they are already getting raped by fraud, doesn't look like they will be able to offer international credit card payments much longer",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;they are already getting raped by fraud, doesn&amp;#39;t look like they will be able to offer international credit card payments much longer&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl17728",
+            "created": 1412564726,
+            "author_flair_text": null,
+            "created_utc": 1412535926,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

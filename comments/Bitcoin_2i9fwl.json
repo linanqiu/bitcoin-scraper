@@ -1,0 +1,475 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "cryptocoinsnews.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9fwl",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bitpotluck",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/-gZKlGKp2mbWTx56GTf4u8dz9R3FpFgdVNfBWJR9mOQ.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i9fwl",
+            "permalink": "/r/Bitcoin/comments/2i9fwl/why_the_bitcoin_price_drop_is_really_good_news/",
+            "stickied": false,
+            "created": 1412438103,
+            "url": "https://www.cryptocoinsnews.com/bitcoin-price-drop-really-good-news/",
+            "author_flair_text": null,
+            "title": "Why The Bitcoin Price Drop Is Really Good News",
+            "created_utc": 1412409303,
+            "ups": 0,
+            "upvote_ratio": 0.4,
+            "num_comments": 10,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9fwl",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9fwl",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i9fwl",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i9fwl",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i9fwl",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0aq2y",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "pgrigor",
+                                                    "parent_id": "t1_cl04d3s",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "TINSTAAFL",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;TINSTAAFL&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0aq2y",
+                                                    "created": 1412471277,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412442477,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl04d3s",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "is4k",
+                                          "parent_id": "t1_cl03vl4",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Tinstafl",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Tinstafl&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl04d3s",
+                                          "created": 1412448775,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412419975,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl03vl4",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "cryptard",
+                                "parent_id": "t1_cl039v5",
+                                "score": -1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Your gut is wrong. Chinese get their hardware cheap/free, and the mining companies aren't in it for the ideologies.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Your gut is wrong. Chinese get their hardware cheap/free, and the mining companies aren&amp;#39;t in it for the ideologies.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl03vl4",
+                                "created": 1412445367,
+                                "author_flair_text": null,
+                                "created_utc": 1412416567,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i9fwl",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i9fwl",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl03hiq",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "is4k",
+                                          "parent_id": "t1_cl03av5",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "The people who runs the mining farms are probably currently operating with negative profit - some of them will have no other option than to sell the new coins. \n\nPeople can get into bitcoin today cheaper and without mining - this might be a good thing - a lower price = faster distribution.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The people who runs the mining farms are probably currently operating with negative profit - some of them will have no other option than to sell the new coins. &lt;/p&gt;\n\n&lt;p&gt;People can get into bitcoin today cheaper and without mining - this might be a good thing - a lower price = faster distribution.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl03hiq",
+                                          "created": 1412442825,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412414025,
+                                          "ups": 3,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl03av5",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Snugglemyass",
+                                "parent_id": "t1_cl039v5",
+                                "score": -1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "What?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl03av5",
+                                "created": 1412441768,
+                                "author_flair_text": null,
+                                "created_utc": 1412412968,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl039v5",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "is4k",
+                      "parent_id": "t1_cl038py",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That is not an argument... \n\nWhen the price is below the price of mining (my gut says it is about $700-1500 in production cost), the miners are taking a hit for the team by selling at a lower price...",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That is not an argument... &lt;/p&gt;\n\n&lt;p&gt;When the price is below the price of mining (my gut says it is about $700-1500 in production cost), the miners are taking a hit for the team by selling at a lower price...&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl039v5",
+                      "created": 1412441585,
+                      "author_flair_text": null,
+                      "created_utc": 1412412785,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl038py",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Snugglemyass",
+            "parent_id": "t3_2i9fwl",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "No, it isn't. Period. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, it isn&amp;#39;t. Period. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl038py",
+            "created": 1412441370,
+            "author_flair_text": null,
+            "created_utc": 1412412570,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9fwl",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9fwl",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0a5ds",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BigBlackHungGuy",
+                      "parent_id": "t1_cl03ax8",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Bill is a visionary, but this is the same man who bought you Windows Millennium.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bill is a visionary, but this is the same man who bought you Windows Millennium.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0a5ds",
+                      "created": 1412469906,
+                      "author_flair_text": null,
+                      "created_utc": 1412441106,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl03ax8",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Sevensheeps",
+            "parent_id": "t3_2i9fwl",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "We had Bill Gates say bitcoin is better than currency. I don't care about the price, I just don't. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;We had Bill Gates say bitcoin is better than currency. I don&amp;#39;t care about the price, I just don&amp;#39;t. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl03ax8",
+            "created": 1412441779,
+            "author_flair_text": null,
+            "created_utc": 1412412979,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9fwl",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl03o22",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BTCoverlord",
+            "parent_id": "t3_2i9fwl",
+            "score": -3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What's funny about BTC, it's that the deluded bunch always find some way to claim that no matter what happens, these are good news:\n\n- *\"Look, Russia is banning bitcoins. This is good news\"*\n- *\"Look, we are loosing 70% since the beginning of the year. Now, these are really great news.\"*\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s funny about BTC, it&amp;#39;s that the deluded bunch always find some way to claim that no matter what happens, these are good news:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;em&gt;&amp;quot;Look, Russia is banning bitcoins. This is good news&amp;quot;&lt;/em&gt;&lt;/li&gt;\n&lt;li&gt;&lt;em&gt;&amp;quot;Look, we are loosing 70% since the beginning of the year. Now, these are really great news.&amp;quot;&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl03o22",
+            "created": 1412443953,
+            "author_flair_text": null,
+            "created_utc": 1412415153,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -3
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

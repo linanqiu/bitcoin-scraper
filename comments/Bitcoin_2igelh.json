@@ -1,0 +1,440 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;USA customer. Bought a couple coins at $290. They will start in coinbase. What&amp;#39;s the best way to sell at (for example) $350, set the USD aside, and buy in again on the next low? Pretty much have to move everything to Bitstamp to do that sort of thing?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "USA customer. Bought a couple coins at $290. They will start in coinbase. What's the best way to sell at (for example) $350, set the USD aside, and buy in again on the next low? Pretty much have to move everything to Bitstamp to do that sort of thing?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2igelh",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "BitttBurger",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2igelh",
+            "permalink": "/r/Bitcoin/comments/2igelh/how_to_best_ride_the_wave_of_price_fluctuations/",
+            "stickied": false,
+            "created": 1412638581,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2igelh/how_to_best_ride_the_wave_of_price_fluctuations/",
+            "author_flair_text": null,
+            "title": "How to best ride the wave of price fluctuations by buying and selling?",
+            "created_utc": 1412609781,
+            "ups": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 9,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igelh",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2igelh",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2igelh",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2igelh",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl25ad6",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "BitttBurger",
+                                          "parent_id": "t1_cl1y7vy",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Oh come on. You're just trying to be contrary.  Sheesh. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh come on. You&amp;#39;re just trying to be contrary.  Sheesh. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl25ad6",
+                                          "created": 1412653856,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412625056,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1y7vy",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BigMoneyGuy",
+                                "parent_id": "t1_cl1xyij",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt; \"where are you located?\"\n\nYou could say \"I'm in USA\" since that's what you are being asked.\n\n&gt; However if you want to do anything with it, you have to work with companies.\n\nWhat makes you say that? The whole point of Bitcoin is that it's peer to peer. If you use a company it's for convenience, and not because you have to. In the eyes of the Bitcoin network, a company is no different than a physical person.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;&amp;quot;where are you located?&amp;quot;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;You could say &amp;quot;I&amp;#39;m in USA&amp;quot; since that&amp;#39;s what you are being asked.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;However if you want to do anything with it, you have to work with companies.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;What makes you say that? The whole point of Bitcoin is that it&amp;#39;s peer to peer. If you use a company it&amp;#39;s for convenience, and not because you have to. In the eyes of the Bitcoin network, a company is no different than a physical person.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1y7vy",
+                                "created": 1412640184,
+                                "author_flair_text": null,
+                                "created_utc": 1412611384,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1xyij",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BitttBurger",
+                      "parent_id": "t1_cl1xkkz",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I was saying that, obviously, because people in different countries have access to different sites/features. And any time someone asks a question like this, the first response they get is \"where are you located?\". Bitcoin is not a company. However if you want to do anything with it, you have to work with companies.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I was saying that, obviously, because people in different countries have access to different sites/features. And any time someone asks a question like this, the first response they get is &amp;quot;where are you located?&amp;quot;. Bitcoin is not a company. However if you want to do anything with it, you have to work with companies.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1xyij",
+                      "created": 1412639651,
+                      "author_flair_text": null,
+                      "created_utc": 1412610851,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1xkkz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BigMoneyGuy",
+            "parent_id": "t3_2igelh",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This is more a question for /r/Bitcoinmarkets. And it's weird to start with \"USA customer.\", Bitcoin is not a company.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is more a question for &lt;a href=\"/r/Bitcoinmarkets\"&gt;/r/Bitcoinmarkets&lt;/a&gt;. And it&amp;#39;s weird to start with &amp;quot;USA customer.&amp;quot;, Bitcoin is not a company.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1xkkz",
+            "created": 1412638841,
+            "author_flair_text": null,
+            "created_utc": 1412610041,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igelh",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1xka9",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "LiveFromMN",
+            "parent_id": "t3_2igelh",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Buy Potcoin and hold bags until you're financially satisfied than sell. BAM",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Buy Potcoin and hold bags until you&amp;#39;re financially satisfied than sell. BAM&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1xka9",
+            "created": 1412638823,
+            "author_flair_text": null,
+            "created_utc": 1412610023,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igelh",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2igelh",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2igelh",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2igelh",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2agyp",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "BitttBurger",
+                                          "parent_id": "t1_cl1zynl",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Thanks, yeah I have to wait a week for the coinbase coins anyways :-/  ... but I don't expect we will be at $300 forever, so the longer I wait, the more I make off the purchase.  No rush.  ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks, yeah I have to wait a week for the coinbase coins anyways :-/  ... but I don&amp;#39;t expect we will be at $300 forever, so the longer I wait, the more I make off the purchase.  No rush.  &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2agyp",
+                                          "created": 1412663805,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412635005,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1zynl",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "andyrowe",
+                                "parent_id": "t1_cl1xzgc",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Then using an exchange like bitstamp is what you're looking for.  You could sell them back to coinbase now for $340 but it takes days for it to deposit back to your account.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Then using an exchange like bitstamp is what you&amp;#39;re looking for.  You could sell them back to coinbase now for $340 but it takes days for it to deposit back to your account.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1zynl",
+                                "created": 1412643618,
+                                "author_flair_text": null,
+                                "created_utc": 1412614818,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1xzgc",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BitttBurger",
+                      "parent_id": "t1_cl1xlvo",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "As mentioned in the original post, I'm referring to larger overall price fluctuations. Not micro-arbitrage. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;As mentioned in the original post, I&amp;#39;m referring to larger overall price fluctuations. Not micro-arbitrage. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1xzgc",
+                      "created": 1412639704,
+                      "author_flair_text": null,
+                      "created_utc": 1412610904,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1xlvo",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "andyrowe",
+            "parent_id": "t3_2igelh",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "There's not a lot of room for arbitrage anymore.  If you are willing to meet buyers in person you can sell them for cash via LocalBitcoins for 5% above market and rebuy a little more each transaction.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There&amp;#39;s not a lot of room for arbitrage anymore.  If you are willing to meet buyers in person you can sell them for cash via LocalBitcoins for 5% above market and rebuy a little more each transaction.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1xlvo",
+            "created": 1412638914,
+            "author_flair_text": null,
+            "created_utc": 1412610114,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

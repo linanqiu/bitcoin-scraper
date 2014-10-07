@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The Drawing Room New York has been named one of Manhattan’s Best Hair Salons by Refinery 29, as well as the prestigious “Top 10 Critics Pick” for SoHo’s Best Hair Salon by NY Magazine Featured in a number of publications such as GQ, Vogue, and InStyle. We are proud to announce that we are the first upscale hair salon in NYC to accept the convenient payment of Bitcoins. We are excited to be able to accommodate the many Bitcoin users the opportunity to receive upscale hair services in the heart of SoHo. Feel free to check out our website &lt;a href=\"http://www.thedrawingroomny.com\"&gt;www.thedrawingroomny.com&lt;/a&gt; for a list of services.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "The Drawing Room New York has been named one of Manhattan’s Best Hair Salons by Refinery 29, as well as the prestigious “Top 10 Critics Pick” for SoHo’s Best Hair Salon by NY Magazine Featured in a number of publications such as GQ, Vogue, and InStyle. We are proud to announce that we are the first upscale hair salon in NYC to accept the convenient payment of Bitcoins. We are excited to be able to accommodate the many Bitcoin users the opportunity to receive upscale hair services in the heart of SoHo. Feel free to check out our website www.thedrawingroomny.com for a list of services.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9xqt",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "TheDrawingRoomNY",
+            "media": null,
+            "score": 42,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i9xqt",
+            "permalink": "/r/Bitcoin/comments/2i9xqt/upscale_soho_hair_salon_now_accepting_bitcoins_in/",
+            "stickied": false,
+            "created": 1412459710,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i9xqt/upscale_soho_hair_salon_now_accepting_bitcoins_in/",
+            "author_flair_text": null,
+            "title": "Upscale Soho Hair Salon Now Accepting Bitcoins In NYC",
+            "created_utc": 1412430910,
+            "ups": 42,
+            "upvote_ratio": 0.79,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9xqt",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0cgj3",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sgornick",
+            "parent_id": "t3_2i9xqt",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Is there anything on the site (or Twitter, or other social media, etc.) that says they accept Bitcoin.\n\nAdding to http://CoinMap.org would be helpful.  Also, updating the Yelp profile: http://www.yelp.com/biz/he-drawing-room-new-york-new-york  - http://officialblog.yelp.com/2014/04/now-on-yelp-businesses-that-accept-bitcoin.html\n\nAnd notify AirBitz too.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Is there anything on the site (or Twitter, or other social media, etc.) that says they accept Bitcoin.&lt;/p&gt;\n\n&lt;p&gt;Adding to &lt;a href=\"http://CoinMap.org\"&gt;http://CoinMap.org&lt;/a&gt; would be helpful.  Also, updating the Yelp profile: &lt;a href=\"http://www.yelp.com/biz/he-drawing-room-new-york-new-york\"&gt;http://www.yelp.com/biz/he-drawing-room-new-york-new-york&lt;/a&gt;  - &lt;a href=\"http://officialblog.yelp.com/2014/04/now-on-yelp-businesses-that-accept-bitcoin.html\"&gt;http://officialblog.yelp.com/2014/04/now-on-yelp-businesses-that-accept-bitcoin.html&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;And notify AirBitz too.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0cgj3",
+            "created": 1412475245,
+            "author_flair_text": null,
+            "created_utc": 1412446445,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

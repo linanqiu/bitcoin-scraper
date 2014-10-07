@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If anyone has used Acorns, it&amp;#39;s a an app that is linked to your bank account. Every time you make a purchase, it rounds up to the nearest dollar and puts that change into investments. It&amp;#39;s a fairly painless way to start investing. I want the same thing, but I want to buy Bitcoin with my change. I don&amp;#39;t know the first thing about how to get something like this off the ground. I just want to use the service.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "If anyone has used Acorns, it's a an app that is linked to your bank account. Every time you make a purchase, it rounds up to the nearest dollar and puts that change into investments. It's a fairly painless way to start investing. I want the same thing, but I want to buy Bitcoin with my change. I don't know the first thing about how to get something like this off the ground. I just want to use the service.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iidwz",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "tradRIGHT",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iidwz",
+            "permalink": "/r/Bitcoin/comments/2iidwz/someone_start_this_company/",
+            "stickied": false,
+            "created": 1412673373,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iidwz/someone_start_this_company/",
+            "author_flair_text": null,
+            "title": "Someone start this company",
+            "created_utc": 1412644573,
+            "ups": 6,
+            "upvote_ratio": 0.81,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iidwz",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2ganp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Simcom",
+            "parent_id": "t3_2iidwz",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "once the ETF is online you can probably sweep the change into that. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;once the ETF is online you can probably sweep the change into that. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2ganp",
+            "created": 1412675717,
+            "author_flair_text": null,
+            "created_utc": 1412646917,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iidwz",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2ggp3",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "SatoshisGhost",
+            "parent_id": "t3_2iidwz",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes please, thank you. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes please, thank you. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2ggp3",
+            "created": 1412676029,
+            "author_flair_text": null,
+            "created_utc": 1412647229,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Bitcoin&amp;#39;s main hurdle isn&amp;#39;t making it easier to use or safer for an average Joe Citizen to use. The main hurdle is fiat offers governments a great tool to be able to stabilize the economy through cycles and minimize recessionary effects. Sure Bitcoin offers some cost savings for transactions but fiat is a much better solution in the overall scheme of the economy. Financially astute governments would never be willing to relinquish this extremely important economic tool.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Bitcoin's main hurdle isn't making it easier to use or safer for an average Joe Citizen to use. The main hurdle is fiat offers governments a great tool to be able to stabilize the economy through cycles and minimize recessionary effects. Sure Bitcoin offers some cost savings for transactions but fiat is a much better solution in the overall scheme of the economy. Financially astute governments would never be willing to relinquish this extremely important economic tool.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iaxme",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "inzanz",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iaxme",
+            "permalink": "/r/Bitcoin/comments/2iaxme/bitcoin_and_monetary_policy/",
+            "stickied": false,
+            "created": 1412483659,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iaxme/bitcoin_and_monetary_policy/",
+            "author_flair_text": null,
+            "title": "Bitcoin and Monetary Policy",
+            "created_utc": 1412454859,
+            "ups": 5,
+            "upvote_ratio": 0.73,
+            "num_comments": 11,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaxme",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iaxme",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iaxme",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iaxme",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iaxme",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0knfu",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Belfrey",
+                                                    "parent_id": "t1_cl0iv1d",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Sure.\n\nThe car gives the key value, right? The control of the car (access to the physical good/resource/service) is the real value. \n\nPrinting another key and handing it out to someone doesn't increase the value of the car, it just means that my key might not represent the control over my car that I think it represents (it devalues the key).\n\nThe value of money is based on what it can buy. It's \"stuff\" that gives money value. In the same way that a key is worthless without the car, money is worthless in the absence of stuff you want to buy.\n\nPrices represent the ratio of money to the actual supply of stuff people want. This also applies to loans. The interest rate is the price of access to other people's savings based on the demand to consume now and pay later, in relation to the supply of available savings. With sound money, said savings is a direct representation of value previously created (available resources).\n\nWhen a central bank increases the supply of loanable funds they divorce the supply of available savings from the actual available resources in an economy. It's like handing out ten keys to ten people when there is only one car. If everyone makes plans like they have uncontested access to said car, at least a few people are bound to have problems getting to where they thought they were going to go (even if it's the batmobile and it'll drive itself to you). The making of plans based on the number of keys is the economic boom that results from fed monetary policy, the bust is the realization that the car (all the resources) isn't available (at least not at the prices previously accounted for).\n\nUnfortunately the nature of government monetary policy is complex and has an even more nefarious aspect to it that isn't illustrated by this particular analogy. If you can imagine someone selling many many car keys to a bunch of cars owned by other people, it would be a similar sort of theft, but on a global scale, and across all goods and services.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sure.&lt;/p&gt;\n\n&lt;p&gt;The car gives the key value, right? The control of the car (access to the physical good/resource/service) is the real value. &lt;/p&gt;\n\n&lt;p&gt;Printing another key and handing it out to someone doesn&amp;#39;t increase the value of the car, it just means that my key might not represent the control over my car that I think it represents (it devalues the key).&lt;/p&gt;\n\n&lt;p&gt;The value of money is based on what it can buy. It&amp;#39;s &amp;quot;stuff&amp;quot; that gives money value. In the same way that a key is worthless without the car, money is worthless in the absence of stuff you want to buy.&lt;/p&gt;\n\n&lt;p&gt;Prices represent the ratio of money to the actual supply of stuff people want. This also applies to loans. The interest rate is the price of access to other people&amp;#39;s savings based on the demand to consume now and pay later, in relation to the supply of available savings. With sound money, said savings is a direct representation of value previously created (available resources).&lt;/p&gt;\n\n&lt;p&gt;When a central bank increases the supply of loanable funds they divorce the supply of available savings from the actual available resources in an economy. It&amp;#39;s like handing out ten keys to ten people when there is only one car. If everyone makes plans like they have uncontested access to said car, at least a few people are bound to have problems getting to where they thought they were going to go (even if it&amp;#39;s the batmobile and it&amp;#39;ll drive itself to you). The making of plans based on the number of keys is the economic boom that results from fed monetary policy, the bust is the realization that the car (all the resources) isn&amp;#39;t available (at least not at the prices previously accounted for).&lt;/p&gt;\n\n&lt;p&gt;Unfortunately the nature of government monetary policy is complex and has an even more nefarious aspect to it that isn&amp;#39;t illustrated by this particular analogy. If you can imagine someone selling many many car keys to a bunch of cars owned by other people, it would be a similar sort of theft, but on a global scale, and across all goods and services.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0knfu",
+                                                    "created": 1412494793,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412465993,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0iv1d",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "dnivi3",
+                                          "parent_id": "t1_cl0hr34",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "&gt; If there are ten cars and ten keys, handing out more keys or rearranging who has what on their keychain doesn't change the number of cars, it just ensures that at some point someone won't be able to get somewhere they were trying to go. Central banking policy works similarly.\n\nI am not sure if I understand what you are trying to illustrate by this example. Can you explain?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;If there are ten cars and ten keys, handing out more keys or rearranging who has what on their keychain doesn&amp;#39;t change the number of cars, it just ensures that at some point someone won&amp;#39;t be able to get somewhere they were trying to go. Central banking policy works similarly.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;I am not sure if I understand what you are trying to illustrate by this example. Can you explain?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0iv1d",
+                                          "created": 1412490519,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412461719,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iaxme",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iaxme",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2iaxme",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2iaxme",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2iaxme",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl0nc8h",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "inzanz",
+                                                                                  "parent_id": "t1_cl0mp4f",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Although I disagree with you good to see differing opinions",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Although I disagree with you good to see differing opinions&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl0nc8h",
+                                                                                  "created": 1412501321,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412472521,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl0mp4f",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "Belfrey",
+                                                                        "parent_id": "t1_cl0lr6q",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "It was the government pumping up the money supply that caused the initial economic crash, and then bad reactionary fiscal policy that destroyed supply chains and made resources even more scarce which kept the country in a depression. \n\nSo no, the solution would not be to drink more of the alcohol that created the hangover in the first place.\n\nGreenspan has a great essay he wrote in his smarter years explaining this very thing.\n\nhttp://www.constitution.org/mon/greenspan_gold.htm",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It was the government pumping up the money supply that caused the initial economic crash, and then bad reactionary fiscal policy that destroyed supply chains and made resources even more scarce which kept the country in a depression. &lt;/p&gt;\n\n&lt;p&gt;So no, the solution would not be to drink more of the alcohol that created the hangover in the first place.&lt;/p&gt;\n\n&lt;p&gt;Greenspan has a great essay he wrote in his smarter years explaining this very thing.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.constitution.org/mon/greenspan_gold.htm\"&gt;http://www.constitution.org/mon/greenspan_gold.htm&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl0mp4f",
+                                                                        "created": 1412499761,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412470961,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl0lr6q",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "inzanz",
+                                                              "parent_id": "t1_cl0l2mu",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "If it was the 1930's depression again and industrial production was down 50% should the government influence the money supply?",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If it was the 1930&amp;#39;s depression again and industrial production was down 50% should the government influence the money supply?&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl0lr6q",
+                                                              "created": 1412497483,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412468683,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0l2mu",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Belfrey",
+                                                    "parent_id": "t1_cl0k4ry",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "I'm sure we would disagree on who the world's foremost economists are, but that doesn't really matter.\n\nI'm saying central bank monetary policy creates the very thing it claims to fight, just like nearly every other government policy.\n\nIf all the famous \"experts\" told you that the sun revolved around the earth it wouldn't make it any more true. It doesn't matter who believes what. The fallacy you are making is called an appeal to authority. \n\nBut yes, I'm telling you the authority figures you so admire are very wrong.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m sure we would disagree on who the world&amp;#39;s foremost economists are, but that doesn&amp;#39;t really matter.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m saying central bank monetary policy creates the very thing it claims to fight, just like nearly every other government policy.&lt;/p&gt;\n\n&lt;p&gt;If all the famous &amp;quot;experts&amp;quot; told you that the sun revolved around the earth it wouldn&amp;#39;t make it any more true. It doesn&amp;#39;t matter who believes what. The fallacy you are making is called an appeal to authority. &lt;/p&gt;\n\n&lt;p&gt;But yes, I&amp;#39;m telling you the authority figures you so admire are very wrong.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0l2mu",
+                                                    "created": 1412495807,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412467007,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0k4ry",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "inzanz",
+                                          "parent_id": "t1_cl0hr34",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I wasn't trying to call you stupid. The claim you are making however is to dismiss the worlds foremost economists. You are also saying the smoothening of the economic cycle has no benefit.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I wasn&amp;#39;t trying to call you stupid. The claim you are making however is to dismiss the worlds foremost economists. You are also saying the smoothening of the economic cycle has no benefit.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0k4ry",
+                                          "created": 1412493552,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412464752,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0hr34",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Belfrey",
+                                "parent_id": "t1_cl0gobu",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "If there are ten cars and ten keys, handing out more keys or rearranging who has what on their keychain doesn't change the number of cars, it just ensures that at some point someone won't be able to get somewhere they were trying to go. Central banking policy works similarly. \n\nMoney isn't wealth, it's a proxy to, or a representation of wealth. Making it less accurately represent the availability of physical goods can only be destructive.\n\nBut your attempt to call me stupid and with an air of politeness has been noted.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If there are ten cars and ten keys, handing out more keys or rearranging who has what on their keychain doesn&amp;#39;t change the number of cars, it just ensures that at some point someone won&amp;#39;t be able to get somewhere they were trying to go. Central banking policy works similarly. &lt;/p&gt;\n\n&lt;p&gt;Money isn&amp;#39;t wealth, it&amp;#39;s a proxy to, or a representation of wealth. Making it less accurately represent the availability of physical goods can only be destructive.&lt;/p&gt;\n\n&lt;p&gt;But your attempt to call me stupid and with an air of politeness has been noted.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0hr34",
+                                "created": 1412487836,
+                                "author_flair_text": null,
+                                "created_utc": 1412459036,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0gobu",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "inzanz",
+                      "parent_id": "t1_cl0ge6r",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Saying there is no merit in monetary policy and supporting Bitcoin just makes Bitcoin look bad",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Saying there is no merit in monetary policy and supporting Bitcoin just makes Bitcoin look bad&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0gobu",
+                      "created": 1412485212,
+                      "author_flair_text": null,
+                      "created_utc": 1412456412,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0ge6r",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Belfrey",
+            "parent_id": "t3_2iaxme",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Price controls don't work, they create massive economic imbalances. It doesn't matter whether we are talking about the price of bread being unhinged from the actual supply of bread or the price of interest being unhinged from the actual supply of loanable resources. Bitcoin is a solution to the bug that is government manipulation of fiat money.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Price controls don&amp;#39;t work, they create massive economic imbalances. It doesn&amp;#39;t matter whether we are talking about the price of bread being unhinged from the actual supply of bread or the price of interest being unhinged from the actual supply of loanable resources. Bitcoin is a solution to the bug that is government manipulation of fiat money.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0ge6r",
+            "created": 1412484554,
+            "author_flair_text": null,
+            "created_utc": 1412455754,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaxme",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0g5hs",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "dillpicklechips",
+            "parent_id": "t3_2iaxme",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Too bad a whole economy is complicated and their tinkering may actually do more harm than good. At least they do get a good cut of the wealth by being the tinkerers.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Too bad a whole economy is complicated and their tinkering may actually do more harm than good. At least they do get a good cut of the wealth by being the tinkerers.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0g5hs",
+            "created": 1412483983,
+            "author_flair_text": null,
+            "created_utc": 1412455183,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

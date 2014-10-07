@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "techdirt.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ii7yf",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "hcasaol",
+            "media": null,
+            "score": 20,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/zRbzdWqZ_9fyqkdsodlS-fyZuREvjbaJJX02tTGNVOU.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ii7yf",
+            "permalink": "/r/Bitcoin/comments/2ii7yf/politicians_cynically_using_jp_morgan_hack_to_try/",
+            "stickied": false,
+            "created": 1412670273,
+            "url": "https://www.techdirt.com/articles/20141003/17382028725/politicians-cynically-using-jp-morgan-hack-to-try-to-pass-laws-to-diminish-your-privacy.shtml",
+            "author_flair_text": null,
+            "title": "Politicians Cynically Using JP Morgan Hack To Try To Pass Laws To Diminish Your Privacy | Techdirt",
+            "created_utc": 1412641473,
+            "ups": 20,
+            "upvote_ratio": 0.89,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

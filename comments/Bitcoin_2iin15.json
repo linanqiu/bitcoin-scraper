@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Best exchange site with low fee for Canadian?&lt;/p&gt;\n\n&lt;p&gt;Cavirtex?\nVoS?\n...&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Best exchange site with low fee for Canadian?\n\nCavirtex?\nVoS?\n...",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iin15",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "CoinMarket",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iin15",
+            "permalink": "/r/Bitcoin/comments/2iin15/best_exchange_site_with_low_fee_for_canadian/",
+            "stickied": false,
+            "created": 1412677942,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iin15/best_exchange_site_with_low_fee_for_canadian/",
+            "author_flair_text": null,
+            "title": "Best exchange site with low fee for Canadian?",
+            "created_utc": 1412649142,
+            "ups": 3,
+            "upvote_ratio": 0.81,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iin15",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2hge4",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "dunand",
+            "parent_id": "t3_2iin15",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Cavirtex. Best volume. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Cavirtex. Best volume. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2hge4",
+            "created": 1412677989,
+            "author_flair_text": null,
+            "created_utc": 1412649189,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iin15",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2ik5m",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "TKRSRY",
+            "parent_id": "t3_2iin15",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Quadrigacx used to have no fees... Not sure now... Dependig on your buy, volume is perhaps irrelevant.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Quadrigacx used to have no fees... Not sure now... Dependig on your buy, volume is perhaps irrelevant.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2ik5m",
+            "created": 1412680153,
+            "author_flair_text": null,
+            "created_utc": 1412651353,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

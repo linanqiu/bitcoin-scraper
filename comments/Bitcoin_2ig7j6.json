@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Background:&lt;/p&gt;\n\n&lt;p&gt;I live in a 3rd world country. I love Bitcoin and I don&amp;#39;t care about the price. For me and my fellow citizens, Bitcoin is not an alternative, optional, nerdy, hipster &amp;quot;currency&amp;quot;, rather, its the ONLY way to participate in the global economy. I have to remain pseudonymous because my goverment&amp;#39;s stance on foreign currency transacting, is by default, hostile.  Ok, so far so good.&lt;/p&gt;\n\n&lt;p&gt;Objections: &lt;/p&gt;\n\n&lt;p&gt;I know more people then I can count that would gladly, no that&amp;#39;s not the right adjective, emphatically contribute to the network. We woud&amp;#39;nt be miners. We just want to run a full node and yes, play with it! \nExcept we can&amp;#39;t. Why? Our internet speed sucks and running a full node would mean sacrificing all our other interwebs needs because our internet speed is so slow that its either running a Bitcoin node or checking our e-mail. We don&amp;#39;t care that it would take 2-6  months to sync, just so long as we can play with the node and contribute to the code and community.&lt;/p&gt;\n\n&lt;p&gt;Facts and figures:&lt;/p&gt;\n\n&lt;p&gt;There is, count it, 0 nodes from my country. Yet there are ~16,000(04/10/2014) bittorrent nodes. That&amp;#39;s an infinitely larger community (16000/0), you know why? Right click. That&amp;#39;s right, I can right-click on torrent and dictate how much band width I&amp;#39;d like to contribute. Really, it&amp;#39;s down to a f&amp;#39;in right-click. Now I know I could run trickle and throttle Bitcoin that way, but that&amp;#39;s not the point. You have 16,000 people ready and able, might I add, eager from an imperative point of view, to contribute to the network, but won&amp;#39;t do so because running trickle on an ubuntu systemi.e. Installing another operating system, or installing shady 3rd party throttling software in other OSes is just too many clicks and degrees of trust away. We need to implement bandwidth throttling on Bitcoin so that people like me and 16,000 others just in my country can partake. I&amp;#39;m not even gonna speculate about the other countries.&lt;/p&gt;\n\n&lt;p&gt;Discussion:&lt;/p&gt;\n\n&lt;p&gt;Given my rant, and I&amp;#39;m sorry if I sound harsh, or if I offended anyone, I&amp;#39;d like to hear real objective criticisms about why a non-miner can&amp;#39;t run Bitcoin with bandwidth throttling? and subsequently why this can&amp;#39;t be implemented in the Core client? Bittorrent has it, and its older than Bitcoin; Core developers, get with the plan, I can understand the apprehensiveness of implementing other “controversial” modifications but really, either put up a good rational argument, or shut up. Help a brother out.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Background:\n\n\nI live in a 3rd world country. I love Bitcoin and I don't care about the price. For me and my fellow citizens, Bitcoin is not an alternative, optional, nerdy, hipster \"currency\", rather, its the ONLY way to participate in the global economy. I have to remain pseudonymous because my goverment's stance on foreign currency transacting, is by default, hostile.  Ok, so far so good.\n\nObjections: \n\n\nI know more people then I can count that would gladly, no that's not the right adjective, emphatically contribute to the network. We woud'nt be miners. We just want to run a full node and yes, play with it! \nExcept we can't. Why? Our internet speed sucks and running a full node would mean sacrificing all our other interwebs needs because our internet speed is so slow that its either running a Bitcoin node or checking our e-mail. We don't care that it would take 2-6  months to sync, just so long as we can play with the node and contribute to the code and community.\n\nFacts and figures:\n\n\nThere is, count it, 0 nodes from my country. Yet there are ~16,000(04/10/2014) bittorrent nodes. That's an infinitely larger community (16000/0), you know why? Right click. That's right, I can right-click on torrent and dictate how much band width I'd like to contribute. Really, it's down to a f'in right-click. Now I know I could run trickle and throttle Bitcoin that way, but that's not the point. You have 16,000 people ready and able, might I add, eager from an imperative point of view, to contribute to the network, but won't do so because running trickle on an ubuntu systemi.e. Installing another operating system, or installing shady 3rd party throttling software in other OSes is just too many clicks and degrees of trust away. We need to implement bandwidth throttling on Bitcoin so that people like me and 16,000 others just in my country can partake. I'm not even gonna speculate about the other countries.\n\n\nDiscussion:\n\n\nGiven my rant, and I'm sorry if I sound harsh, or if I offended anyone, I'd like to hear real objective criticisms about why a non-miner can't run Bitcoin with bandwidth throttling? and subsequently why this can't be implemented in the Core client? Bittorrent has it, and its older than Bitcoin; Core developers, get with the plan, I can understand the apprehensiveness of implementing other “controversial” modifications but really, either put up a good rational argument, or shut up. Help a brother out.\n\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ig7j6",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "PissedofffromNepal",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412619087,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ig7j6",
+            "permalink": "/r/Bitcoin/comments/2ig7j6/lets_have_an_objective_discussion_about_why/",
+            "stickied": false,
+            "created": 1412634551,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ig7j6/lets_have_an_objective_discussion_about_why/",
+            "author_flair_text": null,
+            "title": "Let's have an objective discussion about why Bitcoin Core can't or shouldn't implement bandwidth throttling.",
+            "created_utc": 1412605751,
+            "ups": 6,
+            "upvote_ratio": 0.72,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ig7j6",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1wyc6",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "coincrazyy",
+            "parent_id": "t3_2ig7j6",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You are right. But I think there is only like 1 full time core developer at the Bitcoin Foundation.\n\nThey have bigger fish to fry so to speak.  They want to get the transaction processing running more efficiently.  They want to allow for multi locks to secure people's bitcoins.\n\nBut your points are eloquently stated and definitely make sense.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You are right. But I think there is only like 1 full time core developer at the Bitcoin Foundation.&lt;/p&gt;\n\n&lt;p&gt;They have bigger fish to fry so to speak.  They want to get the transaction processing running more efficiently.  They want to allow for multi locks to secure people&amp;#39;s bitcoins.&lt;/p&gt;\n\n&lt;p&gt;But your points are eloquently stated and definitely make sense.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1wyc6",
+            "created": 1412637544,
+            "author_flair_text": null,
+            "created_utc": 1412608744,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ig7j6",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ig7j6",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1vyfa",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "PissedofffromNepal",
+                      "parent_id": "t1_cl1vvxt",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "We need a encapsulated implementation. I should'nt have to argue why Bitcoin is important, and then talk about how they can install it + do more stuff to rectify this abominable weakness. I hear a lot about the other 6 billion, but this is an important part.As with other countries, most people running bittorrent in my nation are on Windows, I'm not, but they are, and they use throttling on a daily basis with bittorrent, otherwise they would'nt be using torrents.",
+                      "edited": 1412609581,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;We need a encapsulated implementation. I should&amp;#39;nt have to argue why Bitcoin is important, and then talk about how they can install it + do more stuff to rectify this abominable weakness. I hear a lot about the other 6 billion, but this is an important part.As with other countries, most people running bittorrent in my nation are on Windows, I&amp;#39;m not, but they are, and they use throttling on a daily basis with bittorrent, otherwise they would&amp;#39;nt be using torrents.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1vyfa",
+                      "created": 1412635282,
+                      "author_flair_text": null,
+                      "created_utc": 1412606482,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1vvxt",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "gmabber",
+            "parent_id": "t3_2ig7j6",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What system are you on? There are drivers/software that can throttle bandwidth for certain processes.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What system are you on? There are drivers/software that can throttle bandwidth for certain processes.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1vvxt",
+            "created": 1412635117,
+            "author_flair_text": null,
+            "created_utc": 1412606317,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ig7j6",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ig7j6",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ig7j6",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl22oq1",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "statoshi",
+                                "parent_id": "t1_cl21j5n",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "At a fundamental level, the Bitcoin network generates data as people use it, which is completely different from torrents. The size of a torrent never changes; it's completely fine from a functional aspect to slow down the transfer rate. However, slowing down the transfer rate below the minimum threshold required to stay in sync with the rest of the Bitcoin network will cause your node to become useless.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;At a fundamental level, the Bitcoin network generates data as people use it, which is completely different from torrents. The size of a torrent never changes; it&amp;#39;s completely fine from a functional aspect to slow down the transfer rate. However, slowing down the transfer rate below the minimum threshold required to stay in sync with the rest of the Bitcoin network will cause your node to become useless.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl22oq1",
+                                "created": 1412648885,
+                                "author_flair_text": null,
+                                "created_utc": 1412620085,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl21j5n",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "PissedofffromNepal",
+                      "parent_id": "t1_cl1xh9m",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Woah at first I was like, is that? N'way, I think you're missing the point. It's a lot about the first hump as well, noone want's to sacrifice 2 weeks of internet for the initial syncing, or install any other shady 3rd party software that allows them to throtlle. They don't have to with bittorrent, why would they with Bitcoin? People here would rather just the turn the thing on on 5-10 kb/s and then go about their way surfing the internet. Throttling is a basic feature in a torrent client, how is it that the revolution software doesn't include it?",
+                      "edited": 1412618780,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Woah at first I was like, is that? N&amp;#39;way, I think you&amp;#39;re missing the point. It&amp;#39;s a lot about the first hump as well, noone want&amp;#39;s to sacrifice 2 weeks of internet for the initial syncing, or install any other shady 3rd party software that allows them to throtlle. They don&amp;#39;t have to with bittorrent, why would they with Bitcoin? People here would rather just the turn the thing on on 5-10 kb/s and then go about their way surfing the internet. Throttling is a basic feature in a torrent client, how is it that the revolution software doesn&amp;#39;t include it?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl21j5n",
+                      "created": 1412646682,
+                      "author_flair_text": null,
+                      "created_utc": 1412617882,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1xh9m",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "statoshi",
+            "parent_id": "t3_2ig7j6",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You did not state what speeds your ISP provides in Nepal, but it sounds like the problem is your ISP, not Bitcoin Core. I've found that in order to run an unmodified Bitcoin Core node, you only need about 10 KB/S downstream and 50 KB/S upstream. But, as others have stated, there are ways to throttle the connection from outside of Bitcoin Core.\n\nThe reason that throttling hasn't been implemented are because there are other scalability fixes in the works that have precedence. You can read the 3 year long debate between the devs here: https://github.com/bitcoin/bitcoin/issues/273",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You did not state what speeds your ISP provides in Nepal, but it sounds like the problem is your ISP, not Bitcoin Core. I&amp;#39;ve found that in order to run an unmodified Bitcoin Core node, you only need about 10 KB/S downstream and 50 KB/S upstream. But, as others have stated, there are ways to throttle the connection from outside of Bitcoin Core.&lt;/p&gt;\n\n&lt;p&gt;The reason that throttling hasn&amp;#39;t been implemented are because there are other scalability fixes in the works that have precedence. You can read the 3 year long debate between the devs here: &lt;a href=\"https://github.com/bitcoin/bitcoin/issues/273\"&gt;https://github.com/bitcoin/bitcoin/issues/273&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1xh9m",
+            "created": 1412638648,
+            "author_flair_text": null,
+            "created_utc": 1412609848,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

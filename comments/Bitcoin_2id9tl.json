@@ -1,0 +1,194 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Been hoping to buy some btc cheap so have been watching localbitcoin.com seller prices in South Africa. But, I just cannot make sense of price trends I&amp;#39;m seeing. To my little eye, btc sell prices seem to have gone down corollary to the current drop the btc price, but the prices are really spread out between sellers, and some sellers have inexplicably to me even raised their prices as the btc price goes down. Any insights for me?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Been hoping to buy some btc cheap so have been watching localbitcoin.com seller prices in South Africa. But, I just cannot make sense of price trends I'm seeing. To my little eye, btc sell prices seem to have gone down corollary to the current drop the btc price, but the prices are really spread out between sellers, and some sellers have inexplicably to me even raised their prices as the btc price goes down. Any insights for me?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2id9tl",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "seedpod02",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2id9tl",
+            "permalink": "/r/Bitcoin/comments/2id9tl/is_there_any_analysis_of_the_kind_of_factors_that/",
+            "stickied": false,
+            "created": 1412557135,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2id9tl/is_there_any_analysis_of_the_kind_of_factors_that/",
+            "author_flair_text": null,
+            "title": "Is there any analysis of the kind of factors that determine localbitcoins.com seller prices during btc price crashes?",
+            "created_utc": 1412528335,
+            "ups": 3,
+            "upvote_ratio": 0.71,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9tl",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9tl",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2id9tl",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl18ooh",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "davotoula",
+                                "parent_id": "t1_cl159tt",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Doh! Yeah, my comment didn't make any sense at all.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Doh! Yeah, my comment didn&amp;#39;t make any sense at all.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl18ooh",
+                                "created": 1412567544,
+                                "author_flair_text": null,
+                                "created_utc": 1412538744,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl159tt",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "seedpod02",
+                      "parent_id": "t1_cl13ro0",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I don't think I've ever yet seen South African lbc sellers advertising a lower than market price :) \n\nI'm going to watch more closely.\n\nTa",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t think I&amp;#39;ve ever yet seen South African lbc sellers advertising a lower than market price :) &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m going to watch more closely.&lt;/p&gt;\n\n&lt;p&gt;Ta&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl159tt",
+                      "created": 1412560960,
+                      "author_flair_text": null,
+                      "created_utc": 1412532160,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13ro0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "davotoula",
+            "parent_id": "t3_2id9tl",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I'm no expert but when the price is dropping dramatically I've seen lbc prices being well below market price to reflect the time it takes to settle a deal.\n\nDifference in prices between sellers is sometimes due to some sellers not being as active as others and not realising there is a price \"crash\" and not adjusting accordingly.\n\nIf you want to take advantage of price crashes you'd be better of on an exchange and use trading tools.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m no expert but when the price is dropping dramatically I&amp;#39;ve seen lbc prices being well below market price to reflect the time it takes to settle a deal.&lt;/p&gt;\n\n&lt;p&gt;Difference in prices between sellers is sometimes due to some sellers not being as active as others and not realising there is a price &amp;quot;crash&amp;quot; and not adjusting accordingly.&lt;/p&gt;\n\n&lt;p&gt;If you want to take advantage of price crashes you&amp;#39;d be better of on an exchange and use trading tools.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13ro0",
+            "created": 1412558057,
+            "author_flair_text": null,
+            "created_utc": 1412529257,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Cryptopick Canada is proud to announce that after many months of planning we have opened up our first ever Bitcoin ATM (BTM). It is located at the Thirsty Camel Café in Nanaimo, BC, Canada. The unit itself is the “Satoshi 1” provided by Genesis Coin that provides instant sales of Bitcoin via Canada’s Vault of Satoshi exchange. Our goal at Cryptopick Canada is to provide instant uninterrupted access to Bitcoin to the population of Vancouver Island. We thank the community for all your support, and look forward to continuing to serve you as our network expands.\nTrevor Laird President\nCryptopick Canada \n&lt;a href=\"http://www.cryptopickcanada.ca\"&gt;www.cryptopickcanada.ca&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Cryptopick Canada is proud to announce that after many months of planning we have opened up our first ever Bitcoin ATM (BTM). It is located at the Thirsty Camel Café in Nanaimo, BC, Canada. The unit itself is the “Satoshi 1” provided by Genesis Coin that provides instant sales of Bitcoin via Canada’s Vault of Satoshi exchange. Our goal at Cryptopick Canada is to provide instant uninterrupted access to Bitcoin to the population of Vancouver Island. We thank the community for all your support, and look forward to continuing to serve you as our network expands.\nTrevor Laird President\nCryptopick Canada \nwww.cryptopickcanada.ca",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ii6ic",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "cryptopickcanada",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ii6ic",
+            "permalink": "/r/Bitcoin/comments/2ii6ic/official_opening_of_new_bitcoin_atm_in/",
+            "stickied": false,
+            "created": 1412669543,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ii6ic/official_opening_of_new_bitcoin_atm_in/",
+            "author_flair_text": null,
+            "title": "Official Opening of new Bitcoin ATM in Nanaimo,BC,Canada!",
+            "created_utc": 1412640743,
+            "ups": 4,
+            "upvote_ratio": 0.68,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

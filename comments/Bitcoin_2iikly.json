@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Should I wipe device clean before I use it or not necessary? Any other tips? &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Should I wipe device clean before I use it or not necessary? Any other tips? ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iikly",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "rp990",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iikly",
+            "permalink": "/r/Bitcoin/comments/2iikly/just_got_my_trezor/",
+            "stickied": false,
+            "created": 1412676701,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iikly/just_got_my_trezor/",
+            "author_flair_text": null,
+            "title": "Just got my trezor...",
+            "created_utc": 1412647901,
+            "ups": 3,
+            "upvote_ratio": 1,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iikly",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2gz5e",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Aussiehash",
+            "parent_id": "t3_2iikly",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "No need to wipe it, out of the box it in uninitialized.\n\nIf you are a tin foil hatter, and you want to make sure somebody hasn't uploaded evil firmware onto the device between the Czech republic to your mailbox, you can (re)flash the firmware, although this is unnecessary as you will see a warning if unsigned firmware is running on Trezor.\n\nhttp://www.reddit.com/r/TREZOR/comments/2gf1uv/is_it_possible_for_an_infected_machine_to_modify/\n\nMy first edition trezor came with 1.2.0 firmware, which required an 1.2.1 firmware upgrade to use `myTrezor.com`",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No need to wipe it, out of the box it in uninitialized.&lt;/p&gt;\n\n&lt;p&gt;If you are a tin foil hatter, and you want to make sure somebody hasn&amp;#39;t uploaded evil firmware onto the device between the Czech republic to your mailbox, you can (re)flash the firmware, although this is unnecessary as you will see a warning if unsigned firmware is running on Trezor.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.reddit.com/r/TREZOR/comments/2gf1uv/is_it_possible_for_an_infected_machine_to_modify/\"&gt;http://www.reddit.com/r/TREZOR/comments/2gf1uv/is_it_possible_for_an_infected_machine_to_modify/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;My first edition trezor came with 1.2.0 firmware, which required an 1.2.1 firmware upgrade to use &lt;code&gt;myTrezor.com&lt;/code&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2gz5e",
+            "created": 1412677042,
+            "author_flair_text": null,
+            "created_utc": 1412648242,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

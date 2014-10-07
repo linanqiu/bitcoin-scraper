@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "thecoinfront.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ih8tk",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Brad-Edwards",
+            "media": null,
+            "score": 9,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/6yU-7y0RAJHNoyuMcSBQARgY_-UQ8QIIOAiwqK0rJyQ.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ih8tk",
+            "permalink": "/r/Bitcoin/comments/2ih8tk/plentymarkets_opens_bitcoin_up_to_3500_ecommerce/",
+            "stickied": false,
+            "created": 1412653407,
+            "url": "http://thecoinfront.com/plentymarkets-opens-bitcoin-up-to-3500-ecommerce-retailers/",
+            "author_flair_text": null,
+            "title": "PlentyMarkets Opens Bitcoin Up To 3500 Ecommerce Retailers",
+            "created_utc": 1412624607,
+            "ups": 9,
+            "upvote_ratio": 0.81,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello:&lt;/p&gt;\n\n&lt;p&gt;I installed bitcoin on Ubuntu and i download bootstrap.dat and import it.\nI start importing yesterday and the data folder still growing up and up. The current size is over 25 GB, and the block file last file is blk00170.dat .\nI need to know what is the number of the last block file to know how long is needed to download the full blockchain.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hello:\n\nI installed bitcoin on Ubuntu and i download bootstrap.dat and import it.\nI start importing yesterday and the data folder still growing up and up. The current size is over 25 GB, and the block file last file is blk00170.dat .\nI need to know what is the number of the last block file to know how long is needed to download the full blockchain.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ia9zz",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "medow7",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412441145,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ia9zz",
+            "permalink": "/r/Bitcoin/comments/2ia9zz/how_many_files_in_bitcoin_data_folder/",
+            "stickied": false,
+            "created": 1412468668,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ia9zz/how_many_files_in_bitcoin_data_folder/",
+            "author_flair_text": null,
+            "title": "How many files in bitcoin data folder?",
+            "created_utc": 1412439868,
+            "ups": 3,
+            "upvote_ratio": 0.8,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ia9zz",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0aeve",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "allgoodthings1",
+            "parent_id": "t3_2ia9zz",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Just replied over in bitcointalk.  Really no need to post both places.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Just replied over in bitcointalk.  Really no need to post both places.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0aeve",
+            "created": 1412470548,
+            "author_flair_text": null,
+            "created_utc": 1412441748,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

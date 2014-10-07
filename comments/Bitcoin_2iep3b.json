@@ -1,0 +1,238 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The title says it - I cant seem to find anyway to install it.  &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "The title says it - I cant seem to find anyway to install it.  ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iep3b",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "funkspiel56",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iep3b",
+            "permalink": "/r/Bitcoin/comments/2iep3b/how_to_install_electrum_developmental_for_windows/",
+            "stickied": false,
+            "created": 1412588540,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iep3b/how_to_install_electrum_developmental_for_windows/",
+            "author_flair_text": null,
+            "title": "How to install Electrum Developmental for Windows?",
+            "created_utc": 1412559740,
+            "ups": 4,
+            "upvote_ratio": 0.83,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iep3b",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iep3b",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iep3b",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iep3b",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl27kq1",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "funkspiel56",
+                                          "parent_id": "t1_cl21afq",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "the developmental release has support for HW-1 bitcoin hardware chip - thats why I want it  ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;the developmental release has support for HW-1 bitcoin hardware chip - thats why I want it  &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl27kq1",
+                                          "created": 1412658076,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412629276,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl21afq",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "kinoshitajona",
+                                "parent_id": "t1_cl1zlbd",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Nope.\n\nIf you don't have enough technical knowledge to clone a repo and install dependancies, you're going to screw up your wallet.\n\nWhat do you want that 1.9.8 release doesn't have?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nope.&lt;/p&gt;\n\n&lt;p&gt;If you don&amp;#39;t have enough technical knowledge to clone a repo and install dependancies, you&amp;#39;re going to screw up your wallet.&lt;/p&gt;\n\n&lt;p&gt;What do you want that 1.9.8 release doesn&amp;#39;t have?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl21afq",
+                                "created": 1412646213,
+                                "author_flair_text": null,
+                                "created_utc": 1412617413,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1zlbd",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "the_g00se",
+                      "parent_id": "t1_cl1ixvq",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Do you know of a guide to doing this?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Do you know of a guide to doing this?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1zlbd",
+                      "created": 1412642895,
+                      "author_flair_text": null,
+                      "created_utc": 1412614095,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ixvq",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "kinoshitajona",
+            "parent_id": "t3_2iep3b",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You mean Etherium?\n\nElectrum is a Bitcoin wallet.\n\nIf you want to install it, first install Python 2.7.6 for windows, then install github's windows client.\n\nThen fork Electrum and clone to your local disk.\n\nInstall dependencies as necessary.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You mean Etherium?&lt;/p&gt;\n\n&lt;p&gt;Electrum is a Bitcoin wallet.&lt;/p&gt;\n\n&lt;p&gt;If you want to install it, first install Python 2.7.6 for windows, then install github&amp;#39;s windows client.&lt;/p&gt;\n\n&lt;p&gt;Then fork Electrum and clone to your local disk.&lt;/p&gt;\n\n&lt;p&gt;Install dependencies as necessary.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ixvq",
+            "created": 1412589160,
+            "author_flair_text": null,
+            "created_utc": 1412560360,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

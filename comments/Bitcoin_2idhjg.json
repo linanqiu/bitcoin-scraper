@@ -1,0 +1,2552 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If we can find a way to pay rent, salaries and buy groceries all in Bitcoin without exchange to dollars then we will hit a tipping point where we don&amp;#39;t ever need to worry about the price of bitcoin in dollars (Or any other currency without supply limits) again.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "If we can find a way to pay rent, salaries and buy groceries all in Bitcoin without exchange to dollars then we will hit a tipping point where we don't ever need to worry about the price of bitcoin in dollars (Or any other currency without supply limits) again.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idhjg",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bilabrin",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idhjg",
+            "permalink": "/r/Bitcoin/comments/2idhjg/the_price_of_bitcoin_has_not_changed_1btc1btc/",
+            "stickied": false,
+            "created": 1412561877,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idhjg/the_price_of_bitcoin_has_not_changed_1btc1btc/",
+            "author_flair_text": null,
+            "title": "The price of Bitcoin has not changed. 1BTC=1BTC. Let's find a way to close the loop and get dollars out of the system.",
+            "created_utc": 1412533077,
+            "ups": 0,
+            "upvote_ratio": 0.39,
+            "num_comments": 63,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idhjg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idhjg",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idhjg",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2idhjg",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2idhjg",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2idhjg",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl19zc6",
+                                                                                                                "children": [
+                                                                                                                  "cl1a2kq"
+                                                                                                                ],
+                                                                                                                "id": "cl1a2kq",
+                                                                                                                "name": "t1_cl1a2kq"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl19zc6",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "bilabrin",
+                                                                                                      "parent_id": "t1_cl195qn",
+                                                                                                      "score": 0,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "Don't be sorry. [Deflation is not a bad thing at all.](http://mises.org/daily/1254)",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Don&amp;#39;t be sorry. &lt;a href=\"http://mises.org/daily/1254\"&gt;Deflation is not a bad thing at all.&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl19zc6",
+                                                                                                      "created": 1412569953,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412541153,
+                                                                                                      "ups": 0,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl195qn",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "hio_State",
+                                                                                            "parent_id": "t1_cl19360",
+                                                                                            "score": 0,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "You would be wrong, you can't pair a finite currency with an ever expanding economy and not expect anything but aggressive deflation. Sorry. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You would be wrong, you can&amp;#39;t pair a finite currency with an ever expanding economy and not expect anything but aggressive deflation. Sorry. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl195qn",
+                                                                                            "created": 1412568435,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412539635,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 0
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl19360",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "bilabrin",
+                                                                                  "parent_id": "t1_cl18nb9",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "I'm not arguing for price stasis, just relative stability. I'm not saying the price of goods in bitcoins will be fixed but relative to the price of goods valued in dollars at the bitcoin exchange rate it would appear to be and the fluctuations would be relatively trivial by comparison. Part of this is specualtion of bitcoun. Right now Bitcoin is seen as more of a a commodity (value priced in dollars) then a currency (like dollars).",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m not arguing for price stasis, just relative stability. I&amp;#39;m not saying the price of goods in bitcoins will be fixed but relative to the price of goods valued in dollars at the bitcoin exchange rate it would appear to be and the fluctuations would be relatively trivial by comparison. Part of this is specualtion of bitcoun. Right now Bitcoin is seen as more of a a commodity (value priced in dollars) then a currency (like dollars).&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl19360",
+                                                                                  "created": 1412568297,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412539497,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl18nb9",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "hio_State",
+                                                                        "parent_id": "t1_cl181gn",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Unfortunately for your hypothesis is that human economies are not static. Productive capacity is ever changing due to things like ebbing human populations, technology, discovery/loss of resources etc etc. \n\nThe only way to have a static CPI  is to *perfectly* match a currency to the ebbing and waning of an economy, which is literally impossible for a finite entity to do in the real world where the global economy is forever changing and forever trending up in production. In fact a finite currency would be awful at stability because of this. ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Unfortunately for your hypothesis is that human economies are not static. Productive capacity is ever changing due to things like ebbing human populations, technology, discovery/loss of resources etc etc. &lt;/p&gt;\n\n&lt;p&gt;The only way to have a static CPI  is to &lt;em&gt;perfectly&lt;/em&gt; match a currency to the ebbing and waning of an economy, which is literally impossible for a finite entity to do in the real world where the global economy is forever changing and forever trending up in production. In fact a finite currency would be awful at stability because of this. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl18nb9",
+                                                                        "created": 1412567468,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412538668,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    },
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idhjg",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2idhjg",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl19pir",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "bilabrin",
+                                                                                  "parent_id": "t1_cl18p41",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "&gt;As a result, people would stop buying as much new awesome things and worse, people would stop investing in the creation of new awesome things (because why bother when you could just hold bitcoin and get a good return?). \n\nDeflation is not a problem. Let's say you are right and the value of money starts to increase due to demand and people hoard it on speculation. Demand then decreases. If it decreases to the point that people go out of business then things become scarce and when that happens prices.....inflate. Balance occurs. Sure, you will have SOME deflation over time due to a fixed 21 million amount of coins but that would happen in a slow and controlled fashion along with population and business growth.\n\nIf slow deflation were ever a real problem then Bank accounts with interest rates to encourage savings would have sent the economy to that same shitter you mention...as would bonds...it would have to be massive runaway deflation...and for the reasons I stated above I don't see that as a possibility.\n\nEnjoy the day.\n\n*Edit\n\nThere are some excellent articles on why deflation fears are unfounded:\n[Link1](http://mises.org/daily/1254)\n[Link2](http://mises.org/daily/6709/Deflating-the-Deflation-Myth)",
+                                                                                  "edited": 1412541039,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;As a result, people would stop buying as much new awesome things and worse, people would stop investing in the creation of new awesome things (because why bother when you could just hold bitcoin and get a good return?). &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Deflation is not a problem. Let&amp;#39;s say you are right and the value of money starts to increase due to demand and people hoard it on speculation. Demand then decreases. If it decreases to the point that people go out of business then things become scarce and when that happens prices.....inflate. Balance occurs. Sure, you will have SOME deflation over time due to a fixed 21 million amount of coins but that would happen in a slow and controlled fashion along with population and business growth.&lt;/p&gt;\n\n&lt;p&gt;If slow deflation were ever a real problem then Bank accounts with interest rates to encourage savings would have sent the economy to that same shitter you mention...as would bonds...it would have to be massive runaway deflation...and for the reasons I stated above I don&amp;#39;t see that as a possibility.&lt;/p&gt;\n\n&lt;p&gt;Enjoy the day.&lt;/p&gt;\n\n&lt;p&gt;*Edit&lt;/p&gt;\n\n&lt;p&gt;There are some excellent articles on why deflation fears are unfounded:\n&lt;a href=\"http://mises.org/daily/1254\"&gt;Link1&lt;/a&gt;\n&lt;a href=\"http://mises.org/daily/6709/Deflating-the-Deflation-Myth\"&gt;Link2&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl19pir",
+                                                                                  "created": 1412569450,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412540650,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl18p41",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "spookthesunset",
+                                                                        "parent_id": "t1_cl181gn",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Except the economy is *not* finite.  It is (almost) always growing--meaning the total *economic value* of everything created gets bigger and bigger.  You've got problems unless the supply of money grows at the same rate.  If the supply doesn't grows slower than the economy, not enough money is chasing around all those cool awesome new things.  Then  you've got deflation... and deflation isn't a good thing at all for reasons I'm not getting into here--take a basic macro economics class for more on that.\n\nSo your hypothetical, super-awesome bitcoin system would suffer massive deflation because it wouldn't be able to grow with the economy.  As a result, people would stop buying as much new awesome things and worse, people would stop investing in the creation of new awesome things (because why bother when you could just hold bitcoin and get a good return?).  The economy would go to the shitter...  the end.\n\nAnyway.  It is sunny outside and I'm going outside.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Except the economy is &lt;em&gt;not&lt;/em&gt; finite.  It is (almost) always growing--meaning the total &lt;em&gt;economic value&lt;/em&gt; of everything created gets bigger and bigger.  You&amp;#39;ve got problems unless the supply of money grows at the same rate.  If the supply doesn&amp;#39;t grows slower than the economy, not enough money is chasing around all those cool awesome new things.  Then  you&amp;#39;ve got deflation... and deflation isn&amp;#39;t a good thing at all for reasons I&amp;#39;m not getting into here--take a basic macro economics class for more on that.&lt;/p&gt;\n\n&lt;p&gt;So your hypothetical, super-awesome bitcoin system would suffer massive deflation because it wouldn&amp;#39;t be able to grow with the economy.  As a result, people would stop buying as much new awesome things and worse, people would stop investing in the creation of new awesome things (because why bother when you could just hold bitcoin and get a good return?).  The economy would go to the shitter...  the end.&lt;/p&gt;\n\n&lt;p&gt;Anyway.  It is sunny outside and I&amp;#39;m going outside.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl18p41",
+                                                                        "created": 1412567566,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412538766,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    },
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idhjg",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl1dbyx",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "opticbit",
+                                                                        "parent_id": "t1_cl181gn",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "I will buy raspberries for 500 satoshis per pound.  That is when Bitcoin will be the major player",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I will buy raspberries for 500 satoshis per pound.  That is when Bitcoin will be the major player&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl1dbyx",
+                                                                        "created": 1412576886,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412548086,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl181gn",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "bilabrin",
+                                                              "parent_id": "t1_cl17hu3",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Not freezes. Bitcoin is unique as a currency because it is finite.\n\nIf we de-couple bitcoin from other currencies in terms of valuing things we buy it becomes far more stable. \n\nIf you provide me with rasberries, no matter the price in dollars at .002 BTC per pound...always....then I will provide you with a case of wine for .1 BTC... no matter the price of my wine in dollars....always.\n\nI agree...adoption will take time. The metric sysyem is still not dominant in the U.S, for example, but this should be the goal.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not freezes. Bitcoin is unique as a currency because it is finite.&lt;/p&gt;\n\n&lt;p&gt;If we de-couple bitcoin from other currencies in terms of valuing things we buy it becomes far more stable. &lt;/p&gt;\n\n&lt;p&gt;If you provide me with rasberries, no matter the price in dollars at .002 BTC per pound...always....then I will provide you with a case of wine for .1 BTC... no matter the price of my wine in dollars....always.&lt;/p&gt;\n\n&lt;p&gt;I agree...adoption will take time. The metric sysyem is still not dominant in the U.S, for example, but this should be the goal.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl181gn",
+                                                              "created": 1412566310,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412537510,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl17hu3",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "hio_State",
+                                                    "parent_id": "t1_cl17f5e",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "So you're under the impression that the costs of goods and services freeze when there is only one currency in play? \n\nAlso, why are you talking about such an extreme hypothetical? You still can't walk into Taco Bell and hand them bitcoins for things, get to that step first before thinking about bitcoin eradicating all other currencies. ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So you&amp;#39;re under the impression that the costs of goods and services freeze when there is only one currency in play? &lt;/p&gt;\n\n&lt;p&gt;Also, why are you talking about such an extreme hypothetical? You still can&amp;#39;t walk into Taco Bell and hand them bitcoins for things, get to that step first before thinking about bitcoin eradicating all other currencies. &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl17hu3",
+                                                    "created": 1412565278,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412536478,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl17f5e",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16xhm",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Well that depends on the price of Bitcoin in rupees. That's what I'm getting at. When we no longer need to exchange for rupees or dollars because production costs are measured in bitcoins only.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well that depends on the price of Bitcoin in rupees. That&amp;#39;s what I&amp;#39;m getting at. When we no longer need to exchange for rupees or dollars because production costs are measured in bitcoins only.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl17f5e",
+                                          "created": 1412565142,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412536342,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16xhm",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "hio_State",
+                                "parent_id": "t1_cl16keu",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "So if I went to India and looked at goods there, which are priced in rupees, then I wouldn't see any change in Bitcoin's purchasing power in regards to being able to acquire those goods? Is that what you're saying? ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So if I went to India and looked at goods there, which are priced in rupees, then I wouldn&amp;#39;t see any change in Bitcoin&amp;#39;s purchasing power in regards to being able to acquire those goods? Is that what you&amp;#39;re saying? &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16xhm",
+                                "created": 1412564216,
+                                "author_flair_text": null,
+                                "created_utc": 1412535416,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl16u1j",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16qk3",
+                                          "score": -3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Currently.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Currently.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl16u1j",
+                                          "created": 1412564031,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412535231,
+                                          "ups": -3,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16qk3",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "poop-machine",
+                                "parent_id": "t1_cl16keu",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Everything is produced from things priced in dollars.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Everything is produced from things priced in dollars.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16qk3",
+                                "created": 1412563843,
+                                "author_flair_text": null,
+                                "created_utc": 1412535043,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16keu",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl16b2j",
+                      "score": -3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Only for goods priced in dollars or produced from things priced in dollars.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Only for goods priced in dollars or produced from things priced in dollars.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16keu",
+                      "created": 1412563483,
+                      "author_flair_text": null,
+                      "created_utc": 1412534683,
+                      "ups": -3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl16b2j",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "hio_State",
+            "parent_id": "t3_2idhjg",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Has the purchasing power of bitcoin changed?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Has the purchasing power of bitcoin changed?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl16b2j",
+            "created": 1412562948,
+            "author_flair_text": null,
+            "created_utc": 1412534148,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl15s99",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "12090205182025",
+            "parent_id": "t3_2idhjg",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I would love to buy an apartment in a bitcoin only building.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I would love to buy an apartment in a bitcoin only building.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl15s99",
+            "created": 1412561935,
+            "author_flair_text": null,
+            "created_utc": 1412533135,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16r4y",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl161a5",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "When we no longer need to use exchanges we'll be golden. That's closing the loop.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;When we no longer need to use exchanges we&amp;#39;ll be golden. That&amp;#39;s closing the loop.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16r4y",
+                      "created": 1412563875,
+                      "author_flair_text": null,
+                      "created_utc": 1412535075,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl161a5",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Gloomfrost",
+            "parent_id": "t3_2idhjg",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You will never be able to fully close the loop as long as Bitcoin is considered an asset. One asset can always be exchanged for another. That's why some companies sell off their \"uncollected debts\" accounts to private companies who call you like crazy until you send the money you owe.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You will never be able to fully close the loop as long as Bitcoin is considered an asset. One asset can always be exchanged for another. That&amp;#39;s why some companies sell off their &amp;quot;uncollected debts&amp;quot; accounts to private companies who call you like crazy until you send the money you owe.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl161a5",
+            "created": 1412562415,
+            "author_flair_text": null,
+            "created_utc": 1412533615,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl17hw1",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16w8y",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Then use it among your friends and aquantences to trade or pay off debt.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Then use it among your friends and aquantences to trade or pay off debt.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl17hw1",
+                                          "created": 1412565281,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412536481,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16w8y",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "4channeronreddit",
+                                "parent_id": "t1_cl16pus",
+                                "score": 0,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "But I am from Mexico, Tamaulipas.\nIts really hard to find a place where they can use bitcoins.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;But I am from Mexico, Tamaulipas.\nIts really hard to find a place where they can use bitcoins.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16w8y",
+                                "created": 1412564150,
+                                "author_flair_text": null,
+                                "created_utc": 1412535350,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 0
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16pus",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl169ek",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "What I'm saying is...when we no longer need to exchang bitcoins to dollars and back we'll be in a good place.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What I&amp;#39;m saying is...when we no longer need to exchang bitcoins to dollars and back we&amp;#39;ll be in a good place.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16pus",
+                      "created": 1412563801,
+                      "author_flair_text": null,
+                      "created_utc": 1412535001,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl169ek",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "4channeronreddit",
+            "parent_id": "t3_2idhjg",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I am new to this and I am afraid to ask /biz/",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I am new to this and I am afraid to ask /biz/&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl169ek",
+            "created": 1412562854,
+            "author_flair_text": null,
+            "created_utc": 1412534054,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idhjg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idhjg",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl17bot",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "bilabrin",
+                                                              "parent_id": "t1_cl16xw2",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I'll tell you what. I produce hobby wine. I'll sell you a case of my hobby wine for .1 bitcoin no matter the value of bitcoin in dollars forever if you send me strawberries and cherries at .0015 bitcoin per pound no matter the price in dollars. \nThat would be a stable closed loop economy with only bitcoin.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ll tell you what. I produce hobby wine. I&amp;#39;ll sell you a case of my hobby wine for .1 bitcoin no matter the value of bitcoin in dollars forever if you send me strawberries and cherries at .0015 bitcoin per pound no matter the price in dollars. \nThat would be a stable closed loop economy with only bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl17bot",
+                                                              "created": 1412564964,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412536164,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl16xw2",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "misterrunon",
+                                                    "parent_id": "t1_cl16wm2",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "why imagine something that is not even remotely possible? ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;why imagine something that is not even remotely possible? &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl16xw2",
+                                                    "created": 1412564238,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412535438,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl16wm2",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16njy",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Imagine getting paid a fixed amount of bitcoin where everyone used only bitcoin.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Imagine getting paid a fixed amount of bitcoin where everyone used only bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl16wm2",
+                                          "created": 1412564171,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412535371,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16njy",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "misterrunon",
+                                "parent_id": "t1_cl16m0e",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "no matter how you look at it, bitcoin's purchasing power is not what it was.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;no matter how you look at it, bitcoin&amp;#39;s purchasing power is not what it was.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16njy",
+                                "created": 1412563663,
+                                "author_flair_text": null,
+                                "created_utc": 1412534863,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1er7n",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "R11SE",
+                                "parent_id": "t1_cl16m0e",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I agree that getting as close to a closed loop as possible brings stability.   Also, the more everyone stops panicking when the Fiat exchange rate is in a buyers market for btc. Just take advantage of the great conversation rates and convert you fiat over to bitcoin.  Simple. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I agree that getting as close to a closed loop as possible brings stability.   Also, the more everyone stops panicking when the Fiat exchange rate is in a buyers market for btc. Just take advantage of the great conversation rates and convert you fiat over to bitcoin.  Simple. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1er7n",
+                                "created": 1412579938,
+                                "author_flair_text": null,
+                                "created_utc": 1412551138,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16m0e",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl16fkv",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That's my point. In a closed-loop bitcoin economy the pricing would be far more stable. It's an acceptence issue. People are thinking of their bitcoin in dollar value.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s my point. In a closed-loop bitcoin economy the pricing would be far more stable. It&amp;#39;s an acceptence issue. People are thinking of their bitcoin in dollar value.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16m0e",
+                      "created": 1412563573,
+                      "author_flair_text": null,
+                      "created_utc": 1412534773,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl16fkv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "misterrunon",
+            "parent_id": "t3_2idhjg",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "this is just technicalities. you can say the price of bitcoin has not changed, but it doesn't change the fact that 1 btc buys you a lot less now than it did 2 months ago.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;this is just technicalities. you can say the price of bitcoin has not changed, but it doesn&amp;#39;t change the fact that 1 btc buys you a lot less now than it did 2 months ago.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl16fkv",
+            "created": 1412563214,
+            "author_flair_text": null,
+            "created_utc": 1412534414,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl18ik7",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Bitshackauctions",
+                                "parent_id": "t1_cl18793",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No worries! Me too!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No worries! Me too!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl18ik7",
+                                "created": 1412567221,
+                                "author_flair_text": null,
+                                "created_utc": 1412538421,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl18793",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl1754b",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thank you. Alot of confusion in this thread. I'm glad someone else gets it.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you. Alot of confusion in this thread. I&amp;#39;m glad someone else gets it.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl18793",
+                      "created": 1412566620,
+                      "author_flair_text": null,
+                      "created_utc": 1412537820,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1754b",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Bitshackauctions",
+            "parent_id": "t3_2idhjg",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I agree, I've always had the sentiment and have said on here before a bitcoin is a bitcoin is a bitcoin, it's the services and goods people are willing to exchange for btc that gives it value not the price in dollars or euros. It just happens to be at a stage now that we're so built on our native currencies we can't really think or see beyond this fact.\n\nIt'll change one day.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I agree, I&amp;#39;ve always had the sentiment and have said on here before a bitcoin is a bitcoin is a bitcoin, it&amp;#39;s the services and goods people are willing to exchange for btc that gives it value not the price in dollars or euros. It just happens to be at a stage now that we&amp;#39;re so built on our native currencies we can&amp;#39;t really think or see beyond this fact.&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;ll change one day.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1754b",
+            "created": 1412564624,
+            "author_flair_text": null,
+            "created_utc": 1412535824,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl18cqc",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl185ch",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Great minds... ;)\nThat last part....yes you could save it...like a 401k it increases in value over time....but as we age it becomes more valuable to spend it while we can enjoy it.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Great minds... ;)\nThat last part....yes you could save it...like a 401k it increases in value over time....but as we age it becomes more valuable to spend it while we can enjoy it.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl18cqc",
+                      "created": 1412566916,
+                      "author_flair_text": null,
+                      "created_utc": 1412538116,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl185ch",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "aurelorba",
+            "parent_id": "t3_2idhjg",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What a brilliant idea!!\n\n\n\n\n\n&gt;[–]aurelorba 1 point 17 days ago \n\n&gt;What you need is not retailers to accept bitcoin but to price items in Bitcoin. Until then all your doing is taking unnecessary forex risk.\n\n&gt;Of course if Bitcoin were to inevitably increase in value. [Prices to continually drop] Then you would be a fool to spend it.\n\n&gt;So how can Bitcoin work?\n",
+            "edited": 1412538141,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What a brilliant idea!!&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;[–]aurelorba 1 point 17 days ago &lt;/p&gt;\n\n&lt;p&gt;What you need is not retailers to accept bitcoin but to price items in Bitcoin. Until then all your doing is taking unnecessary forex risk.&lt;/p&gt;\n\n&lt;p&gt;Of course if Bitcoin were to inevitably increase in value. [Prices to continually drop] Then you would be a fool to spend it.&lt;/p&gt;\n\n&lt;p&gt;So how can Bitcoin work?&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl185ch",
+            "created": 1412566520,
+            "author_flair_text": null,
+            "created_utc": 1412537720,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1a4kp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "cokebars",
+            "parent_id": "t3_2idhjg",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "After the Nixon Shock where he severed the Bretton Woods agreement w/o notifying the hundreds of other countries involved, the USD became it's very own fuly floating fiat currency. LBJ had tried to create the \"Great Society\" that cost money, Vietnam was gonna cost like 500 billion, Nixon continued the welfare reforms blah blah blah\n\n\nThe USA just didn't have the reserve in gold (Bretton Woods) so in '71 Nixon just tore it up. BAM, now they could print as much money as they needed. I'm not a gold nut, but a frenchman with sharp wit once said “Paper money eventually returns to its intrinsic value – zero” \n\nU.S. gets involved in Yom Kippur, energy crisis of '73 that lasted far too long for the real Americans, the ones standing at the pump which only increased panic, causing people to buy AS MUCH gas as they could. Y'know Panic. Panic making a situation worse. Sound familiar?\n\nKissinger convinces OPEC to only accept USD, causing demand for USD worldwide to rise. If you were a huge conglom, the petrodollars made you rich, if you were an average joe or even worse a third world country you got screwed. IMF loans and austerity out the ass. But hey we got oil from ME! It's not like we don't oil reserves of our own..... or wait do we? /s  \n\nSo after that tangent where now reading I don't even remember what my point was.\n\nYea, 1btc=1btc might be nice. Whether it's market manipulation, real lifesss, Economics. I don't know. Couldn't care less.\n\nBe interesting to see what happens tho.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;After the Nixon Shock where he severed the Bretton Woods agreement w/o notifying the hundreds of other countries involved, the USD became it&amp;#39;s very own fuly floating fiat currency. LBJ had tried to create the &amp;quot;Great Society&amp;quot; that cost money, Vietnam was gonna cost like 500 billion, Nixon continued the welfare reforms blah blah blah&lt;/p&gt;\n\n&lt;p&gt;The USA just didn&amp;#39;t have the reserve in gold (Bretton Woods) so in &amp;#39;71 Nixon just tore it up. BAM, now they could print as much money as they needed. I&amp;#39;m not a gold nut, but a frenchman with sharp wit once said “Paper money eventually returns to its intrinsic value – zero” &lt;/p&gt;\n\n&lt;p&gt;U.S. gets involved in Yom Kippur, energy crisis of &amp;#39;73 that lasted far too long for the real Americans, the ones standing at the pump which only increased panic, causing people to buy AS MUCH gas as they could. Y&amp;#39;know Panic. Panic making a situation worse. Sound familiar?&lt;/p&gt;\n\n&lt;p&gt;Kissinger convinces OPEC to only accept USD, causing demand for USD worldwide to rise. If you were a huge conglom, the petrodollars made you rich, if you were an average joe or even worse a third world country you got screwed. IMF loans and austerity out the ass. But hey we got oil from ME! It&amp;#39;s not like we don&amp;#39;t oil reserves of our own..... or wait do we? /s  &lt;/p&gt;\n\n&lt;p&gt;So after that tangent where now reading I don&amp;#39;t even remember what my point was.&lt;/p&gt;\n\n&lt;p&gt;Yea, 1btc=1btc might be nice. Whether it&amp;#39;s market manipulation, real lifesss, Economics. I don&amp;#39;t know. Couldn&amp;#39;t care less.&lt;/p&gt;\n\n&lt;p&gt;Be interesting to see what happens tho.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1a4kp",
+            "created": 1412570227,
+            "author_flair_text": null,
+            "created_utc": 1412541427,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16tve",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Onetallnerd",
+                      "parent_id": "t1_cl15uf0",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Jesus, we're not doge. This shit should stay over there.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Jesus, we&amp;#39;re not doge. This shit should stay over there.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16tve",
+                      "created": 1412564022,
+                      "author_flair_text": null,
+                      "created_utc": 1412535222,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl15xdw",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "_rs",
+                      "parent_id": "t1_cl15uf0",
+                      "score": -1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "What's so confusing to you?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s so confusing to you?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl15xdw",
+                      "created": 1412562208,
+                      "author_flair_text": null,
+                      "created_utc": 1412533408,
+                      "ups": -1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idhjg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idhjg",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl184wf",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "bilabrin",
+                                                              "parent_id": "t1_cl17v60",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Nope. One closed loop is all it will take. Then the exchange rate will not matter. Use whatever currency you like. I'm betting in that scenario you'll asked to be paid in BTC. It is supply-limited and therefore will undergo continuous deflation until population peaks.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nope. One closed loop is all it will take. Then the exchange rate will not matter. Use whatever currency you like. I&amp;#39;m betting in that scenario you&amp;#39;ll asked to be paid in BTC. It is supply-limited and therefore will undergo continuous deflation until population peaks.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl184wf",
+                                                              "created": 1412566497,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412537697,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl17v60",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "spookthesunset",
+                                                    "parent_id": "t1_cl17qjd",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "That is all neat, but it is fantasy.  It would only exist if the entire globe was under one currency and even then your whole theory is wrong for reasons that are far beyond what it would take to explain here.\n\nBesides, is one global currency even what you'd want?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That is all neat, but it is fantasy.  It would only exist if the entire globe was under one currency and even then your whole theory is wrong for reasons that are far beyond what it would take to explain here.&lt;/p&gt;\n\n&lt;p&gt;Besides, is one global currency even what you&amp;#39;d want?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl17v60",
+                                                    "created": 1412565975,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412537175,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl17qjd",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16whi",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Currently we calculate the buying power of goods and services as based on **the exchange rate of bitcoins to dollars**, and not bitcoins themselves. So yes I would bet on it if we could agree on what constituted the adoption point.\n\nI'm sorry if you lost buying power based on the exchange rate of dollars to BTC. As an investor that sucks but if we didn't price things first in dollars, and then calculate thier value based on the **exchange rate in dollars** or any other currency then, no, we would not have these swings. The supply of bitcoin is finite. It is unique in this. \n\nIn future in a closed-loop bitcoin only system with no exchanges, price would ONLY fluxuate with the supply of goods snd services and those who wish to use them, which is a much smaller swing than inflationary currency exchange values.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Currently we calculate the buying power of goods and services as based on &lt;strong&gt;the exchange rate of bitcoins to dollars&lt;/strong&gt;, and not bitcoins themselves. So yes I would bet on it if we could agree on what constituted the adoption point.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m sorry if you lost buying power based on the exchange rate of dollars to BTC. As an investor that sucks but if we didn&amp;#39;t price things first in dollars, and then calculate thier value based on the &lt;strong&gt;exchange rate in dollars&lt;/strong&gt; or any other currency then, no, we would not have these swings. The supply of bitcoin is finite. It is unique in this. &lt;/p&gt;\n\n&lt;p&gt;In future in a closed-loop bitcoin only system with no exchanges, price would ONLY fluxuate with the supply of goods snd services and those who wish to use them, which is a much smaller swing than inflationary currency exchange values.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl17qjd",
+                                          "created": 1412565730,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412536930,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16whi",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "spookthesunset",
+                                "parent_id": "t1_cl16sek",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Care to bet on that?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Care to bet on that?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16whi",
+                                "created": 1412564163,
+                                "author_flair_text": null,
+                                "created_utc": 1412535363,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16sek",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl15uf0",
+                      "score": -2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That when we no longer value bitcoin in terms of dollars or need exchanges that the price or buying power won't swing like it currently does.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That when we no longer value bitcoin in terms of dollars or need exchanges that the price or buying power won&amp;#39;t swing like it currently does.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16sek",
+                      "created": 1412563943,
+                      "author_flair_text": null,
+                      "created_utc": 1412535143,
+                      "ups": -2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl15uf0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Crexonz",
+            "parent_id": "t3_2idhjg",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What the fuck did I just read..",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What the fuck did I just read..&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl15uf0",
+            "created": 1412562050,
+            "author_flair_text": null,
+            "created_utc": 1412533250,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idhjg",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idhjg",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1901c",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "bilabrin",
+                                                              "parent_id": "t1_cl18w4b",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I'll check that out but it sounds like we agree.\n",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ll check that out but it sounds like we agree.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1901c",
+                                                              "created": 1412568135,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412539335,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idhjg",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idhjg",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2idhjg",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl1a44x",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "bilabrin",
+                                                                                  "parent_id": "t1_cl19qdr",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "I agree with everything you just said but I think the first closed loop will lock in incentives to use bitcoin. People usually follow the incentives.\n\n",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I agree with everything you just said but I think the first closed loop will lock in incentives to use bitcoin. People usually follow the incentives.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl1a44x",
+                                                                                  "created": 1412570204,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412541404,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl19qdr",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "spookthesunset",
+                                                                        "parent_id": "t1_cl19a88",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "But creating a closed economic loop is impossible.  People can assign value to anything.  Your closed loop might be defeated if enough people in the \"loop\" decide to use toothbrushes as a unit of currency instead of bitcoin.  Or more realistically, they could bypass bitcoin and barter instead.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;But creating a closed economic loop is impossible.  People can assign value to anything.  Your closed loop might be defeated if enough people in the &amp;quot;loop&amp;quot; decide to use toothbrushes as a unit of currency instead of bitcoin.  Or more realistically, they could bypass bitcoin and barter instead.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl19qdr",
+                                                                        "created": 1412569495,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412540695,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl19a88",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "bilabrin",
+                                                              "parent_id": "t1_cl18w4b",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I read your link \"...and is derived from the no arbitrage assumption\"\nThis is the problem. Bitcoin is currently being arbitraged as a commodity more than it's being traded as a currency. Speculators. In order to thrawt the speculators we need one full closed economic loop that will serve as a stable core. No one will want to exchange for other currencies to buy things or get paid. You don't see people arbitraging the dollar (althoug admittedly that's probably a MUCH more complex discussion).",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I read your link &amp;quot;...and is derived from the no arbitrage assumption&amp;quot;\nThis is the problem. Bitcoin is currently being arbitraged as a commodity more than it&amp;#39;s being traded as a currency. Speculators. In order to thrawt the speculators we need one full closed economic loop that will serve as a stable core. No one will want to exchange for other currencies to buy things or get paid. You don&amp;#39;t see people arbitraging the dollar (althoug admittedly that&amp;#39;s probably a MUCH more complex discussion).&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl19a88",
+                                                              "created": 1412568667,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412539867,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl18w4b",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "spookthesunset",
+                                                    "parent_id": "t1_cl17gt5",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "You are thinking about this wrong.  Don't think in terms of numbers or units.  Think in terms of actual, real economic value.  Economic value is independent of currency valuation.  A box a strawberries or a haircut has the same economic value no matter what currency it is denominated in. \n\nFor more fun reading, I suggest reading about the \"[Law Of One Price](http://en.wikipedia.org/wiki/Law_of_one_price)\".  Just read the first few paragraphs (or read the whole damn thing--the law of one price is a core principle in finance).",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You are thinking about this wrong.  Don&amp;#39;t think in terms of numbers or units.  Think in terms of actual, real economic value.  Economic value is independent of currency valuation.  A box a strawberries or a haircut has the same economic value no matter what currency it is denominated in. &lt;/p&gt;\n\n&lt;p&gt;For more fun reading, I suggest reading about the &amp;quot;&lt;a href=\"http://en.wikipedia.org/wiki/Law_of_one_price\"&gt;Law Of One Price&lt;/a&gt;&amp;quot;.  Just read the first few paragraphs (or read the whole damn thing--the law of one price is a core principle in finance).&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl18w4b",
+                                                    "created": 1412567928,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412539128,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl17gt5",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16vh1",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Basket of goods whose production costs are valued in dollars. That's the problem.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Basket of goods whose production costs are valued in dollars. That&amp;#39;s the problem.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl17gt5",
+                                          "created": 1412565226,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412536426,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16vh1",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Im-Rory",
+                                "parent_id": "t1_cl16hgw",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No, in the quantity of goods you can buy. The basket of goods BTC buys changes incredibly rapidly.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, in the quantity of goods you can buy. The basket of goods BTC buys changes incredibly rapidly.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16vh1",
+                                "created": 1412564108,
+                                "author_flair_text": null,
+                                "created_utc": 1412535308,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16hgw",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl15vkl",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Only in goods priced in dollars or built from products priced in dollars.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Only in goods priced in dollars or built from products priced in dollars.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16hgw",
+                      "created": 1412563320,
+                      "author_flair_text": null,
+                      "created_utc": 1412534520,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl15vkl",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "The_Evil_Within",
+            "parent_id": "t3_2idhjg",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "1 BTC = 1 BTC, sure.\n\nNow build a Bitcoin CPI and tell me how much it's changed in the last day or so.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;1 BTC = 1 BTC, sure.&lt;/p&gt;\n\n&lt;p&gt;Now build a Bitcoin CPI and tell me how much it&amp;#39;s changed in the last day or so.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl15vkl",
+            "created": 1412562112,
+            "author_flair_text": null,
+            "created_utc": 1412533312,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idhjg",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1a9zw",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "dogetipbot",
+                                          "parent_id": "t1_cl16rxa",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "__^[wow ^so ^verify]__: ^/u/FourthTimeLucky ^-&gt; ^/u/bilabrin __^Ð100 ^Dogecoins__&amp;nbsp;^__($0.026835)__ ^[[help]](http://www.reddit.com/r/dogetipbot/wiki/index)",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;&lt;sup&gt;[wow&lt;/sup&gt; &lt;sup&gt;so&lt;/sup&gt; &lt;sup&gt;verify]&lt;/sup&gt;&lt;/strong&gt;: &lt;sup&gt;&lt;a href=\"/u/FourthTimeLucky\"&gt;/u/FourthTimeLucky&lt;/a&gt;&lt;/sup&gt; &lt;sup&gt;-&amp;gt;&lt;/sup&gt; &lt;sup&gt;&lt;a href=\"/u/bilabrin\"&gt;/u/bilabrin&lt;/a&gt;&lt;/sup&gt; &lt;strong&gt;&lt;sup&gt;Ð100&lt;/sup&gt; &lt;sup&gt;Dogecoins&lt;/sup&gt;&lt;/strong&gt;&amp;nbsp;&lt;sup&gt;&lt;strong&gt;($0.026835)&lt;/strong&gt;&lt;/sup&gt; &lt;sup&gt;&lt;a href=\"http://www.reddit.com/r/dogetipbot/wiki/index\"&gt;[help]&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1a9zw",
+                                          "created": 1412570517,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412541717,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idhjg",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idhjg",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl19brw",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "FourthTimeLucky",
+                                                    "parent_id": "t1_cl186cq",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "The tipbot has an amount of doge, you can add to it to use on reddit, or withdraw to your phone/pc/paper wallet. It appears to be stuck at the moment, when it comes back, there's a really good help guide.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The tipbot has an amount of doge, you can add to it to use on reddit, or withdraw to your phone/pc/paper wallet. It appears to be stuck at the moment, when it comes back, there&amp;#39;s a really good help guide.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl19brw",
+                                                    "created": 1412568744,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412539944,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl186cq",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bilabrin",
+                                          "parent_id": "t1_cl16rxa",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Thanks! I'll do some research. Still unclear on the whole tip thing. Does that mean reddit hosts a wallet for me?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks! I&amp;#39;ll do some research. Still unclear on the whole tip thing. Does that mean reddit hosts a wallet for me?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl186cq",
+                                          "created": 1412566571,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412537771,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16rxa",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "FourthTimeLucky",
+                                "parent_id": "t1_cl16mke",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Not sure this'll work here.\n\n+/u/dogetipbot 100 doge verify",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not sure this&amp;#39;ll work here.&lt;/p&gt;\n\n&lt;p&gt;+&lt;a href=\"/u/dogetipbot\"&gt;/u/dogetipbot&lt;/a&gt; 100 doge verify&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16rxa",
+                                "created": 1412563920,
+                                "author_flair_text": null,
+                                "created_utc": 1412535120,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16mke",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bilabrin",
+                      "parent_id": "t1_cl169nx",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thanks. Signing up now.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks. Signing up now.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16mke",
+                      "created": 1412563606,
+                      "author_flair_text": null,
+                      "created_utc": 1412534806,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idhjg",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idhjg",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl16lna",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "FourthTimeLucky",
+                                "parent_id": "t1_cl16elr",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Your loss.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Your loss.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl16lna",
+                                "created": 1412563552,
+                                "author_flair_text": null,
+                                "created_utc": 1412534752,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl16elr",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Satirei",
+                      "parent_id": "t1_cl169nx",
+                      "score": -1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Yeah we prefer to live in reality here.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah we prefer to live in reality here.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl16elr",
+                      "created": 1412563157,
+                      "author_flair_text": null,
+                      "created_utc": 1412534357,
+                      "ups": -1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl169nx",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "FourthTimeLucky",
+            "parent_id": "t3_2idhjg",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You'll not be appreciated over here with your positivity, come join us on /r/dogecoin :)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;ll not be appreciated over here with your positivity, come join us on &lt;a href=\"/r/dogecoin\"&gt;/r/dogecoin&lt;/a&gt; :)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl169nx",
+            "created": 1412562868,
+            "author_flair_text": null,
+            "created_utc": 1412534068,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "reddit.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ii6kc",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "homad",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ii6kc",
+            "permalink": "/r/Bitcoin/comments/2ii6kc/xpost_rstarcitizen_need_help_please_trying_to/",
+            "stickied": false,
+            "created": 1412669576,
+            "url": "http://www.reddit.com/r/starcitizen/comments/2ii2e4/what_do_we_know_about_uec_my_mind_keeps_exploding/",
+            "author_flair_text": null,
+            "title": "x-post /r/starcitizen. Need help please. Trying to inspire some quality discussion. Anyone also know about in-game currencies and how they work?",
+            "created_utc": 1412640776,
+            "ups": 3,
+            "upvote_ratio": 0.71,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ii6kc",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ii6kc",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2j3pk",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "homad",
+                      "parent_id": "t1_cl2fgjw",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Soon enough more and more people will realize that this technology is as game changing as the internet itself. In under 5 years it's the fastest computing network on the planet next to the internet itself and still increasing. VC funding into crypto-currency companies has already far exceeded the 90's era \".com era\" in capitol. It is super simple to accept (and still immediately receive u.s. dollar). It's programmable and open-source hence, creating this post. I'm stoked for the future, and I'm kinda surprised how un-eager some of the other posters are to even consider that this could in fact be a major addition to an already major video game release or maybe help the devs out a little BIT. I just ate my burrito that I got with a Visa card linked to one of my bitcoin accounts (Coinbase),not a bank account. If i buy something online with BTC, it's quicker, far more secure, and easier than any other option out there and saves the merchant processing fees that they would have had otherwise. If a game is to have a currency, there's no reason the same economic rules wouldn't apply, so if it works so well irl, why wouldn't it work in a game, especially one like this. Let's hypothetically say RSI accepted 55 millions usd all through paypal in the last few years...i don't even want to know how much Paypal got for that, i'm sure it's disgusting",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Soon enough more and more people will realize that this technology is as game changing as the internet itself. In under 5 years it&amp;#39;s the fastest computing network on the planet next to the internet itself and still increasing. VC funding into crypto-currency companies has already far exceeded the 90&amp;#39;s era &amp;quot;.com era&amp;quot; in capitol. It is super simple to accept (and still immediately receive u.s. dollar). It&amp;#39;s programmable and open-source hence, creating this post. I&amp;#39;m stoked for the future, and I&amp;#39;m kinda surprised how un-eager some of the other posters are to even consider that this could in fact be a major addition to an already major video game release or maybe help the devs out a little BIT. I just ate my burrito that I got with a Visa card linked to one of my bitcoin accounts (Coinbase),not a bank account. If i buy something online with BTC, it&amp;#39;s quicker, far more secure, and easier than any other option out there and saves the merchant processing fees that they would have had otherwise. If a game is to have a currency, there&amp;#39;s no reason the same economic rules wouldn&amp;#39;t apply, so if it works so well irl, why wouldn&amp;#39;t it work in a game, especially one like this. Let&amp;#39;s hypothetically say RSI accepted 55 millions usd all through paypal in the last few years...i don&amp;#39;t even want to know how much Paypal got for that, i&amp;#39;m sure it&amp;#39;s disgusting&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2j3pk",
+                      "created": 1412681278,
+                      "author_flair_text": null,
+                      "created_utc": 1412652478,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2fgjw",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Hodldown",
+            "parent_id": "t3_2ii6kc",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Star citizen seems perfect for bitcoiners",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Star citizen seems perfect for bitcoiners&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2fgjw",
+            "created": 1412674083,
+            "author_flair_text": null,
+            "created_utc": 1412645283,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

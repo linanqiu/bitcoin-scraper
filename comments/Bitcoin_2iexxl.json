@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Let&amp;#39;s not look at this crash as some kind of dramatic volatility.\nThis is bitcoin happy hour. Buy one get one free! Unicorn bull approves this message.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Let's not look at this crash as some kind of dramatic volatility.\nThis is bitcoin happy hour. Buy one get one free! Unicorn bull approves this message.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iexxl",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "AnalyzerX7",
+            "media": null,
+            "score": 2,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iexxl",
+            "permalink": "/r/Bitcoin/comments/2iexxl/bitcoin_happy_hour/",
+            "stickied": false,
+            "created": 1412593992,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iexxl/bitcoin_happy_hour/",
+            "author_flair_text": null,
+            "title": "Bitcoin happy hour",
+            "created_utc": 1412565192,
+            "ups": 2,
+            "upvote_ratio": 0.6,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iexxl",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iexxl",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1nj9m",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "AnalyzerX7",
+                      "parent_id": "t1_cl1mkgo",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Bought a few more earlier as well :-D ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bought a few more earlier as well :-D &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1nj9m",
+                      "created": 1412600073,
+                      "author_flair_text": null,
+                      "created_utc": 1412571273,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1mkgo",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Kabuthunk",
+            "parent_id": "t3_2iexxl",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Actually trying to buy right now through quickbt, it's taking forever to process.\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Actually trying to buy right now through quickbt, it&amp;#39;s taking forever to process.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1mkgo",
+            "created": 1412597363,
+            "author_flair_text": null,
+            "created_utc": 1412568563,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

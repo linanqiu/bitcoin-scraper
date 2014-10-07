@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;30k Bitcoins were just bought. I give it a day of horizontal movement before weak hands start selling.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "30k Bitcoins were just bought. I give it a day of horizontal movement before weak hands start selling.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iffs3",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "mustyoshi",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iffs3",
+            "permalink": "/r/Bitcoin/comments/2iffs3/now_we_wait_for_the_dump/",
+            "stickied": false,
+            "created": 1412608681,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iffs3/now_we_wait_for_the_dump/",
+            "author_flair_text": null,
+            "title": "Now we wait for the dump.",
+            "created_utc": 1412579881,
+            "ups": 0,
+            "upvote_ratio": 0.42,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iffs3",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1pt9t",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "MarkOates",
+            "parent_id": "t3_2iffs3",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "aaaaannnnd... here it comes...",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;aaaaannnnd... here it comes...&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1pt9t",
+            "created": 1412608895,
+            "author_flair_text": null,
+            "created_utc": 1412580095,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

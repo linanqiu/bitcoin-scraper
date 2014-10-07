@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Right this second 6804 bitcoin nodes are running. That means there is 6804 copies of the blockchain all over the world. Which is good news. But they are all basically severs &amp;quot;in production&amp;quot; and that seems crazy. &lt;/p&gt;\n\n&lt;p&gt;Like, say a terrible bug or hack happened. Someone figured out a way to send a malicious message or some data handling bug was triggered somehow on all the running nodes and deleted/damaged the blockchain files. &lt;/p&gt;\n\n&lt;p&gt;What would happen then? Is there blockchain somewhere other than the active one? &lt;/p&gt;\n\n&lt;p&gt;I mean I know that all the turned off ones could turn back on but is that just it? the whole bitcoin economy calls a mulligan and says &amp;#39;eh, lets just forget the last 2/20/200 hours of economic activity&amp;quot;? &lt;/p&gt;\n\n&lt;p&gt;Is there a system in place to prevent this? Other than &amp;quot;hope real hard no bug simultaneously harms all nodes even though they all run the same software and would have the same bugs&amp;quot;  &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Right this second 6804 bitcoin nodes are running. That means there is 6804 copies of the blockchain all over the world. Which is good news. But they are all basically severs \"in production\" and that seems crazy. \n\nLike, say a terrible bug or hack happened. Someone figured out a way to send a malicious message or some data handling bug was triggered somehow on all the running nodes and deleted/damaged the blockchain files. \n\nWhat would happen then? Is there blockchain somewhere other than the active one? \n\nI mean I know that all the turned off ones could turn back on but is that just it? the whole bitcoin economy calls a mulligan and says 'eh, lets just forget the last 2/20/200 hours of economic activity\"? \n\nIs there a system in place to prevent this? Other than \"hope real hard no bug simultaneously harms all nodes even though they all run the same software and would have the same bugs\"  ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8c0c",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "backupbtc",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i8c0c",
+            "permalink": "/r/Bitcoin/comments/2i8c0c/technical_question_the_blockchain_has_a_lot_of/",
+            "stickied": false,
+            "created": 1412405394,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i8c0c/technical_question_the_blockchain_has_a_lot_of/",
+            "author_flair_text": null,
+            "title": "Technical Question: The blockchain has a lot of redundant copies but Is the blockchain basically just a production database running with no backups?",
+            "created_utc": 1412376594,
+            "ups": 5,
+            "upvote_ratio": 0.7,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8c0c",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzsyh9",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BobAlison",
+            "parent_id": "t3_2i8c0c",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt;Is there a system in place to prevent this? \n\nWork toward defining specifications and alternate full node implementations based on them, such as:\n\n- https://github.com/coinbase/toshi\n- http://bitcoinj.github.io/\n- https://github.com/conformal/btcd\n- http://libbitcoin.dyne.org/\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Is there a system in place to prevent this? &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Work toward defining specifications and alternate full node implementations based on them, such as:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/coinbase/toshi\"&gt;https://github.com/coinbase/toshi&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"http://bitcoinj.github.io/\"&gt;http://bitcoinj.github.io/&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/conformal/btcd\"&gt;https://github.com/conformal/btcd&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"http://libbitcoin.dyne.org/\"&gt;http://libbitcoin.dyne.org/&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzsyh9",
+            "created": 1412407271,
+            "author_flair_text": null,
+            "created_utc": 1412378471,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8c0c",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzt5of",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "GhostInTheBlockchain",
+            "parent_id": "t3_2i8c0c",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think you are basically asking: How would the bitcoin system be recovered if every copy of the blockchain on every active node got corrupted and unusable at around the same time?\n\nHowever unlikely an event these days, the answer is: Yes, the bitcoin economy would call a mulligan and say 'eh, lets just forget the last 2/20/200 hours of economic activity' and restore the blockchain files from backups at a time before the corruption and go from there.  The big losers in this event are merchants that sent product out to buyers after the most recent good backup.  Buyers would have their bitcoin restored and also have the products in hand.  The merchants would have neither product or bitcoin.  Something sort of like (but not exactly like) this actually happened back in March, 2013 and was quickly resolved.  https://bitcoin.org/en/alert/2013-03-11-chain-fork",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think you are basically asking: How would the bitcoin system be recovered if every copy of the blockchain on every active node got corrupted and unusable at around the same time?&lt;/p&gt;\n\n&lt;p&gt;However unlikely an event these days, the answer is: Yes, the bitcoin economy would call a mulligan and say &amp;#39;eh, lets just forget the last 2/20/200 hours of economic activity&amp;#39; and restore the blockchain files from backups at a time before the corruption and go from there.  The big losers in this event are merchants that sent product out to buyers after the most recent good backup.  Buyers would have their bitcoin restored and also have the products in hand.  The merchants would have neither product or bitcoin.  Something sort of like (but not exactly like) this actually happened back in March, 2013 and was quickly resolved.  &lt;a href=\"https://bitcoin.org/en/alert/2013-03-11-chain-fork\"&gt;https://bitcoin.org/en/alert/2013-03-11-chain-fork&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzt5of",
+            "created": 1412407760,
+            "author_flair_text": null,
+            "created_utc": 1412378960,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8c0c",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8c0c",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i8c0c",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i8c0c",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzsxre",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "Hodldown",
+                                          "parent_id": "t1_ckzssaf",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "https://getaddr.bitnodes.io/nodes/\n\nLooking here there is less than 50 nodes in the entire world using clients with a user agent that isn't satoshi, and who the hell knows how many of them are actually different code. \n\nI have no idea what your claim about only the last block being vulnerable. Again, satoshi didn't do some magic where you literally can't alter blocks, The blocks just become invalid. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://getaddr.bitnodes.io/nodes/\"&gt;https://getaddr.bitnodes.io/nodes/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Looking here there is less than 50 nodes in the entire world using clients with a user agent that isn&amp;#39;t satoshi, and who the hell knows how many of them are actually different code. &lt;/p&gt;\n\n&lt;p&gt;I have no idea what your claim about only the last block being vulnerable. Again, satoshi didn&amp;#39;t do some magic where you literally can&amp;#39;t alter blocks, The blocks just become invalid. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzsxre",
+                                          "created": 1412407223,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412378423,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzssaf",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "nikize",
+                                "parent_id": "t1_ckzsfg1",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Never said that files can't be altered. (where did you get that from?)\nData can be altered - but if any block is altered - it is no longer valid and will not be accepted by any other node. So in practice only data since the last block would be an issue (but that would be resolved by sending those transactions again which the clients does)\nThe blockchain is an archive database and it does not destroy files. Clients implementing a backend for the blockchain might use files, and it might have a bug that could destroy those files. but there is still a multitude of clients out there, and some of them might even be writing to \"read-only/write-once\" medium.\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Never said that files can&amp;#39;t be altered. (where did you get that from?)\nData can be altered - but if any block is altered - it is no longer valid and will not be accepted by any other node. So in practice only data since the last block would be an issue (but that would be resolved by sending those transactions again which the clients does)\nThe blockchain is an archive database and it does not destroy files. Clients implementing a backend for the blockchain might use files, and it might have a bug that could destroy those files. but there is still a multitude of clients out there, and some of them might even be writing to &amp;quot;read-only/write-once&amp;quot; medium.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzssaf",
+                                "created": 1412406862,
+                                "author_flair_text": null,
+                                "created_utc": 1412378062,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzsfg1",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Hodldown",
+                      "parent_id": "t1_ckzsb7f",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I think you are misunderstanding what the blockchain does if you think it literally means the files can't be altered. A bug could fuck up the files all it wanted. They wouldn't validate after the program would reject them. But satoshi's great magic doesn't alter the file system on your computer so you can't fuck up or delete the files. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think you are misunderstanding what the blockchain does if you think it literally means the files can&amp;#39;t be altered. A bug could fuck up the files all it wanted. They wouldn&amp;#39;t validate after the program would reject them. But satoshi&amp;#39;s great magic doesn&amp;#39;t alter the file system on your computer so you can&amp;#39;t fuck up or delete the files. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzsfg1",
+                      "created": 1412406002,
+                      "author_flair_text": null,
+                      "created_utc": 1412377202,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzsb7f",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "nikize",
+            "parent_id": "t3_2i8c0c",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "There is several different implementations of the blockchain backend. (even if most are the official client) and this database is a archive server - meaning that information can only be added, not changed. And also the hashes of every block ensures that it is not changed.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There is several different implementations of the blockchain backend. (even if most are the official client) and this database is a archive server - meaning that information can only be added, not changed. And also the hashes of every block ensures that it is not changed.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzsb7f",
+            "created": 1412405728,
+            "author_flair_text": null,
+            "created_utc": 1412376928,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

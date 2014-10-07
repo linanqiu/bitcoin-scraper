@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So I&amp;#39;m continuing to experiment with paper wallets. I have an encrypted paper wallet which I&amp;#39;ve made offline and have since sent money to/from. My question is this:&lt;/p&gt;\n\n&lt;p&gt;If I&amp;#39;ve used my phone to scan the paper wallet&amp;#39;s private key while testing that I can get my money back out... is this paper wallet still secure? I&amp;#39;ve heard it&amp;#39;s much better to keep everything entirely offline if you want to keep your paper wallet secure... but how can you test if the encryption worked properly without making an online transfer?&lt;/p&gt;\n\n&lt;p&gt;Please let me know if I&amp;#39;m missing or not grasping something correctly. Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "So I'm continuing to experiment with paper wallets. I have an encrypted paper wallet which I've made offline and have since sent money to/from. My question is this:\n\nIf I've used my phone to scan the paper wallet's private key while testing that I can get my money back out... is this paper wallet still secure? I've heard it's much better to keep everything entirely offline if you want to keep your paper wallet secure... but how can you test if the encryption worked properly without making an online transfer?\n\nPlease let me know if I'm missing or not grasping something correctly. Thanks!",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iaru1",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "benperrin117",
+            "media": null,
+            "score": 11,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iaru1",
+            "permalink": "/r/Bitcoin/comments/2iaru1/encrypted_paper_wallet_question/",
+            "stickied": false,
+            "created": 1412479865,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iaru1/encrypted_paper_wallet_question/",
+            "author_flair_text": null,
+            "title": "Encrypted Paper Wallet Question",
+            "created_utc": 1412451065,
+            "ups": 11,
+            "upvote_ratio": 1,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaru1",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0g07m",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "dskloet",
+            "parent_id": "t3_2iaru1",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Once you're comfortable that it works in general, you can make a new wallet following the same steps and never take it online.\n\nBut it is also possible to sign a transaction without taking your keys online. Install Bither on an old phone. Put the phone in airplane mode (and never online again). Scan your wallet with the offline phone. Create a transaction on an online phone and transfer it to the offline phone as QR code. Sign it offline and transfer it back to broadcast it.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Once you&amp;#39;re comfortable that it works in general, you can make a new wallet following the same steps and never take it online.&lt;/p&gt;\n\n&lt;p&gt;But it is also possible to sign a transaction without taking your keys online. Install Bither on an old phone. Put the phone in airplane mode (and never online again). Scan your wallet with the offline phone. Create a transaction on an online phone and transfer it to the offline phone as QR code. Sign it offline and transfer it back to broadcast it.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0g07m",
+            "created": 1412483621,
+            "author_flair_text": null,
+            "created_utc": 1412454821,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaru1",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0lmz6",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BobAlison",
+            "parent_id": "t3_2iaru1",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt;...but how can you test if the encryption worked properly without making an online transfer?\n\nTest offline. Set up a secure offline environment with Tails. Save bitaddress.org to a file, and load it from Tails. Then test decryption of your keys.\n\nhttps://tails.boum.org",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;...but how can you test if the encryption worked properly without making an online transfer?&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Test offline. Set up a secure offline environment with Tails. Save bitaddress.org to a file, and load it from Tails. Then test decryption of your keys.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://tails.boum.org\"&gt;https://tails.boum.org&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0lmz6",
+            "created": 1412497199,
+            "author_flair_text": null,
+            "created_utc": 1412468399,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

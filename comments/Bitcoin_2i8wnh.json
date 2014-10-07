@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Some days ago I started to see HashPrime.com listed as partner when logged into Blockchain.info. I thought Blockchain.info, in their good faith, may have been mistaken.&lt;/p&gt;\n\n&lt;p&gt;But days go by and a service offering investors 1.5% daily earnings is still there listed as partner.&lt;/p&gt;\n\n&lt;p&gt;How is a serious and important company in the Bitcoin world accepting to damage its image by doing this? I&amp;#39;m afraid for the whole image of the community when one of the most important wallets is having this kind of sponsor.&lt;/p&gt;\n\n&lt;p&gt;Or else, I am wrong... Is it possible to give 1.5% daily and not being a scam?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Some days ago I started to see HashPrime.com listed as partner when logged into Blockchain.info. I thought Blockchain.info, in their good faith, may have been mistaken.\n\nBut days go by and a service offering investors 1.5% daily earnings is still there listed as partner.\n\nHow is a serious and important company in the Bitcoin world accepting to damage its image by doing this? I'm afraid for the whole image of the community when one of the most important wallets is having this kind of sponsor.\n\nOr else, I am wrong... Is it possible to give 1.5% daily and not being a scam?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8wnh",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "drapetomano",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i8wnh",
+            "permalink": "/r/Bitcoin/comments/2i8wnh/blockchaininfo_having_hashprimecom_scam_as_partner/",
+            "stickied": false,
+            "created": 1412419962,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i8wnh/blockchaininfo_having_hashprimecom_scam_as_partner/",
+            "author_flair_text": null,
+            "title": "Blockchain.info having HashPrime.com (scam?) as partner?",
+            "created_utc": 1412391162,
+            "ups": 4,
+            "upvote_ratio": 0.67,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8wnh",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzxtt5",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "drapetomano",
+            "parent_id": "t3_2i8wnh",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "More debate:\nhttps://bitcointalk.org/index.php?topic=807947",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;More debate:\n&lt;a href=\"https://bitcointalk.org/index.php?topic=807947\"&gt;https://bitcointalk.org/index.php?topic=807947&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzxtt5",
+            "created": 1412420013,
+            "author_flair_text": null,
+            "created_utc": 1412391213,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8wnh",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl00pzv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "inbtcwetrust",
+            "parent_id": "t3_2i8wnh",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "fuck some one have to warn them that this is called HYIP which is totally scam , we do not need to read the  news tomorrow that huge bitcoin company like blockchain.info is a partner on HYIP scam , this is the last thing we need is that bad times",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;fuck some one have to warn them that this is called HYIP which is totally scam , we do not need to read the  news tomorrow that huge bitcoin company like blockchain.info is a partner on HYIP scam , this is the last thing we need is that bad times&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl00pzv",
+            "created": 1412429105,
+            "author_flair_text": null,
+            "created_utc": 1412400305,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

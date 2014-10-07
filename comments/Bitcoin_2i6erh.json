@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "coindesk.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i6erh",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "cyclopsbtc",
+            "media": null,
+            "score": 80,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://a.thumbs.redditmedia.com/88xNA69Nk281YNC5JsMeTRU-FtAGNtbfD68cjHpsT54.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i6erh",
+            "permalink": "/r/Bitcoin/comments/2i6erh/spains_bitcoin_boulevard_aims_to_be_worlds/",
+            "stickied": false,
+            "created": 1412361994,
+            "url": "http://www.coindesk.com/spains-bitcoin-boulevard-aims-worlds-biggest-best/",
+            "author_flair_text": null,
+            "title": "Spain's Bitcoin Boulevard Aims to Be World's Biggest and Best #Callebitcoin",
+            "created_utc": 1412333194,
+            "ups": 80,
+            "upvote_ratio": 0.93,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

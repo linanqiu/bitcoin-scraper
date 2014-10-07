@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Yesterday the first Bitcoin ATM was launched in Lisbon, Portugal. This ATM is 100% made in Portugal and the team is planning on integrating new features like making it possible to also buy and sell altcoins.&lt;/p&gt;\n\n&lt;p&gt;Though I dropped my 50 euro note when I was inserting it, because I was feeling nervous with all those eyes on me, the system is incredibly intuitive!&lt;/p&gt;\n\n&lt;p&gt;After we watched the premiere of &amp;quot;The rise and rise of Bitcoin&amp;quot; there was some time to ask questions and all aspects of bitcoin were discussed. Mining, the future of bitcoin, the blockchain, POW vs. PoS, altcoins, bitcoin 2.0 and smart contracts, etc. The whole shebang...&lt;/p&gt;\n\n&lt;p&gt;The most interesting part, no one brought up the (sliding) price of bitcoin!&lt;/p&gt;\n\n&lt;p&gt;So let it be clear... The current price discussion will not make the  history books. Not even a footnote! People are starting to realize why a p2p currency totally makes sense. &lt;/p&gt;\n\n&lt;p&gt;Bitcoin is still king!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Yesterday the first Bitcoin ATM was launched in Lisbon, Portugal. This ATM is 100% made in Portugal and the team is planning on integrating new features like making it possible to also buy and sell altcoins.\n\nThough I dropped my 50 euro note when I was inserting it, because I was feeling nervous with all those eyes on me, the system is incredibly intuitive!\n\nAfter we watched the premiere of \"The rise and rise of Bitcoin\" there was some time to ask questions and all aspects of bitcoin were discussed. Mining, the future of bitcoin, the blockchain, POW vs. PoS, altcoins, bitcoin 2.0 and smart contracts, etc. The whole shebang...\n\nThe most interesting part, no one brought up the (sliding) price of bitcoin!\n\nSo let it be clear... The current price discussion will not make the  history books. Not even a footnote! People are starting to realize why a p2p currency totally makes sense. \n\nBitcoin is still king!\n\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iduf8",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "MonetaryFew",
+            "media": null,
+            "score": 13,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iduf8",
+            "permalink": "/r/Bitcoin/comments/2iduf8/first_bitcoin_atm_in_portugal_who_cares_about_the/",
+            "stickied": false,
+            "created": 1412569662,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iduf8/first_bitcoin_atm_in_portugal_who_cares_about_the/",
+            "author_flair_text": null,
+            "title": "First Bitcoin ATM in Portugal. Who cares about the price?",
+            "created_utc": 1412540862,
+            "ups": 13,
+            "upvote_ratio": 0.84,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iduf8",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1aodz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "MonetaryFew",
+            "parent_id": "t3_2iduf8",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "http://imgur.com/1pl5dMr ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://imgur.com/1pl5dMr\"&gt;http://imgur.com/1pl5dMr&lt;/a&gt; &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1aodz",
+            "created": 1412571303,
+            "author_flair_text": null,
+            "created_utc": 1412542503,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iduf8",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iduf8",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iduf8",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1ceak",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "amaedatuamae",
+                                "parent_id": "t1_cl1c11q",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "and that's totally true. :) ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;and that&amp;#39;s totally true. :) &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1ceak",
+                                "created": 1412574895,
+                                "author_flair_text": null,
+                                "created_utc": 1412546095,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1c11q",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "MonetaryFew",
+                      "parent_id": "t1_cl1aw2j",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Price discovery is always important... This certainly counts for Bitcoin. I certainly agree! Without price discovery, Bitcoin doesn't exist. Let that be clear. The only thing I am trying to say in this post is that when attending the launch of the first Bitcoin ATM in Portugal, the periphery of Europe, no one mentioned the price. Everybody is excited about the possibilities of p2p finance and fully believes that this is the way forward. To summarize, I think these kind of events are far more important than the current price and will be more important in defining the future than the discussion about the current price of Bitcoin. That's all... ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Price discovery is always important... This certainly counts for Bitcoin. I certainly agree! Without price discovery, Bitcoin doesn&amp;#39;t exist. Let that be clear. The only thing I am trying to say in this post is that when attending the launch of the first Bitcoin ATM in Portugal, the periphery of Europe, no one mentioned the price. Everybody is excited about the possibilities of p2p finance and fully believes that this is the way forward. To summarize, I think these kind of events are far more important than the current price and will be more important in defining the future than the discussion about the current price of Bitcoin. That&amp;#39;s all... &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1c11q",
+                      "created": 1412574100,
+                      "author_flair_text": null,
+                      "created_utc": 1412545300,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1aw2j",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "SuckmahMemba",
+            "parent_id": "t3_2iduf8",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes we got it. When Bitcoin crashes nobody cares about the price. I learned that today after reading it in a new thread every 10 minutes. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes we got it. When Bitcoin crashes nobody cares about the price. I learned that today after reading it in a new thread every 10 minutes. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1aw2j",
+            "created": 1412571733,
+            "author_flair_text": null,
+            "created_utc": 1412542933,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

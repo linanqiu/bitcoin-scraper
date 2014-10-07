@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "github.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9a3z",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bitcoincolors",
+            "media": null,
+            "score": 10,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://a.thumbs.redditmedia.com/a_xkIQhSZdOjUZjevclf4ms0_jjqQqqoJreSjPxyHi8.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i9a3z",
+            "permalink": "/r/Bitcoin/comments/2i9a3z/simple_php_script_and_library_to_send_op_return/",
+            "stickied": false,
+            "created": 1412431559,
+            "url": "https://github.com/coinspark/php-OP_RETURN",
+            "author_flair_text": null,
+            "title": "Simple PHP script and library to send OP_RETURN transactions.",
+            "created_utc": 1412402759,
+            "ups": 10,
+            "upvote_ratio": 0.79,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9a3z",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl03aot",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "kinoshitajona",
+            "parent_id": "t3_2i9a3z",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Or you could just clone Electrum's master HEAD and type &lt;OP_RETURN: \"test\"&gt; without the less than greater than signs to create an output that says test.\n\nIf you want to actually send btc in the same transaction, current master head accepts multiline send to box in csv format... So to send 0.01 btc to 1abc and an opreturn saying  heres the payment, the following can be pasted into the send to box\n\n    1abc, 0.01\n    OP_RETURN: \"heres the payment\"",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Or you could just clone Electrum&amp;#39;s master HEAD and type &amp;lt;OP_RETURN: &amp;quot;test&amp;quot;&amp;gt; without the less than greater than signs to create an output that says test.&lt;/p&gt;\n\n&lt;p&gt;If you want to actually send btc in the same transaction, current master head accepts multiline send to box in csv format... So to send 0.01 btc to 1abc and an opreturn saying  heres the payment, the following can be pasted into the send to box&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;1abc, 0.01\nOP_RETURN: &amp;quot;heres the payment&amp;quot;\n&lt;/code&gt;&lt;/pre&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl03aot",
+            "created": 1412441735,
+            "author_flair_text": null,
+            "created_utc": 1412412935,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,1606 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Exchanges are performing fractional reserve banking, &lt;del&gt;this is known&lt;/del&gt; this is widely believed. Its possible that the exchange fulfill real orders but then shape candles by falsifying order books. Perhaps we need special exchange addresses to measure how many coins are actually on exchanges at any given time. &lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;edit&lt;/em&gt; - There are many flaws to the proof of reserves process. I propose we create a standard of special exchange addresses marked with a prefix other than 1 or 3. When sending coins to exchanges they must use an address that identifies that it is on an exchange. When an order happens on exchange coins are sent to a new exchange address and we can match time and amount of coins to the exchanges reported volume according to the orderbook but preserves pseudonymity.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Exchanges are performing fractional reserve banking, ~~this is known~~ this is widely believed. Its possible that the exchange fulfill real orders but then shape candles by falsifying order books. Perhaps we need special exchange addresses to measure how many coins are actually on exchanges at any given time. \n\n*edit* - There are many flaws to the proof of reserves process. I propose we create a standard of special exchange addresses marked with a prefix other than 1 or 3. When sending coins to exchanges they must use an address that identifies that it is on an exchange. When an order happens on exchange coins are sent to a new exchange address and we can match time and amount of coins to the exchanges reported volume according to the orderbook but preserves pseudonymity.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2icrsd",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "CP70",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412522645,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2icrsd",
+            "permalink": "/r/Bitcoin/comments/2icrsd/how_can_we_tell_that_these_coins_being_dumped_on/",
+            "stickied": false,
+            "created": 1412543398,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2icrsd/how_can_we_tell_that_these_coins_being_dumped_on/",
+            "author_flair_text": null,
+            "title": "How can we tell that these \"coins\" being dumped on the exchanges actually exist?",
+            "created_utc": 1412514598,
+            "ups": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 44,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2icrsd",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2icrsd",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2icrsd",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl10xdy",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "samurai321",
+                                          "parent_id": "t1_cl10orw",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "there are coins borrowed by short sellers, thanks to their lending facilities...",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;there are coins borrowed by short sellers, thanks to their lending facilities...&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl10xdy",
+                                          "created": 1412551446,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412522646,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2icrsd",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1pbwe",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "LifeIsSoSweet",
+                                          "parent_id": "t1_cl10orw",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "would also need proof for the \"widely believed\", other than you nobody seems to have put this forward with some shred of proof.\n\nYou seem to be operating under the presumption that an exchange is a bank, it is not.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;would also need proof for the &amp;quot;widely believed&amp;quot;, other than you nobody seems to have put this forward with some shred of proof.&lt;/p&gt;\n\n&lt;p&gt;You seem to be operating under the presumption that an exchange is a bank, it is not.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1pbwe",
+                                          "created": 1412606607,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412577807,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl10orw",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "CP70",
+                                "parent_id": "t1_cl1046u",
+                                "score": -2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "OK, I redact the \"this is known\" to \"widely believed\" which is why there has been a proof of reserve proposition.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OK, I redact the &amp;quot;this is known&amp;quot; to &amp;quot;widely believed&amp;quot; which is why there has been a proof of reserve proposition.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl10orw",
+                                "created": 1412550848,
+                                "author_flair_text": null,
+                                "created_utc": 1412522048,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1046u",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "flibbrMarketplace",
+                      "parent_id": "t1_cl0ye7r",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Yes, I'd also like to see the proof for this, \"this is known\" statement. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, I&amp;#39;d also like to see the proof for this, &amp;quot;this is known&amp;quot; statement. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1046u",
+                      "created": 1412549294,
+                      "author_flair_text": null,
+                      "created_utc": 1412520494,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0ye7r",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "DonaldTrum_p",
+            "parent_id": "t3_2icrsd",
+            "score": 12,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt;this is known. \n\nNo, it isn't.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;this is known. &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;No, it isn&amp;#39;t.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0ye7r",
+            "created": 1412543605,
+            "author_flair_text": null,
+            "created_utc": 1412514805,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 12
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0yugg",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "LifeIsSoSweet",
+            "parent_id": "t3_2icrsd",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "do what everyone has been saying on this sub for months; only let your money (either Fiat or BTC) live on the exchange for the shortest time needed.   As soon as you finish your transaction, transfer your money away.\n\nAny system that uses fractional reserve banking can't handle the situation where a significant amount of people follow these practices.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;do what everyone has been saying on this sub for months; only let your money (either Fiat or BTC) live on the exchange for the shortest time needed.   As soon as you finish your transaction, transfer your money away.&lt;/p&gt;\n\n&lt;p&gt;Any system that uses fractional reserve banking can&amp;#39;t handle the situation where a significant amount of people follow these practices.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0yugg",
+            "created": 1412545306,
+            "author_flair_text": null,
+            "created_utc": 1412516506,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2icrsd",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2icrsd",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2icrsd",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2icrsd",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2icrsd",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2icrsd",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2icrsd",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2icrsd",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2icrsd",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl10s8t",
+                                                                                                                "children": [
+                                                                                                                  "cl10uf5"
+                                                                                                                ],
+                                                                                                                "id": "cl10uf5",
+                                                                                                                "name": "t1_cl10uf5"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl10s8t",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "CP70",
+                                                                                                      "parent_id": "t1_cl10ncs",
+                                                                                                      "score": 0,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "It wouldn't change anonymity at all, it would simply let everyone know that the coin is on an exchange.",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It wouldn&amp;#39;t change anonymity at all, it would simply let everyone know that the coin is on an exchange.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl10s8t",
+                                                                                                      "created": 1412551088,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412522288,
+                                                                                                      "ups": 0,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl10ncs",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "The-Voice-of-Reddit",
+                                                                                            "parent_id": "t1_cl10kmo",
+                                                                                            "score": 3,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "So you want to build into the protocol something that compels a certain group of users to give up anonymity? \n\nYeah, I'm sure that will go over well and easily be accepted by the consensus... /s",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So you want to build into the protocol something that compels a certain group of users to give up anonymity? &lt;/p&gt;\n\n&lt;p&gt;Yeah, I&amp;#39;m sure that will go over well and easily be accepted by the consensus... /s&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl10ncs",
+                                                                                            "created": 1412550745,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412521945,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 3
+                                                                                          }
+                                                                                        },
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2icrsd",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2icrsd",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl10rbc",
+                                                                                                                "children": [
+                                                                                                                  "cl10sfs"
+                                                                                                                ],
+                                                                                                                "id": "cl10sfs",
+                                                                                                                "name": "t1_cl10sfs"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl10rbc",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "CP70",
+                                                                                                      "parent_id": "t1_cl10pmq",
+                                                                                                      "score": -1,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "Consensus. People should use the exchanges that follow this practice. ",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Consensus. People should use the exchanges that follow this practice. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl10rbc",
+                                                                                                      "created": 1412551025,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412522225,
+                                                                                                      "ups": -1,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl10pmq",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "The-Voice-of-Reddit",
+                                                                                            "parent_id": "t1_cl10kmo",
+                                                                                            "score": 2,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "Also disagree that it could actually be implemented in the protocol. Short of real world regulation compelling adherence to using those special exchange addresses there would be nothing to stop exchanges from just ignoring them and continuing to use normal addresses. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Also disagree that it could actually be implemented in the protocol. Short of real world regulation compelling adherence to using those special exchange addresses there would be nothing to stop exchanges from just ignoring them and continuing to use normal addresses. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl10pmq",
+                                                                                            "created": 1412550912,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412522112,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 2
+                                                                                          }
+                                                                                        },
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2icrsd",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2icrsd",
+                                                                                                      "likes": null,
+                                                                                                      "replies": "",
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl128rn",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "CP70",
+                                                                                                      "parent_id": "t1_cl1264m",
+                                                                                                      "score": 1,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "People would have to agree to use exchanges that do this practice. Much like those who advocate the of use of exchanges that follow proof of reserve. This is a tool used along side proof of reserve.",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;People would have to agree to use exchanges that do this practice. Much like those who advocate the of use of exchanges that follow proof of reserve. This is a tool used along side proof of reserve.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl128rn",
+                                                                                                      "created": 1412554690,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412525890,
+                                                                                                      "ups": 1,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl1264m",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "BKAtty99217",
+                                                                                            "parent_id": "t1_cl10kmo",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "I can't imagine how that could be built into the protocol. It could only work if exchanges voluntarily submitted to it, which I don't see happening. Therefore, it is a waste of time to discuss. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I can&amp;#39;t imagine how that could be built into the protocol. It could only work if exchanges voluntarily submitted to it, which I don&amp;#39;t see happening. Therefore, it is a waste of time to discuss. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl1264m",
+                                                                                            "created": 1412554514,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412525714,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl10kmo",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "CP70",
+                                                                                  "parent_id": "t1_cl10g46",
+                                                                                  "score": -1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Why would it be regulation? It can be built into the protocol.",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Why would it be regulation? It can be built into the protocol.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl10kmo",
+                                                                                  "created": 1412550546,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412521746,
+                                                                                  "ups": -1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl10g46",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "The-Voice-of-Reddit",
+                                                                        "parent_id": "t1_cl109x0",
+                                                                        "score": 4,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Your proposal sounds like regulation which the bitcoin community vehemently hates, and which would realistically be impossible to compel given the multitude of jurisdictions these exchanges exist in. \n\nLike I said if you have an inherent distrust in the exchange system then you should probably back out because it isn't changing anytime soon. ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Your proposal sounds like regulation which the bitcoin community vehemently hates, and which would realistically be impossible to compel given the multitude of jurisdictions these exchanges exist in. &lt;/p&gt;\n\n&lt;p&gt;Like I said if you have an inherent distrust in the exchange system then you should probably back out because it isn&amp;#39;t changing anytime soon. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl10g46",
+                                                                        "created": 1412550205,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412521405,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 4
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl109x0",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "CP70",
+                                                              "parent_id": "t1_cl1074s",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "This, this is why we should be able to match exchange volume to actual coins in existence. See my proposal above.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This, this is why we should be able to match exchange volume to actual coins in existence. See my proposal above.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl109x0",
+                                                              "created": 1412549739,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412520939,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2icrsd",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2icrsd",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl10cp9",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "CP70",
+                                                                        "parent_id": "t1_cl109qs",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "I'm not saying to keep coins on exchanges. The amount of coins in existence needs to be match to the actual volume of that is reported on the exchanges. See my proposal in my posting.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m not saying to keep coins on exchanges. The amount of coins in existence needs to be match to the actual volume of that is reported on the exchanges. See my proposal in my posting.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl10cp9",
+                                                                        "created": 1412549950,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412521150,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    },
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2icrsd",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2icrsd",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl10fnb",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "CP70",
+                                                                                  "parent_id": "t1_cl10dk5",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "yes this",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;yes this&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl10fnb",
+                                                                                  "created": 1412550170,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412521370,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              },
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2icrsd",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2icrsd",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2icrsd",
+                                                                                                      "likes": null,
+                                                                                                      "replies": "",
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl10u39",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "Vibr8gKiwi",
+                                                                                                      "parent_id": "t1_cl10hzo",
+                                                                                                      "score": 1,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "And people that think like that haven't been able to hold since the single digits.  It's one thing to watch bitcoin go from nothing to thousands, it's another to actually be able to hold through it and realize that wealth growth.  I believe in bitcoin but I don't know the fiat price of bitcoin tomorrow but it's largely irrelevant because the next day it will be something else.  What matters is my bitcoin holdings, my mindset, and my plan--those haven't changed.\n\nIn case you haven't noticed now is not the time for \"most people\" to be in bitcoin.  I'm not most people.",
+                                                                                                      "edited": 1412522745,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And people that think like that haven&amp;#39;t been able to hold since the single digits.  It&amp;#39;s one thing to watch bitcoin go from nothing to thousands, it&amp;#39;s another to actually be able to hold through it and realize that wealth growth.  I believe in bitcoin but I don&amp;#39;t know the fiat price of bitcoin tomorrow but it&amp;#39;s largely irrelevant because the next day it will be something else.  What matters is my bitcoin holdings, my mindset, and my plan--those haven&amp;#39;t changed.&lt;/p&gt;\n\n&lt;p&gt;In case you haven&amp;#39;t noticed now is not the time for &amp;quot;most people&amp;quot; to be in bitcoin.  I&amp;#39;m not most people.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl10u39",
+                                                                                                      "created": 1412551216,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412522416,
+                                                                                                      "ups": 1,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl10hzo",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "The-Voice-of-Reddit",
+                                                                                            "parent_id": "t1_cl10gn4",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "&gt;You don't get it. Some of us have the mindset to think of bitcoin holdings in terms of bitcoin. My bitcoin holdings are the same as they were yesterday (and getting easier to expand). \n\nWhile I'm certainly impressed you're happy to live in fantasy land most people live in reality and know that in reality their wealth falls when the exchange rate falls because the ability to purchase all goods and services is tied to that rate, all merchants use that rate. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;You don&amp;#39;t get it. Some of us have the mindset to think of bitcoin holdings in terms of bitcoin. My bitcoin holdings are the same as they were yesterday (and getting easier to expand). &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;While I&amp;#39;m certainly impressed you&amp;#39;re happy to live in fantasy land most people live in reality and know that in reality their wealth falls when the exchange rate falls because the ability to purchase all goods and services is tied to that rate, all merchants use that rate. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl10hzo",
+                                                                                            "created": 1412550350,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412521550,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl10gn4",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "Vibr8gKiwi",
+                                                                                  "parent_id": "t1_cl10dk5",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "You don't get it. Some of us have the mindset to think of bitcoin holdings in terms of bitcoin.  My bitcoin holdings are the same as they were yesterday (and getting easier to expand).  This is the long term view.  Anyone that thinks like you're suggesting isn't likely to survive the evolution of this technology. ",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You don&amp;#39;t get it. Some of us have the mindset to think of bitcoin holdings in terms of bitcoin.  My bitcoin holdings are the same as they were yesterday (and getting easier to expand).  This is the long term view.  Anyone that thinks like you&amp;#39;re suggesting isn&amp;#39;t likely to survive the evolution of this technology. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl10gn4",
+                                                                                  "created": 1412550247,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412521447,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl10dk5",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "The-Voice-of-Reddit",
+                                                                        "parent_id": "t1_cl109qs",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "&gt; However the solution is to get your coins into your own control, which I have done\n\nIt is very apparent that you don't get it. It doesn't fucking matter who possesses control of your coins, if an exchange games the price down 50% then you just lost 50% of your purchasing power and effectively lost 50% of your wealth. This is the case no matter where you kept your coins. If your coins are on an exchange, in a bank vault, in a home safe, stored in your head etc etc this affects them the exact same. ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;However the solution is to get your coins into your own control, which I have done&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;It is very apparent that you don&amp;#39;t get it. It doesn&amp;#39;t fucking matter who possesses control of your coins, if an exchange games the price down 50% then you just lost 50% of your purchasing power and effectively lost 50% of your wealth. This is the case no matter where you kept your coins. If your coins are on an exchange, in a bank vault, in a home safe, stored in your head etc etc this affects them the exact same. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl10dk5",
+                                                                        "created": 1412550016,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412521216,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl109qs",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "Vibr8gKiwi",
+                                                              "parent_id": "t1_cl1074s",
+                                                              "score": -1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Yes I get that.  However the solution is to get your coins into your own control, which I have done.  Beyond that I can only appeal to other people to do the same.  If you own gold you hold it physical then despite shenanigans on exchanges, futures markets and forex markets, your gold is yours. Bitcoin is the same, if you don't control the private key you don't own the bitcoin.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes I get that.  However the solution is to get your coins into your own control, which I have done.  Beyond that I can only appeal to other people to do the same.  If you own gold you hold it physical then despite shenanigans on exchanges, futures markets and forex markets, your gold is yours. Bitcoin is the same, if you don&amp;#39;t control the private key you don&amp;#39;t own the bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl109qs",
+                                                              "created": 1412549726,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412520926,
+                                                              "ups": -1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1074s",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "The-Voice-of-Reddit",
+                                                    "parent_id": "t1_cl100b1",
+                                                    "score": 4,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "&gt; I don't have a satoshi on an exchange.\n\nThis is irrelevant to what is being talked about, which is exchanges gaming the price of bitcoin. It doesn't matter where your bitcoin is being held, if exchanges are gaming the price then your wealth is being fucked with regardless of where you're storing your coins. ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;I don&amp;#39;t have a satoshi on an exchange.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;This is irrelevant to what is being talked about, which is exchanges gaming the price of bitcoin. It doesn&amp;#39;t matter where your bitcoin is being held, if exchanges are gaming the price then your wealth is being fucked with regardless of where you&amp;#39;re storing your coins. &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1074s",
+                                                    "created": 1412549525,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412520725,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 4
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl100b1",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "Vibr8gKiwi",
+                                          "parent_id": "t1_cl0zyqd",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I don't. I don't have a satoshi on an exchange. I've been saying as long as I've been around that bringing in wall street is not a good thing either. Wall Street successfully manipulates a multi-trillion dollar global gold market via exchanges, a couple billion dollar bitcoin market is nothing.  If everyone had their bicoin off exchanges and other paper products/systems and in real wallets this wouldn't be happening IMO. Exchanges with full-time proof of reserves might be ok.",
+                                          "edited": 1412520615,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t. I don&amp;#39;t have a satoshi on an exchange. I&amp;#39;ve been saying as long as I&amp;#39;ve been around that bringing in wall street is not a good thing either. Wall Street successfully manipulates a multi-trillion dollar global gold market via exchanges, a couple billion dollar bitcoin market is nothing.  If everyone had their bicoin off exchanges and other paper products/systems and in real wallets this wouldn&amp;#39;t be happening IMO. Exchanges with full-time proof of reserves might be ok.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl100b1",
+                                          "created": 1412548988,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412520188,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0zyqd",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "The-Voice-of-Reddit",
+                                "parent_id": "t1_cl0zvn8",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Whether you like it or not a core facet of bitcoin *is* dictated by the exchanges, which is its value. If you can't trust the people setting the value of your asset then you really can't trust that asset with your wealth. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Whether you like it or not a core facet of bitcoin &lt;em&gt;is&lt;/em&gt; dictated by the exchanges, which is its value. If you can&amp;#39;t trust the people setting the value of your asset then you really can&amp;#39;t trust that asset with your wealth. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0zyqd",
+                                "created": 1412548860,
+                                "author_flair_text": null,
+                                "created_utc": 1412520060,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0zvn8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Vibr8gKiwi",
+                      "parent_id": "t1_cl0yfrj",
+                      "score": 6,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Not bitcoin, exchanges.  I don't trust exchanges, wall street, etc.  Anywhere that manages your coins for you can be doing all sorts of shenanigans.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not bitcoin, exchanges.  I don&amp;#39;t trust exchanges, wall street, etc.  Anywhere that manages your coins for you can be doing all sorts of shenanigans.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0zvn8",
+                      "created": 1412548601,
+                      "author_flair_text": null,
+                      "created_utc": 1412519801,
+                      "ups": 6,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0yfrj",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "The-Voice-of-Reddit",
+            "parent_id": "t3_2icrsd",
+            "score": 6,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Well clearly you have determined for yourself that you can no longer trust bitcoin so you should probably divest. It's only logical",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well clearly you have determined for yourself that you can no longer trust bitcoin so you should probably divest. It&amp;#39;s only logical&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0yfrj",
+            "created": 1412543775,
+            "author_flair_text": null,
+            "created_utc": 1412514975,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 6
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl100sl",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "phlogistonical",
+            "parent_id": "t3_2icrsd",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You are beginning to understand it.\nDon't trust anyone with your money.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You are beginning to understand it.\nDon&amp;#39;t trust anyone with your money.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl100sl",
+            "created": 1412549027,
+            "author_flair_text": null,
+            "created_utc": 1412520227,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2icrsd",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2icrsd",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl12t9h",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "mdanko",
+                                "parent_id": "t1_cl10e3w",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Just keep buying, the market will sort out fraudenlence when demand outstrips supply and exchanges that are a fraud cannot account for their holdings. (Remember Mt. Gox?)",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Just keep buying, the market will sort out fraudenlence when demand outstrips supply and exchanges that are a fraud cannot account for their holdings. (Remember Mt. Gox?)&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl12t9h",
+                                "created": 1412555989,
+                                "author_flair_text": null,
+                                "created_utc": 1412527189,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl10e3w",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "CP70",
+                      "parent_id": "t1_cl108zp",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "One leads and the rest follow. We just need to be able to match volume to actual coins in existence to weed out the bad actors. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;One leads and the rest follow. We just need to be able to match volume to actual coins in existence to weed out the bad actors. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl10e3w",
+                      "created": 1412550057,
+                      "author_flair_text": null,
+                      "created_utc": 1412521257,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl108zp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "noncognitivism",
+            "parent_id": "t3_2icrsd",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The exchanges would need to be working together. If one moves the price down independently, they would almost certainly lose money. Your assertion is that they would be hoping people sell low, but instead people would buy. It would happen immediately, because the number of bots watching all sites would be all over sell orders that are lower on one site.\n\nIf the exchanges are working together (at least the major exchanges), it would be incredibly hard to sustain. With halving day being only 95 weeks away or less, and corporate acceptance growing at a fast pace, the demand for bitcoins is still relatively high.\n\nIt hasn't even come close to true public acceptance yet. Any price manipulation is being done short term in hopes of scaring weak investors into unloading at a loss. There is no reason to believe it is being done falsely by the exchanges themselves though. \n\nPeople buy and sell bitcoins every day for the price shown at the exchange. Those transactions aren't fake.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The exchanges would need to be working together. If one moves the price down independently, they would almost certainly lose money. Your assertion is that they would be hoping people sell low, but instead people would buy. It would happen immediately, because the number of bots watching all sites would be all over sell orders that are lower on one site.&lt;/p&gt;\n\n&lt;p&gt;If the exchanges are working together (at least the major exchanges), it would be incredibly hard to sustain. With halving day being only 95 weeks away or less, and corporate acceptance growing at a fast pace, the demand for bitcoins is still relatively high.&lt;/p&gt;\n\n&lt;p&gt;It hasn&amp;#39;t even come close to true public acceptance yet. Any price manipulation is being done short term in hopes of scaring weak investors into unloading at a loss. There is no reason to believe it is being done falsely by the exchanges themselves though. &lt;/p&gt;\n\n&lt;p&gt;People buy and sell bitcoins every day for the price shown at the exchange. Those transactions aren&amp;#39;t fake.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl108zp",
+            "created": 1412549670,
+            "author_flair_text": null,
+            "created_utc": 1412520870,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0yn1m",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "recz255",
+            "parent_id": "t3_2icrsd",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I share your concern. Dump fantom coin. Rebuy at bottom. Profit. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I share your concern. Dump fantom coin. Rebuy at bottom. Profit. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0yn1m",
+            "created": 1412544552,
+            "author_flair_text": null,
+            "created_utc": 1412515752,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl10lfj",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "cactus-pits",
+            "parent_id": "t3_2icrsd",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "it's Karpeles..he is running the Willy bot in reverse!",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it&amp;#39;s Karpeles..he is running the Willy bot in reverse!&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl10lfj",
+            "created": 1412550606,
+            "author_flair_text": null,
+            "created_utc": 1412521806,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2icrsd",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2icrsd",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1pd6x",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "LifeIsSoSweet",
+                                "parent_id": "t1_cl0zx59",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt;.. and the fact that exchanges need 24/7 auditing.\n\nI don't think you know what the word \"fact\" means.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;.. and the fact that exchanges need 24/7 auditing.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;I don&amp;#39;t think you know what the word &amp;quot;fact&amp;quot; means.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1pd6x",
+                                "created": 1412606760,
+                                "author_flair_text": null,
+                                "created_utc": 1412577960,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0zx59",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "CP70",
+                      "parent_id": "t1_cl0zas3",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The problem is trust of auditors and the fact that exchanges need 24/7 auditing.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The problem is trust of auditors and the fact that exchanges need 24/7 auditing.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0zx59",
+                      "created": 1412548726,
+                      "author_flair_text": null,
+                      "created_utc": 1412519926,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0zas3",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "wbic16",
+            "parent_id": "t3_2icrsd",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Have you reviewed information like this?\n\nhttps://www.kraken.com/security/audit",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Have you reviewed information like this?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.kraken.com/security/audit\"&gt;https://www.kraken.com/security/audit&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0zas3",
+            "created": 1412546820,
+            "author_flair_text": null,
+            "created_utc": 1412518020,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2icrsd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl11joy",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "seriouslytaken",
+            "parent_id": "t3_2icrsd",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "https://www.gocelery.com/#transparency\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.gocelery.com/#transparency\"&gt;https://www.gocelery.com/#transparency&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl11joy",
+            "created": 1412553002,
+            "author_flair_text": null,
+            "created_utc": 1412524202,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

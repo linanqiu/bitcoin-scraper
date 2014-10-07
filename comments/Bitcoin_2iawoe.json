@@ -1,0 +1,185 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I usually avoid speculation based discussion, but with the &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt; front page filled with this topic, due to a recent price decline, and inevitably more doom, gloom, and death predictions on the way I figured I should point some things out.&lt;/p&gt;\n\n&lt;p&gt;Bitcoin shouldn&amp;#39;t be valued based on price alone. Many, including so-called experts in other fields, miss this. Yes, Bitcoin enthusiasts have already pointed out all the infrastructure and investment pouring into Bitcoin as something else warranting consideration. I agree, but that&amp;#39;s maybe not so easy for people to measure as a metric form, so I&amp;#39;ll offer another, along with an explanation which can show many of the less insightful why Bitcoin enthusiasts have such unwavering confidence.&lt;/p&gt;\n\n&lt;p&gt;Bitcoin isn&amp;#39;t a stock or Ponzi. Valuing it similarly, based on price point alone, therefore is likely to result in mistakes. Things like stocks or Ponzi item inventories are traded in a market and derive a price, but unlike Bitcoin the total units available to the market is basically fixed. People trade a relatively static supply of these and it&amp;#39;s up to new entrants to enter the market along with other dynamics like sentiment to result in price increases. Bitcoin, however, doesn&amp;#39;t have a static supply for the market. By design the units available are inflationary, because Bitcoin is a &lt;em&gt;currency&lt;/em&gt;. What makes a currency valuable is how many people use it, not what the sentiment on it is.&lt;/p&gt;\n\n&lt;p&gt;So, a better way to gauge how well Bitcoin is doing is to &lt;em&gt;include&lt;/em&gt; the number of currency units in any analysis. Doing that paints a very different picture.&lt;/p&gt;\n\n&lt;p&gt;Using these two sources I derive some interesting numbers:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://blockchain.info/charts/total-bitcoins?timespan=1year&amp;amp;showDataPoints=true&amp;amp;daysAverageString=1&amp;amp;show_header=true&amp;amp;scale=0&amp;amp;address=\"&gt;https://blockchain.info/charts/total-bitcoins?timespan=1year&amp;amp;showDataPoints=true&amp;amp;daysAverageString=1&amp;amp;show_header=true&amp;amp;scale=0&amp;amp;address=&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://bitcoincharts.com/charts/bitstampUSD#rg360ztgSzm1g10zm2g25zv\"&gt;http://bitcoincharts.com/charts/bitstampUSD#rg360ztgSzm1g10zm2g25zv&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The following shows Bitcoin price points multiplied by total coins in existence at 1 year intervals, to find a &lt;em&gt;total market cap&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;$12 * 10,091,000 =  121 million.....Oct &amp;#39;12&lt;/p&gt;\n\n&lt;p&gt;$120 * 11,790,000 = 1.4 billion.....Oct &amp;#39;13  (1057% increase)&lt;/p&gt;\n\n&lt;p&gt;$350 * 13,341,000 = 4.66 billion....Oct &amp;#39;14  (232% increase)&lt;/p&gt;\n\n&lt;p&gt;$? * 14,650,000 = 6.99 billion........Oct &amp;#39;15  (50% increase)&lt;/p&gt;\n\n&lt;p&gt;As you can see the &lt;em&gt;market cap&lt;/em&gt; of Bitcoin is doing extremely well. Wall St. traders would love such yearly increases.&lt;/p&gt;\n\n&lt;p&gt;Notice for Oct &amp;#39;15 I project a 50% increase. Why? It&amp;#39;s because I expect the trend to be up, but as many may have heard by now it&amp;#39;s generally expected for Bitcoin&amp;#39;s volatility to lessen as time goes on and the market grows larger (making it more useful as a currency). The numbers above show that - the market is finding equlibrium.&lt;/p&gt;\n\n&lt;p&gt;Given this we can solve for and predict what Bitcoin&amp;#39;s price should be in Oct &amp;#39;15, which in this case is $477.&lt;/p&gt;\n\n&lt;p&gt;So there you have it. I rarely make speculative predictions, but this is mine for the next year. If you bought in over $500 my advice is to hold. I think there is a good chance you&amp;#39;ll recover your money after a year. If you&amp;#39;re looking to get into Bitcoin my advice is to buy, and there is a good chance you&amp;#39;ll make at least 50% on your money in 1 year (not bad by Wall St. standards).&lt;/p&gt;\n\n&lt;p&gt;But.. but... but I thought I was going to be RICH!?!&lt;/p&gt;\n\n&lt;p&gt;Well, you may be. I depends how many bitcoins you have. Indeed, Bitcoin has already made many of its users rich. That story may not be over either. Why? Well for that we need a &lt;em&gt;different&lt;/em&gt; kind of chart:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://blog.betable.com/wp-content/uploads/2012/08/Technology-Adoption-Lifecycle-1.png\"&gt;http://blog.betable.com/wp-content/uploads/2012/08/Technology-Adoption-Lifecycle-1.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;This is what&amp;#39;s known as a technology adoption curve. It&amp;#39;s what we&amp;#39;ve seen happen over and over again with different technologies, other than Bitcoin. This shows all the fantastic growth we&amp;#39;ve seen in Bitcoin, all the 3,000% increases, news, attention etc. is only a precursor of what&amp;#39;s to come, because we&amp;#39;re &lt;em&gt;still&lt;/em&gt; in the early adopter stage. If you don&amp;#39;t think so ask your local grocer if they own any bitcoins, or even if any of their friends do. Until that answer is yes, we&amp;#39;re not out of the early adopter stage.&lt;/p&gt;\n\n&lt;p&gt;There is something else, though. That&amp;#39;s a chart specifically for &lt;em&gt;technology&lt;/em&gt;. Bitcoin isn&amp;#39;t only a new technology. It&amp;#39;s a new &lt;em&gt;currency&lt;/em&gt; - a global one. We simply don&amp;#39;t have any good charts or data on what happens when the global population begins to adopt the same new currency. The closest thing to that would be the US dollar, the world&amp;#39;s reserve currency, and obviously that&amp;#39;s something measured in the trillions, not the millions or billions Bitcoin markets are measured in now.&lt;/p&gt;\n\n&lt;p&gt;So the 477 price target is only based on the market trying to find equilibrium with what Bitcoin is today, not what it becomes in the future, which can look very different than what it is today. Markets seek equilibrium. That&amp;#39;s what they do. So don&amp;#39;t despair about day to day price point gains or losses. In the grand scheme of things Bitcoin is right on target.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I usually avoid speculation based discussion, but with the /r/Bitcoin front page filled with this topic, due to a recent price decline, and inevitably more doom, gloom, and death predictions on the way I figured I should point some things out.\n\nBitcoin shouldn't be valued based on price alone. Many, including so-called experts in other fields, miss this. Yes, Bitcoin enthusiasts have already pointed out all the infrastructure and investment pouring into Bitcoin as something else warranting consideration. I agree, but that's maybe not so easy for people to measure as a metric form, so I'll offer another, along with an explanation which can show many of the less insightful why Bitcoin enthusiasts have such unwavering confidence.\n\nBitcoin isn't a stock or Ponzi. Valuing it similarly, based on price point alone, therefore is likely to result in mistakes. Things like stocks or Ponzi item inventories are traded in a market and derive a price, but unlike Bitcoin the total units available to the market is basically fixed. People trade a relatively static supply of these and it's up to new entrants to enter the market along with other dynamics like sentiment to result in price increases. Bitcoin, however, doesn't have a static supply for the market. By design the units available are inflationary, because Bitcoin is a *currency*. What makes a currency valuable is how many people use it, not what the sentiment on it is.\n\nSo, a better way to gauge how well Bitcoin is doing is to *include* the number of currency units in any analysis. Doing that paints a very different picture.\n\nUsing these two sources I derive some interesting numbers:\n\nhttps://blockchain.info/charts/total-bitcoins?timespan=1year&amp;showDataPoints=true&amp;daysAverageString=1&amp;show_header=true&amp;scale=0&amp;address=\n\nhttp://bitcoincharts.com/charts/bitstampUSD#rg360ztgSzm1g10zm2g25zv\n\nThe following shows Bitcoin price points multiplied by total coins in existence at 1 year intervals, to find a *total market cap*.\n\n$12 * 10,091,000 =  121 million.....Oct '12\n\n$120 * 11,790,000 = 1.4 billion.....Oct '13  (1057% increase)\n\n$350 * 13,341,000 = 4.66 billion....Oct '14  (232% increase)\n\n$? * 14,650,000 = 6.99 billion........Oct '15  (50% increase)\n\nAs you can see the *market cap* of Bitcoin is doing extremely well. Wall St. traders would love such yearly increases.\n\nNotice for Oct '15 I project a 50% increase. Why? It's because I expect the trend to be up, but as many may have heard by now it's generally expected for Bitcoin's volatility to lessen as time goes on and the market grows larger (making it more useful as a currency). The numbers above show that - the market is finding equlibrium.\n\nGiven this we can solve for and predict what Bitcoin's price should be in Oct '15, which in this case is $477.\n\nSo there you have it. I rarely make speculative predictions, but this is mine for the next year. If you bought in over $500 my advice is to hold. I think there is a good chance you'll recover your money after a year. If you're looking to get into Bitcoin my advice is to buy, and there is a good chance you'll make at least 50% on your money in 1 year (not bad by Wall St. standards).\n\nBut.. but... but I thought I was going to be RICH!?!\n\nWell, you may be. I depends how many bitcoins you have. Indeed, Bitcoin has already made many of its users rich. That story may not be over either. Why? Well for that we need a *different* kind of chart:\n\nhttp://blog.betable.com/wp-content/uploads/2012/08/Technology-Adoption-Lifecycle-1.png\n\nThis is what's known as a technology adoption curve. It's what we've seen happen over and over again with different technologies, other than Bitcoin. This shows all the fantastic growth we've seen in Bitcoin, all the 3,000% increases, news, attention etc. is only a precursor of what's to come, because we're *still* in the early adopter stage. If you don't think so ask your local grocer if they own any bitcoins, or even if any of their friends do. Until that answer is yes, we're not out of the early adopter stage.\n\nThere is something else, though. That's a chart specifically for *technology*. Bitcoin isn't only a new technology. It's a new *currency* - a global one. We simply don't have any good charts or data on what happens when the global population begins to adopt the same new currency. The closest thing to that would be the US dollar, the world's reserve currency, and obviously that's something measured in the trillions, not the millions or billions Bitcoin markets are measured in now.\n\nSo the 477 price target is only based on the market trying to find equilibrium with what Bitcoin is today, not what it becomes in the future, which can look very different than what it is today. Markets seek equilibrium. That's what they do. So don't despair about day to day price point gains or losses. In the grand scheme of things Bitcoin is right on target.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iawoe",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "acoindr",
+            "media": null,
+            "score": 9,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412458769,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iawoe",
+            "permalink": "/r/Bitcoin/comments/2iawoe/why_bitcoins_price_is_right_on_target_or_what/",
+            "stickied": false,
+            "created": 1412483041,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iawoe/why_bitcoins_price_is_right_on_target_or_what/",
+            "author_flair_text": null,
+            "title": "Why Bitcoin's Price is Right on Target, Or What Many Seem to Miss",
+            "created_utc": 1412454241,
+            "ups": 9,
+            "upvote_ratio": 0.67,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iawoe",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iawoe",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl13i0v",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "acoindr",
+                      "parent_id": "t1_cl11fdg",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I think you don't understand what I'm saying is happening.\n\nBitcoin is not supposed to have bubble increase after bubble increase. The markets figure that out after a while and equalize. What I'm saying is for where Bitcoin is at, what I would expect to happen is exactly what appears to be happening. \n\nNow, this doesn't mean there will never be another bubble increase - I believe there will be. It means for the user base/market participants Bitcoin has now, the price is doing what I would expect it to.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think you don&amp;#39;t understand what I&amp;#39;m saying is happening.&lt;/p&gt;\n\n&lt;p&gt;Bitcoin is not supposed to have bubble increase after bubble increase. The markets figure that out after a while and equalize. What I&amp;#39;m saying is for where Bitcoin is at, what I would expect to happen is exactly what appears to be happening. &lt;/p&gt;\n\n&lt;p&gt;Now, this doesn&amp;#39;t mean there will never be another bubble increase - I believe there will be. It means for the user base/market participants Bitcoin has now, the price is doing what I would expect it to.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl13i0v",
+                      "created": 1412557498,
+                      "author_flair_text": null,
+                      "created_utc": 1412528698,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl11fdg",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "alecs_stan",
+            "parent_id": "t3_2iawoe",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The fuck it is.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The fuck it is.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl11fdg",
+            "created": 1412552700,
+            "author_flair_text": null,
+            "created_utc": 1412523900,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iawoe",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1mfoa",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "SparrowMaxx",
+            "parent_id": "t3_2iawoe",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "lol",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1mfoa",
+            "created": 1412597018,
+            "author_flair_text": null,
+            "created_utc": 1412568218,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

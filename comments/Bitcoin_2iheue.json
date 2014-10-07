@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoincourse.co",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iheue",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "mountaineer",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2iheue",
+            "permalink": "/r/Bitcoin/comments/2iheue/the_bitcoin_course/",
+            "stickied": false,
+            "created": 1412656063,
+            "url": "http://www.bitcoincourse.co",
+            "author_flair_text": null,
+            "title": "The Bitcoin Course",
+            "created_utc": 1412627263,
+            "ups": 1,
+            "upvote_ratio": 1,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

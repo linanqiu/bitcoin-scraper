@@ -1,0 +1,185 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Just as the title reads I have coins locked up in  cryptothrift.com right now and they are blaming it on multi sig implement that is coming within the next few days or hours. However I can&amp;#39;t find anything in the forums about them announcing this feature I can&amp;#39;t find anywhere that they talked about announcing that they would be working on this feature. The rumors are starting to swirl about a possible exit strategy for another theft of coins. I hope we don&amp;#39;t have another silk Road or mt.gox or butterfly labs on our hands.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Just as the title reads I have coins locked up in  cryptothrift.com right now and they are blaming it on multi sig implement that is coming within the next few days or hours. However I can't find anything in the forums about them announcing this feature I can't find anywhere that they talked about announcing that they would be working on this feature. The rumors are starting to swirl about a possible exit strategy for another theft of coins. I hope we don't have another silk Road or mt.gox or butterfly labs on our hands.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ihyby",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "apollojmr",
+            "media": null,
+            "score": 8,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ihyby",
+            "permalink": "/r/Bitcoin/comments/2ihyby/for_the_moment_beware_of_cryptothriftcom_they_are/",
+            "stickied": false,
+            "created": 1412665383,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ihyby/for_the_moment_beware_of_cryptothriftcom_they_are/",
+            "author_flair_text": null,
+            "title": "For the moment beware of Cryptothrift.com they are not releasing any funds at all and blaming it on implementing multi signature escrow.",
+            "created_utc": 1412636583,
+            "ups": 8,
+            "upvote_ratio": 0.84,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihyby",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2egkm",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "AcesAndEights21",
+            "parent_id": "t3_2ihyby",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I just got this email from them\n\n&gt;Dear XXXX,\n\n&gt;In the early ours of Sunday 5th October, CryptoThrift was subject to a well-planned and clinically executed security breach.  Our hot wallet was compromised and our attackers managed to steal a little over 15 BTC of funds that were held in escrow.  The nature of the attack was such that it was not immediately clear that anything had happened, which is why it has taken us until today to take action.  \n\n&gt;Fortunately the majority of users funds being held in escrow were safe in offline storage, so the impact of this attack was lessened.  Please be assured that any users that have payments or refunds due will be contacted over the next few days and your money will be paid.  The owners of CryptoThrift are absorbing the cost of this.\n\n&gt;Whilst we have not yet completed our investigation, we have identified the attack vector as a vulnerability in a third party plugin.  This was used to inject SQL queries into our database and manipulate the amounts on transactions being released from escrow.  What we have not made public until now is that we have seen sustained and almost-daily attack attempts on the site for many months.  We have been in contact with the Australian Federal Police regarding this, and will be sharing with them all data that we have on this attack as well as all previous attempts.\n\n&gt;This attack has prompted us to reflect on our security measures, and we have concluded that we need to make some significant changes to our escrow process, our storage of customers funds, and have a third-party conduct a full security audit.  Until this is complete, we feel we have no choice but temporarily suspend our escrow service for our users, as we simply cannot risk holding users funds.  Effective immediately, buyers will no longer be able to choose to use escrow when purchasing items.  All existing transactions that are in escrow will be honored until they are released or refunded.\n\n&gt;CryptoThrift is owned and operated by two guys, both with families and full-time jobs, who run this site in their evenings and weekends to try and create something new for the crypto community.  We have made every effort to provide good customer service and have put 100% of all profits back into development, advertising, and marketing.  A such, the cost of this theft is being covered by us personally.  If our attackers wish to do the right thing and return our funds to us, they can do so by sending it back to 19bBwiFrAaCLxZZoS4grTDoFFVszxzvPMo.  If any of our users wish to help, we would gratefully receive donations of support to the same address.  \n\n&gt;We must sincerely apologize to our loyal users for this breach and our decision to temporarily remove our escrow service.  It is heartbreaking for us to see our hard work destroyed by cold-hearted, thoughtless, hackers.\n\n&gt;Thanks for all your support, and we hope that you continue to use our site. If you have any comments, please feel free to share them on our blog post\n\n&gt;Paul &amp; Ahmad\nTeam CryptoThrift",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I just got this email from them&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Dear XXXX,&lt;/p&gt;\n\n&lt;p&gt;In the early ours of Sunday 5th October, CryptoThrift was subject to a well-planned and clinically executed security breach.  Our hot wallet was compromised and our attackers managed to steal a little over 15 BTC of funds that were held in escrow.  The nature of the attack was such that it was not immediately clear that anything had happened, which is why it has taken us until today to take action.  &lt;/p&gt;\n\n&lt;p&gt;Fortunately the majority of users funds being held in escrow were safe in offline storage, so the impact of this attack was lessened.  Please be assured that any users that have payments or refunds due will be contacted over the next few days and your money will be paid.  The owners of CryptoThrift are absorbing the cost of this.&lt;/p&gt;\n\n&lt;p&gt;Whilst we have not yet completed our investigation, we have identified the attack vector as a vulnerability in a third party plugin.  This was used to inject SQL queries into our database and manipulate the amounts on transactions being released from escrow.  What we have not made public until now is that we have seen sustained and almost-daily attack attempts on the site for many months.  We have been in contact with the Australian Federal Police regarding this, and will be sharing with them all data that we have on this attack as well as all previous attempts.&lt;/p&gt;\n\n&lt;p&gt;This attack has prompted us to reflect on our security measures, and we have concluded that we need to make some significant changes to our escrow process, our storage of customers funds, and have a third-party conduct a full security audit.  Until this is complete, we feel we have no choice but temporarily suspend our escrow service for our users, as we simply cannot risk holding users funds.  Effective immediately, buyers will no longer be able to choose to use escrow when purchasing items.  All existing transactions that are in escrow will be honored until they are released or refunded.&lt;/p&gt;\n\n&lt;p&gt;CryptoThrift is owned and operated by two guys, both with families and full-time jobs, who run this site in their evenings and weekends to try and create something new for the crypto community.  We have made every effort to provide good customer service and have put 100% of all profits back into development, advertising, and marketing.  A such, the cost of this theft is being covered by us personally.  If our attackers wish to do the right thing and return our funds to us, they can do so by sending it back to 19bBwiFrAaCLxZZoS4grTDoFFVszxzvPMo.  If any of our users wish to help, we would gratefully receive donations of support to the same address.  &lt;/p&gt;\n\n&lt;p&gt;We must sincerely apologize to our loyal users for this breach and our decision to temporarily remove our escrow service.  It is heartbreaking for us to see our hard work destroyed by cold-hearted, thoughtless, hackers.&lt;/p&gt;\n\n&lt;p&gt;Thanks for all your support, and we hope that you continue to use our site. If you have any comments, please feel free to share them on our blog post&lt;/p&gt;\n\n&lt;p&gt;Paul &amp;amp; Ahmad\nTeam CryptoThrift&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2egkm",
+            "created": 1412672070,
+            "author_flair_text": null,
+            "created_utc": 1412643270,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihyby",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ihyby",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2g8y7",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "paulscreen",
+                      "parent_id": "t1_cl2eq5z",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Paul from CryptoThrift here.  Just thought I would address the comments. \n\nAfter the hack we were hoping to implement a multi-sig solution to prevent it happening again, but realised that it is going to take some time and doesn't address the root cause.  Hence our decision to suspend escrow until we can implement something without rushing it.  We've started processing escrow releases manually already today and should have them all done within 24 hours.  \n\nWe're in no way associated with bitmit and we have no plans to shut the site down.  We just wanted to be honest that we were hacked, we are absorbing the cost personally, and the sensible thing for us to do is to suspend escrow until we can tighten up security.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Paul from CryptoThrift here.  Just thought I would address the comments. &lt;/p&gt;\n\n&lt;p&gt;After the hack we were hoping to implement a multi-sig solution to prevent it happening again, but realised that it is going to take some time and doesn&amp;#39;t address the root cause.  Hence our decision to suspend escrow until we can implement something without rushing it.  We&amp;#39;ve started processing escrow releases manually already today and should have them all done within 24 hours.  &lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re in no way associated with bitmit and we have no plans to shut the site down.  We just wanted to be honest that we were hacked, we are absorbing the cost personally, and the sensible thing for us to do is to suspend escrow until we can tighten up security.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2g8y7",
+                      "created": 1412675625,
+                      "author_flair_text": null,
+                      "created_utc": 1412646825,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2eq5z",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Caad10",
+            "parent_id": "t3_2ihyby",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think it was around this time last year that bitmit shut down, not that cryptothrift appears to be shutting down. I remember bitmit claimed they lost around 15 btc too(when btc was at around $100/btc). Bitmits claim was that a rogue employee of the sites hosted servers used root privileges or something to access the hot wallet.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think it was around this time last year that bitmit shut down, not that cryptothrift appears to be shutting down. I remember bitmit claimed they lost around 15 btc too(when btc was at around $100/btc). Bitmits claim was that a rogue employee of the sites hosted servers used root privileges or something to access the hot wallet.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2eq5z",
+            "created": 1412672613,
+            "author_flair_text": null,
+            "created_utc": 1412643813,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

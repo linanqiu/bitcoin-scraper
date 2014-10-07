@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;am in the Uk looking to buy Coin Every week but what service offers me this availability ? i know coinbase but that doesn&amp;#39;t allow me &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "am in the Uk looking to buy Coin Every week but what service offers me this availability ? i know coinbase but that doesn't allow me ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2id8pd",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "MartinoMa3",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2id8pd",
+            "permalink": "/r/Bitcoin/comments/2id8pd/what_bitcoin_exchanges_offer_recurring_buys/",
+            "stickied": false,
+            "created": 1412556415,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2id8pd/what_bitcoin_exchanges_offer_recurring_buys/",
+            "author_flair_text": null,
+            "title": "What bitcoin Exchanges offer recurring buys?",
+            "created_utc": 1412527615,
+            "ups": 6,
+            "upvote_ratio": 1,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id8pd",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl146x2",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sgornick",
+            "parent_id": "t3_2id8pd",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "UK?  ZipZap, right? http://www.coindesk.com/zipzap-resumes-cash-bitcoin-services-uk-shoppers/",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;UK?  ZipZap, right? &lt;a href=\"http://www.coindesk.com/zipzap-resumes-cash-bitcoin-services-uk-shoppers/\"&gt;http://www.coindesk.com/zipzap-resumes-cash-bitcoin-services-uk-shoppers/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl146x2",
+            "created": 1412558887,
+            "author_flair_text": null,
+            "created_utc": 1412530087,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;&amp;quot;Bitcoin going from $500 to $750 is the same as $500 to $250!&amp;quot;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;NO. Going from $500 to $250 HALVES the market cap (decreases by factor of 2). In order to do the opposite (double (increase by factor of 2), you need to go from $500 to $1000. Going to $750 is a 1.5x increase, and is less of a difference from $500 than $500 is to $250. &lt;/p&gt;\n\n&lt;p&gt;If we get to $100 (from $500), the opposite effect would be like going from $500 to $2500. &lt;/p&gt;\n\n&lt;p&gt;Carry on.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "&gt;\"Bitcoin going from $500 to $750 is the same as $500 to $250!\"\n\nNO. Going from $500 to $250 HALVES the market cap (decreases by factor of 2). In order to do the opposite (double (increase by factor of 2), you need to go from $500 to $1000. Going to $750 is a 1.5x increase, and is less of a difference from $500 than $500 is to $250. \n\nIf we get to $100 (from $500), the opposite effect would be like going from $500 to $2500. \n\nCarry on.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idcgx",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Gloomfrost",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idcgx",
+            "permalink": "/r/Bitcoin/comments/2idcgx/see_this_for_math_help_before_posting_anything_to/",
+            "stickied": false,
+            "created": 1412558778,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idcgx/see_this_for_math_help_before_posting_anything_to/",
+            "author_flair_text": null,
+            "title": "See this for math help before posting anything to do with price and Bitcoin.",
+            "created_utc": 1412529978,
+            "ups": 3,
+            "upvote_ratio": 0.6,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idcgx",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1bcxy",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Vaultoro",
+            "parent_id": "t3_2idcgx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1bcxy",
+            "created": 1412572700,
+            "author_flair_text": null,
+            "created_utc": 1412543900,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

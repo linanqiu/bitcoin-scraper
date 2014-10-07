@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "techcrunch.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ifw31",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Ilogy",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/nWbETdUnx1SIxun2_yFUqzCGiGCQKWODWOkaFlYnJEM.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ifw31",
+            "permalink": "/r/Bitcoin/comments/2ifw31/friendtofriend_payments_feature_hidden_in/",
+            "stickied": false,
+            "created": 1412626436,
+            "url": "http://techcrunch.com/2014/10/05/pay-with-facebook-messenger/",
+            "author_flair_text": null,
+            "title": "Friend-To-Friend Payments Feature Hidden In Facebook Messenger",
+            "created_utc": 1412597636,
+            "ups": 3,
+            "upvote_ratio": 0.8,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

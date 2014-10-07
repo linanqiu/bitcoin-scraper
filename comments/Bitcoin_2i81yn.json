@@ -1,0 +1,1055 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone else had this issue? It&amp;#39;s been nearly 2 hours.&lt;/p&gt;\n\n&lt;p&gt;EDIT:16 hours&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Has anyone else had this issue? It's been nearly 2 hours.\n\nEDIT:16 hours",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i81yn",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "addm3plz",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412422414,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i81yn",
+            "permalink": "/r/Bitcoin/comments/2i81yn/circle_not_depositing_from_bank_account/",
+            "stickied": false,
+            "created": 1412399222,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i81yn/circle_not_depositing_from_bank_account/",
+            "author_flair_text": null,
+            "title": "Circle not depositing from Bank Account.",
+            "created_utc": 1412370422,
+            "ups": 7,
+            "upvote_ratio": 0.74,
+            "num_comments": 24,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i81yn",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i81yn",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i81yn",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i81yn",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i81yn",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2i81yn",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2i81yn",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "ckzuebp",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "addm3plz",
+                                                                                  "parent_id": "t1_ckzubju",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Yeah, I'd like to sign up again after kinks are worked through. Just seems like they started off because everyone was like, \"WHERE IS CIRCLE? THEY PROMISED THEY'D  BE HERE\" like they did with that Bitcoin Documentary",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah, I&amp;#39;d like to sign up again after kinks are worked through. Just seems like they started off because everyone was like, &amp;quot;WHERE IS CIRCLE? THEY PROMISED THEY&amp;#39;D  BE HERE&amp;quot; like they did with that Bitcoin Documentary&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_ckzuebp",
+                                                                                  "created": 1412410838,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412382038,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "ckzubju",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "adog12341",
+                                                                        "parent_id": "t1_ckzu8f8",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Yea, they just launched so I can understand they're having issues.  Oh well, I can always use coinbase in the meantime :)",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yea, they just launched so I can understand they&amp;#39;re having issues.  Oh well, I can always use coinbase in the meantime :)&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_ckzubju",
+                                                                        "created": 1412410641,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412381841,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckzu8f8",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "addm3plz",
+                                                              "parent_id": "t1_ckzu6wj",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Damn, sorry to hear that. They seem to be having issues, and I'd like to see if my account can be wiped (though in their terms it says they can hold your info indefinitely due to legal stuff)",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Damn, sorry to hear that. They seem to be having issues, and I&amp;#39;d like to see if my account can be wiped (though in their terms it says they can hold your info indefinitely due to legal stuff)&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckzu8f8",
+                                                              "created": 1412410420,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412381620,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzu6wj",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "adog12341",
+                                                    "parent_id": "t1_ckzu3b4",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Yep I tried different orders too.  Nothing worked.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yep I tried different orders too.  Nothing worked.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzu6wj",
+                                                    "created": 1412410311,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412381511,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzu3b4",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "addm3plz",
+                                          "parent_id": "t1_ckztzpy",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Did you make them in order? I put them in backwards the first time, but then I flipped them and it worked.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Did you make them in order? I put them in backwards the first time, but then I flipped them and it worked.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzu3b4",
+                                          "created": 1412410056,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412381256,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i81yn",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i81yn",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzwyth",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "adog12341",
+                                                    "parent_id": "t1_ckzwinb",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "I'm pretty sure I tried everything EXCEPT that! Ughhh.  It showed as a 0.00 format in the box so I assumed that's how they wanted it.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m pretty sure I tried everything EXCEPT that! Ughhh.  It showed as a 0.00 format in the box so I assumed that&amp;#39;s how they wanted it.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzwyth",
+                                                    "created": 1412417643,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412388843,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzwinb",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "ardvarkr",
+                                          "parent_id": "t1_ckztzpy",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Did you try entering the amounts as whole numbers? When I entered 0.53, it said incorrect, then I tried 53 and it worked.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Did you try entering the amounts as whole numbers? When I entered 0.53, it said incorrect, then I tried 53 and it worked.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzwinb",
+                                          "created": 1412416445,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412387645,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i81yn",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i81yn",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl06vvv",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "adog12341",
+                                                    "parent_id": "t1_cl00mxr",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Yep, that's what I tried first.  ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yep, that&amp;#39;s what I tried first.  &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl06vvv",
+                                                    "created": 1412461025,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412432225,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl00mxr",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "Bipolarruledout",
+                                          "parent_id": "t1_ckztzpy",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Lots of people are saying this but I can't help but feel they are entering it wrong or something. When in doubt enter zero point before the number. \n\nExample\n0.83",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Lots of people are saying this but I can&amp;#39;t help but feel they are entering it wrong or something. When in doubt enter zero point before the number. &lt;/p&gt;\n\n&lt;p&gt;Example\n0.83&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl00mxr",
+                                          "created": 1412428823,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412400023,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckztzpy",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "adog12341",
+                                "parent_id": "t1_ckztwqz",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Yes.  I put those in and said they were invalid.  I tried many variations of decimals until it eventually just deleted my request...",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes.  I put those in and said they were invalid.  I tried many variations of decimals until it eventually just deleted my request...&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckztzpy",
+                                "created": 1412409800,
+                                "author_flair_text": null,
+                                "created_utc": 1412381000,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckztwqz",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "addm3plz",
+                      "parent_id": "t1_ckzrpxl",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Did you check to see the two mini deposits they put in your account?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Did you check to see the two mini deposits they put in your account?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckztwqz",
+                      "created": 1412409588,
+                      "author_flair_text": null,
+                      "created_utc": 1412380788,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzrpxl",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "adog12341",
+            "parent_id": "t3_2i81yn",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I couldn't even get my bank to verify...  So now they have my bank info and I have jack shit.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I couldn&amp;#39;t even get my bank to verify...  So now they have my bank info and I have jack shit.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzrpxl",
+            "created": 1412404352,
+            "author_flair_text": null,
+            "created_utc": 1412375552,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i81yn",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i81yn",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i81yn",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl093h7",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "addm3plz",
+                                          "parent_id": "t1_cl08ooh",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "***Facepalms***\n\nI'm retarded. Thank you so much.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Facepalms&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m retarded. Thank you so much.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl093h7",
+                                          "created": 1412467347,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412438547,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl08ooh",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "SlickCoin",
+                                "parent_id": "t1_cl04q4r",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Ahhhh, this is the issue. Sending and receiving bitcoin to and from bitcoin wallets takes from a few seconds to 40 minutes (for final confirmation). Bank Account transfers can take 3-5 BUSINESS days.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ahhhh, this is the issue. Sending and receiving bitcoin to and from bitcoin wallets takes from a few seconds to 40 minutes (for final confirmation). Bank Account transfers can take 3-5 BUSINESS days.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl08ooh",
+                                "created": 1412466298,
+                                "author_flair_text": null,
+                                "created_utc": 1412437498,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl04q4r",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "addm3plz",
+                      "parent_id": "t1_cl00lkn",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Their site says within a few seconds to 40 minutes... I feel like that should have been made clear.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Their site says within a few seconds to 40 minutes... I feel like that should have been made clear.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl04q4r",
+                      "created": 1412451182,
+                      "author_flair_text": null,
+                      "created_utc": 1412422382,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl00lkn",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Bipolarruledout",
+            "parent_id": "t3_2i81yn",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Hate to break it to you but ACH takes 1 day *minimum*, 3-4 with commercial banks.  ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hate to break it to you but ACH takes 1 day &lt;em&gt;minimum&lt;/em&gt;, 3-4 with commercial banks.  &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl00lkn",
+            "created": 1412428697,
+            "author_flair_text": null,
+            "created_utc": 1412399897,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i81yn",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckztp2k",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "nipcity",
+                      "parent_id": "t1_ckzqucp",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Same here.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Same here.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckztp2k",
+                      "created": 1412409065,
+                      "author_flair_text": null,
+                      "created_utc": 1412380265,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzqucp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "wtfisbitcoin",
+            "parent_id": "t3_2i81yn",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "4 days and counting since my circle account stopped working ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;4 days and counting since my circle account stopped working &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzqucp",
+            "created": 1412402315,
+            "author_flair_text": null,
+            "created_utc": 1412373515,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i81yn",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzu4dy",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "addm3plz",
+                      "parent_id": "t1_ckztxc2",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The $20 is still pending, and I don't want to try again if the $20 is going to go through too.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The $20 is still pending, and I don&amp;#39;t want to try again if the $20 is going to go through too.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzu4dy",
+                      "created": 1412410132,
+                      "author_flair_text": null,
+                      "created_utc": 1412381332,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckztxc2",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "coreyp57",
+            "parent_id": "t3_2i81yn",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I've had an account since the day they went public and linked my bank account. Hasn't worked once after verifying my account. After seeing this I decided to give it another try and it was successful! Very satisfying indeed. Give it another go. Hope it works for you :-)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve had an account since the day they went public and linked my bank account. Hasn&amp;#39;t worked once after verifying my account. After seeing this I decided to give it another try and it was successful! Very satisfying indeed. Give it another go. Hope it works for you :-)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckztxc2",
+            "created": 1412409628,
+            "author_flair_text": null,
+            "created_utc": 1412380828,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzwv55",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "mcbelisle",
+            "parent_id": "t3_2i81yn",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I tried to buy today with credit card and its still pending ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I tried to buy today with credit card and its still pending &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzwv55",
+            "created": 1412417357,
+            "author_flair_text": null,
+            "created_utc": 1412388557,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i81yn",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i81yn",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i81yn",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzqr7k",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "robertgenito",
+                                "parent_id": "t1_ckzqfpf",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "besides, people have a right to hear about this! Circle's CEO tells Bitcoin developers to \"step up\", well well...",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;besides, people have a right to hear about this! Circle&amp;#39;s CEO tells Bitcoin developers to &amp;quot;step up&amp;quot;, well well...&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzqr7k",
+                                "created": 1412402122,
+                                "author_flair_text": null,
+                                "created_utc": 1412373322,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzqfpf",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "couchdive",
+                      "parent_id": "t1_ckzpp16",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "You sure? Their seems to be about 16 people, with specifically 1 to 10 month history, running around here shilling for them constantly.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You sure? Their seems to be about 16 people, with specifically 1 to 10 month history, running around here shilling for them constantly.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzqfpf",
+                      "created": 1412401413,
+                      "author_flair_text": null,
+                      "created_utc": 1412372613,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzpp16",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "recz255",
+            "parent_id": "t3_2i81yn",
+            "score": -5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This is not a Circle support sub.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is not a Circle support sub.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzpp16",
+            "created": 1412399766,
+            "author_flair_text": null,
+            "created_utc": 1412370966,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -5
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

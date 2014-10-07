@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoin-club.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9j96",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "dreamingofcoins",
+            "media": null,
+            "score": 2,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/q4g1H3ThuqVM_oG1opcIP-F-kBfF0gZ4K9fkRQo8aNE.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i9j96",
+            "permalink": "/r/Bitcoin/comments/2i9j96/using_regression_slope_cross_for_this_bitcoin/",
+            "stickied": false,
+            "created": 1412442721,
+            "url": "http://bitcoin-club.com/bitcoin-bot/bitcoin-trading-bot-regression/",
+            "author_flair_text": null,
+            "title": "Using Regression Slope Cross for this Bitcoin Bear Market",
+            "created_utc": 1412413921,
+            "ups": 2,
+            "upvote_ratio": 0.58,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

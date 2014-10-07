@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello everybody,\nI am a student at Regent’s University in London. I&amp;#39;m currently conducting research on the effect of Bitcoin on the financial sector for my bachelor thesis. I am trying to collect some data through a survey and I would greatly appreciate it if you would spend a couple of minutes to fill it out. It will take approximately 5 minutes. I will give away 0.1 BTC to a randomly chosen person that completed this survey.\nIf you have any comments or questions; or if you are interested in the research, feel free to contact me for further information at: timothy.schreiner@regents.ac.uk&lt;/p&gt;\n\n&lt;p&gt;Please follow the link to participate in the survey: &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://docs.google.com/forms/d/16679LbSDi9QipMvo3846eR7iNEcgJEQfwWIT8Doz_Ms/viewform?c=0&amp;amp;w=1&amp;amp;usp=mail_form_link\"&gt;https://docs.google.com/forms/d/16679LbSDi9QipMvo3846eR7iNEcgJEQfwWIT8Doz_Ms/viewform?c=0&amp;amp;w=1&amp;amp;usp=mail_form_link&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hello everybody,\nI am a student at Regent’s University in London. I'm currently conducting research on the effect of Bitcoin on the financial sector for my bachelor thesis. I am trying to collect some data through a survey and I would greatly appreciate it if you would spend a couple of minutes to fill it out. It will take approximately 5 minutes. I will give away 0.1 BTC to a randomly chosen person that completed this survey.\nIf you have any comments or questions; or if you are interested in the research, feel free to contact me for further information at: timothy.schreiner@regents.ac.uk\n\nPlease follow the link to participate in the survey: \n\nhttps://docs.google.com/forms/d/16679LbSDi9QipMvo3846eR7iNEcgJEQfwWIT8Doz_Ms/viewform?c=0&amp;w=1&amp;usp=mail_form_link\n\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ih6r2",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "BitcoinSurveyFinance",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ih6r2",
+            "permalink": "/r/Bitcoin/comments/2ih6r2/effect_of_bitcoin_on_the_financial_sector/",
+            "stickied": false,
+            "created": 1412652460,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ih6r2/effect_of_bitcoin_on_the_financial_sector/",
+            "author_flair_text": null,
+            "title": "Effect of Bitcoin on the financial sector",
+            "created_utc": 1412623660,
+            "ups": 1,
+            "upvote_ratio": 0.57,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ih6r2",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl24t46",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Daurgothoth",
+            "parent_id": "t3_2ih6r2",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt;What do you think are the risks of using Bitcoin?\n\nThis question should be phrased better with an option for none/minimal risk",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;What do you think are the risks of using Bitcoin?&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;This question should be phrased better with an option for none/minimal risk&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl24t46",
+            "created": 1412652957,
+            "author_flair_text": null,
+            "created_utc": 1412624157,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ih6r2",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ih6r2",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ih6r2",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl27q3j",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "JMUbtc",
+                                "parent_id": "t1_cl27lpf",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Haha, you're probably right. I figured I'd at least help him with his research though",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Haha, you&amp;#39;re probably right. I figured I&amp;#39;d at least help him with his research though&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl27q3j",
+                                "created": 1412658352,
+                                "author_flair_text": null,
+                                "created_utc": 1412629552,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl27lpf",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "LifeIsSoSweet",
+                      "parent_id": "t1_cl25nnk",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The random selected person concept always means that nobody gets anything and everyone will just be told that they are not the one.\n\nIf pressed he can just sign up his mother and let her win ;)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The random selected person concept always means that nobody gets anything and everyone will just be told that they are not the one.&lt;/p&gt;\n\n&lt;p&gt;If pressed he can just sign up his mother and let her win ;)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl27lpf",
+                      "created": 1412658126,
+                      "author_flair_text": null,
+                      "created_utc": 1412629326,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl25nnk",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "JMUbtc",
+            "parent_id": "t3_2ih6r2",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I just completed the survey. What do we need to do for being the randomly selected person? There was no option to provide an address.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I just completed the survey. What do we need to do for being the randomly selected person? There was no option to provide an address.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl25nnk",
+            "created": 1412654546,
+            "author_flair_text": null,
+            "created_utc": 1412625746,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Didn&amp;#39;t we learn enough from MT Gox?\ncan&amp;#39;t you see the price is being manipulated?\nDecentralized currency needs decentralized exchange, because\ncentralized exchange controls the value of the currency and when it happens its too much power (bitcoins) with 1 entity, it is easy to scare (Volatility) people from using it.&lt;/p&gt;\n\n&lt;p&gt;Well that&amp;#39;s only my 2 bits for the price.&lt;/p&gt;\n\n&lt;p&gt;Hodl to the death.&lt;/p&gt;\n\n&lt;p&gt;Edit: P.S. Thanks for the Oblivion Down Vote&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Didn't we learn enough from MT Gox?\ncan't you see the price is being manipulated?\nDecentralized currency needs decentralized exchange, because\ncentralized exchange controls the value of the currency and when it happens its too much power (bitcoins) with 1 entity, it is easy to scare (Volatility) people from using it.\n\nWell that's only my 2 bits for the price.\n\nHodl to the death.\n\nEdit: P.S. Thanks for the Oblivion Down Vote",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ibb3l",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "vandeam",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412464250,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ibb3l",
+            "permalink": "/r/Bitcoin/comments/2ibb3l/bitcoin_killer_app_decentralized_exchange/",
+            "stickied": false,
+            "created": 1412492430,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ibb3l/bitcoin_killer_app_decentralized_exchange/",
+            "author_flair_text": null,
+            "title": "Bitcoin Killer App, Decentralized Exchange.",
+            "created_utc": 1412463630,
+            "ups": 6,
+            "upvote_ratio": 0.72,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibb3l",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0ldui",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "djillryan",
+            "parent_id": "t3_2ibb3l",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Bithalo/Blackhalo and Nighttrader",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bithalo/Blackhalo and Nighttrader&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0ldui",
+            "created": 1412496576,
+            "author_flair_text": null,
+            "created_utc": 1412467776,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibb3l",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0k761",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "SatoshisGhost",
+            "parent_id": "t3_2ibb3l",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "There's already a few out there, don't think any ever got traction tho. It's a pity. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There&amp;#39;s already a few out there, don&amp;#39;t think any ever got traction tho. It&amp;#39;s a pity. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0k761",
+            "created": 1412493718,
+            "author_flair_text": null,
+            "created_utc": 1412464918,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

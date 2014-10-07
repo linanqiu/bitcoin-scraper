@@ -1,0 +1,189 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "youtube.com",
+            "banned_by": null,
+            "media_embed": {
+              "content": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F_gqe-Va8uCU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gqe-Va8uCU&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_gqe-Va8uCU%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "width": 600,
+              "scrolling": false,
+              "height": 338
+            },
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": {
+              "oembed": {
+                "provider_url": "http://www.youtube.com/",
+                "description": "Donation address for James in Hong Kong: https://blockchain.info/address/123mbDdfn6fo1aNhowFTDFahqvx6DU9KiC Follow James on Twitter: https://twitter.com/PRHacks Mentioned in Coin Telegraph with Donation Address confirmed http://cointelegraph.com/news/112677/you-can-now-fund-the-hong-kong-protesters-with-bitcoin On Reddit http://www.reddit.com/r/Bitcoin/comments/2i37hm/where_can_i_support_hong_kong_protesters_i_only/ Blockchain Timestamp ================= http://www.cryptograffiti.info/?txnr=1208 bc1b21bd13504f11e6e54a1d55a1319a2cd3d599a1a80b16e380d84cbf119c7e",
+                "title": "LIVE Update from Hong Kong &amp; Bitcoin Price Breaks Support - 4th October 2014",
+                "url": "http://www.youtube.com/watch?v=_gqe-Va8uCU",
+                "type": "video",
+                "author_name": "World Crypto Network",
+                "height": 338,
+                "width": 600,
+                "html": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_gqe-Va8uCU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gqe-Va8uCU&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_gqe-Va8uCU%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "version": "1.0",
+                "provider_name": "YouTube",
+                "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_gqe-Va8uCU%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+                "thumbnail_height": 360,
+                "author_url": "http://www.youtube.com/user/WorldCryptoNetwork"
+              },
+              "type": "youtube.com"
+            },
+            "link_flair_text": null,
+            "id": "2ieyke",
+            "gilded": 0,
+            "secure_media_embed": {
+              "content": "&lt;iframe class=\"embedly-embed\" src=\"https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_gqe-Va8uCU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gqe-Va8uCU&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_gqe-Va8uCU%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+              "width": 600,
+              "scrolling": false,
+              "height": 338
+            },
+            "clicked": false,
+            "report_reasons": null,
+            "author": "sambiohazard",
+            "media": {
+              "oembed": {
+                "provider_url": "http://www.youtube.com/",
+                "description": "Donation address for James in Hong Kong: https://blockchain.info/address/123mbDdfn6fo1aNhowFTDFahqvx6DU9KiC Follow James on Twitter: https://twitter.com/PRHacks Mentioned in Coin Telegraph with Donation Address confirmed http://cointelegraph.com/news/112677/you-can-now-fund-the-hong-kong-protesters-with-bitcoin On Reddit http://www.reddit.com/r/Bitcoin/comments/2i37hm/where_can_i_support_hong_kong_protesters_i_only/ Blockchain Timestamp ================= http://www.cryptograffiti.info/?txnr=1208 bc1b21bd13504f11e6e54a1d55a1319a2cd3d599a1a80b16e380d84cbf119c7e",
+                "title": "LIVE Update from Hong Kong &amp; Bitcoin Price Breaks Support - 4th October 2014",
+                "url": "http://www.youtube.com/watch?v=_gqe-Va8uCU",
+                "type": "video",
+                "author_name": "World Crypto Network",
+                "height": 338,
+                "width": 600,
+                "html": "&lt;iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F_gqe-Va8uCU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gqe-Va8uCU&amp;image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F_gqe-Va8uCU%2Fhqdefault.jpg&amp;key=2aa3c4d5f3de4f5b9120b660ad850dc9&amp;type=text%2Fhtml&amp;schema=youtube\" width=\"600\" height=\"338\" scrolling=\"no\" frameborder=\"0\" allowfullscreen&gt;&lt;/iframe&gt;",
+                "thumbnail_width": 480,
+                "version": "1.0",
+                "provider_name": "YouTube",
+                "thumbnail_url": "http://i.ytimg.com/vi/_gqe-Va8uCU/hqdefault.jpg",
+                "thumbnail_height": 360,
+                "author_url": "http://www.youtube.com/user/WorldCryptoNetwork"
+              },
+              "type": "youtube.com"
+            },
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/vLccE6RcfLnggeEOiKeWfUglAPjExmi_FbSdrOWjEzw.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ieyke",
+            "permalink": "/r/Bitcoin/comments/2ieyke/live_update_from_hong_kong_bitcoin_price_breaks/",
+            "stickied": false,
+            "created": 1412594379,
+            "url": "https://www.youtube.com/watch?v=_gqe-Va8uCU",
+            "author_flair_text": null,
+            "title": "LIVE Update from Hong Kong &amp; Bitcoin Price Breaks Support - 4th October 2014 (Recording of live interaction with @PRHacks on ground, asking questions to cops via internet)",
+            "created_utc": 1412565579,
+            "ups": 5,
+            "upvote_ratio": 1,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ieyke",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1lmcc",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sambiohazard",
+            "parent_id": "t3_2ieyke",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This was Live streamed on [World Crypto Netowrk](http://www.reddit.com/r/worldcryptonetwork/) [youtube channel](https://www.youtube.com/channel/UCR9gdpWisRwnk_k23GsHfcA) with help of [James Bang](https://twitter.com/PRHacks) from Hong Kong.\n\nEDIT: I am time stamping this now, will post here when done. 6-8 hours later maybe.",
+            "edited": 1412566409,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This was Live streamed on &lt;a href=\"http://www.reddit.com/r/worldcryptonetwork/\"&gt;World Crypto Netowrk&lt;/a&gt; &lt;a href=\"https://www.youtube.com/channel/UCR9gdpWisRwnk_k23GsHfcA\"&gt;youtube channel&lt;/a&gt; with help of &lt;a href=\"https://twitter.com/PRHacks\"&gt;James Bang&lt;/a&gt; from Hong Kong.&lt;/p&gt;\n\n&lt;p&gt;EDIT: I am time stamping this now, will post here when done. 6-8 hours later maybe.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1lmcc",
+            "created": 1412595024,
+            "author_flair_text": null,
+            "created_utc": 1412566224,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ieyke",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1qzs8",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sambiohazard",
+            "parent_id": "t3_2ieyke",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Ok I have done almost 2 hours. Will update with rest when i wake up.\n\n@PRHacks streaming live from Hong Kong, trouble at @WorldCryptoNet side - http://youtu.be/_gqe-Va8uCU\n\nAction picks up in Hong Kong, but everyone co-operates calmly, two people arguing in Madarin(Chinese) - http://youtu.be/_gqe-Va8uCU?t=3m38s\n\nTrouble with livestream &amp; in Hong Kong sorted - http://youtu.be/_gqe-Va8uCU?t=6m29s\n\nBitcoin price discussed - http://youtu.be/_gqe-Va8uCU?t=7m48s\n\nJames comes back online with updates, with help from Carol - http://youtu.be/_gqe-Va8uCU?t=14m37s\n\nOne of the person from earlier argument interviewed by James - http://youtu.be/_gqe-Va8uCU?t=17m48s\n\nStreaming trouble (skip till next time stamp) - http://youtu.be/_gqe-Va8uCU?t=18m57s\n\nJames back with audio, video, &amp; updates - http://youtu.be/_gqe-Va8uCU?t=20m37s\n\nChris talks about gangs from China creating trouble - http://youtu.be/_gqe-Va8uCU?t=22m20s\n\nMainstream news &amp; there bias discussed - http://youtu.be/_gqe-Va8uCU?t=24m22s\n\nChris discusses his idea of Blockchain enabled camera - http://youtu.be/_gqe-Va8uCU?t=26m58s\n\n* **James walks us through the protest area while answering questions**\n\nJames &amp; Carol back with updates, discussion about voting &amp; protesters clearing the trash - http://youtu.be/_gqe-Va8uCU?t=28m23s\n\nWhy people are wearing the masks? - http://youtu.be/_gqe-Va8uCU?t=31m56s\n\nIs there any property damage? - http://youtu.be/_gqe-Va8uCU?t=33m45s\n\nPress release from Amnesty International put up - http://youtu.be/_gqe-Va8uCU?t=35m1s\n\nJames reports being hit by a police car - http://youtu.be/_gqe-Va8uCU?t=35m41s\n\nWalkthorugh continues - http://youtu.be/_gqe-Va8uCU?t=36m33s\n\nCops &amp; protesters using Bank AC to cool themselves - http://youtu.be/_gqe-Va8uCU?t=38m34s\n\nJames is working non-stop - http://youtu.be/_gqe-Va8uCU?t=39m45s\n\nCointelegraph mentions Protest fundraiser **Donation Address shown**, James &amp; WCN - http://youtu.be/_gqe-Va8uCU?t=40m36s\n\nChris talks about James' offer to go to Hong Kong for covering the event - http://youtu.be/_gqe-Va8uCU?t=42m30s\n\nChris McCreadie joins &amp; What to buy with donations discussed - http://youtu.be/_gqe-Va8uCU?t=44m29s\n\nBitcoin price &amp; Mr McCreadie's buy order - http://youtu.be/_gqe-Va8uCU?t=45m32s\n\nJames is back reporting a wedding proposal at protest site - http://youtu.be/_gqe-Va8uCU?t=49m30s\n\nChris timestamps with bitcoin block# &amp; merkel root, portable bitcoin clock discussed - http://youtu.be/_gqe-Va8uCU?t=53m59s\n\nTheo joins &amp; bitcoin price/trading startegies discussed - http://youtu.be/_gqe-Va8uCU?t=55m36s\n\nJames is back continuing the walk through, reports lots of plain clothed detectives - http://youtu.be/_gqe-Va8uCU?t=1h3m52s\n\nBitcoin trading strategies, spending coins is good for system, OTC market discussed - http://youtu.be/_gqe-Va8uCU?t=1h5m16s\n\nBitcoin insider trading, EU negative interest rates discussed - http://youtu.be/_gqe-Va8uCU?t=1h14m24s\n\nJames &amp; Carol is back again, says being LIVE changes cop behavior, continues tour - http://youtu.be/_gqe-Va8uCU?t=1h19m57s\n\n**James suggests asking question to cops on Live stream** - http://youtu.be/_gqe-Va8uCU?t=1h25m2s\n\n**Citizens cleaning the city** - http://youtu.be/_gqe-Va8uCU?t=1h26m17s\n\nPeople thanks Carol for her support - http://youtu.be/_gqe-Va8uCU?t=1h27m34s\n\n**My Question from India answered by a Hong Kong cop** - http://youtu.be/_gqe-Va8uCU?t=1h29m5s\n\nNice cops &amp; tour continues, people discuss blockchain camera idea - http://youtu.be/_gqe-Va8uCU?t=1h31m2s\n\n**Another of my question answered by cops** - http://youtu.be/_gqe-Va8uCU?t=1h35m26s\n\nJames shows posters denoting collusion of cops &amp; thugs, printed by random protesters not mass printed - http://youtu.be/_gqe-Va8uCU?t=1h37m50s\n\nWeather update &amp; end of tour of Occupied Mong Kok area - http://youtu.be/_gqe-Va8uCU?t=1h40m24s\n\nJames asks about covering other areas later, Chris requests recorded videos - http://youtu.be/_gqe-Va8uCU?t=1h41m26s\n\nJames says being LIVE forced cops to arrest thugs - http://youtu.be/_gqe-Va8uCU?t=1h42m5s\n\nChris asks James' thoughts on next few days of protest - http://youtu.be/_gqe-Va8uCU?t=1h43m31s\n\n**Jamie's question answered by Hong Kong cop** - http://youtu.be/_gqe-Va8uCU?t=1h44m36s\n\n**Interesting discussion about Chief Executive of Hong Kong** - http://youtu.be/_gqe-Va8uCU?t=1h46m24s\n\nPolicing the police - http://youtu.be/_gqe-Va8uCU?t=1h47m49s\n\nPeaceful protest discussed, live feed breaks &amp; protest pics by James shown - http://youtu.be/_gqe-Va8uCU?t=1h48m49s\n\nMorefunthantoast's suggestion about branding discussed - http://youtu.be/_gqe-Va8uCU?t=1h52m13s\n\n**Scottish Referendum &amp; suppressed oil discovery Discussed** - http://youtu.be/_gqe-Va8uCU?t=1h53m33s\n\nChris discusses history of nation states &amp; borders, &amp; slavery - http://youtu.be/_gqe-Va8uCU?t=1h56m46s\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ok I have done almost 2 hours. Will update with rest when i wake up.&lt;/p&gt;\n\n&lt;p&gt;@PRHacks streaming live from Hong Kong, trouble at @WorldCryptoNet side - &lt;a href=\"http://youtu.be/_gqe-Va8uCU\"&gt;http://youtu.be/_gqe-Va8uCU&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Action picks up in Hong Kong, but everyone co-operates calmly, two people arguing in Madarin(Chinese) - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=3m38s\"&gt;http://youtu.be/_gqe-Va8uCU?t=3m38s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Trouble with livestream &amp;amp; in Hong Kong sorted - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=6m29s\"&gt;http://youtu.be/_gqe-Va8uCU?t=6m29s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Bitcoin price discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=7m48s\"&gt;http://youtu.be/_gqe-Va8uCU?t=7m48s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James comes back online with updates, with help from Carol - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=14m37s\"&gt;http://youtu.be/_gqe-Va8uCU?t=14m37s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;One of the person from earlier argument interviewed by James - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=17m48s\"&gt;http://youtu.be/_gqe-Va8uCU?t=17m48s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Streaming trouble (skip till next time stamp) - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=18m57s\"&gt;http://youtu.be/_gqe-Va8uCU?t=18m57s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James back with audio, video, &amp;amp; updates - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=20m37s\"&gt;http://youtu.be/_gqe-Va8uCU?t=20m37s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris talks about gangs from China creating trouble - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=22m20s\"&gt;http://youtu.be/_gqe-Va8uCU?t=22m20s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Mainstream news &amp;amp; there bias discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=24m22s\"&gt;http://youtu.be/_gqe-Va8uCU?t=24m22s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris discusses his idea of Blockchain enabled camera - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=26m58s\"&gt;http://youtu.be/_gqe-Va8uCU?t=26m58s&lt;/a&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;James walks us through the protest area while answering questions&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;James &amp;amp; Carol back with updates, discussion about voting &amp;amp; protesters clearing the trash - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=28m23s\"&gt;http://youtu.be/_gqe-Va8uCU?t=28m23s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Why people are wearing the masks? - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=31m56s\"&gt;http://youtu.be/_gqe-Va8uCU?t=31m56s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Is there any property damage? - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=33m45s\"&gt;http://youtu.be/_gqe-Va8uCU?t=33m45s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Press release from Amnesty International put up - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=35m1s\"&gt;http://youtu.be/_gqe-Va8uCU?t=35m1s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James reports being hit by a police car - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=35m41s\"&gt;http://youtu.be/_gqe-Va8uCU?t=35m41s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Walkthorugh continues - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=36m33s\"&gt;http://youtu.be/_gqe-Va8uCU?t=36m33s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Cops &amp;amp; protesters using Bank AC to cool themselves - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=38m34s\"&gt;http://youtu.be/_gqe-Va8uCU?t=38m34s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James is working non-stop - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=39m45s\"&gt;http://youtu.be/_gqe-Va8uCU?t=39m45s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Cointelegraph mentions Protest fundraiser &lt;strong&gt;Donation Address shown&lt;/strong&gt;, James &amp;amp; WCN - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=40m36s\"&gt;http://youtu.be/_gqe-Va8uCU?t=40m36s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris talks about James&amp;#39; offer to go to Hong Kong for covering the event - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=42m30s\"&gt;http://youtu.be/_gqe-Va8uCU?t=42m30s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris McCreadie joins &amp;amp; What to buy with donations discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=44m29s\"&gt;http://youtu.be/_gqe-Va8uCU?t=44m29s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Bitcoin price &amp;amp; Mr McCreadie&amp;#39;s buy order - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=45m32s\"&gt;http://youtu.be/_gqe-Va8uCU?t=45m32s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James is back reporting a wedding proposal at protest site - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=49m30s\"&gt;http://youtu.be/_gqe-Va8uCU?t=49m30s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris timestamps with bitcoin block# &amp;amp; merkel root, portable bitcoin clock discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=53m59s\"&gt;http://youtu.be/_gqe-Va8uCU?t=53m59s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Theo joins &amp;amp; bitcoin price/trading startegies discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=55m36s\"&gt;http://youtu.be/_gqe-Va8uCU?t=55m36s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James is back continuing the walk through, reports lots of plain clothed detectives - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h3m52s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h3m52s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Bitcoin trading strategies, spending coins is good for system, OTC market discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h5m16s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h5m16s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Bitcoin insider trading, EU negative interest rates discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h14m24s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h14m24s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James &amp;amp; Carol is back again, says being LIVE changes cop behavior, continues tour - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h19m57s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h19m57s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;James suggests asking question to cops on Live stream&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h25m2s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h25m2s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Citizens cleaning the city&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h26m17s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h26m17s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;People thanks Carol for her support - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h27m34s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h27m34s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;My Question from India answered by a Hong Kong cop&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h29m5s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h29m5s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Nice cops &amp;amp; tour continues, people discuss blockchain camera idea - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h31m2s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h31m2s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Another of my question answered by cops&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h35m26s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h35m26s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James shows posters denoting collusion of cops &amp;amp; thugs, printed by random protesters not mass printed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h37m50s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h37m50s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Weather update &amp;amp; end of tour of Occupied Mong Kok area - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h40m24s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h40m24s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James asks about covering other areas later, Chris requests recorded videos - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h41m26s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h41m26s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;James says being LIVE forced cops to arrest thugs - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h42m5s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h42m5s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris asks James&amp;#39; thoughts on next few days of protest - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h43m31s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h43m31s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Jamie&amp;#39;s question answered by Hong Kong cop&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h44m36s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h44m36s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Interesting discussion about Chief Executive of Hong Kong&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h46m24s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h46m24s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Policing the police - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h47m49s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h47m49s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Peaceful protest discussed, live feed breaks &amp;amp; protest pics by James shown - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h48m49s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h48m49s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Morefunthantoast&amp;#39;s suggestion about branding discussed - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h52m13s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h52m13s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Scottish Referendum &amp;amp; suppressed oil discovery Discussed&lt;/strong&gt; - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h53m33s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h53m33s&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Chris discusses history of nation states &amp;amp; borders, &amp;amp; slavery - &lt;a href=\"http://youtu.be/_gqe-Va8uCU?t=1h56m46s\"&gt;http://youtu.be/_gqe-Va8uCU?t=1h56m46s&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1qzs8",
+            "created": 1412615698,
+            "author_flair_text": null,
+            "created_utc": 1412586898,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

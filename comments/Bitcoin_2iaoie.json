@@ -1,0 +1,185 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoinmagazine.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iaoie",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "sgornick",
+            "media": null,
+            "score": 25,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://a.thumbs.redditmedia.com/56IFwaMqRrXPSX3orK_8pxHjkzU1rJjBaZS17lZuWI4.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2iaoie",
+            "permalink": "/r/Bitcoin/comments/2iaoie/the_rise_of_remittance/",
+            "stickied": false,
+            "created": 1412477812,
+            "url": "http://bitcoinmagazine.com/16929/rise-remittance/",
+            "author_flair_text": null,
+            "title": "The Rise of Remittance",
+            "created_utc": 1412449012,
+            "ups": 25,
+            "upvote_ratio": 0.82,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaoie",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0dto6",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sgornick",
+            "parent_id": "t3_2iaoie",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Bitcoin remittance players:\n\nhttp://BitPesa.co - Kenya - Cashout to mobile money (M-Pesa, Airtel money, etc.)\n\nhttp://BeamRemit.com - Ghana (and soon Nigeria) - cashout to mobile money (?)\n\nhttp://rebit.ph and http://sendmoney.coins.ph - Philippines - cashout ot mobile money (?)\nhttp://www.coindesk.com/philippines-startups-fulfil-bitcoins-remittance-promise\n\nThe article described how Rebit allows purchasing of food or other goods.   In Kenya there's also http://mamamikes.co.ke which lets Kenyan diaspora buy food or other items (even a live goat) for their family back in Kenya.  MamaMikes accepts Bitcoin for a cashout service -- not sure if they accept bitcoin for the purchase of goods as well.\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bitcoin remittance players:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://BitPesa.co\"&gt;http://BitPesa.co&lt;/a&gt; - Kenya - Cashout to mobile money (M-Pesa, Airtel money, etc.)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://BeamRemit.com\"&gt;http://BeamRemit.com&lt;/a&gt; - Ghana (and soon Nigeria) - cashout to mobile money (?)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://rebit.ph\"&gt;http://rebit.ph&lt;/a&gt; and &lt;a href=\"http://sendmoney.coins.ph\"&gt;http://sendmoney.coins.ph&lt;/a&gt; - Philippines - cashout ot mobile money (?)\n&lt;a href=\"http://www.coindesk.com/philippines-startups-fulfil-bitcoins-remittance-promise\"&gt;http://www.coindesk.com/philippines-startups-fulfil-bitcoins-remittance-promise&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The article described how Rebit allows purchasing of food or other goods.   In Kenya there&amp;#39;s also &lt;a href=\"http://mamamikes.co.ke\"&gt;http://mamamikes.co.ke&lt;/a&gt; which lets Kenyan diaspora buy food or other items (even a live goat) for their family back in Kenya.  MamaMikes accepts Bitcoin for a cashout service -- not sure if they accept bitcoin for the purchase of goods as well.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0dto6",
+            "created": 1412478428,
+            "author_flair_text": null,
+            "created_utc": 1412449628,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaoie",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iaoie",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0sb8h",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "d4d5c4e5",
+                      "parent_id": "t1_cl0paui",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The rise of using \"the rise\" in titles.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The rise of using &amp;quot;the rise&amp;quot; in titles.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0sb8h",
+                      "created": 1412514235,
+                      "author_flair_text": null,
+                      "created_utc": 1412485435,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0paui",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ctfn00b",
+            "parent_id": "t3_2iaoie",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "can we stop putting \"the rise\" in the title of everything?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;can we stop putting &amp;quot;the rise&amp;quot; in the title of everything?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0paui",
+            "created": 1412506229,
+            "author_flair_text": null,
+            "created_utc": 1412477429,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

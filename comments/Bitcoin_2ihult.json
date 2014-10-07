@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey folks. QR codes are ridiculous. I&amp;#39;d like to transfer BTC to friends by transferring the address/amount information via NFC. Any recommendations on an Android wallet that can do that? Looking for the simplest solution. Thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hey folks. QR codes are ridiculous. I'd like to transfer BTC to friends by transferring the address/amount information via NFC. Any recommendations on an Android wallet that can do that? Looking for the simplest solution. Thanks.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ihult",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "JoeSmitson",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ihult",
+            "permalink": "/r/Bitcoin/comments/2ihult/nfcenabled_wallet/",
+            "stickied": false,
+            "created": 1412663493,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ihult/nfcenabled_wallet/",
+            "author_flair_text": null,
+            "title": "NFC-enabled wallet?",
+            "created_utc": 1412634693,
+            "ups": 7,
+            "upvote_ratio": 1,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihult",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2al75",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BashCo",
+            "parent_id": "t3_2ihult",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "[Bitcoin Wallet](https://play.google.com/store/apps/details?id=de.schildbach.wallet&amp;hl=en) and [Aegis Wallet](http://www.aegiswallet.com/) are the two I know of. Both Android.\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://play.google.com/store/apps/details?id=de.schildbach.wallet&amp;amp;hl=en\"&gt;Bitcoin Wallet&lt;/a&gt; and &lt;a href=\"http://www.aegiswallet.com/\"&gt;Aegis Wallet&lt;/a&gt; are the two I know of. Both Android.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2al75",
+            "created": 1412664048,
+            "author_flair_text": null,
+            "created_utc": 1412635248,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

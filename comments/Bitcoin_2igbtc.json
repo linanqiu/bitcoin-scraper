@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Supposed ManBearWhale is someone who holds say 150,000 or 200,000 BTC and has a decent understanding of trading/psychology but little access to large amounts of USD. Would it not stand to argue that him &amp;#39;dumping&amp;#39; 40k BTC to establish a bottom around last years early ATH ($270) only to shortly after, flush with $12 million+ place a staircase of buy orders towards $600+ over the coming weeks and drive BTC value for his remaining 100k+ BTC would actually make sense? A steady rise in price builds more confidence in BTC than a 1-day flash crash to a long time support destroys, would you not agree?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Supposed ManBearWhale is someone who holds say 150,000 or 200,000 BTC and has a decent understanding of trading/psychology but little access to large amounts of USD. Would it not stand to argue that him 'dumping' 40k BTC to establish a bottom around last years early ATH ($270) only to shortly after, flush with $12 million+ place a staircase of buy orders towards $600+ over the coming weeks and drive BTC value for his remaining 100k+ BTC would actually make sense? A steady rise in price builds more confidence in BTC than a 1-day flash crash to a long time support destroys, would you not agree?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2igbtc",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Miner4luif",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2igbtc",
+            "permalink": "/r/Bitcoin/comments/2igbtc/manbearwhale_theory_943/",
+            "stickied": false,
+            "created": 1412637029,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2igbtc/manbearwhale_theory_943/",
+            "author_flair_text": null,
+            "title": "ManBearWhale theory #943",
+            "created_utc": 1412608229,
+            "ups": 1,
+            "upvote_ratio": 0.57,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igbtc",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2igbtc",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2igbtc",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1xm45",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "k3t3r",
+                                "parent_id": "t1_cl1xguc",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Ok thanks, that seems plausible. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ok thanks, that seems plausible. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1xm45",
+                                "created": 1412638927,
+                                "author_flair_text": null,
+                                "created_utc": 1412610127,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1xguc",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Miner4luif",
+                      "parent_id": "t1_cl1x5jf",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Without access to large amounts of USD/EUR I actually think that establishing a bottom and giving yourself $12+ million to push price up with is a fairly decent idea. It instills trust in $300 bottom (wall eaten) and provides a large chunk of capital to the holder. Worst case, price keeps falling and whale buys back lower or simply sits on $12 million in capital. Remember, my 'theory' rests on the fact that he is a early adopter with 100k+ coin and he wants to stay anonymous so no OTC trades. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Without access to large amounts of USD/EUR I actually think that establishing a bottom and giving yourself $12+ million to push price up with is a fairly decent idea. It instills trust in $300 bottom (wall eaten) and provides a large chunk of capital to the holder. Worst case, price keeps falling and whale buys back lower or simply sits on $12 million in capital. Remember, my &amp;#39;theory&amp;#39; rests on the fact that he is a early adopter with 100k+ coin and he wants to stay anonymous so no OTC trades. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1xguc",
+                      "created": 1412638624,
+                      "author_flair_text": null,
+                      "created_utc": 1412609824,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1x5jf",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "k3t3r",
+            "parent_id": "t3_2igbtc",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "if this was the strategy what was the point of the 30k wall? I am thinking there would have been a better way to reverse the bear market with 40k btc.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;if this was the strategy what was the point of the 30k wall? I am thinking there would have been a better way to reverse the bear market with 40k btc.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1x5jf",
+            "created": 1412637964,
+            "author_flair_text": null,
+            "created_utc": 1412609164,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igbtc",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl20p1s",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "anon515",
+            "parent_id": "t3_2igbtc",
+            "score": 0,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think this would be a great post for /r/BitcoinMarkets - have you checked them out yet?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think this would be a great post for &lt;a href=\"/r/BitcoinMarkets\"&gt;/r/BitcoinMarkets&lt;/a&gt; - have you checked them out yet?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl20p1s",
+            "created": 1412645064,
+            "author_flair_text": null,
+            "created_utc": 1412616264,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Say my small business starting accepting bitcoin and hypothetically everyone that swiped a credit card at my business used bitcoin instead. This could save me several hundred dollars a month in credit card processing fees. Would there be fees in accepting bitcoin?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Say my small business starting accepting bitcoin and hypothetically everyone that swiped a credit card at my business used bitcoin instead. This could save me several hundred dollars a month in credit card processing fees. Would there be fees in accepting bitcoin?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idjvp",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "InredditItrust",
+            "media": null,
+            "score": 9,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idjvp",
+            "permalink": "/r/Bitcoin/comments/2idjvp/credit_card_processing_does_bitcoin_eliminate_this/",
+            "stickied": false,
+            "created": 1412563288,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idjvp/credit_card_processing_does_bitcoin_eliminate_this/",
+            "author_flair_text": null,
+            "title": "Credit card processing, does bitcoin eliminate this?",
+            "created_utc": 1412534488,
+            "ups": 9,
+            "upvote_ratio": 0.91,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idjvp",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl16n71",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "recz255",
+            "parent_id": "t3_2idjvp",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "https://bitpay.com/pricing\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://bitpay.com/pricing\"&gt;https://bitpay.com/pricing&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl16n71",
+            "created": 1412563644,
+            "author_flair_text": null,
+            "created_utc": 1412534844,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idjvp",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl16upc",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "zoopz",
+            "parent_id": "t3_2idjvp",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Using bitpay fees would be lower. In the utopian future of everyone using it fees would be much lower.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Using bitpay fees would be lower. In the utopian future of everyone using it fees would be much lower.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl16upc",
+            "created": 1412564067,
+            "author_flair_text": null,
+            "created_utc": 1412535267,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

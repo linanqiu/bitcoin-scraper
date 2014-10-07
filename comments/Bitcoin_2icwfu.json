@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoinwarrior.net",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2icwfu",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "BTCwarrior",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/f49WHa4ENBKTjG7HsOQdZHFc_VTTmInJkBdgiThq7yI.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2icwfu",
+            "permalink": "/r/Bitcoin/comments/2icwfu/bitcoin_in_crisis_or_bitcoin_for_crisis/",
+            "stickied": false,
+            "created": 1412547781,
+            "url": "http://bitcoinwarrior.net/2014/10/bitcoin-crisis-bitcoin-crisis/",
+            "author_flair_text": null,
+            "title": "Bitcoin in Crisis or Bitcoin FOR Crisis",
+            "created_utc": 1412518981,
+            "ups": 1,
+            "upvote_ratio": 0.56,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

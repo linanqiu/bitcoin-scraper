@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;My efforts are 100% directed to helping bitcoin become the new money. &lt;/p&gt;\n\n&lt;p&gt;Merely transferring other forms of money (USD, EUR, etc) is lame.  All the non-money applications built on blockchain technology are relatively unimportant.  &lt;/p&gt;\n\n&lt;p&gt;The &amp;quot;killer app&amp;quot; of bitcoin is already discovered. &lt;strong&gt;The killer app of bitcoin is bitcoin the currency, bitcoin the money&lt;/strong&gt;.  &lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s face it, right now bitcoin is a lousy currency (very few people get paid in bitcoin, very few merchants accept it for payment). Bitcoin&amp;#39;s performance as a money (store of value) depends on when you came in, but nobody would argue that it&amp;#39;s been doing well over the past 6 months. &lt;/p&gt;\n\n&lt;p&gt;The best thing we can do for ourselves and society at large is to direct innovation towards making bitcoin a better currency and a better money. &lt;/p&gt;\n\n&lt;p&gt;That means getting paid in bitcoin\nThat means holding savings in bitcoin\nThat means paying for stuff in bitcoin&lt;/p&gt;\n\n&lt;p&gt;If any of the above are problematic, let&amp;#39;s identify the problems and create the solutions. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "My efforts are 100% directed to helping bitcoin become the new money. \n\nMerely transferring other forms of money (USD, EUR, etc) is lame.  All the non-money applications built on blockchain technology are relatively unimportant.  \n\nThe \"killer app\" of bitcoin is already discovered. **The killer app of bitcoin is bitcoin the currency, bitcoin the money**.  \n\nLet's face it, right now bitcoin is a lousy currency (very few people get paid in bitcoin, very few merchants accept it for payment). Bitcoin's performance as a money (store of value) depends on when you came in, but nobody would argue that it's been doing well over the past 6 months. \n\nThe best thing we can do for ourselves and society at large is to direct innovation towards making bitcoin a better currency and a better money. \n\nThat means getting paid in bitcoin\nThat means holding savings in bitcoin\nThat means paying for stuff in bitcoin\n\nIf any of the above are problematic, let's identify the problems and create the solutions. ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i7h9f",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "ISkiAtAlta",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i7h9f",
+            "permalink": "/r/Bitcoin/comments/2i7h9f/becoming_money_transferring_money/",
+            "stickied": false,
+            "created": 1412387678,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i7h9f/becoming_money_transferring_money/",
+            "author_flair_text": null,
+            "title": "Becoming money &gt; transferring money",
+            "created_utc": 1412358878,
+            "ups": 6,
+            "upvote_ratio": 0.73,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i7h9f",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzqrbv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Apatomoose",
+            "parent_id": "t3_2i7h9f",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "That is like saying \"The killer app of the Internet is email.\"\n\nBitcoin the currency is just the first app of the blockchain.\n\nThe killer app of Bitcoin the technology is decentralized consensus. That can be used for a lot more than money.\n\nThere is nothing intrinsically special about bitcoin the currency, outside of it's connection to Bitcoin the network. There are plenty of altcoins that have the same limited supply and are worth shit.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That is like saying &amp;quot;The killer app of the Internet is email.&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;Bitcoin the currency is just the first app of the blockchain.&lt;/p&gt;\n\n&lt;p&gt;The killer app of Bitcoin the technology is decentralized consensus. That can be used for a lot more than money.&lt;/p&gt;\n\n&lt;p&gt;There is nothing intrinsically special about bitcoin the currency, outside of it&amp;#39;s connection to Bitcoin the network. There are plenty of altcoins that have the same limited supply and are worth shit.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzqrbv",
+            "created": 1412402129,
+            "author_flair_text": null,
+            "created_utc": 1412373329,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

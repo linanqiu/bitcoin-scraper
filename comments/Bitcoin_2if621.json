@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;It says it&amp;#39;s charged the card, negotiated price, and is now requesting Bitcoin delivery.  It&amp;#39;s been on that last one for about a half hour.&lt;/p&gt;\n\n&lt;p&gt;Should I just close the tab, or will my card be charged and I don&amp;#39;t get the Bitcoin, or should I let it run overnight, or what do you suggest?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "It says it's charged the card, negotiated price, and is now requesting Bitcoin delivery.  It's been on that last one for about a half hour.\n\nShould I just close the tab, or will my card be charged and I don't get the Bitcoin, or should I let it run overnight, or what do you suggest?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2if621",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Kabuthunk",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2if621",
+            "permalink": "/r/Bitcoin/comments/2if621/buying_on_quickbt_and_its_taking_forever_to/",
+            "stickied": false,
+            "created": 1412599673,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2if621/buying_on_quickbt_and_its_taking_forever_to/",
+            "author_flair_text": null,
+            "title": "Buying on QuickBT and it's taking forever to process. Should I close the tab, or let it run?",
+            "created_utc": 1412570873,
+            "ups": 4,
+            "upvote_ratio": 1,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2if621",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1nxny",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Kabuthunk",
+            "parent_id": "t3_2if621",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Eh, looks like 'leave it overnight' wins. Let's see what happens.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Eh, looks like &amp;#39;leave it overnight&amp;#39; wins. Let&amp;#39;s see what happens.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1nxny",
+            "created": 1412601321,
+            "author_flair_text": null,
+            "created_utc": 1412572521,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

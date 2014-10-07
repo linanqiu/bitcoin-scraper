@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I realized that quite some people here have a lot of hope invested in the planned ETF. Some even go so far as to tell others pretty much exactly &lt;a href=\"http://www.reddit.com/r/Bitcoin/comments/2i7o2w/anxiously_awaiting_the_next_bubble/ckzynap\"&gt;when it will launch&lt;/a&gt;. Most of these predictions concerning date of launch are overly optimistic. Someone on r/bitcoinmarkets actually &lt;a href=\"http://www.reddit.com/r/BitcoinMarkets/comments/2i7bfn/has_anybody_tried_simply_calling_the_lawyer_in/\"&gt;called the lawyer&lt;/a&gt; who represents the Winklevii&amp;#39;s endeavour legally. Read the first comment too.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I realized that quite some people here have a lot of hope invested in the planned ETF. Some even go so far as to tell others pretty much exactly [when it will launch](http://www.reddit.com/r/Bitcoin/comments/2i7o2w/anxiously_awaiting_the_next_bubble/ckzynap). Most of these predictions concerning date of launch are overly optimistic. Someone on r/bitcoinmarkets actually [called the lawyer](http://www.reddit.com/r/BitcoinMarkets/comments/2i7bfn/has_anybody_tried_simply_calling_the_lawyer_in/) who represents the Winklevii's endeavour legally. Read the first comment too.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9ykt",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Kristkind",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i9ykt",
+            "permalink": "/r/Bitcoin/comments/2i9ykt/dont_wait_too_eagerly_for_the_etf_coin/",
+            "stickied": false,
+            "created": 1412460418,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i9ykt/dont_wait_too_eagerly_for_the_etf_coin/",
+            "author_flair_text": null,
+            "title": "Don't wait too eagerly for the ETF (COIN)",
+            "created_utc": 1412431618,
+            "ups": 5,
+            "upvote_ratio": 0.67,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9ykt",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9ykt",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0d3bw",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Kristkind",
+                      "parent_id": "t1_cl0bdsa",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That is very well possible. Why would you pay a high profile lawyer if it was a sure shot?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That is very well possible. Why would you pay a high profile lawyer if it was a sure shot?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0d3bw",
+                      "created": 1412476693,
+                      "author_flair_text": null,
+                      "created_utc": 1412447893,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0bdsa",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "xcsler",
+            "parent_id": "t3_2i9ykt",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Am I just paranoid or does anyone else think that there is a good chance that they'll never approve the COIN ETF?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Am I just paranoid or does anyone else think that there is a good chance that they&amp;#39;ll never approve the COIN ETF?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0bdsa",
+            "created": 1412472792,
+            "author_flair_text": null,
+            "created_utc": 1412443992,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9ykt",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0e9pd",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bubbasparse",
+            "parent_id": "t3_2i9ykt",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "It could be waiting for the bit license rulings. Seems silly to launch prior to that. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It could be waiting for the bit license rulings. Seems silly to launch prior to that. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0e9pd",
+            "created": 1412479491,
+            "author_flair_text": null,
+            "created_utc": 1412450691,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9ykt",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9ykt",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i9ykt",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0eyf0",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "OpenPodBayDoorsHAL",
+                                "parent_id": "t1_cl093js",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "SEC is busy surfing porn and ignoring real financial crime, they won't get around to COIN for quite a while, if ever\n\nhttp://abcnews.go.com/GMA/sec-pornography-employees-spent-hours-surfing-porn-sites/story?id=10452544\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;SEC is busy surfing porn and ignoring real financial crime, they won&amp;#39;t get around to COIN for quite a while, if ever&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://abcnews.go.com/GMA/sec-pornography-employees-spent-hours-surfing-porn-sites/story?id=10452544\"&gt;http://abcnews.go.com/GMA/sec-pornography-employees-spent-hours-surfing-porn-sites/story?id=10452544&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0eyf0",
+                                "created": 1412481124,
+                                "author_flair_text": null,
+                                "created_utc": 1412452324,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl093js",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Kristkind",
+                      "parent_id": "t1_cl07k5t",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I am not sure where you get \n\n&gt; end of 2014\n\nfrom ...\n\nFirst guy was told\n\n&gt; at least one more year\n\nThat would make it the end of 2015",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I am not sure where you get &lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;end of 2014&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;from ...&lt;/p&gt;\n\n&lt;p&gt;First guy was told&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;at least one more year&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;That would make it the end of 2015&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl093js",
+                      "created": 1412467353,
+                      "author_flair_text": null,
+                      "created_utc": 1412438553,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl07k5t",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BitttBurger",
+            "parent_id": "t3_2i9ykt",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Having read both it seems the lawyer actually did tell the first guy end of 2014. Then she backtracked because he quoted her. And now she's just sticking with \"probably a year\". There seems to be a chronology of events worth noting there. I'd say the first response was probably a little more honest. She just didn't want to be quoted.  ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Having read both it seems the lawyer actually did tell the first guy end of 2014. Then she backtracked because he quoted her. And now she&amp;#39;s just sticking with &amp;quot;probably a year&amp;quot;. There seems to be a chronology of events worth noting there. I&amp;#39;d say the first response was probably a little more honest. She just didn&amp;#39;t want to be quoted.  &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl07k5t",
+            "created": 1412463162,
+            "author_flair_text": null,
+            "created_utc": 1412434362,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

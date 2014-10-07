@@ -1,0 +1,396 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Just testing out paper wallets from bitaddress.org&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve printed one and encrypted it with a password. I send a very small amount of BTC to it just to test things out. I&amp;#39;ve added it as a watch only address to my blockchain.info wallet, but when I try to move the funds by scanning the private key and typing in the password I get the message &amp;quot;error decrypting private key&amp;quot;.&lt;/p&gt;\n\n&lt;p&gt;Is this a known issue, or have I done something wrong. I&amp;#39;m positive it&amp;#39;s the right password. I&amp;#39;m working on a Mac, I made the paper wallet offline, and I use Chrome... if any of that helps.&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n\n&lt;p&gt;UPDATE:\nTried Mycelium Wallet and it worked! This seems to be an issue with blockchain.info being able to decrypt my wallet. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Just testing out paper wallets from bitaddress.org\n\nI've printed one and encrypted it with a password. I send a very small amount of BTC to it just to test things out. I've added it as a watch only address to my blockchain.info wallet, but when I try to move the funds by scanning the private key and typing in the password I get the message \"error decrypting private key\".\n\nIs this a known issue, or have I done something wrong. I'm positive it's the right password. I'm working on a Mac, I made the paper wallet offline, and I use Chrome... if any of that helps.\n\nThanks!\n\nUPDATE:\nTried Mycelium Wallet and it worked! This seems to be an issue with blockchain.info being able to decrypt my wallet. ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8b0g",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "benperrin117",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412388261,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i8b0g",
+            "permalink": "/r/Bitcoin/comments/2i8b0g/paper_wallet_encryption_issues/",
+            "stickied": false,
+            "created": 1412404786,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i8b0g/paper_wallet_encryption_issues/",
+            "author_flair_text": null,
+            "title": "Paper Wallet Encryption Issues",
+            "created_utc": 1412375986,
+            "ups": 6,
+            "upvote_ratio": 0.99,
+            "num_comments": 8,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8b0g",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8b0g",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzstfr",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BitFast",
+                      "parent_id": "t1_ckzs6eb",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "This is correct. I helped someone recover some bitcoin by recreating the same environment as the problem luckily was deterministic.\n\nBasically a bug on the JIT of Safari.\n\n/u/benperrin117  If you need help let me know",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This is correct. I helped someone recover some bitcoin by recreating the same environment as the problem luckily was deterministic.&lt;/p&gt;\n\n&lt;p&gt;Basically a bug on the JIT of Safari.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"/u/benperrin117\"&gt;/u/benperrin117&lt;/a&gt;  If you need help let me know&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzstfr",
+                      "created": 1412406938,
+                      "author_flair_text": null,
+                      "created_utc": 1412378138,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzs6eb",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BeamShip",
+            "parent_id": "t3_2i8b0g",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You said you use Chrome, but did you happen to use Safari to create the wallet?  Certain versions of Safari have an issue where if you create a BIP-38 wallet with it, you will only be able to decrypt it with that version of Safari.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You said you use Chrome, but did you happen to use Safari to create the wallet?  Certain versions of Safari have an issue where if you create a BIP-38 wallet with it, you will only be able to decrypt it with that version of Safari.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzs6eb",
+            "created": 1412405418,
+            "author_flair_text": null,
+            "created_utc": 1412376618,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8b0g",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8b0g",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i8b0g",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i8b0g",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzwp75",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "benperrin117",
+                                          "parent_id": "t1_ckzvp8z",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "This 100% worked. Apparently it's a blockchain.info issue?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This 100% worked. Apparently it&amp;#39;s a blockchain.info issue?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzwp75",
+                                          "created": 1412416922,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412388122,
+                                          "ups": 3,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzvp8z",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BeamShip",
+                                "parent_id": "t1_ckzuc8h",
+                                "score": 5,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Try Mycelium",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Try Mycelium&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzvp8z",
+                                "created": 1412414295,
+                                "author_flair_text": null,
+                                "created_utc": 1412385495,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 5
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzuc8h",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "benperrin117",
+                      "parent_id": "t1_ckztctz",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I have a Nexus, so sadly that's not an option for me. Hopefully they make an android version soon though.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have a Nexus, so sadly that&amp;#39;s not an option for me. Hopefully they make an android version soon though.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzuc8h",
+                      "created": 1412410690,
+                      "author_flair_text": null,
+                      "created_utc": 1412381890,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckztctz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "toliro",
+            "parent_id": "t3_2i8b0g",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Have you tried scanning it with BreadWallet for iOS?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Have you tried scanning it with BreadWallet for iOS?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckztctz",
+            "created": 1412408241,
+            "author_flair_text": null,
+            "created_utc": 1412379441,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8b0g",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8b0g",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzvdr0",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "benperrin117",
+                      "parent_id": "t1_ckzryrg",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Definitely the right password. It's odd because if I try it via the blockchain app I get \"error decrypting private key\". When I try it via the blockchain it says insufficient funds (despite the fact that I've confirmed there is enough there). I've even tried lower amounts to account for the fee.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Definitely the right password. It&amp;#39;s odd because if I try it via the blockchain app I get &amp;quot;error decrypting private key&amp;quot;. When I try it via the blockchain it says insufficient funds (despite the fact that I&amp;#39;ve confirmed there is enough there). I&amp;#39;ve even tried lower amounts to account for the fee.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzvdr0",
+                      "created": 1412413423,
+                      "author_flair_text": null,
+                      "created_utc": 1412384623,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzryrg",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "232019",
+            "parent_id": "t3_2i8b0g",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Caps lock off? You type the password correctly originally? You write it down correctly? Did you hit generate and print it *after* typing in your new password when making the paper wallet?\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Caps lock off? You type the password correctly originally? You write it down correctly? Did you hit generate and print it &lt;em&gt;after&lt;/em&gt; typing in your new password when making the paper wallet?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzryrg",
+            "created": 1412404926,
+            "author_flair_text": null,
+            "created_utc": 1412376126,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

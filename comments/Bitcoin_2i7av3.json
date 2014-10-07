@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "nytimes.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i7av3",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "TheBTC-G",
+            "media": null,
+            "score": 16,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i7av3",
+            "permalink": "/r/Bitcoin/comments/2i7av3/new_york_times_review_of_the_rise_and_rise_of/",
+            "stickied": false,
+            "created": 1412384231,
+            "url": "http://www.nytimes.com/2014/10/03/movies/the-rise-and-rise-of-bitcoin-from-nicholas-mross.html?smid=tw-nytmovies&amp;seid=auto",
+            "author_flair_text": null,
+            "title": "New York Times review of \"The Rise and Rise of Bitcoin\"",
+            "created_utc": 1412355431,
+            "ups": 16,
+            "upvote_ratio": 0.77,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

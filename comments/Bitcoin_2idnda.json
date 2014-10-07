@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So you want off this crazy ride? I can understand the impulse. Before you transfer all your coins to the exchange, let&amp;#39;s look at your options.&lt;/p&gt;\n\n&lt;p&gt;1) Sell on an exchange. Assuming they stay liquid, you&amp;#39;ll get some money back. It&amp;#39;ll sit in your bank account and lose value over time. Woo.&lt;/p&gt;\n\n&lt;p&gt;2) Buy stuff! Last time this happened you were pretty limited on what you could buy. This time around you can get stuff from &lt;a href=\"http://www.tigerdirect.com\"&gt;Tiger Direct&lt;/a&gt;, &lt;a href=\"http://www.newegg.com\"&gt;NewEgg&lt;/a&gt;, &lt;a href=\"http://www.dell.com\"&gt;Dell&lt;/a&gt;, &lt;a href=\"http://www.gyft.com\"&gt;Gyft&lt;/a&gt;, and a lot more. This won&amp;#39;t completely alleviate the selling pressure on the market, but it might stagger it some. Bitcoin thanks you, and you&amp;#39;ll have stuff. Stuff is fun.&lt;/p&gt;\n\n&lt;p&gt;3) Donate it to a charity like &lt;a href=\"http://seansoutpost.com/donate/\"&gt;Sean&amp;#39;s Outpost&lt;/a&gt;, &lt;a href=\"https://wikimediafoundation.org/wiki/Ways_to_Give#bitcoin\"&gt;Wikipedia&lt;/a&gt; or &lt;a href=\"http://www.extra-life.org/index.cfm?fuseaction=donordrive.team&amp;amp;teamID=17176\"&gt;Extra Life&lt;/a&gt;. These causes will put what&amp;#39;s left of your bitcoin to good use, and you&amp;#39;ll get to help some people out.&lt;/p&gt;\n\n&lt;p&gt;4) Hodl. It&amp;#39;ll get better eventually. At least, that&amp;#39;s what I believe.&lt;/p&gt;\n\n&lt;p&gt;Disclaimer: The Extra Life bitcoin team is my team.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "So you want off this crazy ride? I can understand the impulse. Before you transfer all your coins to the exchange, let's look at your options.\n\n1) Sell on an exchange. Assuming they stay liquid, you'll get some money back. It'll sit in your bank account and lose value over time. Woo.\n\n2) Buy stuff! Last time this happened you were pretty limited on what you could buy. This time around you can get stuff from [Tiger Direct](http://www.tigerdirect.com), [NewEgg](http://www.newegg.com), [Dell](http://www.dell.com), [Gyft](http://www.gyft.com), and a lot more. This won't completely alleviate the selling pressure on the market, but it might stagger it some. Bitcoin thanks you, and you'll have stuff. Stuff is fun.\n\n3) Donate it to a charity like [Sean's Outpost](http://seansoutpost.com/donate/), [Wikipedia](https://wikimediafoundation.org/wiki/Ways_to_Give#bitcoin) or [Extra Life](http://www.extra-life.org/index.cfm?fuseaction=donordrive.team&amp;teamID=17176). These causes will put what's left of your bitcoin to good use, and you'll get to help some people out.\n\n4) Hodl. It'll get better eventually. At least, that's what I believe.\n\nDisclaimer: The Extra Life bitcoin team is my team.\n\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idnda",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "hiver",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idnda",
+            "permalink": "/r/Bitcoin/comments/2idnda/exit_strategies/",
+            "stickied": false,
+            "created": 1412565417,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idnda/exit_strategies/",
+            "author_flair_text": null,
+            "title": "Exit Strategies",
+            "created_utc": 1412536617,
+            "ups": 0,
+            "upvote_ratio": 0.46,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idnda",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1owen",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "MemoryShock",
+            "parent_id": "t3_2idnda",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This. A thousand times this. If you think Btc is done...then help some people out..",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This. A thousand times this. If you think Btc is done...then help some people out..&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1owen",
+            "created": 1412604799,
+            "author_flair_text": null,
+            "created_utc": 1412575999,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idnda",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl195ek",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "is4k",
+            "parent_id": "t3_2idnda",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "There is also coinapult locks",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There is also coinapult locks&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl195ek",
+            "created": 1412568416,
+            "author_flair_text": null,
+            "created_utc": 1412539616,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

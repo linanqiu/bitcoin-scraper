@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoincasino.info",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ifvam",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bitcoincasinoinfo",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/DsI88_srmpMpB1_ptOwAcAfEhPjCDd_lC4NK6_hn3yQ.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ifvam",
+            "permalink": "/r/Bitcoin/comments/2ifvam/bank_of_russia_shuffling_off_bitcoin_transactions/",
+            "stickied": false,
+            "created": 1412625741,
+            "url": "http://bitcoincasino.info/bitcoin-casino-news/bank-russia-shuffling-bitcoin-transactions/",
+            "author_flair_text": null,
+            "title": "Bank of Russia shuffling off Bitcoin transactions?",
+            "created_utc": 1412596941,
+            "ups": 7,
+            "upvote_ratio": 0.77,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

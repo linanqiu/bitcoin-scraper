@@ -1,0 +1,352 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have been searching for a way to create a nfc tag that I can scan with my android and have it open up the wallet with a preloaded bitcoin payment address. I have finally figured it out, and since I could not find a guide anywhere I am posting a how to.&lt;/p&gt;\n\n&lt;p&gt;You will need a nfc tag + a nfc tag writer capable of writing URI tags (very important). If you dont write the tag as a URI then it will not work correctly. I used NFC TagWriter by NXP. Any writer that will write URI tags should work however.&lt;/p&gt;\n\n&lt;p&gt;After that it is really very simple.&lt;/p&gt;\n\n&lt;p&gt;If you are using an android wallet, open this first can copy the wallet address you wish to use. Open up the tagwriter, select &amp;quot;Create, write, and store&amp;quot; Press: New - define a new NFC data set Scroll down and select URI (not file URI) Enter description In the URI field enter this: bitcoin:[your wallet address here]&lt;/p&gt;\n\n&lt;p&gt;Make sure there is no spaces, and click next. On the write options screen that shows next you can leave everything as is, and click next. Write the tag&lt;/p&gt;\n\n&lt;p&gt;You can add more options if you like following this format:&lt;/p&gt;\n\n&lt;p&gt;bitcoin:&amp;lt;address&amp;gt;[?amount=&amp;lt;amount&amp;gt;][?label=&amp;lt;label&amp;gt;][?message=&amp;lt;message&amp;gt;]&lt;/p&gt;\n\n&lt;p&gt;[foo] means optional, &amp;lt;bar&amp;gt; are placeholders&lt;/p&gt;\n\n&lt;p&gt;Thats it! Try it out, let me know what you think.&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Please donate if you liked this guide! (Even small amounts very much appreciated!) BTC: 15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1&lt;/p&gt;\n\n&lt;p&gt;This can be used for many things. One idea is you could place one of these on your tip jar and accept btc tips easily. Delivery drivers can accept tips in btc.&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Examples&lt;/p&gt;\n\n&lt;p&gt;Just the address:&lt;/p&gt;\n\n&lt;p&gt;bitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1&lt;/p&gt;\n\n&lt;p&gt;Address with name:&lt;/p&gt;\n\n&lt;p&gt;bitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?label=Luke-Jr&lt;/p&gt;\n\n&lt;p&gt;Request 20.30 BTC to &amp;quot;Luke-Jr&amp;quot;:&lt;/p&gt;\n\n&lt;p&gt;bitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?amount=20.3&amp;amp;label=Luke-Jr&lt;/p&gt;\n\n&lt;p&gt;Request 50 BTC with message:&lt;/p&gt;\n\n&lt;p&gt;bitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?amount=50&amp;amp;label=Luke-Jr&amp;amp;message=Donation%20for%20project%20xyz&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;This is a repost of a guide I posted awhile back. That thread has been archived. Reposting because NFC has been in the news recently and I thought people might enjoy. Have fun :)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I have been searching for a way to create a nfc tag that I can scan with my android and have it open up the wallet with a preloaded bitcoin payment address. I have finally figured it out, and since I could not find a guide anywhere I am posting a how to.\n\nYou will need a nfc tag + a nfc tag writer capable of writing URI tags (very important). If you dont write the tag as a URI then it will not work correctly. I used NFC TagWriter by NXP. Any writer that will write URI tags should work however.\n\nAfter that it is really very simple.\n\nIf you are using an android wallet, open this first can copy the wallet address you wish to use. Open up the tagwriter, select \"Create, write, and store\" Press: New - define a new NFC data set Scroll down and select URI (not file URI) Enter description In the URI field enter this: bitcoin:[your wallet address here]\n\nMake sure there is no spaces, and click next. On the write options screen that shows next you can leave everything as is, and click next. Write the tag\n\nYou can add more options if you like following this format:\n\nbitcoin:&lt;address&gt;[?amount=&lt;amount&gt;][?label=&lt;label&gt;][?message=&lt;message&gt;]\n\n[foo] means optional, &lt;bar&gt; are placeholders\n\nThats it! Try it out, let me know what you think.\n\n---------------------------------------------------------\n\nPlease donate if you liked this guide! (Even small amounts very much appreciated!) BTC: 15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1\n\nThis can be used for many things. One idea is you could place one of these on your tip jar and accept btc tips easily. Delivery drivers can accept tips in btc.\n\n--------------------------------------------------------------------------\n\nExamples\n\nJust the address:\n\nbitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1\n\nAddress with name:\n\nbitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?label=Luke-Jr\n\nRequest 20.30 BTC to \"Luke-Jr\":\n\nbitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?amount=20.3&amp;label=Luke-Jr\n\nRequest 50 BTC with message:\n\nbitcoin:15xuksghSc8aPRBzTSYTs81uFjS4NBbvF1?amount=50&amp;label=Luke-Jr&amp;message=Donation%20for%20project%20xyz\n\n-----------------------------------------\n\nThis is a repost of a guide I posted awhile back. That thread has been archived. Reposting because NFC has been in the news recently and I thought people might enjoy. Have fun :)",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8zgk",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "C41n",
+            "media": null,
+            "score": 14,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i8zgk",
+            "permalink": "/r/Bitcoin/comments/2i8zgk/how_to_write_a_bitcoin_payment_address_to_a_nfc/",
+            "stickied": false,
+            "created": 1412422160,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i8zgk/how_to_write_a_bitcoin_payment_address_to_a_nfc/",
+            "author_flair_text": null,
+            "title": "How to write a bitcoin payment address to a nfc tag",
+            "created_utc": 1412393360,
+            "ups": 14,
+            "upvote_ratio": 0.83,
+            "num_comments": 7,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8zgk",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8zgk",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl059cy",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "EtherDais",
+                      "parent_id": "t1_cl04nxh",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "1.  If you can read to an NFC device, you may very well write to it, but not all phones are compatible with all tags.    Tags may be written and re-written.  It may be possible to alter them to stop re-writing with general tags, but a method has not been shared generally.  ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;ol&gt;\n&lt;li&gt; If you can read to an NFC device, you may very well write to it, but not all phones are compatible with all tags.    Tags may be written and re-written.  It may be possible to alter them to stop re-writing with general tags, but a method has not been shared generally.&lt;br/&gt;&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl059cy",
+                      "created": 1412454237,
+                      "author_flair_text": null,
+                      "created_utc": 1412425437,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8zgk",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i8zgk",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0ans2",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "PriceZombie",
+                                "parent_id": "t1_cl0anks",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "#####&amp;#009;\n\n######&amp;#009;\n\n######&amp;#009;\n\n####&amp;#009;\n\n**NFC tags - Topaz 512 Chip - 10 NFC Tags + Free NFC-Keychain + Free Bon...** \n\n    Current $13.99 \n       High $17.99 \n        Low $13.99 \n\n[Price History Chart](http://i.imgur.com/wwoFcfi.png) | [Screenshot](http://i.imgur.com/SlvfjN6.jpg) | [FAQ](http://www.reddit.com/r/PriceZombie/wiki/index) \n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;h5&gt;&amp;#009;&lt;/h5&gt;\n\n&lt;h6&gt;&amp;#009;&lt;/h6&gt;\n\n&lt;h6&gt;&amp;#009;&lt;/h6&gt;\n\n&lt;h4&gt;&amp;#009;&lt;/h4&gt;\n\n&lt;p&gt;&lt;strong&gt;NFC tags - Topaz 512 Chip - 10 NFC Tags + Free NFC-Keychain + Free Bon...&lt;/strong&gt; &lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Current $13.99 \n   High $17.99 \n    Low $13.99 \n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;&lt;a href=\"http://i.imgur.com/wwoFcfi.png\"&gt;Price History Chart&lt;/a&gt; | &lt;a href=\"http://i.imgur.com/SlvfjN6.jpg\"&gt;Screenshot&lt;/a&gt; | &lt;a href=\"http://www.reddit.com/r/PriceZombie/wiki/index\"&gt;FAQ&lt;/a&gt; &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0ans2",
+                                "created": 1412471129,
+                                "author_flair_text": null,
+                                "created_utc": 1412442329,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0anks",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "C41n",
+                      "parent_id": "t1_cl04nxh",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Every device I have the can read a NFC tag, can also write one. Not all tags are equal. There are some that are not compatible with newer devices.\n\nThe easiest way to answer your question is to get a hold of a tag and try it. \n\nWhat device do you have?\n\nI ordered these tags:\n\nhttp://www.amazon.com/gp/product/B00FS4AF0S/ref=wms_ohs_product?ie=UTF8&amp;psc=1\n\nThey work with everything I have thrown at them. Beware there are very similar looking tags around that are the older style, and its hard to tell them apart.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Every device I have the can read a NFC tag, can also write one. Not all tags are equal. There are some that are not compatible with newer devices.&lt;/p&gt;\n\n&lt;p&gt;The easiest way to answer your question is to get a hold of a tag and try it. &lt;/p&gt;\n\n&lt;p&gt;What device do you have?&lt;/p&gt;\n\n&lt;p&gt;I ordered these tags:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.amazon.com/gp/product/B00FS4AF0S/ref=wms_ohs_product?ie=UTF8&amp;amp;psc=1\"&gt;http://www.amazon.com/gp/product/B00FS4AF0S/ref=wms_ohs_product?ie=UTF8&amp;amp;psc=1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;They work with everything I have thrown at them. Beware there are very similar looking tags around that are the older style, and its hard to tell them apart.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0anks",
+                      "created": 1412471115,
+                      "author_flair_text": null,
+                      "created_utc": 1412442315,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl04nxh",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "boldra",
+            "parent_id": "t3_2i8zgk",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "How do i know if my nfc-capable device is a NFC writer? Can a tag be written twice? If so, how do you stop someone changing it?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How do i know if my nfc-capable device is a NFC writer? Can a tag be written twice? If so, how do you stop someone changing it?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl04nxh",
+            "created": 1412450796,
+            "author_flair_text": null,
+            "created_utc": 1412421996,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8zgk",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i8zgk",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i8zgk",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0aomj",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "C41n",
+                                "parent_id": "t1_cl07jdi",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "This. It merely opens a compatible bitcoin wallet with the payment address pre entered. It does not send the payment, or commit you to anything.\n\nNot sure what that is you linked to. URI for the purpose of writing a tag is an option you choose when you are in your tag writing program. In the NFC TagWriter by NXP the steps are as follows:\n\nOpen program\nSelect \"Create, write and store\"\nSelect \"New\"\nScroll down to the bottom\nVery last option is URI (Not there is also a file URI option, don't choose this)\nOnce you have selected URI in the \"Enter URI\" box (second one) type the following:\nbitcoin:[your wallet address here]\nClick next (might have to lower your keyboard)\nClick next again\nHold your nfc tag to the back of your device\nYou should hear a sound\nIt will say \nResult: Store successful\n\nThat's it, you are done.\n\nYou can now hold the newly written nfc tag to the back of your device and see it in action. \n\n\nLet me know if you have any more questions.\n\nI could do a step by step with pictures, if people want me to.",
+                                "edited": 1412443185,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This. It merely opens a compatible bitcoin wallet with the payment address pre entered. It does not send the payment, or commit you to anything.&lt;/p&gt;\n\n&lt;p&gt;Not sure what that is you linked to. URI for the purpose of writing a tag is an option you choose when you are in your tag writing program. In the NFC TagWriter by NXP the steps are as follows:&lt;/p&gt;\n\n&lt;p&gt;Open program\nSelect &amp;quot;Create, write and store&amp;quot;\nSelect &amp;quot;New&amp;quot;\nScroll down to the bottom\nVery last option is URI (Not there is also a file URI option, don&amp;#39;t choose this)\nOnce you have selected URI in the &amp;quot;Enter URI&amp;quot; box (second one) type the following:\nbitcoin:[your wallet address here]\nClick next (might have to lower your keyboard)\nClick next again\nHold your nfc tag to the back of your device\nYou should hear a sound\nIt will say \nResult: Store successful&lt;/p&gt;\n\n&lt;p&gt;That&amp;#39;s it, you are done.&lt;/p&gt;\n\n&lt;p&gt;You can now hold the newly written nfc tag to the back of your device and see it in action. &lt;/p&gt;\n\n&lt;p&gt;Let me know if you have any more questions.&lt;/p&gt;\n\n&lt;p&gt;I could do a step by step with pictures, if people want me to.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0aomj",
+                                "created": 1412471183,
+                                "author_flair_text": null,
+                                "created_utc": 1412442383,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl07jdi",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Natanael_L",
+                      "parent_id": "t1_cl01tvn",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "URL:s are a form of URI. \n\nThis one opens compatible Bitcoin wallets. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;URL:s are a form of URI. &lt;/p&gt;\n\n&lt;p&gt;This one opens compatible Bitcoin wallets. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl07jdi",
+                      "created": 1412463097,
+                      "author_flair_text": null,
+                      "created_utc": 1412434297,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl01tvn",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "asimovwasright",
+            "parent_id": "t3_2i8zgk",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "[this is URI ?](https://dangerousthings.com/shop/xnt-ntag216-2x12mm-glass-tag/)\n\nwhat exactly will do your script on this one ? \n\nJust open a QR on the scanning phone ?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://dangerousthings.com/shop/xnt-ntag216-2x12mm-glass-tag/\"&gt;this is URI ?&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;what exactly will do your script on this one ? &lt;/p&gt;\n\n&lt;p&gt;Just open a QR on the scanning phone ?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl01tvn",
+            "created": 1412433595,
+            "author_flair_text": null,
+            "created_utc": 1412404795,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

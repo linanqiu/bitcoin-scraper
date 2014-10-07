@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For the last couple days I&amp;#39;ve been unable to add funds from my bank account to Circle.  I was getting &amp;quot;Sorry for the delay. Please contact us at support@circle.com so we can help you complete your transaction.&amp;quot;  I just tried it again, and it finally worked, so maybe they fixed whatever problem was going on.&lt;/p&gt;\n\n&lt;p&gt;It should go without saying that I immediately moved my funds to a wallet that I control.  Anyone who stores their BTC on Circle at this point is just asking for it.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "For the last couple days I've been unable to add funds from my bank account to Circle.  I was getting \"Sorry for the delay. Please contact us at support@circle.com so we can help you complete your transaction.\"  I just tried it again, and it finally worked, so maybe they fixed whatever problem was going on.\n\nIt should go without saying that I immediately moved my funds to a wallet that I control.  Anyone who stores their BTC on Circle at this point is just asking for it.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8ef9",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "buttonpincher",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i8ef9",
+            "permalink": "/r/Bitcoin/comments/2i8ef9/circle_works_again_at_least_for_me/",
+            "stickied": false,
+            "created": 1412406975,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i8ef9/circle_works_again_at_least_for_me/",
+            "author_flair_text": null,
+            "title": "Circle works again... at least for me.",
+            "created_utc": 1412378175,
+            "ups": 3,
+            "upvote_ratio": 0.59,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8ef9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzwy7f",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "L7L7L7L7",
+            "parent_id": "t3_2i8ef9",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Me too for the first time ever and it is sweet!  I've tried to send money to the account all week and just now finally able to buy some more!  ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Me too for the first time ever and it is sweet!  I&amp;#39;ve tried to send money to the account all week and just now finally able to buy some more!  &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzwy7f",
+            "created": 1412417595,
+            "author_flair_text": null,
+            "created_utc": 1412388795,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8ef9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06mol",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "magrathea1",
+            "parent_id": "t3_2i8ef9",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "still a no go for me.. placed two orders. One with debit card and one with bank account. The orders were accepted finally, but they both say 'pending' and no available balance. I checked my account and no withdrawal was even made on my debit card.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;still a no go for me.. placed two orders. One with debit card and one with bank account. The orders were accepted finally, but they both say &amp;#39;pending&amp;#39; and no available balance. I checked my account and no withdrawal was even made on my debit card.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06mol",
+            "created": 1412460140,
+            "author_flair_text": null,
+            "created_utc": 1412431340,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

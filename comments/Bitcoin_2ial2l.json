@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;I believe that the next one might carry us north of $10,000. The longer time we spend here, the more explosive it gets. The supermove from $2 to $266 (133x price appreciation) took 17 months. Extrapolate that with the starting point of $340 in 2014-4-11.&amp;quot;  &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://bitcointalk.org/index.php?topic=740394.0\"&gt;https://bitcointalk.org/index.php?topic=740394.0&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "\"I believe that the next one might carry us north of $10,000. The longer time we spend here, the more explosive it gets. The supermove from $2 to $266 (133x price appreciation) took 17 months. Extrapolate that with the starting point of $340 in 2014-4-11.\"  \n   \nhttps://bitcointalk.org/index.php?topic=740394.0",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ial2l",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "flibbrMarketplace",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ial2l",
+            "permalink": "/r/Bitcoin/comments/2ial2l/a_quote_from_the_rpietila_castle/",
+            "stickied": false,
+            "created": 1412475731,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ial2l/a_quote_from_the_rpietila_castle/",
+            "author_flair_text": null,
+            "title": "A quote from the rpietila castle",
+            "created_utc": 1412446931,
+            "ups": 0,
+            "upvote_ratio": 0.22,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

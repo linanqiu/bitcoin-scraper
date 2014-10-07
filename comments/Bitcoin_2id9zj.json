@@ -1,0 +1,1480 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m not selling yet but will sell by December 15th, if price does not go up to cut my losses. I want to know how can I claim Bitcoin losses in taxes. &lt;/p&gt;\n\n&lt;p&gt;I have about $6K in losses :(&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I'm not selling yet but will sell by December 15th, if price does not go up to cut my losses. I want to know how can I claim Bitcoin losses in taxes. \n\nI have about $6K in losses :(",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2id9zj",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "helpmeretire",
+            "media": null,
+            "score": 11,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2id9zj",
+            "permalink": "/r/Bitcoin/comments/2id9zj/how_to_claim_bitcoin_losses_on_taxes_in_usa/",
+            "stickied": false,
+            "created": 1412557246,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2id9zj/how_to_claim_bitcoin_losses_on_taxes_in_usa/",
+            "author_flair_text": null,
+            "title": "How to claim bitcoin losses on taxes in USA?",
+            "created_utc": 1412528446,
+            "ups": 11,
+            "upvote_ratio": 0.71,
+            "num_comments": 39,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2id9zj",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2id9zj",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id9zj",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl14ofm",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "paulej",
+                                                    "parent_id": "t1_cl148fx",
+                                                    "score": 5,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "And remember that you can carry the remaining loss over to next year.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And remember that you can carry the remaining loss over to next year.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl14ofm",
+                                                    "created": 1412559843,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412531043,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 5
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl148fx",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "helpmeretire",
+                                          "parent_id": "t1_cl1450g",
+                                          "score": 4,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I have no other captial gains, so I'll take my $3K this year. I bought everything from Coinbase, so I got my documents. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have no other captial gains, so I&amp;#39;ll take my $3K this year. I bought everything from Coinbase, so I got my documents. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl148fx",
+                                          "created": 1412558973,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412530173,
+                                          "ups": 4,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1450g",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "uahogugha7",
+                                "parent_id": "t1_cl13y1w",
+                                "score": 4,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Yes. You can only deduct $3K off of income every year. But if you have other capital gains, you can deduct as much from that. \n\n\nMy guess is that the IRS will be on alert for bitcoin losses, so make sure you have the documents to back it up. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes. You can only deduct $3K off of income every year. But if you have other capital gains, you can deduct as much from that. &lt;/p&gt;\n\n&lt;p&gt;My guess is that the IRS will be on alert for bitcoin losses, so make sure you have the documents to back it up. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1450g",
+                                "created": 1412558782,
+                                "author_flair_text": null,
+                                "created_utc": 1412529982,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl13y1w",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "helpmeretire",
+                      "parent_id": "t1_cl13olw",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I thought in stocks you can only claim $3,000 losses per year. Is that same for Bitcoin? I guess I'll have to carry forward my losses over two years. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I thought in stocks you can only claim $3,000 losses per year. Is that same for Bitcoin? I guess I&amp;#39;ll have to carry forward my losses over two years. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl13y1w",
+                      "created": 1412558409,
+                      "author_flair_text": null,
+                      "created_utc": 1412529609,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13olw",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "paulej",
+            "parent_id": "t3_2id9zj",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You just put them down as a capital loss just like the sale of stock.  They will either be short-term or long-term losses depending on whether you held for a year.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You just put them down as a capital loss just like the sale of stock.  They will either be short-term or long-term losses depending on whether you held for a year.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13olw",
+            "created": 1412557888,
+            "author_flair_text": null,
+            "created_utc": 1412529088,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1by6q",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "go1dfish",
+                      "parent_id": "t1_cl18bj1",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Claiming losses is protection from the tax system.\n\nIt's not like they are giving him any money, just arbitrarily deciding he owes less money since he isn't earning as much overall.\n\nIn what universe is claiming a loss on tax filings protecting yourself from anyone but the tax collector?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Claiming losses is protection from the tax system.&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s not like they are giving him any money, just arbitrarily deciding he owes less money since he isn&amp;#39;t earning as much overall.&lt;/p&gt;\n\n&lt;p&gt;In what universe is claiming a loss on tax filings protecting yourself from anyone but the tax collector?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1by6q",
+                      "created": 1412573933,
+                      "author_flair_text": null,
+                      "created_utc": 1412545133,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl19ai2",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "gsabram",
+                      "parent_id": "t1_cl18bj1",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Really though it's just an attractive product for people who hate taxes.  Many will gladly accept it as product that is difficult to tax in capital gains, and equally they'll sell off enough to claim $3000/yr in capital losses.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Really though it&amp;#39;s just an attractive product for people who hate taxes.  Many will gladly accept it as product that is difficult to tax in capital gains, and equally they&amp;#39;ll sell off enough to claim $3000/yr in capital losses.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl19ai2",
+                      "created": 1412568681,
+                      "author_flair_text": null,
+                      "created_utc": 1412539881,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1hr8e",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "TuesdayAfternoonYep",
+                      "parent_id": "t1_cl18bj1",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "PRIVIATIZE GAINS SOCIALISE LOSSES",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;PRIVIATIZE GAINS SOCIALISE LOSSES&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1hr8e",
+                      "created": 1412586652,
+                      "author_flair_text": null,
+                      "created_utc": 1412557852,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl18bj1",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "heyheyitscaturday",
+            "parent_id": "t3_2id9zj",
+            "score": 16,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I SHOULDN'T HAVE TO PAY TAX ON MY BITCOIN EARNINGS, BUT WHEN IT GOES TO SHIT I WANT THE PROTECTION OF THE TAX SYSTEM",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I SHOULDN&amp;#39;T HAVE TO PAY TAX ON MY BITCOIN EARNINGS, BUT WHEN IT GOES TO SHIT I WANT THE PROTECTION OF THE TAX SYSTEM&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl18bj1",
+            "created": 1412566852,
+            "author_flair_text": null,
+            "created_utc": 1412538052,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 16
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl14vvr",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "spookthesunset",
+                      "parent_id": "t1_cl13su5",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Yet...",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yet...&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl14vvr",
+                      "created": 1412560243,
+                      "author_flair_text": null,
+                      "created_utc": 1412531443,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13su5",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "12090205182025",
+            "parent_id": "t3_2id9zj",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "If you have not sold you have no losses to report.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you have not sold you have no losses to report.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13su5",
+            "created": 1412558121,
+            "author_flair_text": null,
+            "created_utc": 1412529321,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2id9zj",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2id9zj",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id9zj",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2id9zj",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2id9zj",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl194rw",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "nathanello",
+                                                                        "parent_id": "t1_cl14xl5",
+                                                                        "score": -2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "None of them gain 30% in 30 days either... You could have the exact opposite story to tell right now too, maybe in 30 days you will, who knows?",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;None of them gain 30% in 30 days either... You could have the exact opposite story to tell right now too, maybe in 30 days you will, who knows?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl194rw",
+                                                                        "created": 1412568386,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412539586,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": -2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl14xl5",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "spookthesunset",
+                                                              "parent_id": "t1_cl14rmi",
+                                                              "score": 4,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Dude.  Because for one thing, none of those options lose 30% or more of their value over a 30 day period.\n\nBut you can downvote me instead if it helps you sleep at night...",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Dude.  Because for one thing, none of those options lose 30% or more of their value over a 30 day period.&lt;/p&gt;\n\n&lt;p&gt;But you can downvote me instead if it helps you sleep at night...&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl14xl5",
+                                                              "created": 1412560333,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412531533,
+                                                              "ups": 4,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl14rmi",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "dellintelbitcoin",
+                                                    "parent_id": "t1_cl14omo",
+                                                    "score": -4,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Why are they a better choice? What you are proposing is sell now? And buy back later when its more expensive? Or do you think its going to go lower? ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Why are they a better choice? What you are proposing is sell now? And buy back later when its more expensive? Or do you think its going to go lower? &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl14rmi",
+                                                    "created": 1412560014,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412531214,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": -4
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl14omo",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "spookthesunset",
+                                          "parent_id": "t1_cl144vh",
+                                          "score": 4,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Hahaha... every single item you listed is a better choice then bitcoin at the movement.  Besides, if bitcoin gets back on track to the moon, couldn't homeboy always use circle and get back into the game almost instantly?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hahaha... every single item you listed is a better choice then bitcoin at the movement.  Besides, if bitcoin gets back on track to the moon, couldn&amp;#39;t homeboy always use circle and get back into the game almost instantly?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl14omo",
+                                          "created": 1412559854,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412531054,
+                                          "ups": 4,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2id9zj",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id9zj",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2id9zj",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2id9zj",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2id9zj",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2id9zj",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2id9zj",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl1adc0",
+                                                                                                                "children": [
+                                                                                                                  "cl1b6ev"
+                                                                                                                ],
+                                                                                                                "id": "cl1b6ev",
+                                                                                                                "name": "t1_cl1b6ev"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl1adc0",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "hio_State",
+                                                                                                      "parent_id": "t1_cl19yx8",
+                                                                                                      "score": 2,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "&gt;There is no way bitcoin is going to 100,\n\nWhy do you think it's impossible that people get sick of losing money to bitcoin, cash out and move on to next gen payment systems being rolled out by financial institutions and companies like Apple and Facebook?\n\nWhy do you trust your predictive capability when you were clearly wrong months ago when you were buying coins before this plummet?",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;There is no way bitcoin is going to 100,&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Why do you think it&amp;#39;s impossible that people get sick of losing money to bitcoin, cash out and move on to next gen payment systems being rolled out by financial institutions and companies like Apple and Facebook?&lt;/p&gt;\n\n&lt;p&gt;Why do you trust your predictive capability when you were clearly wrong months ago when you were buying coins before this plummet?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl1adc0",
+                                                                                                      "created": 1412570698,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412541898,
+                                                                                                      "ups": 2,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl19yx8",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "dellintelbitcoin",
+                                                                                            "parent_id": "t1_cl18dfd",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "Okay, you said yourself bitcoin has already dropped 75% since bla... Yet nothing fundamental has changed. Perhaps the situation in Russia is a bit concerning but that is all. There is no way bitcoin is going to 100, it may touch 200 but im not sure. This bear market has lasted for 10 months. Its going to turn around soon, if it hasnt already. ",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Okay, you said yourself bitcoin has already dropped 75% since bla... Yet nothing fundamental has changed. Perhaps the situation in Russia is a bit concerning but that is all. There is no way bitcoin is going to 100, it may touch 200 but im not sure. This bear market has lasted for 10 months. Its going to turn around soon, if it hasnt already. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl19yx8",
+                                                                                            "created": 1412569932,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412541132,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl18dfd",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "hio_State",
+                                                                                  "parent_id": "t1_cl17ymz",
+                                                                                  "score": 2,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "It's generally not a great thing if mere months from an assets coming out party in the media it's down 75%. \n\nPair that with the fact that the next generation of payment systems like NFC and chip and sign that greatly reduce security risk and transaction cost are beginning mass scale roll outs now for a major market like the US. There's also services like clearXchange(send money to people with just a phone number for free) that are being tested now and are expected to be widely adopted by banks in coming years(can already do it with Wells Fargo clients, Bank of America clients and a few others). \n\nBitcoin's big problem is that it's coming into a pretty tumultuous time for payment systems, with lots of competing systems and upgrades to old systems coming into existence that are driving costs down and making transfers quicker. ",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s generally not a great thing if mere months from an assets coming out party in the media it&amp;#39;s down 75%. &lt;/p&gt;\n\n&lt;p&gt;Pair that with the fact that the next generation of payment systems like NFC and chip and sign that greatly reduce security risk and transaction cost are beginning mass scale roll outs now for a major market like the US. There&amp;#39;s also services like clearXchange(send money to people with just a phone number for free) that are being tested now and are expected to be widely adopted by banks in coming years(can already do it with Wells Fargo clients, Bank of America clients and a few others). &lt;/p&gt;\n\n&lt;p&gt;Bitcoin&amp;#39;s big problem is that it&amp;#39;s coming into a pretty tumultuous time for payment systems, with lots of competing systems and upgrades to old systems coming into existence that are driving costs down and making transfers quicker. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl18dfd",
+                                                                                  "created": 1412566953,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412538153,
+                                                                                  "ups": 2,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl17ymz",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "dellintelbitcoin",
+                                                                        "parent_id": "t1_cl1719u",
+                                                                        "score": 0,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Why do you say that?",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Why do you say that?&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl17ymz",
+                                                                        "created": 1412566161,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412537361,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 0
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1719u",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "hio_State",
+                                                              "parent_id": "t1_cl16tqe",
+                                                              "score": 6,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "100",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;100&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1719u",
+                                                              "created": 1412564416,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412535616,
+                                                              "ups": 6,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl16tqe",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "dellintelbitcoin",
+                                                    "parent_id": "t1_cl15rap",
+                                                    "score": -2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Im not being an ass. Where is bitcoin going to go from here? to 100 or 1000 which is more likely you think?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Im not being an ass. Where is bitcoin going to go from here? to 100 or 1000 which is more likely you think?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl16tqe",
+                                                    "created": 1412564014,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412535214,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": -2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl15rap",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "hio_State",
+                                          "parent_id": "t1_cl144vh",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "If he had just indexed to the stock market back in december with all the money he spent on bitcoin he would be a good deal wealthier today. Hell, even if he just kept it in cash under his mattress during that time he would be wealthier. Don't be an ass. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If he had just indexed to the stock market back in december with all the money he spent on bitcoin he would be a good deal wealthier today. Hell, even if he just kept it in cash under his mattress during that time he would be wealthier. Don&amp;#39;t be an ass. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl15rap",
+                                          "created": 1412561885,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412533085,
+                                          "ups": 3,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2id9zj",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id9zj",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl14vqg",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "spookthesunset",
+                                                    "parent_id": "t1_cl1499b",
+                                                    "score": 0,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Ignore the people telling you to hold.  Consider that $3k in losses counts as a deduction and not a credit.  Your $3k loss amounts to about $540 to like $750 in actual tax savings depending on your average tax rate (I guessed 18% to 25%)\n\nAlso consider the fact you can carry losses &gt; $3k forward to future years.  If you think bitcoin is gonna go down more, you are *way* better off cashing it all out now and carrying your losses forward year after year.\n\nRather than read about it on a forum full of incredibly biased people giving you terrible financial advice, you would do well to visit this:\n\nhttp://www.bankrate.com/finance/money-guides/capital-losses-can-help-cut-your-tax-bill-1.aspx\n\nhttp://www.irs.gov/uac/Ten-Important-Facts-About-Capital-Gains-and-Losses\n\nBetter still, a professional tax accountant costs &lt;$300 for a 1040.  Probably will save you more money than what you'd get by continuing to hold BTC.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ignore the people telling you to hold.  Consider that $3k in losses counts as a deduction and not a credit.  Your $3k loss amounts to about $540 to like $750 in actual tax savings depending on your average tax rate (I guessed 18% to 25%)&lt;/p&gt;\n\n&lt;p&gt;Also consider the fact you can carry losses &amp;gt; $3k forward to future years.  If you think bitcoin is gonna go down more, you are &lt;em&gt;way&lt;/em&gt; better off cashing it all out now and carrying your losses forward year after year.&lt;/p&gt;\n\n&lt;p&gt;Rather than read about it on a forum full of incredibly biased people giving you terrible financial advice, you would do well to visit this:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.bankrate.com/finance/money-guides/capital-losses-can-help-cut-your-tax-bill-1.aspx\"&gt;http://www.bankrate.com/finance/money-guides/capital-losses-can-help-cut-your-tax-bill-1.aspx&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.irs.gov/uac/Ten-Important-Facts-About-Capital-Gains-and-Losses\"&gt;http://www.irs.gov/uac/Ten-Important-Facts-About-Capital-Gains-and-Losses&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Better still, a professional tax accountant costs &amp;lt;$300 for a 1040.  Probably will save you more money than what you&amp;#39;d get by continuing to hold BTC.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl14vqg",
+                                                    "created": 1412560236,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412531436,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 0
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1499b",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "helpmeretire",
+                                          "parent_id": "t1_cl144vh",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Will sell enough to claim $3K in losses.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Will sell enough to claim $3K in losses.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1499b",
+                                          "created": 1412559019,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412530219,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl144vh",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "dellintelbitcoin",
+                                "parent_id": "t1_cl13wnb",
+                                "score": -7,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "then what are you going to hold or invest in? the stock market? keep cash? there is no alternative to bitcoin right now. please stay. sell only as much as you have to.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;then what are you going to hold or invest in? the stock market? keep cash? there is no alternative to bitcoin right now. please stay. sell only as much as you have to.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl144vh",
+                                "created": 1412558775,
+                                "author_flair_text": null,
+                                "created_utc": 1412529975,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -7
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl13wnb",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "helpmeretire",
+                      "parent_id": "t1_cl13g2q",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Bought first Coin at $1050 and averaged it down to $690. Now just want to cut my losses and get out by December. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bought first Coin at $1050 and averaged it down to $690. Now just want to cut my losses and get out by December. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl13wnb",
+                      "created": 1412558332,
+                      "author_flair_text": null,
+                      "created_utc": 1412529532,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13g2q",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sciencelovesyou",
+            "parent_id": "t3_2id9zj",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What's your story? ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s your story? &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13g2q",
+            "created": 1412557379,
+            "author_flair_text": null,
+            "created_utc": 1412528579,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2id9zj",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1zejp",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "bitcointaxes",
+                                "parent_id": "t1_cl1ljeu",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Wash sales are currently applicable to Bitcoins, they only apply to [stocks and securities](http://www.irs.gov/publications/p550/ch04.html#en_US_2013_publink100010601).",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Wash sales are currently applicable to Bitcoins, they only apply to &lt;a href=\"http://www.irs.gov/publications/p550/ch04.html#en_US_2013_publink100010601\"&gt;stocks and securities&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1zejp",
+                                "created": 1412642530,
+                                "author_flair_text": null,
+                                "created_utc": 1412613730,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1ljeu",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "helpmeretire",
+                      "parent_id": "t1_cl1b0wg",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "If I sell on December 31st and buy right back that would fall under \"Wash Sale\". I need to at-least 30 days gap between selling and re-buying.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If I sell on December 31st and buy right back that would fall under &amp;quot;Wash Sale&amp;quot;. I need to at-least 30 days gap between selling and re-buying.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1ljeu",
+                      "created": 1412594838,
+                      "author_flair_text": null,
+                      "created_utc": 1412566038,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1b0wg",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bitcointaxes",
+            "parent_id": "t3_2id9zj",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Make sure you sell before 31st Dec if you want to take losses for this year. You can buy right back again if you want.\n\nDeclare your sales on your 1040 Schedule D, giving the cost basis and proceeds from each sale. This gives your losses as it would have any gains.\n\nThey can be used to offset tax on any other capital gains you might have made, from stocks for example. Otherwise if can up to $3k can be used to reduce your taxable income for the year, with the remaining carried forward to future years.\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Make sure you sell before 31st Dec if you want to take losses for this year. You can buy right back again if you want.&lt;/p&gt;\n\n&lt;p&gt;Declare your sales on your 1040 Schedule D, giving the cost basis and proceeds from each sale. This gives your losses as it would have any gains.&lt;/p&gt;\n\n&lt;p&gt;They can be used to offset tax on any other capital gains you might have made, from stocks for example. Otherwise if can up to $3k can be used to reduce your taxable income for the year, with the remaining carried forward to future years.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1b0wg",
+            "created": 1412572012,
+            "author_flair_text": null,
+            "created_utc": 1412543212,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id9zj",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl149jt",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "helpmeretire",
+                      "parent_id": "t1_cl13ndj",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Good Luck!!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good Luck!!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl149jt",
+                      "created": 1412559035,
+                      "author_flair_text": null,
+                      "created_utc": 1412530235,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13ndj",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BC4U",
+            "parent_id": "t3_2id9zj",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "No clue,.. I'm going to print out all my transactions and see if I can get a ball park number. Then take it and all my other finance paperwork to the accountant.. :D",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No clue,.. I&amp;#39;m going to print out all my transactions and see if I can get a ball park number. Then take it and all my other finance paperwork to the accountant.. :D&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13ndj",
+            "created": 1412557818,
+            "author_flair_text": null,
+            "created_utc": 1412529018,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl13v86",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "AussieCryptoCurrency",
+            "parent_id": "t3_2id9zj",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Thank you for \"supporting\" Bitcoin! ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you for &amp;quot;supporting&amp;quot; Bitcoin! &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl13v86",
+            "created": 1412558256,
+            "author_flair_text": null,
+            "created_utc": 1412529456,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2id9zj",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1brxy",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "RagnarokDel",
+            "parent_id": "t3_2id9zj",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "you dont, unless you want to be arrested for being a pedophile terrorist crackhead. (It's a joke :o)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;you dont, unless you want to be arrested for being a pedophile terrorist crackhead. (It&amp;#39;s a joke :o)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1brxy",
+            "created": 1412573569,
+            "author_flair_text": null,
+            "created_utc": 1412544769,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

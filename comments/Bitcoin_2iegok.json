@@ -1,0 +1,405 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iegok",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "ArmedMilitia",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iegok",
+            "permalink": "/r/Bitcoin/comments/2iegok/on_the_bright_side_transaction_fees_are_lower_now/",
+            "stickied": false,
+            "created": 1412583299,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iegok/on_the_bright_side_transaction_fees_are_lower_now/",
+            "author_flair_text": null,
+            "title": "On the bright side, transaction fees are lower now.",
+            "created_utc": 1412554499,
+            "ups": 5,
+            "upvote_ratio": 0.78,
+            "num_comments": 8,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iegok",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iegok",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iegok",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iegok",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iegok",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1iq9j",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "ivyleague481",
+                                                    "parent_id": "t1_cl1i67d",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Yea. I was pretty disappointed. They take these weird angle pictures and put them up to make it seem like a large fair. In reality, only a handful of vendors and 3 who take bitcoin. ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yea. I was pretty disappointed. They take these weird angle pictures and put them up to make it seem like a large fair. In reality, only a handful of vendors and 3 who take bitcoin. &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1iq9j",
+                                                    "created": 1412588710,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412559910,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1i67d",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "ddmnyc",
+                                          "parent_id": "t1_cl1gtt4",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "The NYC Bitcoin Fair... is that still a thing? Does it still have only two vendors who reluctantly take bitcoin and have no idea what it is?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The NYC Bitcoin Fair... is that still a thing? Does it still have only two vendors who reluctantly take bitcoin and have no idea what it is?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1i67d",
+                                          "created": 1412587552,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412558752,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iegok",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iegok",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2iegok",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1k9iq",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "gonzobon",
+                                                              "parent_id": "t1_cl1k0zz",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Those fees fund the network that will run 24/7 for the foreseeable future. \n\nIn exchange you can transfer value anywhere in the world. \n\nIf you want to pay a lower fee you can transmit from a client and choose if you're really stressing about a few cents.\n",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Those fees fund the network that will run 24/7 for the foreseeable future. &lt;/p&gt;\n\n&lt;p&gt;In exchange you can transfer value anywhere in the world. &lt;/p&gt;\n\n&lt;p&gt;If you want to pay a lower fee you can transmit from a client and choose if you&amp;#39;re really stressing about a few cents.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1k9iq",
+                                                              "created": 1412592033,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412563233,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1k0zz",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "ivyleague481",
+                                                    "parent_id": "t1_cl1jmdu",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "And the other option is pay standard high fees",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And the other option is pay standard high fees&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1k0zz",
+                                                    "created": 1412591510,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412562710,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1jmdu",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "gonzobon",
+                                          "parent_id": "t1_cl1gtt4",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "It's an optional setting...",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s an optional setting...&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1jmdu",
+                                          "created": 1412590620,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412561820,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1gtt4",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "ivyleague481",
+                                "parent_id": "t1_cl1gl0g",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "If I am going to buy a donut at the nyc bitcoin fair I would rather not hassle with fees or setting fees. It doesnt have to be this hard bitcoin. Change.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If I am going to buy a donut at the nyc bitcoin fair I would rather not hassle with fees or setting fees. It doesnt have to be this hard bitcoin. Change.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1gtt4",
+                                "created": 1412584658,
+                                "author_flair_text": null,
+                                "created_utc": 1412555858,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1gl0g",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "gonzobon",
+                      "parent_id": "t1_cl1g9bf",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Fees are optional and customizable if you're not using coinbase etc.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Fees are optional and customizable if you&amp;#39;re not using coinbase etc.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1gl0g",
+                      "created": 1412584113,
+                      "author_flair_text": null,
+                      "created_utc": 1412555313,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1g9bf",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ivyleague481",
+            "parent_id": "t3_2iegok",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Good. The fees are too high. They need to bring them down more.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good. The fees are too high. They need to bring them down more.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1g9bf",
+            "created": 1412583346,
+            "author_flair_text": null,
+            "created_utc": 1412554546,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

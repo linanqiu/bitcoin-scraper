@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "meta.bitcoin.stackexchange.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ii7bi",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Xekyo",
+            "media": null,
+            "score": 10,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/0LFWSgzk9FL6IVHRZUK01OZuSNLla-zMfdG-0tBG-jM.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ii7bi",
+            "permalink": "/r/Bitcoin/comments/2ii7bi/bitcoinstackexchange_is_seeking_more_moderators/",
+            "stickied": false,
+            "created": 1412669944,
+            "url": "http://meta.bitcoin.stackexchange.com/q/627/5406",
+            "author_flair_text": null,
+            "title": "Bitcoin.Stackexchange is seeking more moderators",
+            "created_utc": 1412641144,
+            "ups": 10,
+            "upvote_ratio": 1,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

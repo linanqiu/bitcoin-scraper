@@ -1,0 +1,519 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "i.imgur.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ibj4a",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "gtir123",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/qrxf1ZpNwvTuxhfNxIECLHz1CHpjMdjEYXuu3nV3Q7w.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ibj4a",
+            "permalink": "/r/Bitcoin/comments/2ibj4a/calculating_the_true_minimum_price_per_bitcoin/",
+            "stickied": false,
+            "created": 1412498239,
+            "url": "http://i.imgur.com/R22SgZ2.png",
+            "author_flair_text": null,
+            "title": "Calculating the true minimum price per bitcoin using available data",
+            "created_utc": 1412469439,
+            "ups": 0,
+            "upvote_ratio": 0.45,
+            "num_comments": 11,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibj4a",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0ncoh",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "dunand",
+            "parent_id": "t3_2ibj4a",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You wrote all that in a spreadsheet. It must be true.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You wrote all that in a spreadsheet. It must be true.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0ncoh",
+            "created": 1412501352,
+            "author_flair_text": null,
+            "created_utc": 1412472552,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibj4a",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibj4a",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibj4a",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ibj4a",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ibj4a",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ibj4a",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl19vpl",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "gtir123",
+                                                              "parent_id": "t1_cl0yhez",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "maybe youre entirely missing the point of the post?",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;maybe youre entirely missing the point of the post?&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl19vpl",
+                                                              "created": 1412569767,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412540967,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0yhez",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "phildo449er",
+                                                    "parent_id": "t1_cl0qbqf",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Yes, it takes 3 advanced degrees to look at 10,00,000 per week and 480,000,000 per year and realize that something isn't right.\n\nEither way, this type of analysis is pointless. The price of bitcoin is irrelevant to a silk road user. If I want $500 worth of product, I'll buy $500 worth of bitcoin. Whether that means i need to buy 500 coins, 5,000 coins, or 0.44453927 coins is completely irrelevant.\n\nTo calculate a true \"worth\" you need to find a reason for people to need 1 bitcoin, and silk road is not that.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, it takes 3 advanced degrees to look at 10,00,000 per week and 480,000,000 per year and realize that something isn&amp;#39;t right.&lt;/p&gt;\n\n&lt;p&gt;Either way, this type of analysis is pointless. The price of bitcoin is irrelevant to a silk road user. If I want $500 worth of product, I&amp;#39;ll buy $500 worth of bitcoin. Whether that means i need to buy 500 coins, 5,000 coins, or 0.44453927 coins is completely irrelevant.&lt;/p&gt;\n\n&lt;p&gt;To calculate a true &amp;quot;worth&amp;quot; you need to find a reason for people to need 1 bitcoin, and silk road is not that.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0yhez",
+                                                    "created": 1412543952,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412515152,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0qbqf",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "gtir123",
+                                          "parent_id": "t1_cl0pklf",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Wow yes you seem very smart thanks for the corrections",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Wow yes you seem very smart thanks for the corrections&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0qbqf",
+                                          "created": 1412508730,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412479930,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0pklf",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "phildo449er",
+                                "parent_id": "t1_cl0p0qa",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "it was, it no longer exists. Since it has gone down many of it's users have been spread out to other sites, or just bailed altogether because they lost so many coins on silk road (or got ripped off on the other sites)\n\nAlso, there are 4.333333 weeks in a month, simple math errors make the entire thing an even bigger waste of time. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;it was, it no longer exists. Since it has gone down many of it&amp;#39;s users have been spread out to other sites, or just bailed altogether because they lost so many coins on silk road (or got ripped off on the other sites)&lt;/p&gt;\n\n&lt;p&gt;Also, there are 4.333333 weeks in a month, simple math errors make the entire thing an even bigger waste of time. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0pklf",
+                                "created": 1412506898,
+                                "author_flair_text": null,
+                                "created_utc": 1412478098,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0p0qa",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "gtir123",
+                      "parent_id": "t1_cl0omyc",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "you don't see the relevance of sales volume on a site that operates entirely in btc and is almost guaranteed to increase demand for btc",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;you don&amp;#39;t see the relevance of sales volume on a site that operates entirely in btc and is almost guaranteed to increase demand for btc&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0p0qa",
+                      "created": 1412505550,
+                      "author_flair_text": null,
+                      "created_utc": 1412476750,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0omyc",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "phildo449er",
+            "parent_id": "t3_2ibj4a",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Not sure what the sales figures from a site that has been down for close to a year have to do with what someone will pay for a bitcoin.\n\nAlso, if there is some connection, it would probably help if your math was a little less fuzzy.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not sure what the sales figures from a site that has been down for close to a year have to do with what someone will pay for a bitcoin.&lt;/p&gt;\n\n&lt;p&gt;Also, if there is some connection, it would probably help if your math was a little less fuzzy.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0omyc",
+            "created": 1412504607,
+            "author_flair_text": null,
+            "created_utc": 1412475807,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibj4a",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0xucs",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bitroll",
+            "parent_id": "t3_2ibj4a",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Even ignoring the money's role as a store of value you can't assume it has to change hands (on average) once every day.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Even ignoring the money&amp;#39;s role as a store of value you can&amp;#39;t assume it has to change hands (on average) once every day.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0xucs",
+            "created": 1412541249,
+            "author_flair_text": null,
+            "created_utc": 1412512449,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibj4a",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibj4a",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibj4a",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0mid3",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "gtir123",
+                                "parent_id": "t1_cl0mbun",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I really hope that OpenBazaar can take the free market ecosystem to the next level, and if non violent drugs sales fuel that system then so be it!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I really hope that OpenBazaar can take the free market ecosystem to the next level, and if non violent drugs sales fuel that system then so be it!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0mid3",
+                                "created": 1412499299,
+                                "author_flair_text": null,
+                                "created_utc": 1412470499,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0mbun",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "FreeMarketAnarchist",
+                      "parent_id": "t1_cl0m2nz",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Don't hate it! Hopefully we will see OpenBazaar have similar success.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Don&amp;#39;t hate it! Hopefully we will see OpenBazaar have similar success.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0mbun",
+                      "created": 1412498859,
+                      "author_flair_text": null,
+                      "created_utc": 1412470059,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0m2nz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "gtir123",
+            "parent_id": "t3_2ibj4a",
+            "score": 0,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": ";) Add in all the other transactions made in bitcoin, bitpay/merchants, day traders, hodlers, growth in darknet markets since silk road, percentage of dormant coins vs dormancy periods etc and we have a pretty good minimum base price.\n\nIt would be cool if someone smarter than me can continue this calculation with other know transaction data",
+            "edited": 1412471313,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;;) Add in all the other transactions made in bitcoin, bitpay/merchants, day traders, hodlers, growth in darknet markets since silk road, percentage of dormant coins vs dormancy periods etc and we have a pretty good minimum base price.&lt;/p&gt;\n\n&lt;p&gt;It would be cool if someone smarter than me can continue this calculation with other know transaction data&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0m2nz",
+            "created": 1412498244,
+            "author_flair_text": null,
+            "created_utc": 1412469444,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

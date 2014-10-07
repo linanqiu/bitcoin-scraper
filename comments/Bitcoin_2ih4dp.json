@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello bitcoin community. Thank you for the daily awesome posts and the help to become a bit more knowledgeable bitcoin beginner.&lt;/p&gt;\n\n&lt;p&gt;As of today 10-07-14 what are the USA laws regarding ecommerce returns on orders made by bitcoin?&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hello bitcoin community. Thank you for the daily awesome posts and the help to become a bit more knowledgeable bitcoin beginner.\n\nAs of today 10-07-14 what are the USA laws regarding ecommerce returns on orders made by bitcoin?\n\nThanks!",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ih4dp",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "oritzvielli",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ih4dp",
+            "permalink": "/r/Bitcoin/comments/2ih4dp/question_about_ecommerce_bitcoin_returns/",
+            "stickied": false,
+            "created": 1412651361,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ih4dp/question_about_ecommerce_bitcoin_returns/",
+            "author_flair_text": null,
+            "title": "Question about Ecommerce Bitcoin Returns",
+            "created_utc": 1412622561,
+            "ups": 1,
+            "upvote_ratio": 0.67,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ih4dp",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ih4dp",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2d5xc",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "oritzvielli",
+                      "parent_id": "t1_cl28isq",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "just wanted to confirm that we can give payment back in usd instead of dollar. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;just wanted to confirm that we can give payment back in usd instead of dollar. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2d5xc",
+                      "created": 1412669445,
+                      "author_flair_text": null,
+                      "created_utc": 1412640645,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl28isq",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "cryptonaut420",
+            "parent_id": "t3_2ih4dp",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "what do you need the law for? if someone buys something with bitcoin on your e-commerce store and wants to return it, just give them store credit (easiest). or give them back the $ value in bitcoin, or just the full btc amount that they spent with you. its entirely up to you, but its not that hard",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;what do you need the law for? if someone buys something with bitcoin on your e-commerce store and wants to return it, just give them store credit (easiest). or give them back the $ value in bitcoin, or just the full btc amount that they spent with you. its entirely up to you, but its not that hard&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl28isq",
+            "created": 1412659874,
+            "author_flair_text": null,
+            "created_utc": 1412631074,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The Pennsylvania State University IFC/Panhellenic Dance Marathon,  paired with the Four Diamonds Fund help to raise money for families dealing with pediatric cancer. Just last year we raised over $13 million and hope to raise even more. Our organization, A-7, was created solely to raise money, all of which is donated to THON where over 96% is passed along to Four Diamonds. We are trying to not only help children with cancer but help the life of bitcoin, so we are accepting &lt;a href=\"http://www.a7forthekids.org/donate#bitcoin\"&gt;donations&lt;/a&gt;  through bitcoin. If you have any questions, feel free to visit &lt;a href=\"http://www.thon.org\"&gt;THON&amp;#39;s&lt;/a&gt; or ask me directly&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "The Pennsylvania State University IFC/Panhellenic Dance Marathon,  paired with the Four Diamonds Fund help to raise money for families dealing with pediatric cancer. Just last year we raised over $13 million and hope to raise even more. Our organization, A-7, was created solely to raise money, all of which is donated to THON where over 96% is passed along to Four Diamonds. We are trying to not only help children with cancer but help the life of bitcoin, so we are accepting [donations](http://www.a7forthekids.org/donate#bitcoin)  through bitcoin. If you have any questions, feel free to visit [THON's](http://www.thon.org) or ask me directly",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i7zep",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "smrckln",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i7zep",
+            "permalink": "/r/Bitcoin/comments/2i7zep/my_organization_for_penn_states_dance_marathon/",
+            "stickied": false,
+            "created": 1412397800,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i7zep/my_organization_for_penn_states_dance_marathon/",
+            "author_flair_text": null,
+            "title": "My organization for Penn State's Dance Marathon donation window is open. If you don't know what THON is, or do and wish to make a donation, there is a link in the comments for our organization as well as THON. All I ask is you take a look",
+            "created_utc": 1412369000,
+            "ups": 5,
+            "upvote_ratio": 0.7,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i7zep",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i7zep",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzqe9w",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "abk5074",
+                      "parent_id": "t1_ckzoxa7",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Penn State THON is one of the greatest collegiate philanthropic drives in the world. I'm sorry your shortsighted-ness gets in the way of true compassion. Carry on.\n",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Penn State THON is one of the greatest collegiate philanthropic drives in the world. I&amp;#39;m sorry your shortsighted-ness gets in the way of true compassion. Carry on.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzqe9w",
+                      "created": 1412401323,
+                      "author_flair_text": null,
+                      "created_utc": 1412372523,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzoxa7",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "[deleted]",
+            "parent_id": "t3_2i7zep",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "[deleted]",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzoxa7",
+            "created": 1412398157,
+            "author_flair_text": null,
+            "created_utc": 1412369357,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Want to buy more... don&amp;#39;t want to pay 10% GST... D:&lt;/p&gt;\n\n&lt;p&gt;Would be nice if circle displayed a counter for when we can buy again.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Want to buy more... don't want to pay 10% GST... D:\n\nWould be nice if circle displayed a counter for when we can buy again.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ifflr",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "procabiak",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ifflr",
+            "permalink": "/r/Bitcoin/comments/2ifflr/what_time_does_circle_reset_the_weekly_limit/",
+            "stickied": false,
+            "created": 1412608512,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ifflr/what_time_does_circle_reset_the_weekly_limit/",
+            "author_flair_text": null,
+            "title": "What time does circle reset the weekly limit?",
+            "created_utc": 1412579712,
+            "ups": 5,
+            "upvote_ratio": 0.86,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifflr",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifflr",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2ihii",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Bipolarruledout",
+                      "parent_id": "t1_cl1rev2",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Shouldn't it be 7 days from the *first* purchase? ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Shouldn&amp;#39;t it be 7 days from the &lt;em&gt;first&lt;/em&gt; purchase? &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2ihii",
+                      "created": 1412680007,
+                      "author_flair_text": null,
+                      "created_utc": 1412651207,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1rev2",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "AaronPaul",
+            "parent_id": "t3_2ifflr",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "7 days from last purchase.\n\nI know this limit prevented me from nom nomming the whale too.\n\nSo sad.\n\nEither I got to get the limit off or i gotta use an exchange again because this is heartbreaking.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;7 days from last purchase.&lt;/p&gt;\n\n&lt;p&gt;I know this limit prevented me from nom nomming the whale too.&lt;/p&gt;\n\n&lt;p&gt;So sad.&lt;/p&gt;\n\n&lt;p&gt;Either I got to get the limit off or i gotta use an exchange again because this is heartbreaking.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1rev2",
+            "created": 1412618306,
+            "author_flair_text": null,
+            "created_utc": 1412589506,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifflr",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ptch",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "kiisfm",
+            "parent_id": "t3_2ifflr",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "It's a mystery",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s a mystery&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ptch",
+            "created": 1412608904,
+            "author_flair_text": null,
+            "created_utc": 1412580104,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

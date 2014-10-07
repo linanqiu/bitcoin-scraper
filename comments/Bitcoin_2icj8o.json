@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "bitcoin-club.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2icj8o",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "dreamingofcoins",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/eQYhOPxn30vt4gtyrX2V3HxDiM-op4Pmb8hXiAWtjmM.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2icj8o",
+            "permalink": "/r/Bitcoin/comments/2icj8o/how_to_catch_the_bottom_in_a_bear_market/",
+            "stickied": false,
+            "created": 1412532522,
+            "url": "http://bitcoin-club.com/bitcoin-bot/using-bitcoin-trading-strategies-catch-bottom/",
+            "author_flair_text": null,
+            "title": "How to catch the bottom in a bear market",
+            "created_utc": 1412503722,
+            "ups": 1,
+            "upvote_ratio": 0.52,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

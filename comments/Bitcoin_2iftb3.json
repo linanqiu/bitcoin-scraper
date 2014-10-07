@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Oh NVM I just had to restart the program...sorry.&lt;/p&gt;\n\n&lt;p&gt;Hi Ive been using bitcoin for a few years but I am still a relative noob.\nI got a new PC and installed Electrum on the new PC and recovered my wallet using the passphrase.\nAll the transactions in the wallet are saying unverified wit -1 confirmations wheres as previously they were all confirmed many times.\nIs there something I need to do? Or do I just need to give it more time.&lt;/p&gt;\n\n&lt;p&gt;Thanks.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Oh NVM I just had to restart the program...sorry.\n\nHi Ive been using bitcoin for a few years but I am still a relative noob.\nI got a new PC and installed Electrum on the new PC and recovered my wallet using the passphrase.\nAll the transactions in the wallet are saying unverified wit -1 confirmations wheres as previously they were all confirmed many times.\nIs there something I need to do? Or do I just need to give it more time.\n\nThanks.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iftb3",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "fishburgr",
+            "media": null,
+            "score": 2,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412595589,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iftb3",
+            "permalink": "/r/Bitcoin/comments/2iftb3/help_with_elektrum/",
+            "stickied": false,
+            "created": 1412623935,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iftb3/help_with_elektrum/",
+            "author_flair_text": null,
+            "title": "Help with Elektrum",
+            "created_utc": 1412595135,
+            "ups": 2,
+            "upvote_ratio": 0.67,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iftb3",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1xsms",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Aussiehash",
+            "parent_id": "t3_2iftb3",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Electrum balances are inaccurate until 3 confirmations. You can view existing transaction using a blockchain explorer like blockchain.info (there should be a right click option to open your browser from electrum)\n\nOld transactions you have made more than 10 mins ago should have many confirmations, generally electrum doesn't take more than a few seconds to catch up/sync balances. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Electrum balances are inaccurate until 3 confirmations. You can view existing transaction using a blockchain explorer like blockchain.info (there should be a right click option to open your browser from electrum)&lt;/p&gt;\n\n&lt;p&gt;Old transactions you have made more than 10 mins ago should have many confirmations, generally electrum doesn&amp;#39;t take more than a few seconds to catch up/sync balances. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1xsms",
+            "created": 1412639312,
+            "author_flair_text": null,
+            "created_utc": 1412610512,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

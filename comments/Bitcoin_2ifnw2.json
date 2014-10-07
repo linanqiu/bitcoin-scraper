@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "translate.google.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ifnw2",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "Methylfenidaat",
+            "media": null,
+            "score": 14,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ifnw2",
+            "permalink": "/r/Bitcoin/comments/2ifnw2/google_translate_greece_is_heading_for_bankruptcy/",
+            "stickied": false,
+            "created": 1412618032,
+            "url": "https://translate.google.com/translate?sl=nl&amp;tl=en&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.dagelijksestandaard.nl%2F2014%2F10%2Fgriekenland-stevent-opnieuw-af-op-faillisement&amp;edit-text=&amp;act=url",
+            "author_flair_text": null,
+            "title": "Google Translate: Greece is heading for bankruptcy again",
+            "created_utc": 1412589232,
+            "ups": 14,
+            "upvote_ratio": 0.94,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifnw2",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifnw2",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1st5e",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "t9b",
+                      "parent_id": "t1_cl1rs57",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Well you might as well hear it from me. The UK last reported official GDP versus debt figures in 2012, the curve was that by 2014 the UK would have crossed into Greek territory where debt exceeded GDP. Not that any government would be able to lay their hands on 100% of that GDP, but never the less, this is much more serious than most people know.\n\nOnce the major economies cross that line, we are all in sh*t, sorry but Greece, Italy, Spain, Ireland, are the red herrings. They are in trouble, but then so is everyone else.\n\nNormal way out of this ? War or some big disease. Sound familiar?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well you might as well hear it from me. The UK last reported official GDP versus debt figures in 2012, the curve was that by 2014 the UK would have crossed into Greek territory where debt exceeded GDP. Not that any government would be able to lay their hands on 100% of that GDP, but never the less, this is much more serious than most people know.&lt;/p&gt;\n\n&lt;p&gt;Once the major economies cross that line, we are all in sh*t, sorry but Greece, Italy, Spain, Ireland, are the red herrings. They are in trouble, but then so is everyone else.&lt;/p&gt;\n\n&lt;p&gt;Normal way out of this ? War or some big disease. Sound familiar?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1st5e",
+                      "created": 1412625650,
+                      "author_flair_text": null,
+                      "created_utc": 1412596850,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifnw2",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ifnw2",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ifnw2",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2f1yz",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "blanket12334",
+                                          "parent_id": "t1_cl1twxh",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Manipulating the market balance between imports and exports isn't a good use of monetary control either. People can choose to buy and sell across borders just fine, without the government printing excess cash to tip the balance in a politically expedient direction.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Manipulating the market balance between imports and exports isn&amp;#39;t a good use of monetary control either. People can choose to buy and sell across borders just fine, without the government printing excess cash to tip the balance in a politically expedient direction.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2f1yz",
+                                          "created": 1412673281,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412644481,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ifnw2",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2f4ni",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "blanket12334",
+                                          "parent_id": "t1_cl1twxh",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "That's interesting that you say they didn't have extreme inflation. In my understanding, most insolvent countries with control over the money supply monetize the debt and cause inflation. I'd like to learn more though about what you said. Could you point me to examples of sovereigns that ran into financial trouble, but didn't resort to printing cash, when they had the means to do so?\n\nThat would be much appreciated. Thanks",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s interesting that you say they didn&amp;#39;t have extreme inflation. In my understanding, most insolvent countries with control over the money supply monetize the debt and cause inflation. I&amp;#39;d like to learn more though about what you said. Could you point me to examples of sovereigns that ran into financial trouble, but didn&amp;#39;t resort to printing cash, when they had the means to do so?&lt;/p&gt;\n\n&lt;p&gt;That would be much appreciated. Thanks&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2f4ni",
+                                          "created": 1412673425,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412644625,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1twxh",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BTCoverlord",
+                                "parent_id": "t1_cl1tm4y",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Nonsense. These countries never had *extreme inflation* before the Euro era, at least not under democracy.\n\nA government needs to be able to control it's currency, and it's not the one sided case you only see, of producing more money to avoid default. \n\nThere are many mechanisms in action here, like for instance reducing imports and increasing exports by devaluating the currency a bit.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nonsense. These countries never had &lt;em&gt;extreme inflation&lt;/em&gt; before the Euro era, at least not under democracy.&lt;/p&gt;\n\n&lt;p&gt;A government needs to be able to control it&amp;#39;s currency, and it&amp;#39;s not the one sided case you only see, of producing more money to avoid default. &lt;/p&gt;\n\n&lt;p&gt;There are many mechanisms in action here, like for instance reducing imports and increasing exports by devaluating the currency a bit.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1twxh",
+                                "created": 1412629729,
+                                "author_flair_text": null,
+                                "created_utc": 1412600929,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1tm4y",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "blanket12334",
+                      "parent_id": "t1_cl1rs57",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Yet if those countries had control over their currencies, they would only avoid nominal default through massive inflation. They would still be in financial ruin, but they'd have the problems of extreme inflation to cope with on top of it.\n\nIs that better? I'd argue it's worse. Especially when you consider that politicians may be more likely to bankrupt a nation when they know they have the inflation option in their back pocket.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yet if those countries had control over their currencies, they would only avoid nominal default through massive inflation. They would still be in financial ruin, but they&amp;#39;d have the problems of extreme inflation to cope with on top of it.&lt;/p&gt;\n\n&lt;p&gt;Is that better? I&amp;#39;d argue it&amp;#39;s worse. Especially when you consider that politicians may be more likely to bankrupt a nation when they know they have the inflation option in their back pocket.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1tm4y",
+                      "created": 1412628720,
+                      "author_flair_text": null,
+                      "created_utc": 1412599920,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1rs57",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BTCoverlord",
+            "parent_id": "t3_2ifnw2",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Sincerely, so is Portugal and Spain, at least.\n\nThis vicious circle with the weaker European economies will just go on and on until EU get's it's shit together and the fault lies exactly in the fact that these countries stopped being able to control their own currency.\n\nSo, although this might be a small hint for some people to get into bitcoin, it just points exactly how catastrophic it would be for a state and it's citizens to be under a currency for which it has absolutely no control.",
+            "edited": 1412593153,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sincerely, so is Portugal and Spain, at least.&lt;/p&gt;\n\n&lt;p&gt;This vicious circle with the weaker European economies will just go on and on until EU get&amp;#39;s it&amp;#39;s shit together and the fault lies exactly in the fact that these countries stopped being able to control their own currency.&lt;/p&gt;\n\n&lt;p&gt;So, although this might be a small hint for some people to get into bitcoin, it just points exactly how catastrophic it would be for a state and it&amp;#39;s citizens to be under a currency for which it has absolutely no control.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1rs57",
+            "created": 1412620509,
+            "author_flair_text": null,
+            "created_utc": 1412591709,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "verdict.justia.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i8m5r",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "CryptoSean",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/aR3J2r2pA2Erd0h6p2j5hGRXzxuZC9b43PoxQ66GMtY.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i8m5r",
+            "permalink": "/r/Bitcoin/comments/2i8m5r/is_bitcoin_money_lawmakers_regulators_and_judges/",
+            "stickied": false,
+            "created": 1412412275,
+            "url": "http://verdict.justia.com/2014/09/09/bitcoin-money",
+            "author_flair_text": null,
+            "title": "Is Bitcoin Money? Lawmakers, Regulators and Judges Don't Agree - Justia Legal Commentary",
+            "created_utc": 1412383475,
+            "ups": 4,
+            "upvote_ratio": 0.7,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i8m5r",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl00w71",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Bipolarruledout",
+            "parent_id": "t3_2i8m5r",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "&gt;Two U.S. Courts Find That Bitcoin Is Money",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Two U.S. Courts Find That Bitcoin Is Money&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl00w71",
+            "created": 1412429695,
+            "author_flair_text": null,
+            "created_utc": 1412400895,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

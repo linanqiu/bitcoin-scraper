@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I see I have three, but no idea how they are earned or indeed how they can be spent, can anyone shed any light on this?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I see I have three, but no idea how they are earned or indeed how they can be spent, can anyone shed any light on this?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9qt9",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bluecrystal89",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i9qt9",
+            "permalink": "/r/Bitcoin/comments/2i9qt9/zen_miner_cloud_what_are_hashpoints/",
+            "stickied": false,
+            "created": 1412452677,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i9qt9/zen_miner_cloud_what_are_hashpoints/",
+            "author_flair_text": null,
+            "title": "Zen Miner Cloud - What are hashpoints?",
+            "created_utc": 1412423877,
+            "ups": 3,
+            "upvote_ratio": 0.71,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9qt9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl071oq",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "redshiftquasars",
+            "parent_id": "t3_2i9qt9",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "From what I understand,once you have accumulated enough points you can apply them to the upgrade of your Hashlet. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;From what I understand,once you have accumulated enough points you can apply them to the upgrade of your Hashlet. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl071oq",
+            "created": 1412436364,
+            "author_flair_text": null,
+            "created_utc": 1412432764,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9qt9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl073z8",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "swordfish6975",
+            "parent_id": "t3_2i9qt9",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The more btc in your account, the faster you generate points.\n\nI think its stupid though, the risk far out ways the rewards.\n\nYou can put points towards new hashlets.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The more btc in your account, the faster you generate points.&lt;/p&gt;\n\n&lt;p&gt;I think its stupid though, the risk far out ways the rewards.&lt;/p&gt;\n\n&lt;p&gt;You can put points towards new hashlets.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl073z8",
+            "created": 1412461774,
+            "author_flair_text": null,
+            "created_utc": 1412432974,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

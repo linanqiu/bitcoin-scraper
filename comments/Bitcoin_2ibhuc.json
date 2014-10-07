@@ -1,0 +1,194 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does ChangeTip work on FaceBook?  If not... Any idea when it will happen?   I always thought it was a reddit thing...  But actually took the time to look at their website today...  And see the initial stages of support for it but I haven&amp;#39;t seen any tipping on Facebook yet.  When this this available... I&amp;#39;m going to nickel and dime tip my friend&amp;#39;s comments till they get into bitcoin.   The day this becomes available on Facebook = bitcoin going viral like the stupid ice bucket challenge.  IMHO&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Does ChangeTip work on FaceBook?  If not... Any idea when it will happen?   I always thought it was a reddit thing...  But actually took the time to look at their website today...  And see the initial stages of support for it but I haven't seen any tipping on Facebook yet.  When this this available... I'm going to nickel and dime tip my friend's comments till they get into bitcoin.   The day this becomes available on Facebook = bitcoin going viral like the stupid ice bucket challenge.  IMHO",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ibhuc",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "PASSO3058",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ibhuc",
+            "permalink": "/r/Bitcoin/comments/2ibhuc/changetip_question/",
+            "stickied": false,
+            "created": 1412497277,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ibhuc/changetip_question/",
+            "author_flair_text": null,
+            "title": "ChangeTip question....",
+            "created_utc": 1412468477,
+            "ups": 3,
+            "upvote_ratio": 0.67,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibhuc",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibhuc",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibhuc",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0npwb",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "ddmnyc",
+                                "parent_id": "t1_cl0mowf",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Actually, you can leave a public note on your friend's timeline (if their settings allow it) but it doesn't display the tip. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Actually, you can leave a public note on your friend&amp;#39;s timeline (if their settings allow it) but it doesn&amp;#39;t display the tip. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0npwb",
+                                "created": 1412502283,
+                                "author_flair_text": null,
+                                "created_utc": 1412473483,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0mowf",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "PASSO3058",
+                      "parent_id": "t1_cl0mj28",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I've been doing my homework since my post.  I looked into the other one you mentioned as well.  It only lets me send a PM tip... And I'd rather send it publicly to my friends...  I love the concept of them having to create a Bitcoin wallet to collect my tips.  :-)  I can't wait for this technology to happen.  The moon can't come soon enough. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve been doing my homework since my post.  I looked into the other one you mentioned as well.  It only lets me send a PM tip... And I&amp;#39;d rather send it publicly to my friends...  I love the concept of them having to create a Bitcoin wallet to collect my tips.  :-)  I can&amp;#39;t wait for this technology to happen.  The moon can&amp;#39;t come soon enough. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0mowf",
+                      "created": 1412499746,
+                      "author_flair_text": null,
+                      "created_utc": 1412470946,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0mj28",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ddmnyc",
+            "parent_id": "t3_2ibhuc",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I suspect making it work on Facebook is a bit more complicated due to individual users' privacy settings. You can use QuickCoin though. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I suspect making it work on Facebook is a bit more complicated due to individual users&amp;#39; privacy settings. You can use QuickCoin though. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0mj28",
+            "created": 1412499348,
+            "author_flair_text": null,
+            "created_utc": 1412470548,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

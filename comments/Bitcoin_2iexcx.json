@@ -1,0 +1,431 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am not up to date on everything with the case, but the headlines I have read summaries that the FBI may have screwed up somewhere along the line.&lt;/p&gt;\n\n&lt;p&gt;Possibly, there could be a deal in the works where Ross has to sell the coins from his personal wallets, which the FBI cannot access, and forfeit the proceeds. I don&amp;#39;t think the feds would do another BTC auction based on how they also screwed up the first one.&lt;/p&gt;\n\n&lt;p&gt;Just a theory... &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I am not up to date on everything with the case, but the headlines I have read summaries that the FBI may have screwed up somewhere along the line.\n\n\nPossibly, there could be a deal in the works where Ross has to sell the coins from his personal wallets, which the FBI cannot access, and forfeit the proceeds. I don't think the feds would do another BTC auction based on how they also screwed up the first one.\n\n\nJust a theory... ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iexcx",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "lenkug",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iexcx",
+            "permalink": "/r/Bitcoin/comments/2iexcx/is_the_whale_ross_ulbricht/",
+            "stickied": false,
+            "created": 1412593625,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iexcx/is_the_whale_ross_ulbricht/",
+            "author_flair_text": null,
+            "title": "Is the whale Ross Ulbricht?",
+            "created_utc": 1412564825,
+            "ups": 0,
+            "upvote_ratio": 0.29,
+            "num_comments": 9,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iexcx",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iexcx",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iexcx",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iexcx",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iexcx",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1rwhw",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "blackmarble",
+                                                    "parent_id": "t1_cl1m6by",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "More likely another early adopter. ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;More likely another early adopter. &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1rwhw",
+                                                    "created": 1412621195,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412592395,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iexcx",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2iexcx",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl26udu",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "lenkug",
+                                                              "parent_id": "t1_cl23hgo",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Well if he entered a plea deal they could have.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well if he entered a plea deal they could have.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl26udu",
+                                                              "created": 1412656723,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412627923,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl23hgo",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "DSNakamoto",
+                                                    "parent_id": "t1_cl1m6by",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Again, they can't sell his coins until he's convicted.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Again, they can&amp;#39;t sell his coins until he&amp;#39;s convicted.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl23hgo",
+                                                    "created": 1412650431,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412621631,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1m6by",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "lenkug",
+                                          "parent_id": "t1_cl1m1gg",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Ahh, i thought they only got the SR coins. \nIn that case, maybe this is the state selling his coins- they source back to 2012. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ahh, i thought they only got the SR coins. \nIn that case, maybe this is the state selling his coins- they source back to 2012. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1m6by",
+                                          "created": 1412596356,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412567556,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1m1gg",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "DSNakamoto",
+                                "parent_id": "t1_cl1lf0u",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "He had the keys for his own bitcoin and the SR coin totally unencrypted on the laptop he was using at the public library when he was taken in.  The state was able to sell the SR coins immediately as Ross has argued he didn't run SR so he has no stake in those illegal proceeds.  The state can't sell Ross's personal coin until they convict him.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;He had the keys for his own bitcoin and the SR coin totally unencrypted on the laptop he was using at the public library when he was taken in.  The state was able to sell the SR coins immediately as Ross has argued he didn&amp;#39;t run SR so he has no stake in those illegal proceeds.  The state can&amp;#39;t sell Ross&amp;#39;s personal coin until they convict him.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1m1gg",
+                                "created": 1412596019,
+                                "author_flair_text": null,
+                                "created_utc": 1412567219,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1lf0u",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "lenkug",
+                      "parent_id": "t1_cl1l4b8",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "How were they able to access his coins?\nI am sure he had a password on his wallets and encrypted cold storage. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How were they able to access his coins?\nI am sure he had a password on his wallets and encrypted cold storage. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1lf0u",
+                      "created": 1412594554,
+                      "author_flair_text": null,
+                      "created_utc": 1412565754,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iexcx",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1z8sg",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Romanizer",
+                      "parent_id": "t1_cl1l4b8",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "It was rumoured that he has a wallet hidden with more coins (somewhere near 100k), but selling them for dollars while still on trial would be one of the most dumb things to do.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It was rumoured that he has a wallet hidden with more coins (somewhere near 100k), but selling them for dollars while still on trial would be one of the most dumb things to do.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1z8sg",
+                      "created": 1412642227,
+                      "author_flair_text": null,
+                      "created_utc": 1412613427,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1l4b8",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "blackmarble",
+            "parent_id": "t3_2iexcx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The FBI transferred all of Ulbrict's personal coins to its own address.  It would be HUGE news if it was allowed to sell them or forced to give any back to him, so I don't that's possible.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The FBI transferred all of Ulbrict&amp;#39;s personal coins to its own address.  It would be HUGE news if it was allowed to sell them or forced to give any back to him, so I don&amp;#39;t that&amp;#39;s possible.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1l4b8",
+            "created": 1412593899,
+            "author_flair_text": null,
+            "created_utc": 1412565099,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iexcx",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1loty",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "finnSquared",
+            "parent_id": "t3_2iexcx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "It's literally Ross. He's reached his final form!",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s literally Ross. He&amp;#39;s reached his final form!&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1loty",
+            "created": 1412595183,
+            "author_flair_text": null,
+            "created_utc": 1412566383,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

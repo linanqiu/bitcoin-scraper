@@ -1,0 +1,150 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi all, I&amp;#39;ve been out of bitcoin for a little while but am wanting to get back into it. I had a question about buying btc in a somewhat unorthodox way though. I am trying to have people deposit funds anonymously and then I can use those funds to purchase bitcoin. &lt;/p&gt;\n\n&lt;p&gt;Previously the way I would do this would be to have the person buying the btc buy a greendot or amazon giftcard then send me the number then I would use bitcoin-otc to trade for btc. Also before bitinstant start requiring verification I would have them go to walmart and make deposits with moneygram. It seems I can still do this with localbitcoins but the service charge seems somewhat high on most of these options.&lt;/p&gt;\n\n&lt;p&gt;Is there a cheaper way than that I can have a third party add funds anonymously for me to buy btc? Some type of cash deposit or moneygram option? Or maybe greendot/vanilla visa?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hi all, I've been out of bitcoin for a little while but am wanting to get back into it. I had a question about buying btc in a somewhat unorthodox way though. I am trying to have people deposit funds anonymously and then I can use those funds to purchase bitcoin. \n\nPreviously the way I would do this would be to have the person buying the btc buy a greendot or amazon giftcard then send me the number then I would use bitcoin-otc to trade for btc. Also before bitinstant start requiring verification I would have them go to walmart and make deposits with moneygram. It seems I can still do this with localbitcoins but the service charge seems somewhat high on most of these options.\n\nIs there a cheaper way than that I can have a third party add funds anonymously for me to buy btc? Some type of cash deposit or moneygram option? Or maybe greendot/vanilla visa?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iggr2",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "djack1234",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412613233,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iggr2",
+            "permalink": "/r/Bitcoin/comments/2iggr2/having_a_third_party_buy_bitcoin_anonymously/",
+            "stickied": false,
+            "created": 1412639748,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iggr2/having_a_third_party_buy_bitcoin_anonymously/",
+            "author_flair_text": null,
+            "title": "Having a third party buy bitcoin anonymously",
+            "created_utc": 1412610948,
+            "ups": 4,
+            "upvote_ratio": 0.83,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iggr2",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iggr2",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1z4ow",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "djack1234",
+                      "parent_id": "t1_cl1ykk0",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That's pretty cool, but I don't know if that would allow me to get the funds as quickly as I would need. Thanks for the link though",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s pretty cool, but I don&amp;#39;t know if that would allow me to get the funds as quickly as I would need. Thanks for the link though&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1z4ow",
+                      "created": 1412642010,
+                      "author_flair_text": null,
+                      "created_utc": 1412613210,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ykk0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BobAlison",
+            "parent_id": "t3_2iggr2",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "If you're into funding bitcoin purchases with gift cards, have you seen:\n\nhttps://cryptothrift.com/section/vouchers-giftcards/",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you&amp;#39;re into funding bitcoin purchases with gift cards, have you seen:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://cryptothrift.com/section/vouchers-giftcards/\"&gt;https://cryptothrift.com/section/vouchers-giftcards/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ykk0",
+            "created": 1412640906,
+            "author_flair_text": null,
+            "created_utc": 1412612106,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

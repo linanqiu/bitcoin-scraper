@@ -1,0 +1,194 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;ChromaWay is the company which grew out of the early colored coins implementation efforts. About a year ago we started development of NGCCC, which later became known as ChromaWallet. Currently we&amp;#39;re working on JS-based colored coins platform which would serve as a basis for mobile and web wallets.&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re being guided by following principles:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Wallet software should not rely on trust and should do all the processing locally (when possible).&lt;/li&gt;\n&lt;li&gt;Wallet software should be accessible to all kinds of users, available on multiple platforms, and shouldn&amp;#39;t require complex/lengthy installation procedure.&lt;/li&gt;\n&lt;li&gt;We aim to provide a toolkit for various colored coin applications rather than just a wallet.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;And thus we implemented modular JS libraries which form a complete colored coins wallet, but can also be used in a variety of applications involving colored coins.&lt;/p&gt;\n\n&lt;p&gt;There are three libraries offering different levels of abstraction:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/chromaway/coloredcoinjs-lib\"&gt;coloredcoinjs-lib&lt;/a&gt; is low-level. You can ask it about colorvalues of transaction outputs, and it can also construct transactions, but you have to provide inputs yourself. This is probably what you should use if you want add colored coins support to an existing wallet.&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/chromaway/cc-wallet-core\"&gt;cc-wallet-core&lt;/a&gt; implements a complete wallet, taking care of everything from keypairs to pushing transactions to the network.&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://github.com/chromaway/cc-wallet-engine\"&gt;cc-wallet-engine&lt;/a&gt; offers a high-level interface on top of cc-wallet-core. It takes care of low-level details, such as amount formatting.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;So if you want to make your own colored coins wallet, you can grab cc-wallet-engine and add UI on top of it. Our sample UI implementation is &lt;a href=\"https://github.com/chromaway/chromawallet-proto\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;In the current stage, we have a working wallet, which is able to send and receive coins, but we are still working on some improvements in fixes.&lt;/p&gt;\n\n&lt;p&gt;And a bit about applications, colored coins can be used for a wide variety of things, like alternative payment systems (cc-USD), commodity trading, capital markets, vouchers, authentication tokens, smart property and so on.&lt;/p&gt;\n\n&lt;p&gt;Initially (2 years ago) we were working on one-size-fits-all kind of a wallet, but clearly one wallet can&amp;#39;t be optimal for everything.&lt;/p&gt;\n\n&lt;p&gt;On the next iteration (NGCCC), we split implementation into two libraries (coloredcoinlib and ngcccbase) and UI (ChromaWallet, that is), so support of various applications was something which we had in mind. And in fact we implemented several such experimental applications.&lt;/p&gt;\n\n&lt;p&gt;I believe &lt;a href=\"https://github.com/fanatid/chromaclub\"&gt;chromaclub&lt;/a&gt; is the most interesting one: it uses colored coins for authentication, allowing people who own club ownership tickets (colored coins) to authenticate themselves to a remote chat server. (Chat was the simplest thing to implement, but in principle, same thing can be used for shareholder votes, or for voucher redemption).&lt;/p&gt;\n\n&lt;p&gt;But the problem is that these experimental apps exist as github repos, and it&amp;#39;s not easy for people to try it out.&lt;/p&gt;\n\n&lt;p&gt;Web platform is much more convenient in that sense, people don&amp;#39;t need to install anything on their computer just to try it out, and they shouldn&amp;#39;t be concerned about security.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "ChromaWay is the company which grew out of the early colored coins implementation efforts. About a year ago we started development of NGCCC, which later became known as ChromaWallet. Currently we're working on JS-based colored coins platform which would serve as a basis for mobile and web wallets.\n\nWe're being guided by following principles:\n\n * Wallet software should not rely on trust and should do all the processing locally (when possible).\n * Wallet software should be accessible to all kinds of users, available on multiple platforms, and shouldn't require complex/lengthy installation procedure.\n * We aim to provide a toolkit for various colored coin applications rather than just a wallet.\n\nAnd thus we implemented modular JS libraries which form a complete colored coins wallet, but can also be used in a variety of applications involving colored coins.\n\nThere are three libraries offering different levels of abstraction:\n\n1. [coloredcoinjs-lib](https://github.com/chromaway/coloredcoinjs-lib) is low-level. You can ask it about colorvalues of transaction outputs, and it can also construct transactions, but you have to provide inputs yourself. This is probably what you should use if you want add colored coins support to an existing wallet.\n2. [cc-wallet-core](https://github.com/chromaway/cc-wallet-core) implements a complete wallet, taking care of everything from keypairs to pushing transactions to the network.\n3. [cc-wallet-engine](https://github.com/chromaway/cc-wallet-engine) offers a high-level interface on top of cc-wallet-core. It takes care of low-level details, such as amount formatting.\n\nSo if you want to make your own colored coins wallet, you can grab cc-wallet-engine and add UI on top of it. Our sample UI implementation is [here](https://github.com/chromaway/chromawallet-proto).\n\nIn the current stage, we have a working wallet, which is able to send and receive coins, but we are still working on some improvements in fixes.\n\nAnd a bit about applications, colored coins can be used for a wide variety of things, like alternative payment systems (cc-USD), commodity trading, capital markets, vouchers, authentication tokens, smart property and so on.\n\nInitially (2 years ago) we were working on one-size-fits-all kind of a wallet, but clearly one wallet can't be optimal for everything.\n\nOn the next iteration (NGCCC), we split implementation into two libraries (coloredcoinlib and ngcccbase) and UI (ChromaWallet, that is), so support of various applications was something which we had in mind. And in fact we implemented several such experimental applications.\n\nI believe [chromaclub](https://github.com/fanatid/chromaclub) is the most interesting one: it uses colored coins for authentication, allowing people who own club ownership tickets (colored coins) to authenticate themselves to a remote chat server. (Chat was the simplest thing to implement, but in principle, same thing can be used for shareholder votes, or for voucher redemption).\n\nBut the problem is that these experimental apps exist as github repos, and it's not easy for people to try it out.\n\nWeb platform is much more convenient in that sense, people don't need to install anything on their computer just to try it out, and they shouldn't be concerned about security.\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i6iy7",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "killerstorm",
+            "media": null,
+            "score": 16,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i6iy7",
+            "permalink": "/r/Bitcoin/comments/2i6iy7/chromaways_colored_coins_js_libraries/",
+            "stickied": false,
+            "created": 1412366614,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i6iy7/chromaways_colored_coins_js_libraries/",
+            "author_flair_text": null,
+            "title": "ChromaWay's colored coins JS libraries",
+            "created_utc": 1412337814,
+            "ups": 16,
+            "upvote_ratio": 0.77,
+            "num_comments": 3,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6iy7",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6iy7",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6iy7",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzcc1u",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "MaxSan",
+                                "parent_id": "t1_ckzb65k",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "thanks for the response. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;thanks for the response. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzcc1u",
+                                "created": 1412373319,
+                                "author_flair_text": null,
+                                "created_utc": 1412344519,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzb65k",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "killerstorm",
+                      "parent_id": "t1_ckzapnq",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "No, it isn't based on Open Assets. However, these libraries are largely protocol-agnostic, so if somebody wants to, he can add Open Assets support.\n\nAs to \"why not\" it is a long story... Gotta explain the history first.\n\nColored coins standardization effort started in 2012. I wrote the first proposal, and wrote client implementation.\n\nThen in 2013 we were hit by changes in Bitcoin protocol policies, anti-dust rules specifically. Clearly the first proposal (now called OBC, order-based coloring) wasn't a way to go, so we tried to design something better, but it was a really painful process.\n\nSo a NGCCC (next-gen colored coins client) project was designed to be able to work with many different 'color kernels', so that we'll be able to choose one in future, or do updates as needed.\n\nFast forward to January 2014, NGCCC is already more-or-less ready, but we still haven't decided on \"color kernel\". Vitalik Buterin was in charge of writing the specification, but then he was bored by lengthy discussions and went off to work on Ethereum.\n\nIt was a pressing issue. I described many different ways to implement a color kernel in the colored coins mailing list, asking for a discussion. And eventually I settled on EPOBC as it satisfied all my requirements.\n\nFlavien Charlon (the creator of CoinPrism and Open Assets) didn't like it, and proceed to create Open Assets.\n\nSo, why don't we switch to Open Assets? I don't like it, it doesn't satisfy some of my requirements:\n\n1. Uses issuing address approach, i.e. issuer can add more at any time. (Unless he have lost the private key.) I prefer a different approach where colored coins are issued in finite batches. (I wrote many pages of text explaining why...)\n2. Relies on OP_RETURN, which isn't a big problem by itself, but in practice it imposes a tight limit on number of colored outputs. Which won't allow us to implement things like transaction aggregation and compaction.\n\nSo we went with epobc as the default kernel. But Open Assets isn't bad, might be better for some applications, perhaps we'll add it at some point.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, it isn&amp;#39;t based on Open Assets. However, these libraries are largely protocol-agnostic, so if somebody wants to, he can add Open Assets support.&lt;/p&gt;\n\n&lt;p&gt;As to &amp;quot;why not&amp;quot; it is a long story... Gotta explain the history first.&lt;/p&gt;\n\n&lt;p&gt;Colored coins standardization effort started in 2012. I wrote the first proposal, and wrote client implementation.&lt;/p&gt;\n\n&lt;p&gt;Then in 2013 we were hit by changes in Bitcoin protocol policies, anti-dust rules specifically. Clearly the first proposal (now called OBC, order-based coloring) wasn&amp;#39;t a way to go, so we tried to design something better, but it was a really painful process.&lt;/p&gt;\n\n&lt;p&gt;So a NGCCC (next-gen colored coins client) project was designed to be able to work with many different &amp;#39;color kernels&amp;#39;, so that we&amp;#39;ll be able to choose one in future, or do updates as needed.&lt;/p&gt;\n\n&lt;p&gt;Fast forward to January 2014, NGCCC is already more-or-less ready, but we still haven&amp;#39;t decided on &amp;quot;color kernel&amp;quot;. Vitalik Buterin was in charge of writing the specification, but then he was bored by lengthy discussions and went off to work on Ethereum.&lt;/p&gt;\n\n&lt;p&gt;It was a pressing issue. I described many different ways to implement a color kernel in the colored coins mailing list, asking for a discussion. And eventually I settled on EPOBC as it satisfied all my requirements.&lt;/p&gt;\n\n&lt;p&gt;Flavien Charlon (the creator of CoinPrism and Open Assets) didn&amp;#39;t like it, and proceed to create Open Assets.&lt;/p&gt;\n\n&lt;p&gt;So, why don&amp;#39;t we switch to Open Assets? I don&amp;#39;t like it, it doesn&amp;#39;t satisfy some of my requirements:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;Uses issuing address approach, i.e. issuer can add more at any time. (Unless he have lost the private key.) I prefer a different approach where colored coins are issued in finite batches. (I wrote many pages of text explaining why...)&lt;/li&gt;\n&lt;li&gt;Relies on OP_RETURN, which isn&amp;#39;t a big problem by itself, but in practice it imposes a tight limit on number of colored outputs. Which won&amp;#39;t allow us to implement things like transaction aggregation and compaction.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;So we went with epobc as the default kernel. But Open Assets isn&amp;#39;t bad, might be better for some applications, perhaps we&amp;#39;ll add it at some point.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzb65k",
+                      "created": 1412370230,
+                      "author_flair_text": null,
+                      "created_utc": 1412341430,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzapnq",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "MaxSan",
+            "parent_id": "t3_2i6iy7",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Is this based on Open Assets? If not, why not?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Is this based on Open Assets? If not, why not?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzapnq",
+            "created": 1412368771,
+            "author_flair_text": null,
+            "created_utc": 1412339971,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;ve been away from the meetup group for a few months, and there has developed the need for an open and inclusive Bitcoin and cryptocurrency meetup in Austin, in addition to the other meetups being held.  &lt;strong&gt;We welcome those into Dogecoin, Litecoin, Mastercoin, Ripple, Counterparty, Factom, Storj, Swarm, trading, mining, start ups, Bitcoin Conferences, and more.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;You are welcome if you are a newbie, or a developer, or anything in between.&lt;/p&gt;\n\n&lt;p&gt;The new meetings will start &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;When&lt;/strong&gt;: Tuesday October 14th&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Where&lt;/strong&gt;: Central Market on North Lamar and 40th.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;RSVP&lt;/strong&gt;:  &lt;a href=\"http://www.meetup.com/Austin-Bitcoin-Meetup/\"&gt;Austin Bitcoin Meetup&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I've been away from the meetup group for a few months, and there has developed the need for an open and inclusive Bitcoin and cryptocurrency meetup in Austin, in addition to the other meetups being held.  **We welcome those into Dogecoin, Litecoin, Mastercoin, Ripple, Counterparty, Factom, Storj, Swarm, trading, mining, start ups, Bitcoin Conferences, and more.**\n\nYou are welcome if you are a newbie, or a developer, or anything in between.\n\nThe new meetings will start \n\n* **When**: Tuesday October 14th\n* **Where**: Central Market on North Lamar and 40th.\n* **RSVP**:  [Austin Bitcoin Meetup](http://www.meetup.com/Austin-Bitcoin-Meetup/)\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i83zb",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "alanX",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i83zb",
+            "permalink": "/r/Bitcoin/comments/2i83zb/austin_bitcoin_meetup_reboot/",
+            "stickied": false,
+            "created": 1412400428,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i83zb/austin_bitcoin_meetup_reboot/",
+            "author_flair_text": null,
+            "title": "Austin Bitcoin Meetup Reboot",
+            "created_utc": 1412371628,
+            "ups": 7,
+            "upvote_ratio": 0.73,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i83zb",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i83zb",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i83zb",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i83zb",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzwjl4",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "alanX",
+                                          "parent_id": "t1_ckzvepg",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Newbies are totally welcome!  See you on the 14th!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Newbies are totally welcome!  See you on the 14th!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzwjl4",
+                                          "created": 1412416510,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412387710,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzvepg",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "A2Bacon",
+                                "parent_id": "t1_ckzste3",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Thanks for your great response! I haven't attended either meetup yet as I am very new to cryptocurrencies. I plan on attending Tuesday so I hope newbies are welcome :) Look forward to meeting you.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for your great response! I haven&amp;#39;t attended either meetup yet as I am very new to cryptocurrencies. I plan on attending Tuesday so I hope newbies are welcome :) Look forward to meeting you.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzvepg",
+                                "created": 1412413501,
+                                "author_flair_text": null,
+                                "created_utc": 1412384701,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzste3",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "alanX",
+                      "parent_id": "t1_ckzqgcl",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The big difference is that we meet on Tuesday ;)\n\nNot everyone can meet on Sunday, and we will have a little different focus.  They have various meetings, but the major ones are the General meeting on Sundays, and the Mises Circle meeting on Mondays.  They both meet at Brave New Books, a libertarian book store.\n\nThe Sunday meeting tends to be pretty focused on Bitcoin rather than alt coins.\n\nThe Monday meeting is a student organization focused on economics.\n\nThe new Tuesday meetings will be as broad as those that attend wish it to be.  Everyone should be comfortable at our meeting, even if they are interested in regulation, or alt coins, or even skeptics looking to understand why we are wrong ;)\n\nWe also will be spending time with the community to discuss plans for the Texas Bitcoin Conference in March.  This is also something a bit off topic for those other meetings.",
+                      "edited": 1412387628,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The big difference is that we meet on Tuesday ;)&lt;/p&gt;\n\n&lt;p&gt;Not everyone can meet on Sunday, and we will have a little different focus.  They have various meetings, but the major ones are the General meeting on Sundays, and the Mises Circle meeting on Mondays.  They both meet at Brave New Books, a libertarian book store.&lt;/p&gt;\n\n&lt;p&gt;The Sunday meeting tends to be pretty focused on Bitcoin rather than alt coins.&lt;/p&gt;\n\n&lt;p&gt;The Monday meeting is a student organization focused on economics.&lt;/p&gt;\n\n&lt;p&gt;The new Tuesday meetings will be as broad as those that attend wish it to be.  Everyone should be comfortable at our meeting, even if they are interested in regulation, or alt coins, or even skeptics looking to understand why we are wrong ;)&lt;/p&gt;\n\n&lt;p&gt;We also will be spending time with the community to discuss plans for the Texas Bitcoin Conference in March.  This is also something a bit off topic for those other meetings.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzste3",
+                      "created": 1412406935,
+                      "author_flair_text": null,
+                      "created_utc": 1412378135,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzqgcl",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "A2Bacon",
+            "parent_id": "t3_2i83zb",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What's the difference between yours and http://www.meetup.com/BitcoinAustin/? ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s the difference between yours and &lt;a href=\"http://www.meetup.com/BitcoinAustin/\"&gt;http://www.meetup.com/BitcoinAustin/&lt;/a&gt;? &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzqgcl",
+            "created": 1412401456,
+            "author_flair_text": null,
+            "created_utc": 1412372656,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

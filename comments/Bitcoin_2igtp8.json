@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "cointelegraph.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2igtp8",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "CoinCap_io",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/UjrVEYRfZiAlXPNQLTcX5cJkzid0EVLJ9EqNlktZhpE.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2igtp8",
+            "permalink": "/r/Bitcoin/comments/2igtp8/bitcoin_price_drop_the_hysterical_and_the/",
+            "stickied": false,
+            "created": 1412646299,
+            "url": "http://cointelegraph.com/news/112688/bitcoin-price-drop-the-hysterical-and-the-level-headed-among-us",
+            "author_flair_text": null,
+            "title": "Bitcoin Price Drop: The Hysterical and the Level-Headed Among Us",
+            "created_utc": 1412617499,
+            "ups": 1,
+            "upvote_ratio": 1,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

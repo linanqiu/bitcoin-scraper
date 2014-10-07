@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "philosophicaleconomics.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2if9hh",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "seedpod02",
+            "media": null,
+            "score": 2,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/hRjHT7QD8no2kHArCauHUhaL9X0d2InJBWY3M3X9yYg.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2if9hh",
+            "permalink": "/r/Bitcoin/comments/2if9hh/free_banking_on_a_bitcoin_standardthe_state/",
+            "stickied": false,
+            "created": 1412602500,
+            "url": "http://www.philosophicaleconomics.com/2014/10/btc/",
+            "author_flair_text": null,
+            "title": "Free Banking on a Bitcoin Standard–The State Prepares its Death Blow",
+            "created_utc": 1412573700,
+            "ups": 2,
+            "upvote_ratio": 0.67,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2if9hh",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ocfo",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "seedpod02",
+            "parent_id": "t3_2if9hh",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Found this Blog while googling \"modern monetary theory - stephanie kelton - bitcoin\"\n\nTLDR: \"fractional-reserve free Bitcoin banking is a necessary condition for Bitcoin to become a dominant form of money ... the government will easily stop its emergence and proliferation ... All the government has to do is impose a full-reserve banking requirements on any institution that purports to engage in Bitcoin banking\".\n\n\n\n",
+            "edited": 1412574391,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Found this Blog while googling &amp;quot;modern monetary theory - stephanie kelton - bitcoin&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;TLDR: &amp;quot;fractional-reserve free Bitcoin banking is a necessary condition for Bitcoin to become a dominant form of money ... the government will easily stop its emergence and proliferation ... All the government has to do is impose a full-reserve banking requirements on any institution that purports to engage in Bitcoin banking&amp;quot;.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ocfo",
+            "created": 1412602689,
+            "author_flair_text": null,
+            "created_utc": 1412573889,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2if9hh",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1un9f",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BeatArmy99",
+            "parent_id": "t3_2if9hh",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Readers should take note of this individual.  Of all the financial blogs out there (and there are a lot), this is one of those bloggers who actually knows what he's talking about.  While I was surprised to see that he had written about Bitcoin this morning, the reality is clear:  Bitcoin is not free from the tenets and concepts of finance.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Readers should take note of this individual.  Of all the financial blogs out there (and there are a lot), this is one of those bloggers who actually knows what he&amp;#39;s talking about.  While I was surprised to see that he had written about Bitcoin this morning, the reality is clear:  Bitcoin is not free from the tenets and concepts of finance.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1un9f",
+            "created": 1412631921,
+            "author_flair_text": null,
+            "created_utc": 1412603121,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

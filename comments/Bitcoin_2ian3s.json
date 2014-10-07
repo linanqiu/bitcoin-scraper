@@ -1,0 +1,809 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.youtube.com/watch?v=lMfoFlJhcck#t=1h5m45s\"&gt;https://www.youtube.com/watch?v=lMfoFlJhcck#t=1h5m45s&lt;/a&gt;\nSkip to 1:05:45 if it doesnt automatically.&lt;/p&gt;\n\n&lt;p&gt;People have taken every opportunity to slander him and discredit him, but what he said in November made great sense to me, and I got out when it was still on the way up. Things have turned out pretty much how he predicted, and it&amp;#39;s interesting to listen to what he has to say almost a year on.&lt;/p&gt;\n\n&lt;p&gt;Downvote me!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "https://www.youtube.com/watch?v=lMfoFlJhcck#t=1h5m45s\nSkip to 1:05:45 if it doesnt automatically.\n\nPeople have taken every opportunity to slander him and discredit him, but what he said in November made great sense to me, and I got out when it was still on the way up. Things have turned out pretty much how he predicted, and it's interesting to listen to what he has to say almost a year on.\n\nDownvote me!",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ian3s",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "sevenonelmao",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ian3s",
+            "permalink": "/r/Bitcoin/comments/2ian3s/if_you_want_to_know_why_bitcoin_is_falling_listen/",
+            "stickied": false,
+            "created": 1412476938,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ian3s/if_you_want_to_know_why_bitcoin_is_falling_listen/",
+            "author_flair_text": null,
+            "title": "If you want to know why Bitcoin is falling, listen to Peter Schiff. You may hate to hear it, but he has been right every step of the way.",
+            "created_utc": 1412448138,
+            "ups": 0,
+            "upvote_ratio": 0.35,
+            "num_comments": 18,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ian3s",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ian3s",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ian3s",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ian3s",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ian3s",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ian3s",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ian3s",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2ian3s",
+                                                                                            "likes": null,
+                                                                                            "replies": "",
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl0mhil",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "Right_In-The-Pussy",
+                                                                                            "parent_id": "t1_cl0m4vr",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "well people here are very fast to say \"should have seen it coming\" with the many goxings and what not.\n\nI'm sure they will be fine, I'll just keep my short positon open and find my own moon",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;well people here are very fast to say &amp;quot;should have seen it coming&amp;quot; with the many goxings and what not.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m sure they will be fine, I&amp;#39;ll just keep my short positon open and find my own moon&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl0mhil",
+                                                                                            "created": 1412499243,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412470443,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl0m4vr",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "sevenonelmao",
+                                                                                  "parent_id": "t1_cl0fm9s",
+                                                                                  "score": 2,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Yeah dude nice find, he's absolutely right about the necessity to generate enthusiasm and hysteria, and there's no easier place to do that than on reddit. A few hours on I feel a bit guilty about starting this thread at all, it feels a bit cruel, nobody's going to want to hear what I'm saying and I don't blame them",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yeah dude nice find, he&amp;#39;s absolutely right about the necessity to generate enthusiasm and hysteria, and there&amp;#39;s no easier place to do that than on reddit. A few hours on I feel a bit guilty about starting this thread at all, it feels a bit cruel, nobody&amp;#39;s going to want to hear what I&amp;#39;m saying and I don&amp;#39;t blame them&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl0m4vr",
+                                                                                  "created": 1412498394,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412469594,
+                                                                                  "ups": 2,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl0fm9s",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "Right_In-The-Pussy",
+                                                                        "parent_id": "t1_cl0e23h",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Thanks for posting this, \n\nyou might want to see his discussion with jim rickards where they also predict the same \n\nhttp://youtu.be/ImqxhaPyLEo?t=26m54s",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for posting this, &lt;/p&gt;\n\n&lt;p&gt;you might want to see his discussion with jim rickards where they also predict the same &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://youtu.be/ImqxhaPyLEo?t=26m54s\"&gt;http://youtu.be/ImqxhaPyLEo?t=26m54s&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl0fm9s",
+                                                                        "created": 1412482693,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412453893,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    },
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ian3s",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl0goaq",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "usrn",
+                                                                        "parent_id": "t1_cl0e23h",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "I think that's short-sighted, but obviously time will tell who's right.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think that&amp;#39;s short-sighted, but obviously time will tell who&amp;#39;s right.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl0goaq",
+                                                                        "created": 1412485210,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412456410,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl0e23h",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "sevenonelmao",
+                                                              "parent_id": "t1_cl0dshj",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "That the price was going to collapse and continue to fall, that a lot of people were going to lose a lot of money, that it wouldnt be widely adopted by the general public, that as more merchants start to accept it and sell it off as soon as they receive it there aren't enough new buyers so the price falls, that everyone who bought into bitcoins was doing it to hoard them rather than use them...",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That the price was going to collapse and continue to fall, that a lot of people were going to lose a lot of money, that it wouldnt be widely adopted by the general public, that as more merchants start to accept it and sell it off as soon as they receive it there aren&amp;#39;t enough new buyers so the price falls, that everyone who bought into bitcoins was doing it to hoard them rather than use them...&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl0e23h",
+                                                              "created": 1412478994,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412450194,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0dshj",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "usrn",
+                                                    "parent_id": "t1_cl0ds02",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Spot on in what exactly?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Spot on in what exactly?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0dshj",
+                                                    "created": 1412478350,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412449550,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0ds02",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "sevenonelmao",
+                                          "parent_id": "t1_cl0dr6m",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I think he probably does since he's been spot on so far?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think he probably does since he&amp;#39;s been spot on so far?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0ds02",
+                                          "created": 1412478316,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412449516,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0dr6m",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "usrn",
+                                "parent_id": "t1_cl0dman",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I listened to Schiff and I don't think that he gets bitcoin at all.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I listened to Schiff and I don&amp;#39;t think that he gets bitcoin at all.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0dr6m",
+                                "created": 1412478257,
+                                "author_flair_text": null,
+                                "created_utc": 1412449457,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0dman",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "sevenonelmao",
+                      "parent_id": "t1_cl0dho0",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Just spend 20 minutes listening to it",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Just spend 20 minutes listening to it&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0dman",
+                      "created": 1412477915,
+                      "author_flair_text": null,
+                      "created_utc": 1412449115,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0dho0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "usrn",
+            "parent_id": "t3_2ian3s",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "How do you know if he was right when:\n\n- It's not over yet\n\n- The markets have seen many panics before\n\nI know that it can be stressful to see the exchange rate go down, especially if you're new to this. \nConsider limiting your exposure to btc if you're too worried.",
+            "edited": 1412449048,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How do you know if he was right when:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;It&amp;#39;s not over yet&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;The markets have seen many panics before&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;I know that it can be stressful to see the exchange rate go down, especially if you&amp;#39;re new to this. \nConsider limiting your exposure to btc if you&amp;#39;re too worried.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0dho0",
+            "created": 1412477617,
+            "author_flair_text": null,
+            "created_utc": 1412448817,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ian3s",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ian3s",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0e6z7",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "pinhead26",
+                                "parent_id": "t1_cl0e4hn",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No, it's fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, it&amp;#39;s fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0e6z7",
+                                "created": 1412479314,
+                                "author_flair_text": null,
+                                "created_utc": 1412450514,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0e4hn",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "sevenonelmao",
+                      "parent_id": "t1_cl0dvmy",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "And everybody with bitcoins saying \"this is actually good news\" don't have bias either?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And everybody with bitcoins saying &amp;quot;this is actually good news&amp;quot; don&amp;#39;t have bias either?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0e4hn",
+                      "created": 1412479155,
+                      "author_flair_text": null,
+                      "created_utc": 1412450355,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0dvmy",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "pinhead26",
+            "parent_id": "t3_2ian3s",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "\"If you're still holding bitcoin, don't go down with the ship... come over to my website and buy gold from me with your bitcoins\"\n\nI think Schiff might have a bias on this issue",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;If you&amp;#39;re still holding bitcoin, don&amp;#39;t go down with the ship... come over to my website and buy gold from me with your bitcoins&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;I think Schiff might have a bias on this issue&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0dvmy",
+            "created": 1412478561,
+            "author_flair_text": null,
+            "created_utc": 1412449761,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0e5jd",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BC4U",
+            "parent_id": "t3_2ian3s",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0e5jd",
+            "created": 1412479222,
+            "author_flair_text": null,
+            "created_utc": 1412450422,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ian3s",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ian3s",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0dvwg",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BTCoverlord",
+                                "parent_id": "t1_cl0dqv7",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Sounds to me that, like this ignorant Peter Shiff guy, you also don't know shit about how the exchanges work, and are just ignoring that a major point of his argument for BTC to drop in value, was completely wrong in stating that, you can't take shorts on bitcoin.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sounds to me that, like this ignorant Peter Shiff guy, you also don&amp;#39;t know shit about how the exchanges work, and are just ignoring that a major point of his argument for BTC to drop in value, was completely wrong in stating that, you can&amp;#39;t take shorts on bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0dvwg",
+                                "created": 1412478579,
+                                "author_flair_text": null,
+                                "created_utc": 1412449779,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0dqv7",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "sevenonelmao",
+                      "parent_id": "t1_cl0dnw6",
+                      "score": -3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "It sounds to me like you're taking any opportunity you can to clasp your hands over your ears and shut out anything negative, blinded by the money. There might be mistakes here or there but his analysis is spot on, and has been all along.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It sounds to me like you&amp;#39;re taking any opportunity you can to clasp your hands over your ears and shut out anything negative, blinded by the money. There might be mistakes here or there but his analysis is spot on, and has been all along.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0dqv7",
+                      "created": 1412478238,
+                      "author_flair_text": null,
+                      "created_utc": 1412449438,
+                      "ups": -3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0dnw6",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BTCoverlord",
+            "parent_id": "t3_2ian3s",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Ok, I stopped listening at:\n\n- *\"There are no exchanges where you can borrow bitcoin and go short\"*\n\nRight after another pearl of complete ignorance:\n\n- *\"In bitstamp you can now put selling stops and the market manipulators can see your stops in the order book\".*\n\nThis tells me exactly how absolutely ignorant this idiot talking like he knew something is.\n\nFirst, the stops don't show up in the order book. But ok, the guy could be wrong about that not so big detail.\n\nBut then, he has to be completely clueless and ignorant to tell you you cannot take a short on bitcoin when - **by very, very far** - all the highest trading exchanges, except bitstamp, allow shorts ranging from 2.2x to 10x leverage.\n\n**So, this Peter Schiff if an ignorant. Nuff said**\n\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ok, I stopped listening at:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;em&gt;&amp;quot;There are no exchanges where you can borrow bitcoin and go short&amp;quot;&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Right after another pearl of complete ignorance:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;em&gt;&amp;quot;In bitstamp you can now put selling stops and the market manipulators can see your stops in the order book&amp;quot;.&lt;/em&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;This tells me exactly how absolutely ignorant this idiot talking like he knew something is.&lt;/p&gt;\n\n&lt;p&gt;First, the stops don&amp;#39;t show up in the order book. But ok, the guy could be wrong about that not so big detail.&lt;/p&gt;\n\n&lt;p&gt;But then, he has to be completely clueless and ignorant to tell you you cannot take a short on bitcoin when - &lt;strong&gt;by very, very far&lt;/strong&gt; - all the highest trading exchanges, except bitstamp, allow shorts ranging from 2.2x to 10x leverage.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;So, this Peter Schiff if an ignorant. Nuff said&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0dnw6",
+            "created": 1412478029,
+            "author_flair_text": null,
+            "created_utc": 1412449229,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0hik3",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Bankless",
+            "parent_id": "t3_2ian3s",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think the bitcoin Blockchain ledger and supercomputernetwork is every bankers wet dream, how is that for some intrinsic value?\n ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think the bitcoin Blockchain ledger and supercomputernetwork is every bankers wet dream, how is that for some intrinsic value?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0hik3",
+            "created": 1412487248,
+            "author_flair_text": null,
+            "created_utc": 1412458448,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

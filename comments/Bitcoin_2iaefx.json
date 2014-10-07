@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I want to buy an account on a site they don&amp;#39;t offer the bitcoin option but they offer to pay with giftcard such as burger king card, CVS, Subway. If I pay with the card they ask the card number + the Pin code, that you usually scratch off. My question is does Gyft card come with that pin number ?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I want to buy an account on a site they don't offer the bitcoin option but they offer to pay with giftcard such as burger king card, CVS, Subway. If I pay with the card they ask the card number + the Pin code, that you usually scratch off. My question is does Gyft card come with that pin number ?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iaefx",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "LiThiuMElectro",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iaefx",
+            "permalink": "/r/Bitcoin/comments/2iaefx/gyft_cards/",
+            "stickied": false,
+            "created": 1412471602,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iaefx/gyft_cards/",
+            "author_flair_text": null,
+            "title": "Gyft cards",
+            "created_utc": 1412442802,
+            "ups": 5,
+            "upvote_ratio": 1,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaefx",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0bfju",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "mcbelisle",
+            "parent_id": "t3_2iaefx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0bfju",
+            "created": 1412472903,
+            "author_flair_text": null,
+            "created_utc": 1412444103,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iaefx",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iaefx",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iaefx",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0g4zi",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "RezOKC",
+                                "parent_id": "t1_cl0csxj",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "If you bought a gift card (or want to buy one with BTC), the Gyft website version works. And you can print out your gift voucher. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you bought a gift card (or want to buy one with BTC), the Gyft website version works. And you can print out your gift voucher. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0g4zi",
+                                "created": 1412483946,
+                                "author_flair_text": null,
+                                "created_utc": 1412455146,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0csxj",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "LiThiuMElectro",
+                      "parent_id": "t1_cl0bhll",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "bought the gyft card my phone is not compatible with the app.. fml",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;bought the gyft card my phone is not compatible with the app.. fml&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0csxj",
+                      "created": 1412476045,
+                      "author_flair_text": null,
+                      "created_utc": 1412447245,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0bhll",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "RezOKC",
+            "parent_id": "t3_2iaefx",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes, it does. You're good. Be careful, though, the only problem I've had locally with a Gyft card was Burger King - the registers wouldn't recognize them. Other than that, it's been sweet. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, it does. You&amp;#39;re good. Be careful, though, the only problem I&amp;#39;ve had locally with a Gyft card was Burger King - the registers wouldn&amp;#39;t recognize them. Other than that, it&amp;#39;s been sweet. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0bhll",
+            "created": 1412473032,
+            "author_flair_text": null,
+            "created_utc": 1412444232,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

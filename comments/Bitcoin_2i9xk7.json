@@ -1,0 +1,431 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I read that banks decided not to implement changes that would have made such transfers faster in the US (while such changes were implemented in parts of Europe). I know that I, personally, have scheduled a transfer, sort of forgot, spent money, and ended up with a negative balance because I&amp;#39;d forgotten. I recognize that&amp;#39;s entirely avoidable and my fault but it&amp;#39;s something that is made more likely by having my balance not reflect an irreversible transfer for days. Might this be part of banks&amp;#39; cynical intention? Anyone have any inside information? :-) &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I read that banks decided not to implement changes that would have made such transfers faster in the US (while such changes were implemented in parts of Europe). I know that I, personally, have scheduled a transfer, sort of forgot, spent money, and ended up with a negative balance because I'd forgotten. I recognize that's entirely avoidable and my fault but it's something that is made more likely by having my balance not reflect an irreversible transfer for days. Might this be part of banks' cynical intention? Anyone have any inside information? :-) ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9xk7",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "asaltandbuttering",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i9xk7",
+            "permalink": "/r/Bitcoin/comments/2i9xk7/question_is_it_plausible_that_banks_prefer_long/",
+            "stickied": false,
+            "created": 1412459564,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i9xk7/question_is_it_plausible_that_banks_prefer_long/",
+            "author_flair_text": null,
+            "title": "Question: Is it plausible that banks prefer long ACH transfer delays since an account with an unfinalized balance is more likely to get overdrawn?",
+            "created_utc": 1412430764,
+            "ups": 5,
+            "upvote_ratio": 0.78,
+            "num_comments": 9,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9xk7",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9xk7",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i9xk7",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i9xk7",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0yuiz",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "wbic16",
+                                          "parent_id": "t1_cl0qxh5",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I found a four-part technical description of the ACH process posted by Zen Payroll in April through September of 2014. The description makes it plain that transfers can't be instant (*by design*).\n\n&gt;It's important to note that ACH is not a real-time system. Rather, things are processed in batches at 6:30pm EST, 12:30am EST, and 3:00am EST. As a result, funds can take days to settle.\n\nWhat you're seeing is that the OFDI updates the account before the transfer has actually settled.\n\nWhile it would be technically possible for the Federal Reserve to speed up processing, it would be expensive to rewrite the existing (working) system. The standards organization that manages the ACH protocol is apparently working on same-day transfers, but it will take time for banks to update their systems to adopt it.\n\nPart 3 is particularly interesting because it outlines a 4-day transfer scenario. The author even references Bitcoin as a way to reduce transfer delay.\n\n&gt; Because of the inherent delays in the ACH system, alternate protocols and means of transferring money (for example, Dwolla and Bitcoin) have begun to see pockets of popularity.\n\nSources:\n\nhttp://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-1/\n\nhttp://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-2/\n\nhttp://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-3/\n\nhttp://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I found a four-part technical description of the ACH process posted by Zen Payroll in April through September of 2014. The description makes it plain that transfers can&amp;#39;t be instant (&lt;em&gt;by design&lt;/em&gt;).&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;It&amp;#39;s important to note that ACH is not a real-time system. Rather, things are processed in batches at 6:30pm EST, 12:30am EST, and 3:00am EST. As a result, funds can take days to settle.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;What you&amp;#39;re seeing is that the OFDI updates the account before the transfer has actually settled.&lt;/p&gt;\n\n&lt;p&gt;While it would be technically possible for the Federal Reserve to speed up processing, it would be expensive to rewrite the existing (working) system. The standards organization that manages the ACH protocol is apparently working on same-day transfers, but it will take time for banks to update their systems to adopt it.&lt;/p&gt;\n\n&lt;p&gt;Part 3 is particularly interesting because it outlines a 4-day transfer scenario. The author even references Bitcoin as a way to reduce transfer delay.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Because of the inherent delays in the ACH system, alternate protocols and means of transferring money (for example, Dwolla and Bitcoin) have begun to see pockets of popularity.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Sources:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-1/\"&gt;http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-1/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-2/\"&gt;http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-2/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-3/\"&gt;http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-3/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/\"&gt;http://engineering.zenpayroll.com/how-ach-works-a-developer-perspective-part-4/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0yuiz",
+                                          "created": 1412545313,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412516513,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0qxh5",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Miner4luif",
+                                "parent_id": "t1_cl0cvqy",
+                                "score": 0,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No. For 99% of banks in the west, there is absolutely no technical or verification issues that stop Wires/ACH from being near instant with the same security.\n\nI would like to point out that If you cash a check to make a transfer, the bank will actually make the transfer before they have cleared the check completely so that's not even a concern.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No. For 99% of banks in the west, there is absolutely no technical or verification issues that stop Wires/ACH from being near instant with the same security.&lt;/p&gt;\n\n&lt;p&gt;I would like to point out that If you cash a check to make a transfer, the bank will actually make the transfer before they have cleared the check completely so that&amp;#39;s not even a concern.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0qxh5",
+                                "created": 1412510300,
+                                "author_flair_text": null,
+                                "created_utc": 1412481500,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 0
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0cvqy",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "wbic16",
+                      "parent_id": "t1_cl0a2mf",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I think it has more to do with banking regulations, fraud detection and liquidity. If ACH transfers settled in one day, then banks would have less time to validate their transactions.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think it has more to do with banking regulations, fraud detection and liquidity. If ACH transfers settled in one day, then banks would have less time to validate their transactions.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0cvqy",
+                      "created": 1412476216,
+                      "author_flair_text": null,
+                      "created_utc": 1412447416,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0a2mf",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Miner4luif",
+            "parent_id": "t3_2i9xk7",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What reason besides being able to rake in billions in interest on transactions in limbo?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What reason besides being able to rake in billions in interest on transactions in limbo?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0a2mf",
+            "created": 1412469718,
+            "author_flair_text": null,
+            "created_utc": 1412440918,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9xk7",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06m9y",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "zoopz",
+            "parent_id": "t3_2i9xk7",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Same reason everything in the US is done on credit cards. Debit is standard in western Europe. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Same reason everything in the US is done on credit cards. Debit is standard in western Europe. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06m9y",
+            "created": 1412460099,
+            "author_flair_text": null,
+            "created_utc": 1412431299,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9xk7",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9xk7",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl07hf0",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "dskloet",
+                      "parent_id": "t1_cl06n2g",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "But apparently they don't remove the money from the balance yet. That's why OP gets confused and spends it again.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;But apparently they don&amp;#39;t remove the money from the balance yet. That&amp;#39;s why OP gets confused and spends it again.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl07hf0",
+                      "created": 1412462938,
+                      "author_flair_text": null,
+                      "created_utc": 1412434138,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06n2g",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "the-y",
+            "parent_id": "t3_2i9xk7",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Nope, it's much easier than that: If they remove the money from your account balance but wait for two days until they send it to the beneficiary's bank, they gain two days of liquidity during which they can use your funds.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nope, it&amp;#39;s much easier than that: If they remove the money from your account balance but wait for two days until they send it to the beneficiary&amp;#39;s bank, they gain two days of liquidity during which they can use your funds.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06n2g",
+            "created": 1412460180,
+            "author_flair_text": null,
+            "created_utc": 1412431380,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9xk7",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i9xk7",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl06ysn",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "asaltandbuttering",
+                      "parent_id": "t1_cl06mpu",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Let's just say I'm financially self-destructive ;-). It's only relevant inasmuch as there is a statistical distribution of behaviors and, I'd guess, a non-negligible fraction of people behave like me and banks know that. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Let&amp;#39;s just say I&amp;#39;m financially self-destructive ;-). It&amp;#39;s only relevant inasmuch as there is a statistical distribution of behaviors and, I&amp;#39;d guess, a non-negligible fraction of people behave like me and banks know that. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl06ysn",
+                      "created": 1412461295,
+                      "author_flair_text": null,
+                      "created_utc": 1412432495,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06mpu",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "dskloet",
+            "parent_id": "t3_2i9xk7",
+            "score": 0,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Wait, in the US money is shown in your account that has already left your account? I know banks like to make transfers slow so they can draw interest on the delay, but this sounds different.\n\nWere you spending that money just because you thought you had that money in your account? That doesn't sounds like a very good reason to spend money.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Wait, in the US money is shown in your account that has already left your account? I know banks like to make transfers slow so they can draw interest on the delay, but this sounds different.&lt;/p&gt;\n\n&lt;p&gt;Were you spending that money just because you thought you had that money in your account? That doesn&amp;#39;t sounds like a very good reason to spend money.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06mpu",
+            "created": 1412460144,
+            "author_flair_text": null,
+            "created_utc": 1412431344,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

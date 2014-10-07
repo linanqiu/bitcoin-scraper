@@ -1,0 +1,396 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "coinssource.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ibmog",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "TkHamed",
+            "media": null,
+            "score": 1,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ibmog",
+            "permalink": "/r/Bitcoin/comments/2ibmog/russia_plans_total_bitcoin_ban_in_2015/",
+            "stickied": false,
+            "created": 1412500809,
+            "url": "http://www.coinssource.com/russia-plans-total-bitcoin-ban-2015/",
+            "author_flair_text": null,
+            "title": "Russia Plans Total Bitcoin Ban in 2015",
+            "created_utc": 1412472009,
+            "ups": 1,
+            "upvote_ratio": 0.53,
+            "num_comments": 8,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibmog",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibmog",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0tpw3",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "solex1",
+                      "parent_id": "t1_cl0nuya",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Correct.\nThe ironic thing is that Bitcoin is something Russia could use to its advantage when it is blacklisted by Western banks and cut off from SWIFT.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Correct.\nThe ironic thing is that Bitcoin is something Russia could use to its advantage when it is blacklisted by Western banks and cut off from SWIFT.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0tpw3",
+                      "created": 1412519034,
+                      "author_flair_text": null,
+                      "created_utc": 1412490234,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0nuya",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Cawley22",
+            "parent_id": "t3_2ibmog",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Good thing it doesn't matter.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good thing it doesn&amp;#39;t matter.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0nuya",
+            "created": 1412502641,
+            "author_flair_text": null,
+            "created_utc": 1412473841,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibmog",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibmog",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibmog",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ibmog",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ibmog",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1dqzr",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "solex1",
+                                                    "parent_id": "t1_cl0ys0k",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Well, I guess no one's perfect.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well, I guess no one&amp;#39;s perfect.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1dqzr",
+                                                    "created": 1412577763,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412548963,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl0ys0k",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bigeyeblueguy",
+                                          "parent_id": "t1_cl0tqgv",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Along with Startcoin, and Quark",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Along with Startcoin, and Quark&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl0ys0k",
+                                          "created": 1412545070,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412516270,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0tqgv",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "solex1",
+                                "parent_id": "t1_cl0pzbt",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Max is doing a lot of good work calling out the global fiat ponzi and presenting Bitcoin as digital gold.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Max is doing a lot of good work calling out the global fiat ponzi and presenting Bitcoin as digital gold.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0tqgv",
+                                "created": 1412519098,
+                                "author_flair_text": null,
+                                "created_utc": 1412490298,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0pzbt",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bigeyeblueguy",
+                      "parent_id": "t1_cl0pjrv",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Will max quit out of protest? probably not.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Will max quit out of protest? probably not.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0pzbt",
+                      "created": 1412507872,
+                      "author_flair_text": null,
+                      "created_utc": 1412479072,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0pjrv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "LetsSeeWhatsUpThere",
+            "parent_id": "t3_2ibmog",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Max Keiser's chosen employer. Edward Snowden's chosen refuge. Russia, land of the free. What a bunch of hypocrites. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Max Keiser&amp;#39;s chosen employer. Edward Snowden&amp;#39;s chosen refuge. Russia, land of the free. What a bunch of hypocrites. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0pjrv",
+            "created": 1412506839,
+            "author_flair_text": null,
+            "created_utc": 1412478039,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibmog",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0ru6s",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ddmnyc",
+            "parent_id": "t3_2ibmog",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Here we go again.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Here we go again.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0ru6s",
+            "created": 1412512842,
+            "author_flair_text": null,
+            "created_utc": 1412484042,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

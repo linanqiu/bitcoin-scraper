@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I tried checking out steambits today to see if they had any cool games for sale and the site looks nice, but there are no offered games.  Is the site not legit?  Is there a better place to go to get steam games for bits?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I tried checking out steambits today to see if they had any cool games for sale and the site looks nice, but there are no offered games.  Is the site not legit?  Is there a better place to go to get steam games for bits?",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2id12v",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "amendment64",
+            "media": null,
+            "score": 6,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2id12v",
+            "permalink": "/r/Bitcoin/comments/2id12v/is_steambits_broken/",
+            "stickied": false,
+            "created": 1412551377,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2id12v/is_steambits_broken/",
+            "author_flair_text": null,
+            "title": "Is steambits broken?",
+            "created_utc": 1412522577,
+            "ups": 6,
+            "upvote_ratio": 0.88,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

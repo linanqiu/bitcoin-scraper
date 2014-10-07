@@ -1,0 +1,238 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "gist.github.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ihggy",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bitstein",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/0hcp73Ww96jz_Hzzet4I9h3PUS9p9kxQ7ZcbEdQlcKc.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ihggy",
+            "permalink": "/r/Bitcoin/comments/2ihggy/the_sni_mempool_crash_course_in_bitcoin_political/",
+            "stickied": false,
+            "created": 1412656802,
+            "url": "https://gist.github.com/bitstein/6eac8d9c4af2288acf4c",
+            "author_flair_text": null,
+            "title": "The SNI Mempool Crash Course in Bitcoin Political Economy; or, Why Hyperbitcoinization is Coming",
+            "created_utc": 1412628002,
+            "ups": 5,
+            "upvote_ratio": 0.7,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihggy",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ihggy",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ihggy",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ihggy",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl28hey",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "AaronPaul",
+                                          "parent_id": "t1_cl280fa",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I agree.  I think the complexities on the surface of bitcoin will be abstracted away with all the venture capital being pumped into the space.\n\nPolitically we will face problems.  Too many bought and paid for politicians and judges. \n\nIts funny, the front page of /r/Bitcoin shows a well-adjusted, most likely well intentioned Canadian politician asking Bitcoin power players \"What can I do to help you?\" My first thought is \"Wow, thats great\". But then reality sets in.  As soon as he attempts to make well-adjusted decisions to attract bitcoin business and foster a bitcoin growth environment; he will get hammered by his peers &amp; higher ups, who are bought and paid for.  \n\nAnyways, in terms of technology, politicians can slow us, but the systems they work in are depracated; they can be considered irrelevant if we choose so i think protocol is the real risk we face.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I agree.  I think the complexities on the surface of bitcoin will be abstracted away with all the venture capital being pumped into the space.&lt;/p&gt;\n\n&lt;p&gt;Politically we will face problems.  Too many bought and paid for politicians and judges. &lt;/p&gt;\n\n&lt;p&gt;Its funny, the front page of &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt; shows a well-adjusted, most likely well intentioned Canadian politician asking Bitcoin power players &amp;quot;What can I do to help you?&amp;quot; My first thought is &amp;quot;Wow, thats great&amp;quot;. But then reality sets in.  As soon as he attempts to make well-adjusted decisions to attract bitcoin business and foster a bitcoin growth environment; he will get hammered by his peers &amp;amp; higher ups, who are bought and paid for.  &lt;/p&gt;\n\n&lt;p&gt;Anyways, in terms of technology, politicians can slow us, but the systems they work in are depracated; they can be considered irrelevant if we choose so i think protocol is the real risk we face.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl28hey",
+                                          "created": 1412659795,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412630995,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl280fa",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Throwahoymatie",
+                                "parent_id": "t1_cl27u1b",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "As far as I'm concerned, the only risks left are protocol and political.  And those diminish every day. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;As far as I&amp;#39;m concerned, the only risks left are protocol and political.  And those diminish every day. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl280fa",
+                                "created": 1412658894,
+                                "author_flair_text": null,
+                                "created_utc": 1412630094,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl27u1b",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "AaronPaul",
+                      "parent_id": "t1_cl27ce7",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Agreed. Though Daniel seems to see the space a lot clearer than most so I find myself agreeing more than not.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Agreed. Though Daniel seems to see the space a lot clearer than most so I find myself agreeing more than not.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl27u1b",
+                      "created": 1412658560,
+                      "author_flair_text": null,
+                      "created_utc": 1412629760,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl27ce7",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Throwahoymatie",
+            "parent_id": "t3_2ihggy",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Everyone should read this, even if you disagree with the conclusions.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Everyone should read this, even if you disagree with the conclusions.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl27ce7",
+            "created": 1412657647,
+            "author_flair_text": null,
+            "created_utc": 1412628847,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

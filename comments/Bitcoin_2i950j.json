@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I believe bitcoin is the most empowering technology since the internet.&lt;/p&gt;\n\n&lt;p&gt;What is bitcoin really good at today that demonstrates the power it gives people.&lt;/p&gt;\n\n&lt;p&gt;Off the top of my head:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Microtipping (ChangeTip)&lt;/li&gt;\n&lt;li&gt;Moving Money Internationally&lt;/li&gt;\n&lt;li&gt;Best (cheapest, safest) way for merchants to get paid&lt;/li&gt;\n&lt;li&gt;Gambling&lt;/li&gt;\n&lt;li&gt;Crowdfunding&lt;/li&gt;\n&lt;li&gt;peer to peer lending (BTCJam)&lt;/li&gt;\n&lt;li&gt;evade capital controls&lt;/li&gt;\n&lt;li&gt;Micropayments&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "I believe bitcoin is the most empowering technology since the internet.\n\nWhat is bitcoin really good at today that demonstrates the power it gives people.\n\nOff the top of my head:\n\n* Microtipping (ChangeTip)\n* Moving Money Internationally\n* Best (cheapest, safest) way for merchants to get paid\n* Gambling\n* Crowdfunding\n* peer to peer lending (BTCJam)\n* evade capital controls\n* Micropayments\n",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i950j",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "smithd98",
+            "media": null,
+            "score": 5,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412398482,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i950j",
+            "permalink": "/r/Bitcoin/comments/2i950j/what_are_the_practical_use_cases_of_bitcoin_today/",
+            "stickied": false,
+            "created": 1412426672,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i950j/what_are_the_practical_use_cases_of_bitcoin_today/",
+            "author_flair_text": null,
+            "title": "What are the practical use cases of bitcoin today?",
+            "created_utc": 1412397872,
+            "ups": 5,
+            "upvote_ratio": 0.78,
+            "num_comments": 4,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i950j",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i950j",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i950j",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0176z",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "sayallotodabadguy",
+                                "parent_id": "t1_cl010h8",
+                                "score": -3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "That's what the money laundering is for. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s what the money laundering is for. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0176z",
+                                "created": 1412430881,
+                                "author_flair_text": null,
+                                "created_utc": 1412402081,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": -3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl010h8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "thesheepguy21",
+                      "parent_id": "t1_cl006iw",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That is stupid because all the authorities would have to do is find out wich address is yours and track you back from there and see what you bought and when.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That is stupid because all the authorities would have to do is find out wich address is yours and track you back from there and see what you bought and when.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl010h8",
+                      "created": 1412430146,
+                      "author_flair_text": null,
+                      "created_utc": 1412401346,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl006iw",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sayallotodabadguy",
+            "parent_id": "t3_2i950j",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "* Trade in illicit drugs\n* Paying assassins remotely without having to use a bank or deliver cash\n* Paying for services from sex workers\n* Money laundering",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;ul&gt;\n&lt;li&gt;Trade in illicit drugs&lt;/li&gt;\n&lt;li&gt;Paying assassins remotely without having to use a bank or deliver cash&lt;/li&gt;\n&lt;li&gt;Paying for services from sex workers&lt;/li&gt;\n&lt;li&gt;Money laundering&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl006iw",
+            "created": 1412427298,
+            "author_flair_text": null,
+            "created_utc": 1412398498,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i950j",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl01idp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "witchsbrew",
+            "parent_id": "t3_2i950j",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Privacy and protection from statist control.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Privacy and protection from statist control.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl01idp",
+            "created": 1412432178,
+            "author_flair_text": null,
+            "created_utc": 1412403378,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

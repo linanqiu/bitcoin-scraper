@@ -1,0 +1,229 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Does anyone here know how to buy bitcoin with a prepaid debit card? I&amp;#39;m willing to pay someone for it (paypal)...&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Does anyone here know how to buy bitcoin with a prepaid debit card? I'm willing to pay someone for it (paypal)...",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iar6o",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "jacksonionh",
+            "media": null,
+            "score": 10,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2iar6o",
+            "permalink": "/r/Bitcoin/comments/2iar6o/buying_bitcoin_with_prepaid_debit_card/",
+            "stickied": false,
+            "created": 1412479482,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2iar6o/buying_bitcoin_with_prepaid_debit_card/",
+            "author_flair_text": null,
+            "title": "Buying Bitcoin with Prepaid Debit Card?",
+            "created_utc": 1412450682,
+            "ups": 10,
+            "upvote_ratio": 0.82,
+            "num_comments": 5,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iar6o",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iar6o",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0lo99",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BobAlison",
+                      "parent_id": "t1_cl0gr6j",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "It's hit or miss and seems to depend on the vendor:\n\nhttp://www.reddit.com/r/Bitcoin/comments/2hschy/can_i_use_a_prepaid_card_to_buy_bitcoin_off_of/",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s hit or miss and seems to depend on the vendor:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.reddit.com/r/Bitcoin/comments/2hschy/can_i_use_a_prepaid_card_to_buy_bitcoin_off_of/\"&gt;http://www.reddit.com/r/Bitcoin/comments/2hschy/can_i_use_a_prepaid_card_to_buy_bitcoin_off_of/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0lo99",
+                      "created": 1412497287,
+                      "author_flair_text": null,
+                      "created_utc": 1412468487,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0gr6j",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "FjorXD",
+            "parent_id": "t3_2iar6o",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Correct me if I'm wrong. But pretty sure you can do that through circle? ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Correct me if I&amp;#39;m wrong. But pretty sure you can do that through circle? &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0gr6j",
+            "created": 1412485403,
+            "author_flair_text": null,
+            "created_utc": 1412456603,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iar6o",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iar6o",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0iq2f",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "MrProper",
+                      "parent_id": "t1_cl0hb9e",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I think you can link your Visa/Mastercard. This is something that I actually tested with success.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think you can link your Visa/Mastercard. This is something that I actually tested with success.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0iq2f",
+                      "created": 1412490193,
+                      "author_flair_text": null,
+                      "created_utc": 1412461393,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0hb9e",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "jacksonionh",
+            "parent_id": "t3_2iar6o",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I think you need to connect your bank account to do that.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I think you need to connect your bank account to do that.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0hb9e",
+            "created": 1412486744,
+            "author_flair_text": null,
+            "created_utc": 1412457944,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

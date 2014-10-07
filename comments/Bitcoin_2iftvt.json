@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "cryptocointalk.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iftvt",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "ccedk",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/EFjeGjZYfNU5xP0urZPtDgvvWBSPioPrE2Ythe9tVIk.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2iftvt",
+            "permalink": "/r/Bitcoin/comments/2iftvt/october_news_at_ccedk_2fa_dropdown_menu_happy/",
+            "stickied": false,
+            "created": 1412624547,
+            "url": "https://cryptocointalk.com/topic/17639-october-news-at-ccedk-2fa-dropdown-menu-happy-hour-maraton-trading-and-100-trading-pairs/",
+            "author_flair_text": null,
+            "title": "October NEWS AT CCEDK - 2FA, Dropdown Menu, Happy Hour, Maraton Trading and 100+ Trading Pairs - Exchanges / Profitability",
+            "created_utc": 1412595747,
+            "ups": 4,
+            "upvote_ratio": 1,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

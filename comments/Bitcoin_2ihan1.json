@@ -1,0 +1,273 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone.\nLast week, bitcoin-trader.biz issued a statement that the audit that their users had paid for was not going to be released because they felt it was &amp;quot;unsatisfactory.&amp;quot; A number of users became very concerned about this, especially considering that the users themselves had paid for the audit to be conducted.&lt;/p&gt;\n\n&lt;p&gt;As of this afternoon when payouts were scheduled to begin, BT issued this statement on their facebook page:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Due to technical issues with the key server, which occurred during the processing of cashout requests not all pending bitcoin cashout requests could be processed. We have contacted our sys admin to look into the issue and will resume bitcoin cashout requests as soon as possible. About 200 or so bitcoin requests accumulated during the weekend had been processed, as well as all the other payment systems, Litecoin and Ripple.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;BT supposedly deals in USD. A number of users waited until bitcoin bottomed out over the weekend before requesting their payout, locking in the amount of BTC. However, given the increase, some users now are owed BTC that is up to 25% more valuable. So, for instance, if someone requested a cash out of $260 over the weekend when it was valued at .92BTC, that amount of BTC was locked in. Payments aren&amp;#39;t processed until monday - and that .92BTC is now valued at $330+ USD, but BT owes the locked in amount of BTC.&lt;/p&gt;\n\n&lt;p&gt;If several hundred users did this, it could spell major financial trouble for the site.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hey everyone.\nLast week, bitcoin-trader.biz issued a statement that the audit that their users had paid for was not going to be released because they felt it was \"unsatisfactory.\" A number of users became very concerned about this, especially considering that the users themselves had paid for the audit to be conducted.\n\nAs of this afternoon when payouts were scheduled to begin, BT issued this statement on their facebook page:\n\n&gt;Due to technical issues with the key server, which occurred during the processing of cashout requests not all pending bitcoin cashout requests could be processed. We have contacted our sys admin to look into the issue and will resume bitcoin cashout requests as soon as possible. About 200 or so bitcoin requests accumulated during the weekend had been processed, as well as all the other payment systems, Litecoin and Ripple.\n\nBT supposedly deals in USD. A number of users waited until bitcoin bottomed out over the weekend before requesting their payout, locking in the amount of BTC. However, given the increase, some users now are owed BTC that is up to 25% more valuable. So, for instance, if someone requested a cash out of $260 over the weekend when it was valued at .92BTC, that amount of BTC was locked in. Payments aren't processed until monday - and that .92BTC is now valued at $330+ USD, but BT owes the locked in amount of BTC.\n\nIf several hundred users did this, it could spell major financial trouble for the site.",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ihan1",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "truemeliorist",
+            "media": null,
+            "score": 4,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ihan1",
+            "permalink": "/r/Bitcoin/comments/2ihan1/bitcointraderbiz_defaulting_on_payments/",
+            "stickied": false,
+            "created": 1412654194,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ihan1/bitcointraderbiz_defaulting_on_payments/",
+            "author_flair_text": null,
+            "title": "Bitcoin-trader.biz defaulting on payments?",
+            "created_utc": 1412625394,
+            "ups": 4,
+            "upvote_ratio": 1,
+            "num_comments": 5,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihan1",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ihan1",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ihan1",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ihan1",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl29wm7",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "fingertoe11",
+                                          "parent_id": "t1_cl29kae",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "It isn't as easy as it seems -- You can run the math yourself. It just doesn't add up..  USD doesn't flow easy enough to do the \"repeat\" part of arbitrage.  \n\nOn the bright side - there are few dozen copycats popping up if you like the risk and reward of playing the Ponzi game.  ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It isn&amp;#39;t as easy as it seems -- You can run the math yourself. It just doesn&amp;#39;t add up..  USD doesn&amp;#39;t flow easy enough to do the &amp;quot;repeat&amp;quot; part of arbitrage.  &lt;/p&gt;\n\n&lt;p&gt;On the bright side - there are few dozen copycats popping up if you like the risk and reward of playing the Ponzi game.  &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl29wm7",
+                                          "created": 1412662628,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412633828,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl29kae",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Whiteboyfntastic1",
+                                "parent_id": "t1_cl27djv",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Unfortunately I tend to agree. Luckily I don't have much skin in the game. the only glimmer of hope in my mind is that they actually sponsored the bitcoin car and I heard interviews with folks actually involved with the bitcoin car and with bitcoin trader. Ah well only time will tell.\n\n\nToo bad because TBH I feel like a non-ponzi version of this could work, given the ridiculous volatility of bitcoin. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Unfortunately I tend to agree. Luckily I don&amp;#39;t have much skin in the game. the only glimmer of hope in my mind is that they actually sponsored the bitcoin car and I heard interviews with folks actually involved with the bitcoin car and with bitcoin trader. Ah well only time will tell.&lt;/p&gt;\n\n&lt;p&gt;Too bad because TBH I feel like a non-ponzi version of this could work, given the ridiculous volatility of bitcoin. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl29kae",
+                                "created": 1412661927,
+                                "author_flair_text": null,
+                                "created_utc": 1412633127,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl27djv",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "fingertoe11",
+                      "parent_id": "t1_cl25qei",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "It's a Ponzi.  All the evidence points that way except for the wishful thinking.\n\nMy suspicion is that they have had a cashflow negative weekend because of the fake audit silliness..  They need to convert USD to BTC to make their daily payment.   \n\nI doubt the game is up at this point, but the day is coming. \n\n",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s a Ponzi.  All the evidence points that way except for the wishful thinking.&lt;/p&gt;\n\n&lt;p&gt;My suspicion is that they have had a cashflow negative weekend because of the fake audit silliness..  They need to convert USD to BTC to make their daily payment.   &lt;/p&gt;\n\n&lt;p&gt;I doubt the game is up at this point, but the day is coming. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl27djv",
+                      "created": 1412657706,
+                      "author_flair_text": null,
+                      "created_utc": 1412628906,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl25qei",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Whiteboyfntastic1",
+            "parent_id": "t3_2ihan1",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "For their sake I hope they take this into account. Assuming it isn't a ponzi scheme and it really is arbitrage trading, I think we can assume or hope they were setting aside some amount of the arbitrage trading revenue to run their business and plan for contingency and this is where they might need to dip into that.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;For their sake I hope they take this into account. Assuming it isn&amp;#39;t a ponzi scheme and it really is arbitrage trading, I think we can assume or hope they were setting aside some amount of the arbitrage trading revenue to run their business and plan for contingency and this is where they might need to dip into that.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl25qei",
+            "created": 1412654687,
+            "author_flair_text": null,
+            "created_utc": 1412625887,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihan1",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2c4z9",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "fingertoe11",
+            "parent_id": "t3_2ihan1",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Still no update. That does not bode too well.\n\nIt was only a matter of time though.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Still no update. That does not bode too well.&lt;/p&gt;\n\n&lt;p&gt;It was only a matter of time though.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2c4z9",
+            "created": 1412667299,
+            "author_flair_text": null,
+            "created_utc": 1412638499,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

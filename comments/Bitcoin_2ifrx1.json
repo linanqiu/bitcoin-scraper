@@ -1,0 +1,308 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;we are riffing on some ideas with proof of burn, we need some help about how to create a provably unspendable address. can someone please give us the lowdown&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "we are riffing on some ideas with proof of burn, we need some help about how to create a provably unspendable address. can someone please give us the lowdown",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ifrx1",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "wollit",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ifrx1",
+            "permalink": "/r/Bitcoin/comments/2ifrx1/help_making_a_provably_unspendable_address/",
+            "stickied": false,
+            "created": 1412622389,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ifrx1/help_making_a_provably_unspendable_address/",
+            "author_flair_text": null,
+            "title": "Help Making a provably unspendable address",
+            "created_utc": 1412593589,
+            "ups": 3,
+            "upvote_ratio": 0.8,
+            "num_comments": 5,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifrx1",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1slyp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "cryptocronus",
+            "parent_id": "t3_2ifrx1",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "OP_RETURN",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OP_RETURN&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1slyp",
+            "created": 1412624773,
+            "author_flair_text": null,
+            "created_utc": 1412595973,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifrx1",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifrx1",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1t59l",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Uguuuu",
+                      "parent_id": "t1_cl1spl0",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "That does not work as proof of burn.\n\nA miner who can solve a block themselves can (almost) guarantee they will get their funds back.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That does not work as proof of burn.&lt;/p&gt;\n\n&lt;p&gt;A miner who can solve a block themselves can (almost) guarantee they will get their funds back.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1t59l",
+                      "created": 1412627019,
+                      "author_flair_text": null,
+                      "created_utc": 1412598219,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1spl0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "[deleted]",
+            "parent_id": "t3_2ifrx1",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "[deleted]",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1spl0",
+            "created": 1412625218,
+            "author_flair_text": null,
+            "created_utc": 1412596418,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifrx1",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifrx1",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ifrx1",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1xlgy",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "judah_mu",
+                                "parent_id": "t1_cl1wp1m",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses\n\nI guess you would do step 9, 8, and 7 in reverse.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses\"&gt;https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I guess you would do step 9, 8, and 7 in reverse.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1xlgy",
+                                "created": 1412638890,
+                                "author_flair_text": null,
+                                "created_utc": 1412610090,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1wp1m",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "wollit",
+                      "parent_id": "t1_cl1vh5v",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "thanks. understood.\n\nso how do i go about making one. specifically if i create a vanity one, how do i get the checksum at the end to work?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;thanks. understood.&lt;/p&gt;\n\n&lt;p&gt;so how do i go about making one. specifically if i create a vanity one, how do i get the checksum at the end to work?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1wp1m",
+                      "created": 1412636979,
+                      "author_flair_text": null,
+                      "created_utc": 1412608179,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1vh5v",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "judah_mu",
+            "parent_id": "t3_2ifrx1",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "A private key is a number.  One cannot prove that a number doesn't exist.  However we generally agree that some addresses are too off-the-wall for anybody to actually have the private key for it.  This is kinda the same concept that protects all of our funds...  \nBasically talked about in this infographic: https://i.imgur.com/CzyO1yv.jpg\n\nSo for addresses like [1CounterpartyXXXXXXXXXXXXXXXUWLpVr](http://btc.blockr.io/address/info/1CounterpartyXXXXXXXXXXXXXXXUWLpVr) and [1BitcoinEaterAddressDontSendf59kuE](http://btc.blockr.io/address/info/1BitcoinEaterAddressDontSendf59kuE) we all just agree that nobody would have the private key to those addresses.  (The last 5 digits of an address must be a correct hash of everything that comes before it or gets rejected by the network).   \n\nOn a related note is something like [vanitygen](https://github.com/samr7/vanitygen/blob/master/README) where you can keep cranking out private keys until you find the associated address that looks good for you.  For instance, creating 1BTC followed by random characters might take 30 seconds, depending on the speed of your computer, and 1judah...... might take 30 minutes.  But we assume there hasn't been enough time so far to have created the non random \"bitcoin eater\" address.\n\n",
+            "edited": 1412606690,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A private key is a number.  One cannot prove that a number doesn&amp;#39;t exist.  However we generally agree that some addresses are too off-the-wall for anybody to actually have the private key for it.  This is kinda the same concept that protects all of our funds...&lt;br/&gt;\nBasically talked about in this infographic: &lt;a href=\"https://i.imgur.com/CzyO1yv.jpg\"&gt;https://i.imgur.com/CzyO1yv.jpg&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;So for addresses like &lt;a href=\"http://btc.blockr.io/address/info/1CounterpartyXXXXXXXXXXXXXXXUWLpVr\"&gt;1CounterpartyXXXXXXXXXXXXXXXUWLpVr&lt;/a&gt; and &lt;a href=\"http://btc.blockr.io/address/info/1BitcoinEaterAddressDontSendf59kuE\"&gt;1BitcoinEaterAddressDontSendf59kuE&lt;/a&gt; we all just agree that nobody would have the private key to those addresses.  (The last 5 digits of an address must be a correct hash of everything that comes before it or gets rejected by the network).   &lt;/p&gt;\n\n&lt;p&gt;On a related note is something like &lt;a href=\"https://github.com/samr7/vanitygen/blob/master/README\"&gt;vanitygen&lt;/a&gt; where you can keep cranking out private keys until you find the associated address that looks good for you.  For instance, creating 1BTC followed by random characters might take 30 seconds, depending on the speed of your computer, and 1judah...... might take 30 minutes.  But we assume there hasn&amp;#39;t been enough time so far to have created the non random &amp;quot;bitcoin eater&amp;quot; address.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1vh5v",
+            "created": 1412634114,
+            "author_flair_text": null,
+            "created_utc": 1412605314,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

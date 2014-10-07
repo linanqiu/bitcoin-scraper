@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "cryptocoinsnews.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2icwno",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "giulioprisco",
+            "media": null,
+            "score": 8,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/otrJeK-d4_v49-NEc-LYheGKzdbi6VpurdFfRNxA1tE.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2icwno",
+            "permalink": "/r/Bitcoin/comments/2icwno/the_extropian_roots_of_bitcoin/",
+            "stickied": false,
+            "created": 1412547955,
+            "url": "https://www.cryptocoinsnews.com/extropian-roots-bitcoin/",
+            "author_flair_text": null,
+            "title": "The Extropian Roots of Bitcoin",
+            "created_utc": 1412519155,
+            "ups": 8,
+            "upvote_ratio": 0.76,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

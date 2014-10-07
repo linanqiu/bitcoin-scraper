@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "al.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i7mht",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bubbasparse",
+            "media": null,
+            "score": 10,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/aZ6uEp-h2638RomtJ_BKhKOjcSYuNi0l8dRPTE24zKU.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i7mht",
+            "permalink": "/r/Bitcoin/comments/2i7mht/why_paypal_integrating_with_bitcoin_is_a_big_deal/",
+            "stickied": false,
+            "created": 1412390572,
+            "url": "http://www.al.com/opinion/index.ssf/2014/10/why_paypal_integrating_with_bi.html",
+            "author_flair_text": null,
+            "title": "Why Paypal integrating with Bitcoin is a big deal",
+            "created_utc": 1412361772,
+            "ups": 10,
+            "upvote_ratio": 0.73,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

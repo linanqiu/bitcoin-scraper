@@ -1,0 +1,141 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Can someone please show me the Mt.Gox wallet address with all the bitcoins in it? &lt;/p&gt;\n\n&lt;p&gt;The Mt.Gox address that I found is this one: &lt;a href=\"https://blockchain.info/address/1LNWw6yCxkUmkhArb2Nf2MPw6vG7u5WG7q\"&gt;https://blockchain.info/address/1LNWw6yCxkUmkhArb2Nf2MPw6vG7u5WG7q&lt;/a&gt; &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Can someone please show me the Mt.Gox wallet address with all the bitcoins in it? \n\nThe Mt.Gox address that I found is this one: https://blockchain.info/address/1LNWw6yCxkUmkhArb2Nf2MPw6vG7u5WG7q ",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i9wfi",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "eahmadov",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": 1412500101,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2i9wfi",
+            "permalink": "/r/Bitcoin/comments/2i9wfi/is_the_current_downtrend_because_of_mtgox_bitcoin/",
+            "stickied": false,
+            "created": 1412458534,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2i9wfi/is_the_current_downtrend_because_of_mtgox_bitcoin/",
+            "author_flair_text": null,
+            "title": "Is the current downtrend because of Mt.Gox bitcoin liquidation?",
+            "created_utc": 1412429734,
+            "ups": 3,
+            "upvote_ratio": 0.59,
+            "num_comments": 2,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9wfi",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06avj",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bitcoinbravo",
+            "parent_id": "t3_2i9wfi",
+            "score": 0,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes it is -- only a couple 100k worth of BTC left to sell",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes it is -- only a couple 100k worth of BTC left to sell&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06avj",
+            "created": 1412458917,
+            "author_flair_text": null,
+            "created_utc": 1412430117,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 0
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i9wfi",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl06l4m",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "throwaway43572",
+            "parent_id": "t3_2i9wfi",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "It actually could be one of the factors. I have been busy doing other stuff but the transaction in the bottom of this post actually shows 10,000 MtGox bitcoins being sent recently. I have not had the time to try and figure out the recipient but other related coins have previously been sent to bitstamp so that would be a good guess.\n\na6933e1d155ba95fe51376c61caf6b9787f5ab76e7cd6be36934ec72d0a727d9\n\n\nEDIT:\nApparently there is a second transaction of 5,000 bitcoins\n\n8fb42a118d8828638e1317292410ea5f02a86000f09c4c1283b5b86f2dca6547",
+            "edited": 1412432360,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It actually could be one of the factors. I have been busy doing other stuff but the transaction in the bottom of this post actually shows 10,000 MtGox bitcoins being sent recently. I have not had the time to try and figure out the recipient but other related coins have previously been sent to bitstamp so that would be a good guess.&lt;/p&gt;\n\n&lt;p&gt;a6933e1d155ba95fe51376c61caf6b9787f5ab76e7cd6be36934ec72d0a727d9&lt;/p&gt;\n\n&lt;p&gt;EDIT:\nApparently there is a second transaction of 5,000 bitcoins&lt;/p&gt;\n\n&lt;p&gt;8fb42a118d8828638e1317292410ea5f02a86000f09c4c1283b5b86f2dca6547&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl06l4m",
+            "created": 1412459985,
+            "author_flair_text": null,
+            "created_utc": 1412431185,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

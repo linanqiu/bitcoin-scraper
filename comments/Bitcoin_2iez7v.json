@@ -1,0 +1,317 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "i.imgur.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2iez7v",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "showrun",
+            "media": null,
+            "score": 2,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/yG-1IR6K7_NGCKzKNpa6bygdX2tTJtzANl-PFVN41Xc.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2iez7v",
+            "permalink": "/r/Bitcoin/comments/2iez7v/whats_this_flat_line_about/",
+            "stickied": false,
+            "created": 1412594797,
+            "url": "http://i.imgur.com/SGm2iLy.png",
+            "author_flair_text": null,
+            "title": "What's this flat line about ?",
+            "created_utc": 1412565997,
+            "ups": 2,
+            "upvote_ratio": 0.57,
+            "num_comments": 6,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iez7v",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iez7v",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1lweb",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "dalovindj",
+                      "parent_id": "t1_cl1lsic",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "It's down to 18,000.  It started at 30,000.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s down to 18,000.  It started at 30,000.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1lweb",
+                      "created": 1412595682,
+                      "author_flair_text": null,
+                      "created_utc": 1412566882,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iez7v",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iez7v",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iez7v",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iez7v",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1pzxy",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "fingertoe11",
+                                                    "parent_id": "t1_cl1mwe7",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "the 300 price was quite a bit lower than market..  (Until the 300 offer dropped)  \n\nSo anyone selling was \"I want my cash now\" mode..  It was a bad deal for them.\n\nOnce the wall was gone prices popped back near their normal range..  (If such a thing exists these days)",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;the 300 price was quite a bit lower than market..  (Until the 300 offer dropped)  &lt;/p&gt;\n\n&lt;p&gt;So anyone selling was &amp;quot;I want my cash now&amp;quot; mode..  It was a bad deal for them.&lt;/p&gt;\n\n&lt;p&gt;Once the wall was gone prices popped back near their normal range..  (If such a thing exists these days)&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1pzxy",
+                                                    "created": 1412609844,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412581044,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1mwe7",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "emeraldphoenix7",
+                                          "parent_id": "t1_cl1mqux",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I guess others would sell theirs below if they wanted to get rid of them as soon as possible, but I understand that if the orders below are far and few between then it would jump right back to $300. Just find it difficult to believe there are so little orders below $300 considering the current trend. Thanks for the response btw.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I guess others would sell theirs below if they wanted to get rid of them as soon as possible, but I understand that if the orders below are far and few between then it would jump right back to $300. Just find it difficult to believe there are so little orders below $300 considering the current trend. Thanks for the response btw.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1mwe7",
+                                          "created": 1412598248,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412569448,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1mqux",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "fingertoe11",
+                                "parent_id": "t1_cl1m2ap",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "People pick prices according to the market.   If Coins are selling for 300, why would you sell yours for less..  It does look like there have been a few sales below 300, but the are snatched up instantly and the 300 price resumes.  There are people asking for more than 300 and those orders will be filled after all those for sale at 300 are gone..  \n\nIf a bigwig wants out this is the way to do it.. Otherwise they will drive the price through the floor.  Doing it this way, they drive it to 300..  \n\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;People pick prices according to the market.   If Coins are selling for 300, why would you sell yours for less..  It does look like there have been a few sales below 300, but the are snatched up instantly and the 300 price resumes.  There are people asking for more than 300 and those orders will be filled after all those for sale at 300 are gone..  &lt;/p&gt;\n\n&lt;p&gt;If a bigwig wants out this is the way to do it.. Otherwise they will drive the price through the floor.  Doing it this way, they drive it to 300..  &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1mqux",
+                                "created": 1412597830,
+                                "author_flair_text": null,
+                                "created_utc": 1412569030,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1m2ap",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "emeraldphoenix7",
+                      "parent_id": "t1_cl1lsic",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I don't understand how likely it is though that someone or many do not have a selling price thats even marginally lower? I'm a bit confused!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t understand how likely it is though that someone or many do not have a selling price thats even marginally lower? I&amp;#39;m a bit confused!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1m2ap",
+                      "created": 1412596076,
+                      "author_flair_text": null,
+                      "created_utc": 1412567276,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1lsic",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "poop-machine",
+            "parent_id": "t3_2iez7v",
+            "score": 4,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "A large player is selling ~20K BTC ($7M) at 300. Until his order is filled (or until he cancels the order, or until another seller starts selling at &lt; 300), the price won't budge.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A large player is selling ~20K BTC ($7M) at 300. Until his order is filled (or until he cancels the order, or until another seller starts selling at &amp;lt; 300), the price won&amp;#39;t budge.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1lsic",
+            "created": 1412595430,
+            "author_flair_text": null,
+            "created_utc": 1412566630,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 4
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

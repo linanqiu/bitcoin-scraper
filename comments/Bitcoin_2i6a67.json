@@ -1,0 +1,440 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "honestlybanking.co.uk",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i6a67",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "ganador77",
+            "media": null,
+            "score": 39,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/6E0YXUncXhFZE-HgC8IH7COjePvS20nr4P30WrcpyiU.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i6a67",
+            "permalink": "/r/Bitcoin/comments/2i6a67/247exchangecom_is_now_supporting_over_400_banks/",
+            "stickied": false,
+            "created": 1412356424,
+            "url": "http://www.honestlybanking.co.uk/links/prnewswire-3?doc=201410020853PR_NEWS_EURO_ND__EN28067&amp;dir=2",
+            "author_flair_text": null,
+            "title": "247exchange.com is now supporting over 400 banks in 10 European countries for instant buying Bitcoins",
+            "created_utc": 1412327624,
+            "ups": 39,
+            "upvote_ratio": 0.83,
+            "num_comments": 9,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6a67",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6a67",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6a67",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzc5jr",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "ItsMillerIndexTime",
+                                "parent_id": "t1_ckzal0k",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Thanks!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzc5jr",
+                                "created": 1412372887,
+                                "author_flair_text": null,
+                                "created_utc": 1412344087,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6a67",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6a67",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6a67",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i6a67",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2i6a67",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "ckzy1pj",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "ganador77",
+                                                                        "parent_id": "t1_ckzq3h3",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Seems like you can't see their rates without making an account - I prefer not to use such websites. Also, both Circle and Coinbase are more like wallets than exchangers IMO, when I need to buy bitcoins I like to store it myself (not want to be GOXed)).\n\nSo, I am choosing 247exchange - they are \"pure exchangers\" that will fund your bitcoin account directly. Direct bank transfers allowing instantly buy bitcoins are another feature I love) and I hope they will continue to expand the number of banks connected. \n\nAnd the price is really good! Right now they sell 1 bitcoin for EUR 292.89 (all fees included) and let's say at bitcoin.de last price is 293.95! Also, using 247exchange.com you will not need to create any trade orders etc, just send the money online and your bitcoins will be in wallet in few minutes.\n\nThat's why my exchanger of choice is 247exchange (at least at the moment).",
+                                                                        "edited": 1412393284,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Seems like you can&amp;#39;t see their rates without making an account - I prefer not to use such websites. Also, both Circle and Coinbase are more like wallets than exchangers IMO, when I need to buy bitcoins I like to store it myself (not want to be GOXed)).&lt;/p&gt;\n\n&lt;p&gt;So, I am choosing 247exchange - they are &amp;quot;pure exchangers&amp;quot; that will fund your bitcoin account directly. Direct bank transfers allowing instantly buy bitcoins are another feature I love) and I hope they will continue to expand the number of banks connected. &lt;/p&gt;\n\n&lt;p&gt;And the price is really good! Right now they sell 1 bitcoin for EUR 292.89 (all fees included) and let&amp;#39;s say at bitcoin.de last price is 293.95! Also, using 247exchange.com you will not need to create any trade orders etc, just send the money online and your bitcoins will be in wallet in few minutes.&lt;/p&gt;\n\n&lt;p&gt;That&amp;#39;s why my exchanger of choice is 247exchange (at least at the moment).&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_ckzy1pj",
+                                                                        "created": 1412420657,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412391857,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckzq3h3",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "prelsidente",
+                                                              "parent_id": "t1_ckzpya0",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Circle and Coinbase are very very close to market value.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Circle and Coinbase are very very close to market value.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckzq3h3",
+                                                              "created": 1412400657,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412371857,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzpya0",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "ganador77",
+                                                    "parent_id": "t1_ckzpqbp",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Good. Will compare the prices. It's not so important, what fees exchanger takes - the most important is what rate they use. Sometimes it's better to give 3% then 1%, if 3% seller uses the higher rate :)",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good. Will compare the prices. It&amp;#39;s not so important, what fees exchanger takes - the most important is what rate they use. Sometimes it&amp;#39;s better to give 3% then 1%, if 3% seller uses the higher rate :)&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzpya0",
+                                                    "created": 1412400338,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412371538,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzpqbp",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "prelsidente",
+                                          "parent_id": "t1_ckzoq2q",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Not anymore. Circle and Coinbase now allows European countries ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not anymore. Circle and Coinbase now allows European countries &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzpqbp",
+                                          "created": 1412399844,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412371044,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzoq2q",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "ganador77",
+                                "parent_id": "t1_ckzal0k",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I believe coinbase/circle sell bitcoins for USD only, and do not allow European cusomers",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I believe coinbase/circle sell bitcoins for USD only, and do not allow European cusomers&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzoq2q",
+                                "created": 1412397750,
+                                "author_flair_text": null,
+                                "created_utc": 1412368950,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzal0k",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "prelsidente",
+                      "parent_id": "t1_ckz9oey",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "They have a simlator for buy and sell.\n\nIt seems to me, from an european bank it would be something like 0.25 € + 2% for bank transfer + 0.0001 BTC + their fee 1%\n\nSo it seems to me that is cheaper if you do Coinbase or Circle even with a credit card operation.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They have a simlator for buy and sell.&lt;/p&gt;\n\n&lt;p&gt;It seems to me, from an european bank it would be something like 0.25 € + 2% for bank transfer + 0.0001 BTC + their fee 1%&lt;/p&gt;\n\n&lt;p&gt;So it seems to me that is cheaper if you do Coinbase or Circle even with a credit card operation.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzal0k",
+                      "created": 1412368322,
+                      "author_flair_text": null,
+                      "created_utc": 1412339522,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6a67",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl06l6w",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "247exchange",
+                      "parent_id": "t1_ckz9oey",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Hello, if it's not a secret, what OS does your mobile have?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hello, if it&amp;#39;s not a secret, what OS does your mobile have?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl06l6w",
+                      "created": 1412459991,
+                      "author_flair_text": null,
+                      "created_utc": 1412431191,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckz9oey",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ItsMillerIndexTime",
+            "parent_id": "t3_2i6a67",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I don't see any service fees or exchange rates under the respective tabs. Maybe it's because I'm on mobile. Can someone paste that information in the comments? ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t see any service fees or exchange rates under the respective tabs. Maybe it&amp;#39;s because I&amp;#39;m on mobile. Can someone paste that information in the comments? &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckz9oey",
+            "created": 1412364910,
+            "author_flair_text": null,
+            "created_utc": 1412336110,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

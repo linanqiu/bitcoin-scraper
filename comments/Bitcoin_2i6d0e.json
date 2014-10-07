@@ -1,0 +1,1881 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "wallofcoins.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2i6d0e",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "robertgenito",
+            "media": null,
+            "score": 45,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "default",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2i6d0e",
+            "permalink": "/r/Bitcoin/comments/2i6d0e/my_vision_and_passion_over_the_last_2_years/",
+            "stickied": false,
+            "created": 1412359868,
+            "url": "https://wallofcoins.com",
+            "author_flair_text": null,
+            "title": "My vision and passion over the last 2 years...",
+            "created_utc": 1412331068,
+            "ups": 45,
+            "upvote_ratio": 0.86,
+            "num_comments": 44,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6d0e",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl0rgxf",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "jbusma",
+                                                    "parent_id": "t1_cl09m5t",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Oh yeah this guy is great everyone :)\n\nQuick to answer emails.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh yeah this guy is great everyone :)&lt;/p&gt;\n\n&lt;p&gt;Quick to answer emails.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl0rgxf",
+                                                    "created": 1412511769,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412482969,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl09m5t",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_cl07syc",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Hi jbusma, now that you have received your bitcoin back, care to publicly verify that with others? I just don't want sellers any more apprehensive about using a different service such as WallofCoins.com :)\n\nOnce again, thank you for checking this out. I think it will be better for us to implement a \"withdrawal\" form at the bottom of the selling instructions. Your thoughts?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hi jbusma, now that you have received your bitcoin back, care to publicly verify that with others? I just don&amp;#39;t want sellers any more apprehensive about using a different service such as WallofCoins.com :)&lt;/p&gt;\n\n&lt;p&gt;Once again, thank you for checking this out. I think it will be better for us to implement a &amp;quot;withdrawal&amp;quot; form at the bottom of the selling instructions. Your thoughts?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl09m5t",
+                                          "created": 1412468612,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412439812,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl07syc",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "jbusma",
+                                "parent_id": "t1_ckz9pix",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Hey man, I sent support an email yesterday, but no luck.\n\nI'm not a fan of the manual withdrawals, any chance I could have my bitcoin back?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hey man, I sent support an email yesterday, but no luck.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m not a fan of the manual withdrawals, any chance I could have my bitcoin back?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl07syc",
+                                "created": 1412463889,
+                                "author_flair_text": null,
+                                "created_utc": 1412435089,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckz9pix",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckz99ya",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thank you for asking:) Although I'd rather not compare it to LBC. WallofCoins.com was inspired by BitInstant, #bitcoin-otc, and a few other of my technical obsessions. I'm not sure where to start...there are a lot of things WallofCoins.com is doing differently.\n\nTo start: it's the first fully-transparent market (that I know of). All deposit addresses are posted on a separate server and verified using my GPG key. https://deposits.wallofcoins.com",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you for asking:) Although I&amp;#39;d rather not compare it to LBC. WallofCoins.com was inspired by BitInstant, #bitcoin-otc, and a few other of my technical obsessions. I&amp;#39;m not sure where to start...there are a lot of things WallofCoins.com is doing differently.&lt;/p&gt;\n\n&lt;p&gt;To start: it&amp;#39;s the first fully-transparent market (that I know of). All deposit addresses are posted on a separate server and verified using my GPG key. &lt;a href=\"https://deposits.wallofcoins.com\"&gt;https://deposits.wallofcoins.com&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckz9pix",
+                      "created": 1412365055,
+                      "author_flair_text": null,
+                      "created_utc": 1412336255,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckz99ya",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "ferroh",
+            "parent_id": "t3_2i6d0e",
+            "score": 10,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Can you tell us some of the ways that this is different/better than [localbitcoins](https://localbitcoins.com/)?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Can you tell us some of the ways that this is different/better than &lt;a href=\"https://localbitcoins.com/\"&gt;localbitcoins&lt;/a&gt;?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckz99ya",
+            "created": 1412362884,
+            "author_flair_text": null,
+            "created_utc": 1412334084,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 10
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "ckz8ql0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "robertgenito",
+            "parent_id": "t3_2i6d0e",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Deployed the first public version late last night. I'm not saying it took 2 years to develop, but the team has had many sleepless nights giving generous love to this web application :)",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Deployed the first public version late last night. I&amp;#39;m not saying it took 2 years to develop, but the team has had many sleepless nights giving generous love to this web application :)&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckz8ql0",
+            "created": 1412359925,
+            "author_flair_text": null,
+            "created_utc": 1412331125,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzat42",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_ckzanv0",
+                                          "score": 4,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I promise to fix once banks in the UK are supported! Then again, I'd rather license the code to someone in the UK who really loves and cares about people having an easy way to get coins.\n\nOh...do you have a google voice line? That may be an option.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I promise to fix once banks in the UK are supported! Then again, I&amp;#39;d rather license the code to someone in the UK who really loves and cares about people having an easy way to get coins.&lt;/p&gt;\n\n&lt;p&gt;Oh...do you have a google voice line? That may be an option.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzat42",
+                                          "created": 1412369100,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412340300,
+                                          "ups": 4,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzanv0",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "MaxSan",
+                                "parent_id": "t1_ckza7bn",
+                                "score": 5,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No, I cant. In the UK phone numbers begin with a 0 or internationally 0044 or a +44. None of these digits are excepted by your filter system.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, I cant. In the UK phone numbers begin with a 0 or internationally 0044 or a +44. None of these digits are excepted by your filter system.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzanv0",
+                                "created": 1412368600,
+                                "author_flair_text": null,
+                                "created_utc": 1412339800,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 5
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckza7bn",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckza4g2",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "now that I think about it... you probably can lol. The phone number input limits to 10 digits. Give it a try? Right now just the top 10 banks in the USA are supported, but definitely looking to expand to reach others.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;now that I think about it... you probably can lol. The phone number input limits to 10 digits. Give it a try? Right now just the top 10 banks in the USA are supported, but definitely looking to expand to reach others.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckza7bn",
+                      "created": 1412366944,
+                      "author_flair_text": null,
+                      "created_utc": 1412338144,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckza4g2",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "MaxSan",
+            "parent_id": "t3_2i6d0e",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I assume this is US only as I can't register a UK phone number lol",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I assume this is US only as I can&amp;#39;t register a UK phone number lol&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckza4g2",
+            "created": 1412366640,
+            "author_flair_text": null,
+            "created_utc": 1412337840,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6d0e",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i6d0e",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2i6d0e",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "ckzprdu",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "robertgenito",
+                                                                        "parent_id": "t1_ckzjexs",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Good point, as the account holder is the bank's customer; who the bank's loyalty should be towards. That's how it is pretty much. I'm not saying the world does not have exceptions; quantum physics pretty much displays that :) Thank you for sharing your experienced details with others on Wall of Coins! We've compiled FAQs, but really gotta get it cleaned up and published.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good point, as the account holder is the bank&amp;#39;s customer; who the bank&amp;#39;s loyalty should be towards. That&amp;#39;s how it is pretty much. I&amp;#39;m not saying the world does not have exceptions; quantum physics pretty much displays that :) Thank you for sharing your experienced details with others on Wall of Coins! We&amp;#39;ve compiled FAQs, but really gotta get it cleaned up and published.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_ckzprdu",
+                                                                        "created": 1412399910,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412371110,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckzjexs",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "CropCircleSystems",
+                                                              "parent_id": "t1_ckzf8ct",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Oh and as a note: the site doesn't need or want your identity, that's your bank's concern. IF you are SELLING bitcoin then the site needs your bank account number and it's given to buyers to directly fund your account by physically depositing paper cash money. When it comes to banking there's not supposed to be anything a bank account number alone can let someone do except put money INTO an account and beyond that, if there are any avenues for fraud then they are inherent to banking in general and for that your bank and the FDIC have you covered.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh and as a note: the site doesn&amp;#39;t need or want your identity, that&amp;#39;s your bank&amp;#39;s concern. IF you are SELLING bitcoin then the site needs your bank account number and it&amp;#39;s given to buyers to directly fund your account by physically depositing paper cash money. When it comes to banking there&amp;#39;s not supposed to be anything a bank account number alone can let someone do except put money INTO an account and beyond that, if there are any avenues for fraud then they are inherent to banking in general and for that your bank and the FDIC have you covered.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckzjexs",
+                                                              "created": 1412387385,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412358585,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i6d0e",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2i6d0e",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "ckzq1d1",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "robertgenito",
+                                                                        "parent_id": "t1_ckzly9o",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "tl;dr version: multisig is not the only solution. the only steps are forward.\n\nMultisig is good, eliminating a theoretically rare and highly probably edge case scenario where Wall of Coins runs off with people's coin or business becomes entirely un-operational and unprofitable for anyone to step up into. There are no problems with multisig, other than they add another layer of friction that restricts new-coming to acquire and liquidate coin.\n\nMy thoughts on 2/3 multisig is that it loses its value when you're working with a centralized *publishing* avenue to find your goods/services (such as WallofCoins.com). *Obviously* the buyer always has their maximum of 1 vote. Obviously the seller always has their maximum 1 vote as well. This leaves Wall of Coins with the final vote anyways, should the seller become unresponsive. Multisig value is only lost at convenience: no newcoming buyer is going to know how to use it at today's technological convenience.\n\nI know that will change eventually, but I am working on a solution that does not involve multisig, and I believe it will simulate it and guarantee its extra trust (with buyer and seller's combined effort to release the coins)...*without* the seller and buyer *both* needing technical knowledge.\n\nPlans to support multisig? Absolutely.\n\nPlans to support \"get your coins even if Wall of Coins doesn't agree\"? This feature will come first :)\n\nI hear \"bitrated\" is working on a system to make multisig transparent and easy for everyone. I really want to know more about this. Wall of Coins' purpose is convenience for everyone, and that comes at a price until the technological means have been developed and are aligned with Wall of Coins' values: convenience, security, and easy of use for the layman.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;tl;dr version: multisig is not the only solution. the only steps are forward.&lt;/p&gt;\n\n&lt;p&gt;Multisig is good, eliminating a theoretically rare and highly probably edge case scenario where Wall of Coins runs off with people&amp;#39;s coin or business becomes entirely un-operational and unprofitable for anyone to step up into. There are no problems with multisig, other than they add another layer of friction that restricts new-coming to acquire and liquidate coin.&lt;/p&gt;\n\n&lt;p&gt;My thoughts on 2/3 multisig is that it loses its value when you&amp;#39;re working with a centralized &lt;em&gt;publishing&lt;/em&gt; avenue to find your goods/services (such as WallofCoins.com). &lt;em&gt;Obviously&lt;/em&gt; the buyer always has their maximum of 1 vote. Obviously the seller always has their maximum 1 vote as well. This leaves Wall of Coins with the final vote anyways, should the seller become unresponsive. Multisig value is only lost at convenience: no newcoming buyer is going to know how to use it at today&amp;#39;s technological convenience.&lt;/p&gt;\n\n&lt;p&gt;I know that will change eventually, but I am working on a solution that does not involve multisig, and I believe it will simulate it and guarantee its extra trust (with buyer and seller&amp;#39;s combined effort to release the coins)...&lt;em&gt;without&lt;/em&gt; the seller and buyer &lt;em&gt;both&lt;/em&gt; needing technical knowledge.&lt;/p&gt;\n\n&lt;p&gt;Plans to support multisig? Absolutely.&lt;/p&gt;\n\n&lt;p&gt;Plans to support &amp;quot;get your coins even if Wall of Coins doesn&amp;#39;t agree&amp;quot;? This feature will come first :)&lt;/p&gt;\n\n&lt;p&gt;I hear &amp;quot;bitrated&amp;quot; is working on a system to make multisig transparent and easy for everyone. I really want to know more about this. Wall of Coins&amp;#39; purpose is convenience for everyone, and that comes at a price until the technological means have been developed and are aligned with Wall of Coins&amp;#39; values: convenience, security, and easy of use for the layman.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_ckzq1d1",
+                                                                        "created": 1412400531,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412371731,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckzly9o",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "waxwing",
+                                                              "parent_id": "t1_ckzf8ct",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "&gt; To be clear because I don't think I've seen it mentioned yet, a seller sends their coins FIRST to a one-use cold-stored address controlled only by Wall of Coins\n\nSo not multisig? A big step backwards if so.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;To be clear because I don&amp;#39;t think I&amp;#39;ve seen it mentioned yet, a seller sends their coins FIRST to a one-use cold-stored address controlled only by Wall of Coins&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;So not multisig? A big step backwards if so.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckzly9o",
+                                                              "created": 1412392324,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412363524,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzf8ct",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "CropCircleSystems",
+                                                    "parent_id": "t1_ckzd0nr",
+                                                    "score": 3,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "I can certainly say after going through the procedure a few times, the user in me is saying \"hooray\" and the opportunistic scammer in me was saying \"damn, I'm gonna need to find a real job soon\". Hahaha. I didn't even try it but I have enough experience on both sides of the scam and my mind's gone through the permutations and I think there's no benefit to attempting to run a scam through wallofcoins.com unless your goal is nothing more than giving people headaches while dragging your FDIC insured bank account and federally recognized identity through the mud and possibly to prison.\n\nTo be clear because I don't think I've seen it mentioned yet, a seller sends their coins FIRST to a one-use cold-stored address controlled only by Wall of Coins before even listed as available for sale so unless the seller can defraud a buyer AND THEN convince agents at the the company to side with them, all they can really do is delay and inconvenience the process. I recommended a hard-line policy that no one gets their money back in the case of a dispute that isn't resolved with a total agreement between buyer and seller. The coins should be burnt (sent to a provably unspendable address) in such a case. (The value is then effectively distributed to all other holders of bitcoin, proportionately.) This would be the most secure and effective protection against dishonesty because it removes the financial incentive to be dishonest. It may be too early for users to understand that accepting a policy of possibly burning their coins actually results in a far smaller likelihood of loss, because we live in an era of \"consumer protections\" breeding consumer idiots, for the most part. This topic could use some further debate.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I can certainly say after going through the procedure a few times, the user in me is saying &amp;quot;hooray&amp;quot; and the opportunistic scammer in me was saying &amp;quot;damn, I&amp;#39;m gonna need to find a real job soon&amp;quot;. Hahaha. I didn&amp;#39;t even try it but I have enough experience on both sides of the scam and my mind&amp;#39;s gone through the permutations and I think there&amp;#39;s no benefit to attempting to run a scam through wallofcoins.com unless your goal is nothing more than giving people headaches while dragging your FDIC insured bank account and federally recognized identity through the mud and possibly to prison.&lt;/p&gt;\n\n&lt;p&gt;To be clear because I don&amp;#39;t think I&amp;#39;ve seen it mentioned yet, a seller sends their coins FIRST to a one-use cold-stored address controlled only by Wall of Coins before even listed as available for sale so unless the seller can defraud a buyer AND THEN convince agents at the the company to side with them, all they can really do is delay and inconvenience the process. I recommended a hard-line policy that no one gets their money back in the case of a dispute that isn&amp;#39;t resolved with a total agreement between buyer and seller. The coins should be burnt (sent to a provably unspendable address) in such a case. (The value is then effectively distributed to all other holders of bitcoin, proportionately.) This would be the most secure and effective protection against dishonesty because it removes the financial incentive to be dishonest. It may be too early for users to understand that accepting a policy of possibly burning their coins actually results in a far smaller likelihood of loss, because we live in an era of &amp;quot;consumer protections&amp;quot; breeding consumer idiots, for the most part. This topic could use some further debate.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzf8ct",
+                                                    "created": 1412379365,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412350565,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 3
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzd0nr",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_ckzc9uk",
+                                          "score": 3,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Fight: no fighting really. It's more accurate to say that we want people to buy coins, and we're working in the best interest to get everyone their coins ASAP.\n\nScam seller: it's definitely not in the seller's interest to do this, especially when you could have a police report written up and a detective looking for ya. At first, let's take the benefit of the doubt that you (as a seller) legitimately believe you did not receive the deposit. Does the buyer's receipt look legit? Does the photo forensics imagery look legit? Did the buyer perform our request on the receipt and respond in a responsible manner? (These are only in high-suspicion zones.) If we believe the receipt looks legitimate, it is then in the seller's best interest to clear this quickly (for the sake of time). If that is rated closer to \"trustworthy\", now what is the seller's response? Willing to get on the phone with their bank? Etc. In the end, even though it's still an area of caution: it's not hard to prove whether or not a deposit was made by the buyer. If we must spend the resources as a company to dig deeper into an issue, that's simply our duty to serve our users.\n\nI understand this does not fully explain, as mentioned earlier this quickly \"...turns into a huge web of a flow chart diagram\". If you'd like to give it a try being a scam seller, you're more than welcome to really experience our procedures and policies :)",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Fight: no fighting really. It&amp;#39;s more accurate to say that we want people to buy coins, and we&amp;#39;re working in the best interest to get everyone their coins ASAP.&lt;/p&gt;\n\n&lt;p&gt;Scam seller: it&amp;#39;s definitely not in the seller&amp;#39;s interest to do this, especially when you could have a police report written up and a detective looking for ya. At first, let&amp;#39;s take the benefit of the doubt that you (as a seller) legitimately believe you did not receive the deposit. Does the buyer&amp;#39;s receipt look legit? Does the photo forensics imagery look legit? Did the buyer perform our request on the receipt and respond in a responsible manner? (These are only in high-suspicion zones.) If we believe the receipt looks legitimate, it is then in the seller&amp;#39;s best interest to clear this quickly (for the sake of time). If that is rated closer to &amp;quot;trustworthy&amp;quot;, now what is the seller&amp;#39;s response? Willing to get on the phone with their bank? Etc. In the end, even though it&amp;#39;s still an area of caution: it&amp;#39;s not hard to prove whether or not a deposit was made by the buyer. If we must spend the resources as a company to dig deeper into an issue, that&amp;#39;s simply our duty to serve our users.&lt;/p&gt;\n\n&lt;p&gt;I understand this does not fully explain, as mentioned earlier this quickly &amp;quot;...turns into a huge web of a flow chart diagram&amp;quot;. If you&amp;#39;d like to give it a try being a scam seller, you&amp;#39;re more than welcome to really experience our procedures and policies :)&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzd0nr",
+                                          "created": 1412374915,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412346115,
+                                          "ups": 3,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzc9uk",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BobAlison",
+                                "parent_id": "t1_ckzb1x3",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt; All coins are held entirely in cold storage.\n\nOk\n\n&gt;When you vouch to buy coins, you're asked to either SMS text reply with a code to verify once you've made the payment, or text reply with a code to cancel your purchase.\n\nOk, so 2FA over phone.\n\n&gt;My team members (or myself for when things get too busy!) fight for your coin's release.\n\nWhy fight? What does pulling funds from cold storage involve?\n\n&gt;If you're a seller, you receive a text message when the buyer makes the payment.\n\nMakes sense.\n\n&gt;If their deposit is correct, you SMS text a verification.\n\nOk\n\n&gt; If the deposit is not correct, or is missing, you text reply with a different code.\n\nAlso makes sense.\n\nLet's say I'm a seller who wants to run a scam. Buyer deposits into my bank account, and I claim I didn't receive anything. I refuse to release coins.\n\nWhat do you do to resolve the dispute?\n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;All coins are held entirely in cold storage.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Ok&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;When you vouch to buy coins, you&amp;#39;re asked to either SMS text reply with a code to verify once you&amp;#39;ve made the payment, or text reply with a code to cancel your purchase.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Ok, so 2FA over phone.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;My team members (or myself for when things get too busy!) fight for your coin&amp;#39;s release.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Why fight? What does pulling funds from cold storage involve?&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;If you&amp;#39;re a seller, you receive a text message when the buyer makes the payment.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Makes sense.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;If their deposit is correct, you SMS text a verification.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Ok&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;If the deposit is not correct, or is missing, you text reply with a different code.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Also makes sense.&lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s say I&amp;#39;m a seller who wants to run a scam. Buyer deposits into my bank account, and I claim I didn&amp;#39;t receive anything. I refuse to release coins.&lt;/p&gt;\n\n&lt;p&gt;What do you do to resolve the dispute?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzc9uk",
+                                "created": 1412373174,
+                                "author_flair_text": null,
+                                "created_utc": 1412344374,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzb1x3",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckzavk1",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Good question. While this turns into a huge web of a flow chart diagram, here are the basics: All coins are held *entirely* in cold storage. When you vouch to buy coins, you're asked to either SMS text reply with a code to verify once you've made the payment, or text reply with a code to cancel your purchase. My team members (or myself for when things get too busy!) fight for your coin's release.\n\nIf you're a seller, you receive a text message when the buyer makes the payment. If their deposit is correct, you SMS text a verification. If the deposit is not correct, or is missing, you text reply with a different code. I could literally write a book about this...and already have in our internal docs. I should release them:)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good question. While this turns into a huge web of a flow chart diagram, here are the basics: All coins are held &lt;em&gt;entirely&lt;/em&gt; in cold storage. When you vouch to buy coins, you&amp;#39;re asked to either SMS text reply with a code to verify once you&amp;#39;ve made the payment, or text reply with a code to cancel your purchase. My team members (or myself for when things get too busy!) fight for your coin&amp;#39;s release.&lt;/p&gt;\n\n&lt;p&gt;If you&amp;#39;re a seller, you receive a text message when the buyer makes the payment. If their deposit is correct, you SMS text a verification. If the deposit is not correct, or is missing, you text reply with a different code. I could literally write a book about this...and already have in our internal docs. I should release them:)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzb1x3",
+                      "created": 1412369872,
+                      "author_flair_text": null,
+                      "created_utc": 1412341072,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzb73r",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckzavk1",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "In response to your edit: there is a fair amount that goes on behind the scenes. As our team grows, I really hope to get this into a video format (for people who just want a quick overview) and I know we'll get there sometime soon. For the individual who wants strict details, I understand their concern...especially in this digital world...and that detailed publication will definitely get out before a video.\n\nIn the mean time...\n\nAny specific questions? Yes/no questions on what's going on in the background? Appreciate the responses!",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In response to your edit: there is a fair amount that goes on behind the scenes. As our team grows, I really hope to get this into a video format (for people who just want a quick overview) and I know we&amp;#39;ll get there sometime soon. For the individual who wants strict details, I understand their concern...especially in this digital world...and that detailed publication will definitely get out before a video.&lt;/p&gt;\n\n&lt;p&gt;In the mean time...&lt;/p&gt;\n\n&lt;p&gt;Any specific questions? Yes/no questions on what&amp;#39;s going on in the background? Appreciate the responses!&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzb73r",
+                      "created": 1412370309,
+                      "author_flair_text": null,
+                      "created_utc": 1412341509,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzavk1",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BobAlison",
+            "parent_id": "t3_2i6d0e",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "This looks very interesting.\n\nHow does escrow work with this service?\n\nEdit: Actually, can you explain what's going on behind the scenes? I wasn't able to find anything about this on the site's documentation.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This looks very interesting.&lt;/p&gt;\n\n&lt;p&gt;How does escrow work with this service?&lt;/p&gt;\n\n&lt;p&gt;Edit: Actually, can you explain what&amp;#39;s going on behind the scenes? I wasn&amp;#39;t able to find anything about this on the site&amp;#39;s documentation.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzavk1",
+            "created": 1412369317,
+            "author_flair_text": null,
+            "created_utc": 1412340517,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzq2px",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckzhvau",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thank you for pointing this out! \"View Details\" is also missing from \"Buy Coins\" and \"Sell Coins\". While we sort that out, in the mean time go ahead and click the \"More\" navigation item at the top of the page. And ty for your time checking this out! :)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you for pointing this out! &amp;quot;View Details&amp;quot; is also missing from &amp;quot;Buy Coins&amp;quot; and &amp;quot;Sell Coins&amp;quot;. While we sort that out, in the mean time go ahead and click the &amp;quot;More&amp;quot; navigation item at the top of the page. And ty for your time checking this out! :)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzq2px",
+                      "created": 1412400613,
+                      "author_flair_text": null,
+                      "created_utc": 1412371813,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzhvau",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "charlieluciano",
+            "parent_id": "t3_2i6d0e",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "The \"view details\" on trust &amp; security is not there. Common now.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The &amp;quot;view details&amp;quot; on trust &amp;amp; security is not there. Common now.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzhvau",
+            "created": 1412384438,
+            "author_flair_text": null,
+            "created_utc": 1412355638,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzqdxx",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_ckzfo6x",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "For those that missed the private invitation, here are some photos taken by a fan :D\n\nhttp://imgur.com/zykrSso,MhI19yz,eIXMeLw\n\nWe're all very excited about the public release, too... Wall of Coins can serve people without the need for a user account. Just as another recent service has said (forgive me, I forget the name): \"No need for a user account: The way markets should be.\" And I agree: imagine if you needed an account to shop at the grocery store?\n\nAs for before, Wall of Coins was *never* online as a \"beta\" version. We've spent significant time on automated testing to cover a more-than-healthy portion of the code base to deliver an overall smooth experience...even for people privately using the site :)",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;For those that missed the private invitation, here are some photos taken by a fan :D&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://imgur.com/zykrSso,MhI19yz,eIXMeLw\"&gt;http://imgur.com/zykrSso,MhI19yz,eIXMeLw&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re all very excited about the public release, too... Wall of Coins can serve people without the need for a user account. Just as another recent service has said (forgive me, I forget the name): &amp;quot;No need for a user account: The way markets should be.&amp;quot; And I agree: imagine if you needed an account to shop at the grocery store?&lt;/p&gt;\n\n&lt;p&gt;As for before, Wall of Coins was &lt;em&gt;never&lt;/em&gt; online as a &amp;quot;beta&amp;quot; version. We&amp;#39;ve spent significant time on automated testing to cover a more-than-healthy portion of the code base to deliver an overall smooth experience...even for people privately using the site :)&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzqdxx",
+                                          "created": 1412401304,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412372504,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzfo6x",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "CropCircleSystems",
+                                "parent_id": "t1_ckzeb37",
+                                "score": 4,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I haven't had occasion to use the site since about four days ago so maybe not yet but I imagine I will soon be on it again and as always I'll be sure to let you know my impressions and ideas.\n\nTo others, I've been using the site for over a month now and my feedback has always been about minor tweaks and ideas. Through the private beta I've only experienced smooth, painless operation. I found no bugs or even minor glitches that would hinder my use in any way. I have always walked away from each deal with the impression that the site seems technically very sound and Rob is being diligent and thorough when it comes to all the areas of the business not just the code. All I ever thought it could use was more users so I'm excited about the public launch.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I haven&amp;#39;t had occasion to use the site since about four days ago so maybe not yet but I imagine I will soon be on it again and as always I&amp;#39;ll be sure to let you know my impressions and ideas.&lt;/p&gt;\n\n&lt;p&gt;To others, I&amp;#39;ve been using the site for over a month now and my feedback has always been about minor tweaks and ideas. Through the private beta I&amp;#39;ve only experienced smooth, painless operation. I found no bugs or even minor glitches that would hinder my use in any way. I have always walked away from each deal with the impression that the site seems technically very sound and Rob is being diligent and thorough when it comes to all the areas of the business not just the code. All I ever thought it could use was more users so I&amp;#39;m excited about the public launch.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzfo6x",
+                                "created": 1412380222,
+                                "author_flair_text": null,
+                                "created_utc": 1412351422,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 4
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzeb37",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckze23j",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I really appreciate the kind words, and am happy you've enjoyed the beta phase and can appreciate my neurotic attention to tiny details. I thought, \"omg who is this user i MUST PM HIM\", but during the second paragraph I got it :)\n\nHave you seen this new public release? Any areas of improvement--or needs for immediate improvement--that you believe can bring value to no only the Bitcoin community, but the future Bitcoin community?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I really appreciate the kind words, and am happy you&amp;#39;ve enjoyed the beta phase and can appreciate my neurotic attention to tiny details. I thought, &amp;quot;omg who is this user i MUST PM HIM&amp;quot;, but during the second paragraph I got it :)&lt;/p&gt;\n\n&lt;p&gt;Have you seen this new public release? Any areas of improvement--or needs for immediate improvement--that you believe can bring value to no only the Bitcoin community, but the future Bitcoin community?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzeb37",
+                      "created": 1412377550,
+                      "author_flair_text": null,
+                      "created_utc": 1412348750,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckze23j",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "CropCircleSystems",
+            "parent_id": "t3_2i6d0e",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I have traded bitcoins locally and online since 2011 via almost every method, exchange, website, forum or chatroom you can mention. I've used wallofcoins.com now five or six times to buy bitcoins and it is mind-blowingly simple. It is so simple that, if you are not new to bitcoin, you might say to yourself \"Where is all the bullshit I'm accustomed to? What happened to all the hoops I have to jump through?\" I recommend that anyone with questions simply connect and buy a small amount of coin. (I wouldn't recommend trying to sell just a small amount of coin because you will only get matched to buyers of equal or smaller amounts since there's no aggregation happening on the buying side, I imagine because to do so would complicate the buyer's experience. At any rate, selling any amount is simple, effective and able to be transparently audited.) There's almost no \"explaining\" the simplicity. I do not miss the hoops or the bullshit and I have practically all but forgotten about other ways to buy and sell bitcoins.\n\nNote: I am not compensated by or affiliated with Wall of Coins however I have met it's creator, this guy Rob, a couple months ago through a mutual good friend. I've been to his company's office in Sarasota, Florida which is about an hour from where I live. I've given him a little feedback while he developed the site and it was in a private beta phase our friend had invited me to. I have no skin in Rob's business beyond that of the obvious benefit that comes with having a quick and easy way to buy coins and super simple way to sell coins while naming my own price. I can also say I meet a lot of nerds through the course of business who talk a big talk and Rob is one of the slim slim few with a real attention to tiny detail, passion for quality and correctness, who has a real understanding of the very many facets of information and financial security.\n\nFYI, I myself am a notorious scam artist and degenerate gambler, so put a dash of salt on my words to fit your taste, but I'm being totally honest. I have never before been able to recommend to new bitcoin users any method of buying or selling other than \"send your money to me and your prayers to God.\" Hahaha. And now finally, this is a great way I think that both beginners and experts will appreciate.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I have traded bitcoins locally and online since 2011 via almost every method, exchange, website, forum or chatroom you can mention. I&amp;#39;ve used wallofcoins.com now five or six times to buy bitcoins and it is mind-blowingly simple. It is so simple that, if you are not new to bitcoin, you might say to yourself &amp;quot;Where is all the bullshit I&amp;#39;m accustomed to? What happened to all the hoops I have to jump through?&amp;quot; I recommend that anyone with questions simply connect and buy a small amount of coin. (I wouldn&amp;#39;t recommend trying to sell just a small amount of coin because you will only get matched to buyers of equal or smaller amounts since there&amp;#39;s no aggregation happening on the buying side, I imagine because to do so would complicate the buyer&amp;#39;s experience. At any rate, selling any amount is simple, effective and able to be transparently audited.) There&amp;#39;s almost no &amp;quot;explaining&amp;quot; the simplicity. I do not miss the hoops or the bullshit and I have practically all but forgotten about other ways to buy and sell bitcoins.&lt;/p&gt;\n\n&lt;p&gt;Note: I am not compensated by or affiliated with Wall of Coins however I have met it&amp;#39;s creator, this guy Rob, a couple months ago through a mutual good friend. I&amp;#39;ve been to his company&amp;#39;s office in Sarasota, Florida which is about an hour from where I live. I&amp;#39;ve given him a little feedback while he developed the site and it was in a private beta phase our friend had invited me to. I have no skin in Rob&amp;#39;s business beyond that of the obvious benefit that comes with having a quick and easy way to buy coins and super simple way to sell coins while naming my own price. I can also say I meet a lot of nerds through the course of business who talk a big talk and Rob is one of the slim slim few with a real attention to tiny detail, passion for quality and correctness, who has a real understanding of the very many facets of information and financial security.&lt;/p&gt;\n\n&lt;p&gt;FYI, I myself am a notorious scam artist and degenerate gambler, so put a dash of salt on my words to fit your taste, but I&amp;#39;m being totally honest. I have never before been able to recommend to new bitcoin users any method of buying or selling other than &amp;quot;send your money to me and your prayers to God.&amp;quot; Hahaha. And now finally, this is a great way I think that both beginners and experts will appreciate.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckze23j",
+            "created": 1412377051,
+            "author_flair_text": null,
+            "created_utc": 1412348251,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzbd7c",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckzb726",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Ty...I really appreciate the request.\n\nSimilar to how Bitstamp never offered formulaic pricing in the past based on Mt GOX, WallofCoins.com will *never* offer formulaic pricing. We are not a broker-direct service...this is an entirely new, different market. While non-formulaic selling isn't attractive to all sellers, we're taking a bet that sellers will find WallofCoins.com's other qualities very sexy: *ZERO* fee, funds available for immediate withdrawal/use, saving the seller a ton of time in general, etc.\n\nBtw: https://wallofcoins.com/api/public/v1/ticker",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ty...I really appreciate the request.&lt;/p&gt;\n\n&lt;p&gt;Similar to how Bitstamp never offered formulaic pricing in the past based on Mt GOX, WallofCoins.com will &lt;em&gt;never&lt;/em&gt; offer formulaic pricing. We are not a broker-direct service...this is an entirely new, different market. While non-formulaic selling isn&amp;#39;t attractive to all sellers, we&amp;#39;re taking a bet that sellers will find WallofCoins.com&amp;#39;s other qualities very sexy: &lt;em&gt;ZERO&lt;/em&gt; fee, funds available for immediate withdrawal/use, saving the seller a ton of time in general, etc.&lt;/p&gt;\n\n&lt;p&gt;Btw: &lt;a href=\"https://wallofcoins.com/api/public/v1/ticker\"&gt;https://wallofcoins.com/api/public/v1/ticker&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzbd7c",
+                      "created": 1412370801,
+                      "author_flair_text": null,
+                      "created_utc": 1412342001,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzbfvh",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckzb726",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I do want to add that this is something I meditated on for over 2 years. around 4-6 months ago it was decided to abandon formulaic pricing. This also complicates things for your average and \"new\" coin user ... one of the largest goals of WallofCoins.com is to make acquiring and liquidating coins as accessible as possible and as friction-free as possible. For example, this is a huge problem with entering and exiting the Bitcoin ecosystem today: there is a ton of friction and learning curve for the common means to acquire or liquidate coins. We want to change that, and WallofCoins.com is a young manifestation.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I do want to add that this is something I meditated on for over 2 years. around 4-6 months ago it was decided to abandon formulaic pricing. This also complicates things for your average and &amp;quot;new&amp;quot; coin user ... one of the largest goals of WallofCoins.com is to make acquiring and liquidating coins as accessible as possible and as friction-free as possible. For example, this is a huge problem with entering and exiting the Bitcoin ecosystem today: there is a ton of friction and learning curve for the common means to acquire or liquidate coins. We want to change that, and WallofCoins.com is a young manifestation.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzbfvh",
+                      "created": 1412371010,
+                      "author_flair_text": null,
+                      "created_utc": 1412342210,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckzb726",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "jbusma",
+            "parent_id": "t3_2i6d0e",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Please make pricing having the option to be formulaic.\n\nexample Stamp+5%",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Please make pricing having the option to be formulaic.&lt;/p&gt;\n\n&lt;p&gt;example Stamp+5%&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckzb726",
+            "created": 1412370306,
+            "author_flair_text": null,
+            "created_utc": 1412341506,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6d0e",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckza32n",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "lclc_",
+                                "parent_id": "t1_ckz9off",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No: /r/Jobs4Bitcoins/",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No: &lt;a href=\"/r/Jobs4Bitcoins/\"&gt;/r/Jobs4Bitcoins/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckza32n",
+                                "created": 1412366495,
+                                "author_flair_text": null,
+                                "created_utc": 1412337695,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckz9off",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "robertgenito",
+                      "parent_id": "t1_ckz9l48",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "do you know one?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;do you know one?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckz9off",
+                      "created": 1412364913,
+                      "author_flair_text": null,
+                      "created_utc": 1412336113,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i6d0e",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6d0e",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckztcl5",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "bobbert182",
+                                                    "parent_id": "t1_ckzq661",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "No problem! I actually just purchased a theme from them recently, and it works pretty great.\n\nAnd I have nothing against ASP.Net or bootstrap, although for a bitcoin related piece of software, I can see why you choose to stay away haha. I am an ASP.Net developer, and I use bootstrap all of the time. I was simply commenting that it was the default.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No problem! I actually just purchased a theme from them recently, and it works pretty great.&lt;/p&gt;\n\n&lt;p&gt;And I have nothing against ASP.Net or bootstrap, although for a bitcoin related piece of software, I can see why you choose to stay away haha. I am an ASP.Net developer, and I use bootstrap all of the time. I was simply commenting that it was the default.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckztcl5",
+                                                    "created": 1412408224,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412379424,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzq661",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_ckzlr3z",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Oh, ouch...ew...I had no idea it was default for ASP.net. Our company uses *ZERO* microsoft products: not a single workstation uses windows, and Wall of Coins' technology is open source, highly reviewed, and has an enthusiastic community behind it :)\n\nTy for the link! I've been looking for other places similar to http://themeforest.net/ :D",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh, ouch...ew...I had no idea it was default for ASP.net. Our company uses &lt;em&gt;ZERO&lt;/em&gt; microsoft products: not a single workstation uses windows, and Wall of Coins&amp;#39; technology is open source, highly reviewed, and has an enthusiastic community behind it :)&lt;/p&gt;\n\n&lt;p&gt;Ty for the link! I&amp;#39;ve been looking for other places similar to &lt;a href=\"http://themeforest.net/\"&gt;http://themeforest.net/&lt;/a&gt; :D&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzq661",
+                                          "created": 1412400822,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412372022,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzlr3z",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "bobbert182",
+                                "parent_id": "t1_ckzbpl1",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "It's the default ASP.Net bootstrap design. A $10 theme from https://wrapbootstrap.com/ would go a long way.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s the default ASP.Net bootstrap design. A $10 theme from &lt;a href=\"https://wrapbootstrap.com/\"&gt;https://wrapbootstrap.com/&lt;/a&gt; would go a long way.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzlr3z",
+                                "created": 1412391937,
+                                "author_flair_text": null,
+                                "created_utc": 1412363137,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i6d0e",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2i6d0e",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6d0e",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i6d0e",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2i6d0e",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2i6d0e",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "ckzehha",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "robertgenito",
+                                                                                  "parent_id": "t1_ckze14o",
+                                                                                  "score": 2,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Good points. And definitely looking to help the average new user of Bitcoin. The design (previously) was even more \"default\" responsive bootstrap: the text was slightly larger, text fields stretched horizontally through the entire page, etc.",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good points. And definitely looking to help the average new user of Bitcoin. The design (previously) was even more &amp;quot;default&amp;quot; responsive bootstrap: the text was slightly larger, text fields stretched horizontally through the entire page, etc.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_ckzehha",
+                                                                                  "created": 1412377906,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412349106,
+                                                                                  "ups": 2,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "ckze14o",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "aaronvoisine",
+                                                                        "parent_id": "t1_ckzc7c9",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Bootstrap is generic, but I think neuro-typicals quite like a clean well designed familiar and consistent default. It's the standard theme for the modern web, just like windows or os x or ios has a consistent standard UI theme. It's only people who build web services who might think \"they didn't spend any effort customizing\", so only worry if that's a large portion of your target demo.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Bootstrap is generic, but I think neuro-typicals quite like a clean well designed familiar and consistent default. It&amp;#39;s the standard theme for the modern web, just like windows or os x or ios has a consistent standard UI theme. It&amp;#39;s only people who build web services who might think &amp;quot;they didn&amp;#39;t spend any effort customizing&amp;quot;, so only worry if that&amp;#39;s a large portion of your target demo.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_ckze14o",
+                                                                        "created": 1412376998,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412348198,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckzc7c9",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "robertgenito",
+                                                              "parent_id": "t1_ckzc2i3",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I appreciate it:) I am fine and open to the criticism. I am shocked when some people say that they really like the design, but then I also understand when they say \"it's nice and clean!\" It can definitely be cleaner. The most common design comment I've heard is, \"at least use a different bootstrap theme!\" hehe",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I appreciate it:) I am fine and open to the criticism. I am shocked when some people say that they really like the design, but then I also understand when they say &amp;quot;it&amp;#39;s nice and clean!&amp;quot; It can definitely be cleaner. The most common design comment I&amp;#39;ve heard is, &amp;quot;at least use a different bootstrap theme!&amp;quot; hehe&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckzc7c9",
+                                                              "created": 1412373007,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412344207,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzc2i3",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "JstnPwll",
+                                                    "parent_id": "t1_ckzbyv4",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Absolutely, didn't mean that to be a commentary on your efforts, or the actual reason for the site's current look. :) I was commenting on why \"lclc_\" probably thought you needed a web designer.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Absolutely, didn&amp;#39;t mean that to be a commentary on your efforts, or the actual reason for the site&amp;#39;s current look. :) I was commenting on why &amp;quot;lclc_&amp;quot; probably thought you needed a web designer.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzc2i3",
+                                                    "created": 1412372672,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412343872,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2i6d0e",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2i6d0e",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "ckze1me",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "robertgenito",
+                                                              "parent_id": "t1_ckzdmt3",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Np, I figured you were a webdesigner, and perhaps looking to do some webdesigning ;) I still sincerely appreciate the short, frank comment!",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Np, I figured you were a webdesigner, and perhaps looking to do some webdesigning ;) I still sincerely appreciate the short, frank comment!&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_ckze1me",
+                                                              "created": 1412377026,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412348226,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "ckzdmt3",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "lclc_",
+                                                    "parent_id": "t1_ckzbyv4",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Yes, your priorities are right. Sorry my statment was a bit harsh and short. Always depends on when / how much money you can put in.\n\nAnd other than that it's like JstnPwll said, I immediately though Bootstrap! when I saw the theme. Maybe that's not the case / problem for non-tech people\\^\\^",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, your priorities are right. Sorry my statment was a bit harsh and short. Always depends on when / how much money you can put in.&lt;/p&gt;\n\n&lt;p&gt;And other than that it&amp;#39;s like JstnPwll said, I immediately though Bootstrap! when I saw the theme. Maybe that&amp;#39;s not the case / problem for non-tech people^^&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_ckzdmt3",
+                                                    "created": 1412376193,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412347393,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "ckzbyv4",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "robertgenito",
+                                          "parent_id": "t1_ckzbu9j",
+                                          "score": 5,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Definitely up for interpretation. It could also mean, \"We cared far more about the critical back end and critical business process,\" or even, \"We're minimalists.\" Most of the front-end love and attention has been the javascript / behavioral part, and automated selenium testing. Design will get there.\n\nHence Rome wasn't built in a day...",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Definitely up for interpretation. It could also mean, &amp;quot;We cared far more about the critical back end and critical business process,&amp;quot; or even, &amp;quot;We&amp;#39;re minimalists.&amp;quot; Most of the front-end love and attention has been the javascript / behavioral part, and automated selenium testing. Design will get there.&lt;/p&gt;\n\n&lt;p&gt;Hence Rome wasn&amp;#39;t built in a day...&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_ckzbyv4",
+                                          "created": 1412372419,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412343619,
+                                          "ups": 5,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "ckzbu9j",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "JstnPwll",
+                                "parent_id": "t1_ckzbpl1",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "An out-of-the-box Bootstrap site nowadays just says \"I wrote the code, didn't have time to make it look like anything\"",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;An out-of-the-box Bootstrap site nowadays just says &amp;quot;I wrote the code, didn&amp;#39;t have time to make it look like anything&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_ckzbu9j",
+                                "created": 1412372088,
+                                "author_flair_text": null,
+                                "created_utc": 1412343288,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzbpl1",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "cclites",
+                      "parent_id": "t1_ckz9l48",
+                      "score": 3,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Serious question. Developer/designer here, and I think the site is clean and functional. Granted, it is a semi-generic looking bootstrap site. Is that what prompted you to comment on the UI? ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Serious question. Developer/designer here, and I think the site is clean and functional. Granted, it is a semi-generic looking bootstrap site. Is that what prompted you to comment on the UI? &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzbpl1",
+                      "created": 1412371749,
+                      "author_flair_text": null,
+                      "created_utc": 1412342949,
+                      "ups": 3,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "ckz9l48",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "lclc_",
+            "parent_id": "t3_2i6d0e",
+            "score": -2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Please get a webdesigner.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Please get a webdesigner.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_ckz9l48",
+            "created": 1412364461,
+            "author_flair_text": null,
+            "created_utc": 1412335661,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -2
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey so I haven&amp;#39;t synced my bitcoin wallet in forever lol and now it&amp;#39;s taking absolutely forever to sync back up. I&amp;#39;m 565 days back now and I downloaded the blockchain.dat file and put that to work and I still only got maybe like 80 days in like 8 hours today. I have a slow internet connection so I thought this was gonna help it. Is this the kind of speed I should expect or is there something else I can do?\nThanks&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "Hey so I haven't synced my bitcoin wallet in forever lol and now it's taking absolutely forever to sync back up. I'm 565 days back now and I downloaded the blockchain.dat file and put that to work and I still only got maybe like 80 days in like 8 hours today. I have a slow internet connection so I thought this was gonna help it. Is this the kind of speed I should expect or is there something else I can do?\nThanks",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ieny6",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "bugattibiebs",
+            "media": null,
+            "score": 3,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2ieny6",
+            "permalink": "/r/Bitcoin/comments/2ieny6/syncing_bitcoin_wallet/",
+            "stickied": false,
+            "created": 1412587816,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2ieny6/syncing_bitcoin_wallet/",
+            "author_flair_text": null,
+            "title": "Syncing Bitcoin Wallet",
+            "created_utc": 1412559016,
+            "ups": 3,
+            "upvote_ratio": 0.8,
+            "num_comments": 11,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ieny6",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ieny6",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ieny6",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ieny6",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ieny6",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ieny6",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1k4yx",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "Onetallnerd",
+                                                              "parent_id": "t1_cl1k382",
+                                                              "score": 2,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "I had that as a step. :)",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I had that as a step. :)&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1k4yx",
+                                                              "created": 1412591760,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412562960,
+                                                              "ups": 2,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1k382",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "kiisfm",
+                                                    "parent_id": "t1_cl1izq5",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Now backup and send to yourself, you exposed your keys",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Now backup and send to yourself, you exposed your keys&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1k382",
+                                                    "created": 1412591654,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412562854,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1izq5",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bugattibiebs",
+                                          "parent_id": "t1_cl1iycw",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Thanks I'll check that out!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks I&amp;#39;ll check that out!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1izq5",
+                                          "created": 1412589271,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412560471,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ieny6",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ieny6",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1k105",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Onetallnerd",
+                                                    "parent_id": "t1_cl1jv5i",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Sweet glad it worked. I'd keep the old wallet.dat from bitcoin-qt to be safe. I'm sure you probably already know, though.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sweet glad it worked. I&amp;#39;d keep the old wallet.dat from bitcoin-qt to be safe. I&amp;#39;m sure you probably already know, though.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1k105",
+                                                    "created": 1412591510,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412562710,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1jv5i",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "bugattibiebs",
+                                          "parent_id": "t1_cl1iycw",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "That worked thanks!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That worked thanks!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1jv5i",
+                                          "created": 1412591155,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412562355,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1iycw",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Onetallnerd",
+                                "parent_id": "t1_cl1ivn8",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "You can manually import the keys into electrum to use them? It gets sorta technical though.\n \nI helped this guy do it if you're interested in how. \n**http://www.reddit.com/r/Bitcoin/comments/2hqw3q/worried_about_a_transfer_i_made/ckvcbxy**",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You can manually import the keys into electrum to use them? It gets sorta technical though.&lt;/p&gt;\n\n&lt;p&gt;I helped this guy do it if you&amp;#39;re interested in how. \n&lt;strong&gt;&lt;a href=\"http://www.reddit.com/r/Bitcoin/comments/2hqw3q/worried_about_a_transfer_i_made/ckvcbxy\"&gt;http://www.reddit.com/r/Bitcoin/comments/2hqw3q/worried_about_a_transfer_i_made/ckvcbxy&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1iycw",
+                                "created": 1412589191,
+                                "author_flair_text": null,
+                                "created_utc": 1412560391,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1ivn8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bugattibiebs",
+                      "parent_id": "t1_cl1ib63",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I would but I already sent some bitcoin I had forgotten about to this wallet without realizing that I need to sync it first to receive this bitcoin.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I would but I already sent some bitcoin I had forgotten about to this wallet without realizing that I need to sync it first to receive this bitcoin.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1ivn8",
+                      "created": 1412589029,
+                      "author_flair_text": null,
+                      "created_utc": 1412560229,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ib63",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Onetallnerd",
+            "parent_id": "t3_2ieny6",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You probably switch to a light wallet that doesn't require you to download the whole blockchain. Try electrum?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You probably switch to a light wallet that doesn&amp;#39;t require you to download the whole blockchain. Try electrum?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ib63",
+            "created": 1412587860,
+            "author_flair_text": null,
+            "created_utc": 1412559060,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ieny6",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ieny6",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ieny6",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1jbk8",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "platypii",
+                                "parent_id": "t1_cl1iv0h",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Oh ok.  That means it's reading from the bootstrap.dat file, so that is good.\n\nBTW, you don't need to sync the wallet to receive coins there, only to spend.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh ok.  That means it&amp;#39;s reading from the bootstrap.dat file, so that is good.&lt;/p&gt;\n\n&lt;p&gt;BTW, you don&amp;#39;t need to sync the wallet to receive coins there, only to spend.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1jbk8",
+                                "created": 1412589966,
+                                "author_flair_text": null,
+                                "created_utc": 1412561166,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1iv0h",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "bugattibiebs",
+                      "parent_id": "t1_cl1ieva",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "227,338 right now. It just says importing blocks from disk at the bottom.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;227,338 right now. It just says importing blocks from disk at the bottom.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1iv0h",
+                      "created": 1412588991,
+                      "author_flair_text": null,
+                      "created_utc": 1412560191,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ieva",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "platypii",
+            "parent_id": "t3_2ieny6",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What block are you up to?  There's bootstrap files that should get you to ~300K.  If you're 565 days behind then your bootstrap file hasn't worked, or is very old.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What block are you up to?  There&amp;#39;s bootstrap files that should get you to ~300K.  If you&amp;#39;re 565 days behind then your bootstrap file hasn&amp;#39;t worked, or is very old.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ieva",
+            "created": 1412588079,
+            "author_flair_text": null,
+            "created_utc": 1412559279,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]

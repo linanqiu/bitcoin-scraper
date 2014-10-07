@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "self.Bitcoin",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If you look at the &amp;quot;hot&amp;quot; section of r/bitcoin right now the top posts are rather self.bitcoin posts of &amp;quot;A debit card that actually works!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+            "selftext": "If you look at the \"hot\" section of r/bitcoin right now the top posts are rather self.bitcoin posts of \"A debit card that actually works!",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2idkes",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "therumking",
+            "media": null,
+            "score": 0,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "self",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": true,
+            "name": "t3_2idkes",
+            "permalink": "/r/Bitcoin/comments/2idkes/something_ive_noticed_with_rbitcoin_and_the_price/",
+            "stickied": false,
+            "created": 1412563611,
+            "url": "http://www.reddit.com/r/Bitcoin/comments/2idkes/something_ive_noticed_with_rbitcoin_and_the_price/",
+            "author_flair_text": null,
+            "title": "Something i've noticed with r/bitcoin and the price...",
+            "created_utc": 1412534811,
+            "ups": 0,
+            "upvote_ratio": 0.37,
+            "num_comments": 0,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [],
+      "after": null,
+      "before": null
+    }
+  }
+]

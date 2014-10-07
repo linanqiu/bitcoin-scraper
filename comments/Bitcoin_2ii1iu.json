@@ -1,0 +1,106 @@
+[
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t3",
+          "data": {
+            "domain": "upstart.bizjournals.com",
+            "banned_by": null,
+            "media_embed": {},
+            "subreddit": "Bitcoin",
+            "selftext_html": null,
+            "selftext": "",
+            "likes": null,
+            "user_reports": [],
+            "secure_media": null,
+            "link_flair_text": null,
+            "id": "2ii1iu",
+            "gilded": 0,
+            "secure_media_embed": {},
+            "clicked": false,
+            "report_reasons": null,
+            "author": "montseayo",
+            "media": null,
+            "score": 7,
+            "approved_by": null,
+            "over_18": false,
+            "hidden": false,
+            "thumbnail": "http://b.thumbs.redditmedia.com/iAG5UPr6t_vy_JVGyaQJHx3YSkmz-ub4cVso5KyNRzA.jpg",
+            "subreddit_id": "t5_2s3qj",
+            "edited": false,
+            "link_flair_css_class": null,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "mod_reports": [],
+            "saved": false,
+            "is_self": false,
+            "name": "t3_2ii1iu",
+            "permalink": "/r/Bitcoin/comments/2ii1iu/what_bitcoin_is_doing_to_finance_it_can_also_do/",
+            "stickied": false,
+            "created": 1412666944,
+            "url": "http://upstart.bizjournals.com/companies/innovation/2014/10/06/bitcoin-disruption-in-industries.html",
+            "author_flair_text": null,
+            "title": "What bitcoin is doing to finance, it can also do to these 7 industries",
+            "created_utc": 1412638144,
+            "ups": 7,
+            "upvote_ratio": 0.9,
+            "num_comments": 1,
+            "visited": false,
+            "num_reports": null,
+            "distinguished": null
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  },
+  {
+    "kind": "Listing",
+    "data": {
+      "modhash": "",
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ii1iu",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2d3j5",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "montseayo",
+            "parent_id": "t3_2ii1iu",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Some possible blockchain apps that could follow Bitcoin are:\n\n&gt;\n* Digital resources: Energy, bandwidth, storage, and computation will be allocated to connected devices and services that need them through efficient bitcoin-based marketplaces. For example: load your smart phone with bitcoin, and it will automatically purchase access to the least expensive WiFi hotspots.\n* Immersive virtual worlds: Devices like the Oculus Rift will have bitcoin-based economies, meaning there will be no bright dividing lines between virtual economies and the real world economy.\n* Synthetic versions of financial assets: Such products could reduce default risk, increasing transparency, and providing universal access to financial instruments. Example: Smart farms will automatically buy and sell hedging contracts throughout the season using data about soil, weather, yields, and prices.\n* Artistic works: Expect pre-funded art projects, tips from patrons, and purchases of art projects in tiny increments when consumed through metered players. Original digital works will be bought and sold by tracking ownership and provenance on the block chain.\n* Income-producing assets: The block chain will reduce the friction of share issuance and ownership, allowing us to be stakeholders in entities, large and small, that we care about and contribute to. And the trend toward shared usage of “things” — cars, computers, living space — will accelerate when the objects themselves become self-sustaining economic units.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Some possible blockchain apps that could follow Bitcoin are:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;ul&gt;\n&lt;li&gt;Digital resources: Energy, bandwidth, storage, and computation will be allocated to connected devices and services that need them through efficient bitcoin-based marketplaces. For example: load your smart phone with bitcoin, and it will automatically purchase access to the least expensive WiFi hotspots.&lt;/li&gt;\n&lt;li&gt;Immersive virtual worlds: Devices like the Oculus Rift will have bitcoin-based economies, meaning there will be no bright dividing lines between virtual economies and the real world economy.&lt;/li&gt;\n&lt;li&gt;Synthetic versions of financial assets: Such products could reduce default risk, increasing transparency, and providing universal access to financial instruments. Example: Smart farms will automatically buy and sell hedging contracts throughout the season using data about soil, weather, yields, and prices.&lt;/li&gt;\n&lt;li&gt;Artistic works: Expect pre-funded art projects, tips from patrons, and purchases of art projects in tiny increments when consumed through metered players. Original digital works will be bought and sold by tracking ownership and provenance on the block chain.&lt;/li&gt;\n&lt;li&gt;Income-producing assets: The block chain will reduce the friction of share issuance and ownership, allowing us to be stakeholders in entities, large and small, that we care about and contribute to. And the trend toward shared usage of “things” — cars, computers, living space — will accelerate when the objects themselves become self-sustaining economic units.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2d3j5",
+            "created": 1412669302,
+            "author_flair_text": null,
+            "created_utc": 1412640502,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
+      "after": null,
+      "before": null
+    }
+  }
+]
