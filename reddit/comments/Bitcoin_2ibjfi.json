@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "openbazaar1",
             "media": null,
-            "score": 40,
+            "score": 42,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "What is the point of atms if they're going to shut down operations everytime the price goes down?",
             "created_utc": 1412469656,
-            "ups": 40,
-            "upvote_ratio": 0.77,
-            "num_comments": 44,
+            "ups": 42,
+            "upvote_ratio": 0.78,
+            "num_comments": 46,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -260,7 +260,7 @@
                                 "report_reasons": null,
                                 "author": "[deleted]",
                                 "parent_id": "t1_cl0t5pz",
-                                "score": -4,
+                                "score": -2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "[deleted]",
@@ -277,7 +277,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -4
+                                "ups": -2
                               }
                             }
                           ],
@@ -292,7 +292,7 @@
                       "report_reasons": null,
                       "author": "sqrt7744",
                       "parent_id": "t1_cl0mlp0",
-                      "score": 6,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "1. An increase in demand when the price drops could quickly deplete their reserves.\n\n2. Would you sell at a huge loss while trying not to run a fledgeling business into the ground?",
@@ -306,7 +306,7 @@
                       "created": 1412516984,
                       "author_flair_text": null,
                       "created_utc": 1412488184,
-                      "ups": 6,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -538,7 +538,7 @@
                       "report_reasons": null,
                       "author": "roflburger",
                       "parent_id": "t1_cl0rasy",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If people were rushing to buy bitcoin... Well, you know...",
@@ -552,7 +552,7 @@
                       "created": 1412513177,
                       "author_flair_text": null,
                       "created_utc": 1412484377,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -810,7 +810,7 @@
                       "report_reasons": null,
                       "author": "David_Moskowitz",
                       "parent_id": "t1_cl0q17b",
-                      "score": 6,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Are you live? uptime 100% is not likely- i operate one. there are always gonna be problems that happen. bad wifi, network down, router outages, software glitch, exchange changes the api....",
@@ -824,7 +824,7 @@
                       "created": 1412520241,
                       "author_flair_text": null,
                       "created_utc": 1412491441,
-                      "ups": 6,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1079,7 +1079,7 @@
             "report_reasons": null,
             "author": "BitcoinSavage",
             "parent_id": "t3_2ibjfi",
-            "score": 13,
+            "score": 12,
             "approved_by": null,
             "controversiality": 0,
             "body": "Please don't think all ATM operators are trying to do this to people. Our Genesis1 ATM in Portland, Oregon will be up 100 percent of the time through all the ups and the downs. If someone is going to take the time to come to where our machine is located, we make damn sure they're able to buy/sell bitcoin no matter the price. And we answer support calls and messages 24/7. https://www.btcmintus.com/",
@@ -1096,7 +1096,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 12
           }
         },
         {
@@ -1141,7 +1141,51 @@
             "banned_by": null,
             "link_id": "t3_2ibjfi",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibjfi",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2rlxq",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "BitAccess_Andre",
+                      "parent_id": "t1_cl0yl36",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "OP didn't call us unfortunately, I learned of this through Reddit. Cavirtex should generally be the first contact for issues, but we can often fix issues within minutes should something arise. \n\nWe're on call all day every day if something goes wrong with a BitAccess BTM: (844) 248-2223. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OP didn&amp;#39;t call us unfortunately, I learned of this through Reddit. Cavirtex should generally be the first contact for issues, but we can often fix issues within minutes should something arise. &lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re on call all day every day if something goes wrong with a BitAccess BTM: (844) 248-2223. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2rlxq",
+                      "created": 1412715203,
+                      "author_flair_text": null,
+                      "created_utc": 1412686403,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl0yl36",
@@ -1219,7 +1263,7 @@
             "report_reasons": null,
             "author": "BTC2d3",
             "parent_id": "t3_2ibjfi",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "They may be only able to load so much bitcoin onto these machines at a time.  So when the price goes down, it creates a strong buy demand because people want cheap coins, then they are sold out and the operator has to replenish their bitcoins before it can operate again.",
@@ -1236,7 +1280,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -1266,7 +1310,7 @@
                       "report_reasons": null,
                       "author": "tetralogy",
                       "parent_id": "t1_cl0oqag",
-                      "score": 16,
+                      "score": 13,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "*their ",
@@ -1280,7 +1324,7 @@
                       "created": 1412520042,
                       "author_flair_text": null,
                       "created_utc": 1412491242,
-                      "ups": 16,
+                      "ups": 13,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1407,7 +1451,51 @@
                       "banned_by": null,
                       "link_id": "t3_2ibjfi",
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibjfi",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2sbe5",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BitAccess_Andre",
+                                "parent_id": "t1_cl0mkiz",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Sorry to hear you had problems with the Yorkdale BTM! If you ever encounter a problem with a BitAccess BTM, feel free to give us (BitAccess) a call directly: (844) 248-2223. I'm personally on call seven days a week, so we take calls anytime. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Sorry to hear you had problems with the Yorkdale BTM! If you ever encounter a problem with a BitAccess BTM, feel free to give us (BitAccess) a call directly: (844) 248-2223. I&amp;#39;m personally on call seven days a week, so we take calls anytime. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2sbe5",
+                                "created": 1412717322,
+                                "author_flair_text": null,
+                                "created_utc": 1412688522,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "cl0mkiz",
@@ -1415,7 +1503,7 @@
                       "report_reasons": null,
                       "author": "openbazaar1",
                       "parent_id": "t1_cl0mhcn",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Please come to Toronto, Bitaccess atms that cavirtex uses are garbage and the people that run the Robocoin atm aren't consistent.",
@@ -1429,7 +1517,7 @@
                       "created": 1412499450,
                       "author_flair_text": null,
                       "created_utc": 1412470650,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1494,7 +1582,7 @@
                       "report_reasons": null,
                       "author": "MakeYourMarks",
                       "parent_id": "t1_cl0mhcn",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This is a lie.",
@@ -1508,7 +1596,7 @@
                       "created": 1412514576,
                       "author_flair_text": null,
                       "created_utc": 1412485776,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1596,7 +1684,7 @@
             "report_reasons": null,
             "author": "BumblebeeExchange",
             "parent_id": "t3_2ibjfi",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Hi, our machine was down due to bad internet connectivity. Definitely not because of the price. We're working on the underlying issue so this doesn't continue to happen. \n\nWe are operational now. Apologies for the inconvenience. \n\n",
@@ -1613,7 +1701,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -1710,7 +1798,7 @@
             "report_reasons": null,
             "author": "[deleted]",
             "parent_id": "t3_2ibjfi",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "[deleted]",
@@ -1727,7 +1815,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -1780,7 +1868,7 @@
             "report_reasons": null,
             "author": "brezzz",
             "parent_id": "t3_2ibjfi",
-            "score": -4,
+            "score": -6,
             "approved_by": null,
             "controversiality": 0,
             "body": "This is the closest thing to a favor anybody in bitcoinland is ever going to do for you. ",
@@ -1797,7 +1885,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -4
+            "ups": -6
           }
         },
         {

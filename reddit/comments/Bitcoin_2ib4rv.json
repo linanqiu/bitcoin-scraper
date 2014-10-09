@@ -46,8 +46,8 @@
             "title": "Blatant pyramid scheme?",
             "created_utc": 1412459512,
             "ups": 0,
-            "upvote_ratio": 0.4,
-            "num_comments": 5,
+            "upvote_ratio": 0.42,
+            "num_comments": 6,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -210,7 +210,51 @@
             "banned_by": null,
             "link_id": "t3_2ib4rv",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ib4rv",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl38ru8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "solomania9",
+                      "parent_id": "t1_cl0i24t",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Care to elaborate?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Care to elaborate?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl38ru8",
+                      "created": 1412749793,
+                      "author_flair_text": null,
+                      "created_utc": 1412720993,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl0i24t",

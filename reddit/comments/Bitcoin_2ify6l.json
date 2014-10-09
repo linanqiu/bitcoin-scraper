@@ -47,7 +47,7 @@
             "created_utc": 1412599389,
             "ups": 2,
             "upvote_ratio": 0.67,
-            "num_comments": 14,
+            "num_comments": 17,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -261,7 +261,51 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ify6l",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ify6l",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2miti",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "neom315",
+                                          "parent_id": "t1_cl2byqm",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "estonia!",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;estonia!&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2miti",
+                                          "created": 1412690568,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412661768,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl2byqm",
@@ -518,6 +562,41 @@
             "banned_by": null,
             "link_id": "t3_2ify6l",
             "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2qmts",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bitemperor",
+            "parent_id": "t3_2ify6l",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Uspehav",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Uspehav&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2qmts",
+            "created": 1412711596,
+            "author_flair_text": null,
+            "created_utc": 1412682796,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ify6l",
+            "likes": null,
             "replies": {
               "kind": "Listing",
               "data": {
@@ -597,7 +676,51 @@
             "banned_by": null,
             "link_id": "t3_2ify6l",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ify6l",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2mj7p",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "neom315",
+                      "parent_id": "t1_cl1y7ei",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "no in terms of....No, very instructive answer",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;no in terms of....No, very instructive answer&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2mj7p",
+                      "created": 1412690608,
+                      "author_flair_text": null,
+                      "created_utc": 1412661808,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl1y7ei",

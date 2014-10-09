@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "ferretinjapan",
             "media": null,
-            "score": 170,
+            "score": 173,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "TL;DR Welcome to cryptocurrencies, this is what they do.",
             "created_utc": 1412503965,
-            "ups": 170,
+            "ups": 173,
             "upvote_ratio": 0.82,
-            "num_comments": 128,
+            "num_comments": 127,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -299,7 +299,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Anenome5",
                                                                         "parent_id": "t1_cl1aoas",
-                                                                        "score": -1,
+                                                                        "score": -2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Embedded in /r/bitcoin or some other page? I don't see it on /r/bitcoin.",
@@ -316,7 +316,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -1
+                                                                        "ups": -2
                                                                       }
                                                                     }
                                                                   ],
@@ -366,7 +366,7 @@
                                                               "report_reasons": null,
                                                               "author": "veoxwmt",
                                                               "parent_id": "t1_cl16jqi",
-                                                              "score": 1,
+                                                              "score": 0,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "If you're looking for IRC, try `#bitcoin-otc` or (perhaps later) `#bitcoin-assets` @ freenode.",
@@ -380,7 +380,7 @@
                                                               "created": 1412574013,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412545213,
-                                                              "ups": 1,
+                                                              "ups": 0,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -787,7 +787,7 @@
                                 "report_reasons": null,
                                 "author": "Amanojack",
                                 "parent_id": "t1_cl0xnmd",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "But that was at orders of magnitude lower prices. Each order of magnitude will of course have a whole slew of new things that are different and generally more \"big time.\" Bitcoin is getting big, so it'd be unexpected for it not to get frequent news coverage. ",
@@ -804,7 +804,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -819,7 +819,7 @@
                       "report_reasons": null,
                       "author": "12345768",
                       "parent_id": "t1_cl0xk2s",
-                      "score": 4,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "it's happened before when there was way less support for bitcoin, it's not a good sign when there's consistent good news and this happens.",
@@ -833,7 +833,7 @@
                       "created": 1412540335,
                       "author_flair_text": null,
                       "created_utc": 1412511535,
-                      "ups": 4,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -851,7 +851,7 @@
             "report_reasons": null,
             "author": "Anenome5",
             "parent_id": "t3_2icjf5",
-            "score": 10,
+            "score": 9,
             "approved_by": null,
             "controversiality": 0,
             "body": "No, it's because this has happened before that I came out and said people are acting ridiculously. Of course this is not the end of bitcoin, of course the price is not going to collapse down to dollars. Etc.",
@@ -868,7 +868,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 9
           }
         },
         {
@@ -933,7 +933,7 @@
                       "report_reasons": null,
                       "author": "Amanojack",
                       "parent_id": "t1_cl0wrkf",
-                      "score": 12,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Cryptocurrency is an unfortunate title. Bitcoin is really a candidate currency or if you like, a candidate cryptocurrency. The currency aspect of Bitcoin's promise is not that it is now a good currency, but that it would be a much better currency if everyone were to use it (note that it wouldn't be volatile then) versus if everyone were to use gold or the US dollar.\n\nBitcoin will be primarily an investment for several more years, and no investment goes up several orders of magnitude in a few years without extreme volatility. ",
@@ -947,7 +947,7 @@
                       "created": 1412539131,
                       "author_flair_text": null,
                       "created_utc": 1412510331,
-                      "ups": 12,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1027,7 +1027,7 @@
                                           "report_reasons": null,
                                           "author": "FearManifesto",
                                           "parent_id": "t1_cl100xv",
-                                          "score": 1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Wait, I'll explain. Imagine you have a coffin, and then you basically throw all your shit in it. Then you take a nailgun and nail the coffin shut. Ptk, ptk, ptk! Then you bury it in the ground. Voila!",
@@ -1041,7 +1041,7 @@
                                           "created": 1412552368,
                                           "author_flair_text": null,
                                           "created_utc": 1412523568,
-                                          "ups": 1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1091,7 +1091,7 @@
                       "report_reasons": null,
                       "author": "L7L7L7L7",
                       "parent_id": "t1_cl0wrkf",
-                      "score": 10,
+                      "score": 8,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I don't care about mainstream adoption.  It's not a get rich quick scheme for me.  If every one else wants to use a hammer while I use a nail gun to build my future so be it.  ",
@@ -1105,7 +1105,7 @@
                       "created": 1412538539,
                       "author_flair_text": null,
                       "created_utc": 1412509739,
-                      "ups": 10,
+                      "ups": 8,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1194,7 +1194,7 @@
                                           "report_reasons": null,
                                           "author": "seriouslytaken",
                                           "parent_id": "t1_cl0xass",
-                                          "score": 13,
+                                          "score": 12,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "When was the last time you had access to a new currency, less than five years old, and not backed by any former existing money technology?  Maybe a little patience are in order?",
@@ -1208,7 +1208,7 @@
                                           "created": 1412538703,
                                           "author_flair_text": null,
                                           "created_utc": 1412509903,
-                                          "ups": 13,
+                                          "ups": 12,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1261,7 +1261,7 @@
                                 "report_reasons": null,
                                 "author": "Frankeh",
                                 "parent_id": "t1_cl0xa8n",
-                                "score": -8,
+                                "score": -6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Currency should be effortless. It shouldn't require technical trading knowledge to use. \n\nFor every barrier to entry you add to a currency, the less useful as a currency it becomes. ",
@@ -1278,7 +1278,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -8
+                                "ups": -6
                               }
                             }
                           ],
@@ -1447,7 +1447,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "MaleFascistAdvice",
                                                                                             "parent_id": "t1_cl112hb",
-                                                                                            "score": 4,
+                                                                                            "score": 3,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Bam!",
@@ -1464,7 +1464,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 4
+                                                                                            "ups": 3
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -1479,7 +1479,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "Yoghurt114",
                                                                                   "parent_id": "t1_cl0zlss",
-                                                                                  "score": 11,
+                                                                                  "score": 12,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "With bitcoin, you don't need to be \"in the area\" to buy someone a beer.",
@@ -1493,7 +1493,7 @@
                                                                                   "created": 1412551808,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412523008,
-                                                                                  "ups": 11,
+                                                                                  "ups": 12,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -1511,7 +1511,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "[deleted]",
                                                                         "parent_id": "t1_cl0yoml",
-                                                                        "score": -7,
+                                                                        "score": -6,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "[deleted]",
@@ -1528,7 +1528,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -7
+                                                                        "ups": -6
                                                                       }
                                                                     }
                                                                   ],
@@ -1614,7 +1614,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "OBAMA_IN_MY_ANUS",
                                                                                             "parent_id": "t1_cl0zudk",
-                                                                                            "score": 1,
+                                                                                            "score": 0,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "I'm not antagonizing people.  \n       \nI'm more like a parent telling their 3 year old child that the stove is hot and not to touch it or they'll get burned but the 3 year old still has to try it and they get burned.  \n\n\nBut at least they learned their lesson and they don't ever touch a hot stove and they don't get burned again.\n\nBitcoiners are just the opposite.  They're like a 1 year old  child that hasn't grasped the understanding of good versus bad,  right versus wrong.\n\nI would conservatively put my advice given as being **98% accurate** which puts the bitcoiners who have disagreed with my advice and predictions at being **98% inaccurate** of the time.  \n\nAnd yet I'm the \"troll\".  \n\nSuch foolish, foolish people in this world when it comes to having not a single piece of knowledge when it comes to financial investing. Not a clue.\n\nBitcoiners will just not listen to reason.  \n\nThat is not me  being antagonistic, that is bitcoiners being fools with their money.  \n\n I'm just here trying to help them out.\n\n\n\"Tough love\" is called that because that's exactly what it is and is exactly what bitcoiners need.   That, and sound financial investment advice **which I have given time after time after time.**\n\nBut by all means.... Go ahead and keep touching that hot stove. It's never going to get any cooler.  The very basic foundation of bitcoin is built upon that premise.  \n\n",
@@ -1631,7 +1631,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 1
+                                                                                            "ups": 0
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -1646,7 +1646,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "amendment64",
                                                                                   "parent_id": "t1_cl0zgp8",
-                                                                                  "score": 5,
+                                                                                  "score": 3,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "If you think bitcoins such a failure, why are you here in the first place, antagonizing people?",
@@ -1660,7 +1660,7 @@
                                                                                   "created": 1412548492,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412519692,
-                                                                                  "ups": 5,
+                                                                                  "ups": 3,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -1713,7 +1713,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "OBAMA_IN_MY_ANUS",
                                                                         "parent_id": "t1_cl0ym2l",
-                                                                        "score": -6,
+                                                                        "score": -4,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "&gt; *no-one would still be talking about it and hating on it like yourself.*\n\nHating it????\n\nLike the saying goes at McDonald's:  \"***I'm LOVIN' it!***\"\n\nToday is yet just another entry into why Bitcoin is a failure...\n\n***Entry no. 5,724:***  there is no \"fail-safe\" mechanism built into the buy/selling of Bitcoin like there is for the NYSE.  Unlike bitcoin, if there is a sudden drop in the NYSE, there is a fail-safe system in place where the market automatically shuts down.\n\nBitcoin, on the other hand, has no such system in place.\n\nBlah, why am I even wasting my time trying to explain concepts like these when they're obviously way over your head, intellectually wise.\n\nYou obviously don't know know the  first thing when it comes to financial investments, and you most likely never will.\n\nCheers!\n\n",
@@ -1730,7 +1730,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -6
+                                                                        "ups": -4
                                                                       }
                                                                     }
                                                                   ],
@@ -1745,7 +1745,7 @@
                                                               "report_reasons": null,
                                                               "author": "ferretinjapan",
                                                               "parent_id": "t1_cl0y9kz",
-                                                              "score": 4,
+                                                              "score": 3,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "&gt; Lol... There is no excuse for bitcoin.\n\nLaaaaaaaaaaaame. Last I checked people still have free will, no-one is going to hold Bitcoin responsible like government's are held responsible for their currency Bitcoin is never forced on anyone, either deal with it, or step aside.\n\n&gt; It's altimate outcome is for it to fail\n\nIf people like the alt-ernatives, and they did their jobs properly like fiat, or CCs then Bitcoin would never have made it out of Satoshi's sourceforge page, and if it didn't work as a decentralised ledger, no-one would still be talking about it and hating on it like yourself. But don't let me stop you picking on the greedy and reckless ones, you're doing a good job keeping the more jittery away from Bitcoin atm since it's only ready for hardened, and educated users. \n\n",
@@ -1759,7 +1759,7 @@
                                                               "created": 1412544451,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412515651,
-                                                              "ups": 4,
+                                                              "ups": 3,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1777,7 +1777,7 @@
                                                     "report_reasons": null,
                                                     "author": "OBAMA_IN_MY_ANUS",
                                                     "parent_id": "t1_cl0y2xv",
-                                                    "score": -10,
+                                                    "score": -8,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Lol... There ***is*** no excuse for bitcoin.  It's altimate outcome is for it to fail.  Maybe some of you someday will figure that out.  Maybe.",
@@ -1794,7 +1794,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -10
+                                                    "ups": -8
                                                   }
                                                 }
                                               ],
@@ -1841,7 +1841,7 @@
                                 "report_reasons": null,
                                 "author": "Economist_hat",
                                 "parent_id": "t1_cl0wv3f",
-                                "score": 19,
+                                "score": 17,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "&gt;...if it isn't stop whining like a child when it doesn't suit your needs perfectly. Go use something else.\n\nActually I think you're the one who felt compelled to offer a flimsy defense for a plummeting asset value by moving the goalposts. \n\n",
@@ -1858,7 +1858,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 19
+                                "ups": 17
                               }
                             },
                             {
@@ -2045,7 +2045,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "ferretinjapan",
                                                                                   "parent_id": "t1_cl11qya",
-                                                                                  "score": 0,
+                                                                                  "score": 1,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "All currencies, inflate to infinity, because no human can resist the temptation to inflate. We've had literally thousands of years to learn our lesson, and guess what, we're still hooked on inflation and debt, all governments want growth to out do the competition. It's a simple fact.\n\nInflation allows governments to scoop the cream of growth off the top of their economy so they get first dibs on that increase in value when they print the new dollars, no other reason. Inflation isn't good for an economy, it is only good for governments, because the trickle down effect of all those fresh crisp zeros aren't felt until after they're spent. Government wins, by buying more at the expense of everyone else that has to adjust to the glut of new cash.\n\nThis keeps governments, and the rich on top, and the poor exactly where government wants them. Bitcoin at least passes the benefits of growth directly to users, and bypasses the farcical government mandated inflation at the people's expense and when adjustments to the economy occur, Bitcoin is at least honest about them, rather than being hidden behind \"independent\" organisations that manage that money on the government's behalf.",
@@ -2059,7 +2059,7 @@
                                                                                   "created": 1412554521,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412525721,
-                                                                                  "ups": 0,
+                                                                                  "ups": 1,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2077,7 +2077,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "sayallotodabadguy",
                                                                         "parent_id": "t1_cl11phz",
-                                                                        "score": 1,
+                                                                        "score": 0,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "It's not supposed to stop. A small amount of inflation is a good thing for a currency to have because it promotes some consumption. Besides, only idiots keep most of their net worth in cash. Cash that isnt needed for immediate expenses should be spent on investments, which actually appreciate in value by creating economic growth.",
@@ -2094,7 +2094,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 0
                                                                       }
                                                                     }
                                                                   ],
@@ -2109,7 +2109,7 @@
                                                               "report_reasons": null,
                                                               "author": "ferretinjapan",
                                                               "parent_id": "t1_cl11ioh",
-                                                              "score": 2,
+                                                              "score": 3,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "So, tell me when USD inflation stops. I would like a timetable. If you honestly thing Bitcoin is hyperinflationary, I'd recommend you educate yourself on what [hyperinflation really looks like](https://www.youtube.com/watch?v=DB_uHq1_8FA). ",
@@ -2123,7 +2123,7 @@
                                                               "created": 1412553410,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412524610,
-                                                              "ups": 2,
+                                                              "ups": 3,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2173,7 +2173,7 @@
                                           "report_reasons": null,
                                           "author": "ferretinjapan",
                                           "parent_id": "t1_cl0zjnb",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt; Stop calling it that.\n\nNo I will not.\n\n&gt; Currency is stable...\n\nNo, most are not. You have been lulled into a false sense of security, because inflation is is a real thing and it really is eroding each currency's value, and governments have all manner of controls to force it to compliance, even if this means catastrophic consequences down the line. At least when Something happens in the Bitcoin world, it is felt, adjusted to and genuine. Besides, you are only thinking of the successful ones. Most currencies [fail within 27 years](http://georgewashington2.blogspot.com/2011/08/average-life-expectancy-for-fiat.html), so, why is Bitcoin so volatile? Well IMO the crux is it's small, and it's SUPER frictionless. Movement of money like this is *unheard of*, and so, reactions in the market are super fast. Now traditionally, a market that is small can't be spread far and wide, so things that happen far away, usually take time (or they are concealed or manipulated) but Bitcoins markets are slicker than a greased pig, there is no resistance to news (and NO holidays *cough* wallstreet *cough*). It's like we are seeing all the benefits of a worldwide currency before it's grown into the responsibility of using them yet. At least this is how I look at it.\n\n&gt; Unless you can do that with something, it is not currency. It's gambling. \n\nThis binary reasoning is stupid. But yes, people that risk the house on Bitcoin are at the very least reckless, and gamblers by association. So I agree with you there. But this does not nullify it's usefulness, and it does not negate it as a currency.",
@@ -2187,7 +2187,7 @@
                                           "created": 1412552203,
                                           "author_flair_text": null,
                                           "created_utc": 1412523403,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2264,7 +2264,7 @@
                                                     "report_reasons": null,
                                                     "author": "anti09",
                                                     "parent_id": "t1_cl0zvg8",
-                                                    "score": 2,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Fine, then it's a *bad* currency. Better?",
@@ -2281,7 +2281,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 1
                                                   }
                                                 },
                                                 {
@@ -2311,7 +2311,7 @@
                                                               "report_reasons": null,
                                                               "author": "amendment64",
                                                               "parent_id": "t1_cl10fam",
-                                                              "score": 0,
+                                                              "score": 1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Well then call me crazy :p",
@@ -2325,7 +2325,7 @@
                                                               "created": 1412551433,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412522633,
-                                                              "ups": 0,
+                                                              "ups": 1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2375,7 +2375,7 @@
                                           "report_reasons": null,
                                           "author": "amendment64",
                                           "parent_id": "t1_cl0zjnb",
-                                          "score": 5,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Currency is simply what two people decide to use as a means of exchange, nothing more.",
@@ -2389,7 +2389,7 @@
                                           "created": 1412548585,
                                           "author_flair_text": null,
                                           "created_utc": 1412519785,
-                                          "ups": 5,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2407,7 +2407,7 @@
                                 "report_reasons": null,
                                 "author": "mitchwells",
                                 "parent_id": "t1_cl0wv3f",
-                                "score": -1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "If this is what happens, crypto isn't currency. Stop calling it that. Currency is stable, that is the whole point. It allows me to negotiate year long leases, because I know and my tenant knows approximately what $2000 will be a year from now.\n\nUnless you can do that with something, it is not currency. It's gambling. ",
@@ -2424,7 +2424,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 0
                               }
                             }
                           ],
@@ -2439,7 +2439,7 @@
                       "report_reasons": null,
                       "author": "ferretinjapan",
                       "parent_id": "t1_cl0wrkf",
-                      "score": 10,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "No-one's putting a gun to your head to use Bitcoin, so I don't really see your point, if it is useful to you, use it, if it isn't stop whining like a child when it doesn't suit your needs perfectly. Go use something else.",
@@ -2453,7 +2453,7 @@
                       "created": 1412535829,
                       "author_flair_text": null,
                       "created_utc": 1412507029,
-                      "ups": 10,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2546,7 +2546,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "AaronPaul",
                                                                                   "parent_id": "t1_cl13rj4",
-                                                                                  "score": 1,
+                                                                                  "score": 2,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Yes i would say you have embarrassed yourself enough for one evening.",
@@ -2560,7 +2560,7 @@
                                                                                   "created": 1412558756,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412529956,
-                                                                                  "ups": 1,
+                                                                                  "ups": 2,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2610,7 +2610,7 @@
                                                               "report_reasons": null,
                                                               "author": "AaronPaul",
                                                               "parent_id": "t1_cl13k28",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Which has absolutely no relevance to the topic.",
@@ -2624,7 +2624,7 @@
                                                               "created": 1412557780,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412528980,
-                                                              "ups": 1,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2741,7 +2741,7 @@
                                 "report_reasons": null,
                                 "author": "FearManifesto",
                                 "parent_id": "t1_cl0wtmd",
-                                "score": 6,
+                                "score": 8,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "&gt; wealth\n\nYou keep using that word...",
@@ -2758,7 +2758,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 8
                               }
                             },
                             {
@@ -2820,7 +2820,7 @@
                                 "report_reasons": null,
                                 "author": "anti09",
                                 "parent_id": "t1_cl0wtmd",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "No, since the price drop you have lost half of your purchasing power. Do you understand what \"wealth\" is?",
@@ -2837,7 +2837,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             },
                             {
@@ -2915,7 +2915,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "Phucknhell",
                                                                                   "parent_id": "t1_cl0zfdg",
-                                                                                  "score": 3,
+                                                                                  "score": 2,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "What 50k is to you isnt necessarily to others....",
@@ -2929,7 +2929,7 @@
                                                                                   "created": 1412550401,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412521601,
-                                                                                  "ups": 3,
+                                                                                  "ups": 2,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2950,7 +2950,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "AaronPaul",
                                                                                   "parent_id": "t1_cl0zfdg",
-                                                                                  "score": 2,
+                                                                                  "score": 1,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "The money is merely a token of our belief in the success of the technology.    If you had to place me in some kind of _box_ that fits your lexicon then call me an investor.\n\nIf it all went to hell in a hand basket, my quality of life wouldnt be affected at all.\n\nWhen people advise to never put in more than you can afford to lose, they actually mean what they say.",
@@ -2964,7 +2964,7 @@
                                                                                   "created": 1412547684,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412518884,
-                                                                                  "ups": 2,
+                                                                                  "ups": 1,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2982,7 +2982,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Zeeterm",
                                                                         "parent_id": "t1_cl0yte4",
-                                                                        "score": -2,
+                                                                        "score": -1,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Bitcoin isn't stock, and moreover, I don't think many people can shrug off a $50,000 write-down, even if it was built up over years.\n\nAlso, if you spent $50,000 on bitcoins over the past year, and that bitcoin is currently worth less than $50,000, then you should do your accounting to reflect the current value of that bitcoin.\n\nI also find it hard to match up the statements \"Maybe I have $50,000 invested in Bitcoin\" and \"We are not investers\".",
@@ -2999,7 +2999,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -2
+                                                                        "ups": -1
                                                                       }
                                                                     }
                                                                   ],
@@ -3014,7 +3014,7 @@
                                                               "report_reasons": null,
                                                               "author": "AaronPaul",
                                                               "parent_id": "t1_cl0xwrt",
-                                                              "score": 7,
+                                                              "score": 6,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Yes I believe BTC will be worth $1000 on January 1st, 2015.  \n\nIf it isn't, I really do not care.  As long as it is not zero.\n\nYou don't seem to understand some of us Bitcoiners are here because we want this technology to succeed.  We are not _investors_ per se.  \n\nIf we lost everything, a lot of us here would maybe experience a second or two of, aww shucks.. But our quality of life wouldn't change at all.\n\nI dont invest $50,000 in one shot.  I invest what I would normally spend on absolute crap every week (like nights out drinking or eating out or some gadget that winds up in the junkpile).  So maybe I have $50,000 invested in Bitcoin, but maybe that $50,000 was put built up via $2500 a month.\n\nIf Bitcoin tanks, I have no regrets.\n\n_If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes._  Warren Buffet",
@@ -3028,7 +3028,7 @@
                                                               "created": 1412545210,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412516410,
-                                                              "ups": 7,
+                                                              "ups": 6,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -3078,7 +3078,7 @@
                                           "report_reasons": null,
                                           "author": "AaronPaul",
                                           "parent_id": "t1_cl0wu1t",
-                                          "score": 10,
+                                          "score": 9,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "I have no fiat money problems. I invest in Bitcoin because i believe in it.\n",
@@ -3092,7 +3092,7 @@
                                           "created": 1412537009,
                                           "author_flair_text": null,
                                           "created_utc": 1412508209,
-                                          "ups": 10,
+                                          "ups": 9,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3113,7 +3113,7 @@
                                           "report_reasons": null,
                                           "author": "readyou",
                                           "parent_id": "t1_cl0wu1t",
-                                          "score": -5,
+                                          "score": -6,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Exactly.",
@@ -3127,7 +3127,7 @@
                                           "created": 1412536963,
                                           "author_flair_text": null,
                                           "created_utc": 1412508163,
-                                          "ups": -5,
+                                          "ups": -6,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3145,7 +3145,7 @@
                                 "report_reasons": null,
                                 "author": "Frankeh",
                                 "parent_id": "t1_cl0wtmd",
-                                "score": -4,
+                                "score": -7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You are so delusional. That's a terrible thing to be when looking at investments. ",
@@ -3162,7 +3162,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -4
+                                "ups": -7
                               }
                             },
                             {
@@ -3204,7 +3204,7 @@
                                                     "report_reasons": null,
                                                     "author": "OBAMA_IN_MY_ANUS",
                                                     "parent_id": "t1_cl0x2h9",
-                                                    "score": 2,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "The giggles are pretty contagious these days!\n\nPerhaps we should start a new coinbase - the \"***Gigglecoin***\".\n\nIt should sell like hotcakes these days!!!",
@@ -3221,7 +3221,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 1
                                                   }
                                                 },
                                                 {
@@ -3271,7 +3271,7 @@
                                           "report_reasons": null,
                                           "author": "AaronPaul",
                                           "parent_id": "t1_cl0x0b0",
-                                          "score": 3,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "If you are here to make a quick buck i kinda pity you.\n\nIm just kidding, im giggling uncontrollably.",
@@ -3285,7 +3285,7 @@
                                           "created": 1412537090,
                                           "author_flair_text": null,
                                           "created_utc": 1412508290,
-                                          "ups": 3,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3303,7 +3303,7 @@
                                 "report_reasons": null,
                                 "author": "FactsUDislike",
                                 "parent_id": "t1_cl0wtmd",
-                                "score": -4,
+                                "score": -3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Cool, good for you that nearly everything you can buy is denominated in BTC and not dirty FIAT.",
@@ -3320,7 +3320,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -4
+                                "ups": -3
                               }
                             }
                           ],
@@ -3335,7 +3335,7 @@
                       "report_reasons": null,
                       "author": "AaronPaul",
                       "parent_id": "t1_cl0wrkf",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The number of bitcoins i have has increased 100% so my wealth is increasing. \n\nSince the price drop i have doubled my wealth.",
@@ -3349,7 +3349,7 @@
                       "created": 1412535564,
                       "author_flair_text": null,
                       "created_utc": 1412506764,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3446,7 +3446,7 @@
             "report_reasons": null,
             "author": "Frankeh",
             "parent_id": "t3_2icjf5",
-            "score": 19,
+            "score": 21,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt;Welcome to cryptocurrencies, this is what they do, so get used to it.\n\nIf this is what they do, then they'll never get mainstream support. People can't just have 75% of their wealth destroyed in a year just 'because cryptocurrency'..",
@@ -3463,7 +3463,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 19
+            "ups": 21
           }
         },
         {
@@ -3545,51 +3545,7 @@
                                                                         "banned_by": null,
                                                                         "link_id": "t3_2icjf5",
                                                                         "likes": null,
-                                                                        "replies": {
-                                                                          "kind": "Listing",
-                                                                          "data": {
-                                                                            "modhash": "",
-                                                                            "children": [
-                                                                              {
-                                                                                "kind": "t1",
-                                                                                "data": {
-                                                                                  "subreddit_id": "t5_2s3qj",
-                                                                                  "banned_by": null,
-                                                                                  "link_id": "t3_2icjf5",
-                                                                                  "likes": null,
-                                                                                  "replies": "",
-                                                                                  "user_reports": [],
-                                                                                  "saved": false,
-                                                                                  "id": "cl18r22",
-                                                                                  "gilded": 0,
-                                                                                  "report_reasons": null,
-                                                                                  "author": "OBAMA_IN_MY_ANUS",
-                                                                                  "parent_id": "t1_cl11q14",
-                                                                                  "score": 1,
-                                                                                  "approved_by": null,
-                                                                                  "controversiality": 0,
-                                                                                  "body": "As Bill O'Reilly would say:\n\n\n\n***\"Bitcoin prices going up or down is great news; you can't explain that!\"***",
-                                                                                  "edited": false,
-                                                                                  "author_flair_css_class": null,
-                                                                                  "downs": 0,
-                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;As Bill O&amp;#39;Reilly would say:&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;quot;Bitcoin prices going up or down is great news; you can&amp;#39;t explain that!&amp;quot;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;",
-                                                                                  "subreddit": "Bitcoin",
-                                                                                  "score_hidden": false,
-                                                                                  "name": "t1_cl18r22",
-                                                                                  "created": 1412567667,
-                                                                                  "author_flair_text": null,
-                                                                                  "created_utc": 1412538867,
-                                                                                  "ups": 1,
-                                                                                  "mod_reports": [],
-                                                                                  "num_reports": null,
-                                                                                  "distinguished": null
-                                                                                }
-                                                                              }
-                                                                            ],
-                                                                            "after": null,
-                                                                            "before": null
-                                                                          }
-                                                                        },
+                                                                        "replies": "",
                                                                         "user_reports": [],
                                                                         "saved": false,
                                                                         "id": "cl11q14",
@@ -3661,7 +3617,7 @@
                                                     "report_reasons": null,
                                                     "author": "wheresmychief",
                                                     "parent_id": "t1_cl0zs45",
-                                                    "score": 14,
+                                                    "score": 13,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "let's be honest the only thing the majority of this sub cares about is the price. ",
@@ -3678,7 +3634,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 14
+                                                    "ups": 13
                                                   }
                                                 },
                                                 {
@@ -3842,7 +3798,7 @@
                                           "report_reasons": null,
                                           "author": "jmw74",
                                           "parent_id": "t1_cl0zklw",
-                                          "score": 9,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Kind of hard to imagine everyone thinking bitcoin is done. Newegg accepts it, Paypal is coming on board. Tools are better than ever. The exchange rate doesn't make it any less useful.",
@@ -3856,7 +3812,7 @@
                                           "created": 1412548308,
                                           "author_flair_text": null,
                                           "created_utc": 1412519508,
-                                          "ups": 9,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4077,7 +4033,7 @@
                                                               "report_reasons": null,
                                                               "author": "ferretinjapan",
                                                               "parent_id": "t1_cl11fnn",
-                                                              "score": 3,
+                                                              "score": 6,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Not attacking you, just being realistic. A move to &lt; 32 in light of Bitcoin's obvious growth, and improvement is simply not realistic (back then there was zero ASIC mining, almost no one accepted it, only one reputable exchange, etc.), back then it was realistic because Bitcoin was in no way near as capable as it is now. Now Bitcoin is far more capable and useful. To value it like it was back then is not realistic.",
@@ -4091,7 +4047,7 @@
                                                               "created": 1412553811,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412525011,
-                                                              "ups": 3,
+                                                              "ups": 6,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4141,7 +4097,7 @@
                                           "report_reasons": null,
                                           "author": "ferretinjapan",
                                           "parent_id": "t1_cl0zklw",
-                                          "score": 5,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Hate to say it but I was around at single digits. [Been there](https://pay.reddit.com/r/Bitcoin/comments/2hyqf5/be_patient/ckxebhr), and if it went back to single digits, I'd be buying.\n\nA LOT.\n\n&gt; The move from $35 to $2 had most people thinking bitcoin was done. This might be a similar thing. \n\nMelodrama is all you're spewing, you don't even know what those times were like if that is how you see things now. We'll hit those ranges when Bitcoin forks, QE ushers in a new era of prosperity, and gold is dumped en masse.\n\n",
@@ -4155,7 +4111,7 @@
                                           "created": 1412552573,
                                           "author_flair_text": null,
                                           "created_utc": 1412523773,
-                                          "ups": 5,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4173,7 +4129,7 @@
                                 "report_reasons": null,
                                 "author": "Vibr8gKiwi",
                                 "parent_id": "t1_cl0y5s2",
-                                "score": 8,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Hate to say it but you haven't seen anything yet.  We've busted some serious support and can easily go back to double digits.  The move from $35 to $2 had most people thinking bitcoin was done.  This might be a similar thing.  ",
@@ -4190,7 +4146,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             },
                             {
@@ -4284,7 +4240,7 @@
                       "report_reasons": null,
                       "author": "ferretinjapan",
                       "parent_id": "t1_cl0y1kl",
-                      "score": 15,
+                      "score": 16,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "When you see the hold meme and the Rodrigue's bubble chart on the front page, along with a bunch of self posts on why this is good/bad, you know we've hit price frenzy mode.",
@@ -4298,7 +4254,7 @@
                       "created": 1412542676,
                       "author_flair_text": null,
                       "created_utc": 1412513876,
-                      "ups": 15,
+                      "ups": 16,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4316,7 +4272,7 @@
             "report_reasons": null,
             "author": "Jeff_R",
             "parent_id": "t3_2icjf5",
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "\"The front page is pretty much awash with trolls/fanatic posts\"\n\nI don't see this at all...what are you talking about?\n",
@@ -4333,7 +4289,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -4430,7 +4386,7 @@
             "report_reasons": null,
             "author": "nimanator",
             "parent_id": "t3_2icjf5",
-            "score": 6,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "As long as I see idiot posts about the price I can be certain that the price needs to come down more; until the majority of idiots are out.",
@@ -4447,7 +4403,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -4579,7 +4535,7 @@
             "report_reasons": null,
             "author": "scrimrot",
             "parent_id": "t3_2icjf5",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "But this time it's different. /s",
@@ -4596,7 +4552,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -4626,7 +4582,7 @@
                       "report_reasons": null,
                       "author": "jackthelumber",
                       "parent_id": "t1_cl0wr12",
-                      "score": 24,
+                      "score": 26,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "*the fourth or fifth collaps of bitcoin",
@@ -4640,7 +4596,7 @@
                       "created": 1412536710,
                       "author_flair_text": null,
                       "created_utc": 1412507910,
-                      "ups": 24,
+                      "ups": 26,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4661,7 +4617,7 @@
                       "report_reasons": null,
                       "author": "ferretinjapan",
                       "parent_id": "t1_cl0wr12",
-                      "score": 18,
+                      "score": 17,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Which one? If you're talking about the price, then you're at least three \"collapses\" late.\n\nA bonnafide collapse is when the network forks with an error.... and we've also had at least two of those too, so yeah.",
@@ -4675,7 +4631,7 @@
                       "created": 1412536780,
                       "author_flair_text": null,
                       "created_utc": 1412507980,
-                      "ups": 18,
+                      "ups": 17,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4696,7 +4652,7 @@
                       "report_reasons": null,
                       "author": "Amanojack",
                       "parent_id": "t1_cl0wr12",
-                      "score": 5,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "^ Case in point.",
@@ -4710,7 +4666,7 @@
                       "created": 1412539197,
                       "author_flair_text": null,
                       "created_utc": 1412510397,
-                      "ups": 5,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4731,7 +4687,7 @@
                       "report_reasons": null,
                       "author": "Anenome5",
                       "parent_id": "t1_cl0wr12",
-                      "score": 7,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Just like all the other times, right?\n\nYou're a moron. Nothing intrinsic has changed.\n\nWhen it fails to collapse, you deserve to feel bad.",
@@ -4745,7 +4701,7 @@
                       "created": 1412539946,
                       "author_flair_text": null,
                       "created_utc": 1412511146,
-                      "ups": 7,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4763,7 +4719,7 @@
             "report_reasons": null,
             "author": "minedAblock",
             "parent_id": "t3_2icjf5",
-            "score": -10,
+            "score": -8,
             "approved_by": null,
             "controversiality": 0,
             "body": "This subreddit is now trying to ignore the collapse of bitcoin as it unfolds before their eyes.",
@@ -4780,7 +4736,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -10
+            "ups": -8
           }
         },
         {
@@ -4822,7 +4778,7 @@
                                 "report_reasons": null,
                                 "author": "bitbubbly",
                                 "parent_id": "t1_cl133iv",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Shhh, your logic is in the way of his pump.",
@@ -4839,7 +4795,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -4956,7 +4912,7 @@
             "report_reasons": null,
             "author": "Economist_hat",
             "parent_id": "t3_2icjf5",
-            "score": -8,
+            "score": -10,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt; Welcome to cryptocurrencies, this is what they do, so get used to it.\n\nSo neither useful as a currency or a store of value. Such value.",
@@ -4973,7 +4929,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -8
+            "ups": -10
           }
         },
         {
@@ -4991,7 +4947,7 @@
             "report_reasons": null,
             "author": "Lethalgeek",
             "parent_id": "t3_2icjf5",
-            "score": -4,
+            "score": -3,
             "approved_by": null,
             "controversiality": 0,
             "body": "My fake money has nothing representing stability and if you can't handle that then what are you some sort of coward?\n\nWhat do you mean you have bills to pay?",
@@ -5008,7 +4964,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -4
+            "ups": -3
           }
         }
       ],

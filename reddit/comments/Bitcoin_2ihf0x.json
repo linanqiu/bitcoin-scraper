@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "media": null,
-            "score": 18,
+            "score": 20,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Its amazing how this \"crash\" attracted all the economist naysayers, pointing their fingers at us with the \"told ya so's\". Then came the great BearWhale to finish the job. After it was slain, this horrific tale became one of our greatest victories!",
             "created_utc": 1412627347,
-            "ups": 18,
-            "upvote_ratio": 0.72,
-            "num_comments": 37,
+            "ups": 20,
+            "upvote_ratio": 0.71,
+            "num_comments": 45,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "targetpro",
             "parent_id": "t3_2ihf0x",
-            "score": 15,
+            "score": 17,
             "approved_by": null,
             "controversiality": 0,
             "body": "When the naysayers respond:\n\n\n[price falls] = \"I told you so.\"\n\n\n[price rises] = \"What a ridiculous bubble.\"\n\n\nSame, same.",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 15
+            "ups": 17
           }
         },
         {
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "kiisfm",
             "parent_id": "t3_2ihf0x",
-            "score": 6,
+            "score": 9,
             "approved_by": null,
             "controversiality": 0,
             "body": "Take down this wall!",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 9
           }
         },
         {
@@ -140,7 +140,95 @@
             "banned_by": null,
             "link_id": "t3_2ihf0x",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ihf0x",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ihf0x",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2ql7o",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "arcrad",
+                                "parent_id": "t1_cl2o13v",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Fracking bitcorns. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Fracking bitcorns. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2ql7o",
+                                "created": 1412711409,
+                                "author_flair_text": null,
+                                "created_utc": 1412682609,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2o13v",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "devraps",
+                      "parent_id": "t1_cl2kamb",
+                      "score": 4,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "So say we all.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So say we all.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2o13v",
+                      "created": 1412697194,
+                      "author_flair_text": null,
+                      "created_utc": 1412668394,
+                      "ups": 4,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl2kamb",
@@ -148,7 +236,7 @@
             "report_reasons": null,
             "author": "keywiconz",
             "parent_id": "t3_2ihf0x",
-            "score": 3,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "All of this has happened before  \n  \nand will happen again.",
@@ -165,7 +253,42 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 6
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ihf0x",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl28mpp",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "cqm",
+            "parent_id": "t3_2ihf0x",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "the only victory is proving that people WANT liquidity.\n\n$3 to $9 **MILLION** dollars that were not on any exchange, came from a bank, to purchase 30,000 BTC.\n\nthis is $3 to $9 **MILLION** that simply wouldn't bother buying 300 - 1000 bitcoin over time, at any price.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;the only victory is proving that people WANT liquidity.&lt;/p&gt;\n\n&lt;p&gt;$3 to $9 &lt;strong&gt;MILLION&lt;/strong&gt; dollars that were not on any exchange, came from a bank, to purchase 30,000 BTC.&lt;/p&gt;\n\n&lt;p&gt;this is $3 to $9 &lt;strong&gt;MILLION&lt;/strong&gt; that simply wouldn&amp;#39;t bother buying 300 - 1000 bitcoin over time, at any price.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl28mpp",
+            "created": 1412660088,
+            "author_flair_text": null,
+            "created_utc": 1412631288,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
           }
         },
         {
@@ -216,173 +339,6 @@
                                             "data": {
                                               "modhash": "",
                                               "children": [
-                                                {
-                                                  "kind": "t1",
-                                                  "data": {
-                                                    "subreddit_id": "t5_2s3qj",
-                                                    "banned_by": null,
-                                                    "link_id": "t3_2ihf0x",
-                                                    "likes": null,
-                                                    "replies": {
-                                                      "kind": "Listing",
-                                                      "data": {
-                                                        "modhash": "",
-                                                        "children": [
-                                                          {
-                                                            "kind": "t1",
-                                                            "data": {
-                                                              "subreddit_id": "t5_2s3qj",
-                                                              "banned_by": null,
-                                                              "link_id": "t3_2ihf0x",
-                                                              "likes": null,
-                                                              "replies": {
-                                                                "kind": "Listing",
-                                                                "data": {
-                                                                  "modhash": "",
-                                                                  "children": [
-                                                                    {
-                                                                      "kind": "t1",
-                                                                      "data": {
-                                                                        "subreddit_id": "t5_2s3qj",
-                                                                        "banned_by": null,
-                                                                        "link_id": "t3_2ihf0x",
-                                                                        "likes": null,
-                                                                        "replies": {
-                                                                          "kind": "Listing",
-                                                                          "data": {
-                                                                            "modhash": "",
-                                                                            "children": [
-                                                                              {
-                                                                                "kind": "t1",
-                                                                                "data": {
-                                                                                  "subreddit_id": "t5_2s3qj",
-                                                                                  "banned_by": null,
-                                                                                  "link_id": "t3_2ihf0x",
-                                                                                  "likes": null,
-                                                                                  "replies": "",
-                                                                                  "user_reports": [],
-                                                                                  "saved": false,
-                                                                                  "id": "cl2gyus",
-                                                                                  "gilded": 0,
-                                                                                  "report_reasons": null,
-                                                                                  "author": "nobodybelievesyou",
-                                                                                  "parent_id": "t1_cl2gq95",
-                                                                                  "score": 0,
-                                                                                  "approved_by": null,
-                                                                                  "controversiality": 0,
-                                                                                  "body": "It is sort of weird how mad you are over trying to warn people about taking \"calling the bottom\" advice from reddit. ",
-                                                                                  "edited": false,
-                                                                                  "author_flair_css_class": null,
-                                                                                  "downs": 0,
-                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It is sort of weird how mad you are over trying to warn people about taking &amp;quot;calling the bottom&amp;quot; advice from reddit. &lt;/p&gt;\n&lt;/div&gt;",
-                                                                                  "subreddit": "Bitcoin",
-                                                                                  "score_hidden": false,
-                                                                                  "name": "t1_cl2gyus",
-                                                                                  "created": 1412677026,
-                                                                                  "author_flair_text": null,
-                                                                                  "created_utc": 1412648226,
-                                                                                  "ups": 0,
-                                                                                  "mod_reports": [],
-                                                                                  "num_reports": null,
-                                                                                  "distinguished": null
-                                                                                }
-                                                                              }
-                                                                            ],
-                                                                            "after": null,
-                                                                            "before": null
-                                                                          }
-                                                                        },
-                                                                        "user_reports": [],
-                                                                        "saved": false,
-                                                                        "id": "cl2gq95",
-                                                                        "gilded": 0,
-                                                                        "report_reasons": null,
-                                                                        "author": "geekygirl23",
-                                                                        "parent_id": "t1_cl2fqs3",
-                                                                        "score": 2,
-                                                                        "approved_by": null,
-                                                                        "controversiality": 0,
-                                                                        "body": "I DGAF whether I'm making money or not. I know exactly what I'm getting into when I load up Circle and make yet another bank transfer. \n\nBitcoin has been magical for me, I love it. The loathing and seething anger from those like you (albeit masked in concern trolling) allows me to enjoy myself infinitely more than I would doing this under other circumstances.\n\nSo thank you, idiot.",
-                                                                        "edited": false,
-                                                                        "author_flair_css_class": null,
-                                                                        "downs": 0,
-                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I DGAF whether I&amp;#39;m making money or not. I know exactly what I&amp;#39;m getting into when I load up Circle and make yet another bank transfer. &lt;/p&gt;\n\n&lt;p&gt;Bitcoin has been magical for me, I love it. The loathing and seething anger from those like you (albeit masked in concern trolling) allows me to enjoy myself infinitely more than I would doing this under other circumstances.&lt;/p&gt;\n\n&lt;p&gt;So thank you, idiot.&lt;/p&gt;\n&lt;/div&gt;",
-                                                                        "subreddit": "Bitcoin",
-                                                                        "score_hidden": false,
-                                                                        "name": "t1_cl2gq95",
-                                                                        "created": 1412676560,
-                                                                        "author_flair_text": null,
-                                                                        "created_utc": 1412647760,
-                                                                        "distinguished": null,
-                                                                        "mod_reports": [],
-                                                                        "num_reports": null,
-                                                                        "ups": 2
-                                                                      }
-                                                                    }
-                                                                  ],
-                                                                  "after": null,
-                                                                  "before": null
-                                                                }
-                                                              },
-                                                              "user_reports": [],
-                                                              "saved": false,
-                                                              "id": "cl2fqs3",
-                                                              "gilded": 0,
-                                                              "report_reasons": null,
-                                                              "author": "nobodybelievesyou",
-                                                              "parent_id": "t1_cl2fd12",
-                                                              "score": 1,
-                                                              "approved_by": null,
-                                                              "controversiality": 0,
-                                                              "body": "A guy like all the people I've quoted have convinced loads of bagholders to keep buying while the price was still collapsing and cost them thousands of dollars, their inheritance, or their houses in some cases. \n\nBut hey, as long as YOU are making money, who cares, right?",
-                                                              "edited": false,
-                                                              "author_flair_css_class": null,
-                                                              "downs": 0,
-                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A guy like all the people I&amp;#39;ve quoted have convinced loads of bagholders to keep buying while the price was still collapsing and cost them thousands of dollars, their inheritance, or their houses in some cases. &lt;/p&gt;\n\n&lt;p&gt;But hey, as long as YOU are making money, who cares, right?&lt;/p&gt;\n&lt;/div&gt;",
-                                                              "subreddit": "Bitcoin",
-                                                              "score_hidden": false,
-                                                              "name": "t1_cl2fqs3",
-                                                              "created": 1412674651,
-                                                              "author_flair_text": null,
-                                                              "created_utc": 1412645851,
-                                                              "ups": 1,
-                                                              "mod_reports": [],
-                                                              "num_reports": null,
-                                                              "distinguished": null
-                                                            }
-                                                          }
-                                                        ],
-                                                        "after": null,
-                                                        "before": null
-                                                      }
-                                                    },
-                                                    "user_reports": [],
-                                                    "saved": false,
-                                                    "id": "cl2fd12",
-                                                    "gilded": 0,
-                                                    "report_reasons": null,
-                                                    "author": "Reallycrypto",
-                                                    "parent_id": "t1_cl2axdt",
-                                                    "score": 2,
-                                                    "approved_by": null,
-                                                    "controversiality": 0,
-                                                    "body": "A guy like you convinced me the sky was falling at 90$.... Then it went up to 1100$. It doesn't matter where the bottom is because once it hits the bottom, It'll recover very quickly.",
-                                                    "edited": false,
-                                                    "author_flair_css_class": null,
-                                                    "downs": 0,
-                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A guy like you convinced me the sky was falling at 90$.... Then it went up to 1100$. It doesn&amp;#39;t matter where the bottom is because once it hits the bottom, It&amp;#39;ll recover very quickly.&lt;/p&gt;\n&lt;/div&gt;",
-                                                    "subreddit": "Bitcoin",
-                                                    "score_hidden": false,
-                                                    "name": "t1_cl2fd12",
-                                                    "created": 1412673886,
-                                                    "author_flair_text": null,
-                                                    "created_utc": 1412645086,
-                                                    "distinguished": null,
-                                                    "mod_reports": [],
-                                                    "num_reports": null,
-                                                    "ups": 2
-                                                  }
-                                                },
                                                 {
                                                   "kind": "t1",
                                                   "data": {
@@ -479,7 +435,7 @@
                                                                                                       "report_reasons": null,
                                                                                                       "author": "nobodybelievesyou",
                                                                                                       "parent_id": "t1_cl2byvj",
-                                                                                                      "score": 1,
+                                                                                                      "score": 2,
                                                                                                       "approved_by": null,
                                                                                                       "controversiality": 0,
                                                                                                       "body": "The funny thing is that if you bothered to read the link I just gave you, you'll see that you are basically a liar. \n\nDon't worry. I don't expect you to actually read something. Better to just say dumb stuff constantly and hope nobody remembers. ",
@@ -493,7 +449,7 @@
                                                                                                       "created": 1412667529,
                                                                                                       "author_flair_text": null,
                                                                                                       "created_utc": 1412638729,
-                                                                                                      "ups": 1,
+                                                                                                      "ups": 2,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
                                                                                                       "distinguished": null
@@ -575,7 +531,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Vibr8gKiwi",
                                                                         "parent_id": "t1_cl2bsck",
-                                                                        "score": -1,
+                                                                        "score": 0,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Right, you're not a troll.  You're the president.  Good to see you on reddit President Obama.  Howz the first lady?",
@@ -592,7 +548,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -1
+                                                                        "ups": 0
                                                                       }
                                                                     }
                                                                   ],
@@ -607,7 +563,7 @@
                                                               "report_reasons": null,
                                                               "author": "nobodybelievesyou",
                                                               "parent_id": "t1_cl2bopf",
-                                                              "score": 4,
+                                                              "score": 1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "I'm not sure how pointing out that people have been calling the bottom for months is trolling.",
@@ -621,7 +577,7 @@
                                                               "created": 1412666552,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412637752,
-                                                              "ups": 4,
+                                                              "ups": 1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -657,6 +613,283 @@
                                                     "mod_reports": [],
                                                     "num_reports": null,
                                                     "ups": 3
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ihf0x",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ihf0x",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ihf0x",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ihf0x",
+                                                                                  "likes": null,
+                                                                                  "replies": {
+                                                                                    "kind": "Listing",
+                                                                                    "data": {
+                                                                                      "modhash": "",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "kind": "t1",
+                                                                                          "data": {
+                                                                                            "subreddit_id": "t5_2s3qj",
+                                                                                            "banned_by": null,
+                                                                                            "link_id": "t3_2ihf0x",
+                                                                                            "likes": null,
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2ihf0x",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl2ranu",
+                                                                                                                "children": [
+                                                                                                                  "cl2vs3o",
+                                                                                                                  "cl2rlwo"
+                                                                                                                ],
+                                                                                                                "id": "cl2vs3o",
+                                                                                                                "name": "t1_cl2vs3o"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl2ranu",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "nobodybelievesyou",
+                                                                                                      "parent_id": "t1_cl2qlka",
+                                                                                                      "score": 2,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "I literally posted a list of links to failed bottom predictions. Then one moron lost his mind and started dribbling on himself and shouting about Napoleon (which he is still doing), and you started making up fanfic about my intentions. \n\nAnd yet somehow I'm the troll. lol",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I literally posted a list of links to failed bottom predictions. Then one moron lost his mind and started dribbling on himself and shouting about Napoleon (which he is still doing), and you started making up fanfic about my intentions. &lt;/p&gt;\n\n&lt;p&gt;And yet somehow I&amp;#39;m the troll. lol&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl2ranu",
+                                                                                                      "created": 1412714153,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412685353,
+                                                                                                      "ups": 2,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
+                                                                                            "user_reports": [],
+                                                                                            "saved": false,
+                                                                                            "id": "cl2qlka",
+                                                                                            "gilded": 0,
+                                                                                            "report_reasons": null,
+                                                                                            "author": "geekygirl23",
+                                                                                            "parent_id": "t1_cl2gyus",
+                                                                                            "score": 1,
+                                                                                            "approved_by": null,
+                                                                                            "controversiality": 0,
+                                                                                            "body": "I remember maybe a dozen usernames from reddit after 8+ years here. \n\nYours is one of them.\n\nYou aren't warning anyone about anything, you are trolling /r/bitcoin waiting for the day you can yell \"I told you so!!!!!\" while ignoring everything going on in front of you.",
+                                                                                            "edited": false,
+                                                                                            "author_flair_css_class": null,
+                                                                                            "downs": 0,
+                                                                                            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I remember maybe a dozen usernames from reddit after 8+ years here. &lt;/p&gt;\n\n&lt;p&gt;Yours is one of them.&lt;/p&gt;\n\n&lt;p&gt;You aren&amp;#39;t warning anyone about anything, you are trolling &lt;a href=\"/r/bitcoin\"&gt;/r/bitcoin&lt;/a&gt; waiting for the day you can yell &amp;quot;I told you so!!!!!&amp;quot; while ignoring everything going on in front of you.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                            "subreddit": "Bitcoin",
+                                                                                            "score_hidden": false,
+                                                                                            "name": "t1_cl2qlka",
+                                                                                            "created": 1412711447,
+                                                                                            "author_flair_text": null,
+                                                                                            "created_utc": 1412682647,
+                                                                                            "distinguished": null,
+                                                                                            "mod_reports": [],
+                                                                                            "num_reports": null,
+                                                                                            "ups": 1
+                                                                                          }
+                                                                                        }
+                                                                                      ],
+                                                                                      "after": null,
+                                                                                      "before": null
+                                                                                    }
+                                                                                  },
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl2gyus",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "nobodybelievesyou",
+                                                                                  "parent_id": "t1_cl2gq95",
+                                                                                  "score": 2,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "It is sort of weird how mad you are over trying to warn people about taking \"calling the bottom\" advice from reddit. ",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It is sort of weird how mad you are over trying to warn people about taking &amp;quot;calling the bottom&amp;quot; advice from reddit. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl2gyus",
+                                                                                  "created": 1412677026,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412648226,
+                                                                                  "ups": 2,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2gq95",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "geekygirl23",
+                                                                        "parent_id": "t1_cl2fqs3",
+                                                                        "score": -1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "I DGAF whether I'm making money or not. I know exactly what I'm getting into when I load up Circle and make yet another bank transfer. \n\nBitcoin has been magical for me, I love it. The loathing and seething anger from those like you (albeit masked in concern trolling) allows me to enjoy myself infinitely more than I would doing this under other circumstances.\n\nSo thank you, idiot.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I DGAF whether I&amp;#39;m making money or not. I know exactly what I&amp;#39;m getting into when I load up Circle and make yet another bank transfer. &lt;/p&gt;\n\n&lt;p&gt;Bitcoin has been magical for me, I love it. The loathing and seething anger from those like you (albeit masked in concern trolling) allows me to enjoy myself infinitely more than I would doing this under other circumstances.&lt;/p&gt;\n\n&lt;p&gt;So thank you, idiot.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2gq95",
+                                                                        "created": 1412676560,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412647760,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": -1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl2fqs3",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "nobodybelievesyou",
+                                                              "parent_id": "t1_cl2fd12",
+                                                              "score": 3,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "A guy like all the people I've quoted have convinced loads of bagholders to keep buying while the price was still collapsing and cost them thousands of dollars, their inheritance, or their houses in some cases. \n\nBut hey, as long as YOU are making money, who cares, right?",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A guy like all the people I&amp;#39;ve quoted have convinced loads of bagholders to keep buying while the price was still collapsing and cost them thousands of dollars, their inheritance, or their houses in some cases. &lt;/p&gt;\n\n&lt;p&gt;But hey, as long as YOU are making money, who cares, right?&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl2fqs3",
+                                                              "created": 1412674651,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412645851,
+                                                              "ups": 3,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2fd12",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Reallycrypto",
+                                                    "parent_id": "t1_cl2axdt",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "A guy like you convinced me the sky was falling at 90$.... Then it went up to 1100$. It doesn't matter where the bottom is because once it hits the bottom, It'll recover very quickly.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A guy like you convinced me the sky was falling at 90$.... Then it went up to 1100$. It doesn&amp;#39;t matter where the bottom is because once it hits the bottom, It&amp;#39;ll recover very quickly.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2fd12",
+                                                    "created": 1412673886,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412645086,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -703,7 +936,7 @@
                                 "report_reasons": null,
                                 "author": "Vibr8gKiwi",
                                 "parent_id": "t1_cl2addr",
-                                "score": 4,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I notice how all those posts are from this year...  and how you didn't post any of the calls from previous years that have been (up to this point) correct.",
@@ -720,7 +953,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 7
                               }
                             },
                             {
@@ -846,7 +1079,7 @@
             "report_reasons": null,
             "author": "dmichaelm",
             "parent_id": "t3_2ihf0x",
-            "score": 4,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Bitcoin saw it's bottom price yesterday.",
@@ -863,42 +1096,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ihf0x",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl28mpp",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "cqm",
-            "parent_id": "t3_2ihf0x",
-            "score": 1,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "the only victory is proving that people WANT liquidity.\n\n$3 to $9 **MILLION** dollars that were not on any exchange, came from a bank, to purchase 30,000 BTC.\n\nthis is $3 to $9 **MILLION** that simply wouldn't bother buying 300 - 1000 bitcoin over time, at any price.",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;the only victory is proving that people WANT liquidity.&lt;/p&gt;\n\n&lt;p&gt;$3 to $9 &lt;strong&gt;MILLION&lt;/strong&gt; dollars that were not on any exchange, came from a bank, to purchase 30,000 BTC.&lt;/p&gt;\n\n&lt;p&gt;this is $3 to $9 &lt;strong&gt;MILLION&lt;/strong&gt; that simply wouldn&amp;#39;t bother buying 300 - 1000 bitcoin over time, at any price.&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl28mpp",
-            "created": 1412660088,
-            "author_flair_text": null,
-            "created_utc": 1412631288,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 1
+            "ups": 6
           }
         },
         {
@@ -1022,7 +1220,7 @@
                                           "report_reasons": null,
                                           "author": "nobodybelievesyou",
                                           "parent_id": "t1_cl28uyy",
-                                          "score": -6,
+                                          "score": -5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "This place was actually more interesting/fun when the price was higher. After february the traffic took a nosedive (http://www.reddit.com/r/bitcoin/about/traffic/), many of the more interesting people left, and many of the more entertaining posters got banned.\n\nGo back and look at some threads from a few months ago and you'll see very few familiar faces.",
@@ -1036,7 +1234,7 @@
                                           "created": 1412664469,
                                           "author_flair_text": null,
                                           "created_utc": 1412635669,
-                                          "ups": -6,
+                                          "ups": -5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1054,7 +1252,7 @@
                                 "report_reasons": null,
                                 "author": "targetpro",
                                 "parent_id": "t1_cl2722z",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "He's one of our resident trolls.  Actually he's pretty good, i.e. often clever, fun to read.  But you needn't feed the trolls.  They gain plenty of sustenance every time the price falls at our expense.",
@@ -1071,7 +1269,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             },
                             {
@@ -1101,7 +1299,7 @@
                                           "report_reasons": null,
                                           "author": "trrrrouble",
                                           "parent_id": "t1_cl27308",
-                                          "score": 7,
+                                          "score": 6,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt;if we survive we win\n\nHe has a point though.",
@@ -1115,7 +1313,7 @@
                                           "created": 1412657392,
                                           "author_flair_text": null,
                                           "created_utc": 1412628592,
-                                          "ups": 7,
+                                          "ups": 6,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1180,7 +1378,7 @@
                                           "report_reasons": null,
                                           "author": "NedRadnad",
                                           "parent_id": "t1_cl27308",
-                                          "score": 4,
+                                          "score": 6,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Oh no, a bitcoiner doesn't know who you are? Better start trolling harder!",
@@ -1194,7 +1392,7 @@
                                           "created": 1412660313,
                                           "author_flair_text": null,
                                           "created_utc": 1412631513,
-                                          "ups": 4,
+                                          "ups": 6,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1212,7 +1410,7 @@
                                 "report_reasons": null,
                                 "author": "nobodybelievesyou",
                                 "parent_id": "t1_cl2722z",
-                                "score": -7,
+                                "score": -8,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You must be new. ",
@@ -1229,7 +1427,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -7
+                                "ups": -8
                               }
                             }
                           ],
@@ -1244,7 +1442,7 @@
                       "report_reasons": null,
                       "author": "AaronPaul",
                       "parent_id": "t1_cl26rxv",
-                      "score": 2,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If your here from /r/BitcoinMarkets let me start by saying, I'm sorry for your loss.  My sincere condolences..\n\nIf your an engineer or hobbyist then its not about the price; if we survive we win.  \n\nSo yes, a great victory for us!",
@@ -1258,7 +1456,7 @@
                       "created": 1412657116,
                       "author_flair_text": null,
                       "created_utc": 1412628316,
-                      "ups": 2,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1276,7 +1474,7 @@
             "report_reasons": null,
             "author": "nobodybelievesyou",
             "parent_id": "t3_2ihf0x",
-            "score": -9,
+            "score": -7,
             "approved_by": null,
             "controversiality": 0,
             "body": "Your great victory is dropping $70 in a week and ending up $10 under the previous YTD low. \n\nWe can only hope for more such victories. ",
@@ -1293,7 +1491,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -9
+            "ups": -7
           }
         }
       ],

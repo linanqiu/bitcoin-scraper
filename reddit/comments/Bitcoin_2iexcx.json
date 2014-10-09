@@ -46,8 +46,8 @@
             "title": "Is the whale Ross Ulbricht?",
             "created_utc": 1412564825,
             "ups": 0,
-            "upvote_ratio": 0.29,
-            "num_comments": 9,
+            "upvote_ratio": 0.38,
+            "num_comments": 10,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -165,7 +165,51 @@
                                                               "banned_by": null,
                                                               "link_id": "t3_2iexcx",
                                                               "likes": null,
-                                                              "replies": "",
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2iexcx",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2xsqn",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "DSNakamoto",
+                                                                        "parent_id": "t1_cl26udu",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "If Ross had entered in a plea deal, you'd have heard about it.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If Ross had entered in a plea deal, you&amp;#39;d have heard about it.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2xsqn",
+                                                                        "created": 1412728995,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412700195,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
                                                               "user_reports": [],
                                                               "saved": false,
                                                               "id": "cl26udu",

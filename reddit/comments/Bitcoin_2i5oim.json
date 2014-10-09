@@ -21,12 +21,12 @@
             "likes": null,
             "user_reports": [],
             "secure_media": {
+              "type": "youtu.be",
               "oembed": {
                 "provider_url": "http://www.youtube.com/",
                 "description": "For more on Bitcoin visit: http://linkbitcoin.com",
                 "title": "Interview with Jeffrey Robinson on the \"Pretend Currency, Bitcoin\"",
                 "url": "http://www.youtube.com/watch?v=oyrOaNH4PUs",
-                "type": "video",
                 "author_name": "LinkBitcoin",
                 "height": 338,
                 "width": 600,
@@ -35,10 +35,10 @@
                 "version": "1.0",
                 "provider_name": "YouTube",
                 "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FoyrOaNH4PUs%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
+                "type": "video",
                 "thumbnail_height": 360,
                 "author_url": "http://www.youtube.com/channel/UCtEGzr7bH814OegjzdxKxrw"
-              },
-              "type": "youtu.be"
+              }
             },
             "link_flair_text": null,
             "id": "2i5oim",
@@ -53,12 +53,12 @@
             "report_reasons": null,
             "author": "slvbtc",
             "media": {
+              "type": "youtu.be",
               "oembed": {
                 "provider_url": "http://www.youtube.com/",
                 "description": "For more on Bitcoin visit: http://linkbitcoin.com",
                 "title": "Interview with Jeffrey Robinson on the \"Pretend Currency, Bitcoin\"",
                 "url": "http://www.youtube.com/watch?v=oyrOaNH4PUs",
-                "type": "video",
                 "author_name": "LinkBitcoin",
                 "height": 338,
                 "width": 600,
@@ -67,12 +67,12 @@
                 "version": "1.0",
                 "provider_name": "YouTube",
                 "thumbnail_url": "http://i.ytimg.com/vi/oyrOaNH4PUs/hqdefault.jpg",
+                "type": "video",
                 "thumbnail_height": 360,
                 "author_url": "http://www.youtube.com/channel/UCtEGzr7bH814OegjzdxKxrw"
-              },
-              "type": "youtu.be"
+              }
             },
-            "score": 74,
+            "score": 71,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -93,9 +93,9 @@
             "author_flair_text": null,
             "title": "OMG watch this and tell me mainstream media does not misrepresent bitcoin! clueless!! \"the blockchain will be useful once its separates itself from the 'pretend currency bitcoin\" wtf did I just hear!",
             "created_utc": 1412307096,
-            "ups": 74,
+            "ups": 71,
             "upvote_ratio": 0.75,
-            "num_comments": 142,
+            "num_comments": 143,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -261,7 +261,7 @@
                       "report_reasons": null,
                       "author": "Superciuk",
                       "parent_id": "t1_ckz6z70",
-                      "score": 12,
+                      "score": 11,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I wanted to up vote you so bad that I finally made an account to do that",
@@ -275,7 +275,7 @@
                       "created": 1412369046,
                       "author_flair_text": null,
                       "created_utc": 1412340246,
-                      "ups": 12,
+                      "ups": 11,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -293,7 +293,7 @@
             "report_reasons": null,
             "author": "dellintelbitcoin",
             "parent_id": "t3_2i5oim",
-            "score": 63,
+            "score": 61,
             "approved_by": null,
             "controversiality": 0,
             "body": "Its not just bitcoin. Its everything. The only reason we can see it with bitcoin, is because thats a subject we know alot about. Imagine all the other crap they talk about and misreprepent and we take it for good, because we dont know how that actually works.",
@@ -310,7 +310,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 63
+            "ups": 61
           }
         },
         {
@@ -340,7 +340,7 @@
                       "report_reasons": null,
                       "author": "bitcoinbr0",
                       "parent_id": "t1_ckz51s1",
-                      "score": 11,
+                      "score": 12,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Wow. Great explanation. We need to raise awareness of what Bitcoin is, how it works, and get the world to finally realize it's potential. Perhaps running tv commercials would be the optimal way to reach a wide audience.\n\nI had an idea I posted here on reddit recently that hit the top post of the day here on our subreddit two days in a row. An open-sourced Bitcoin commercial project. Where we can use crowdfunding to fund a steady stream of Bitcoin commercials to air on national television. I'm working really hard on making this a reality and am in contact with some of the worlds biggest 3d vfx production houses and movie / tv producers all willing to contribute to this project.\n\nLet me know what you guys think:\n\nhttp://www.reddit.com/r/Bitcoin/comments/2hzpf2/the_opensourced_bitcoin_commercial_project_a/",
@@ -354,7 +354,7 @@
                       "created": 1412353707,
                       "author_flair_text": null,
                       "created_utc": 1412324907,
-                      "ups": 11,
+                      "ups": 12,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -419,7 +419,7 @@
                       "report_reasons": null,
                       "author": "xcsler",
                       "parent_id": "t1_ckz51s1",
-                      "score": 6,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This and the original 'I'm Hodling!' from bitcointalk.org are my two favorite Bitcoin posts of all time.",
@@ -433,7 +433,7 @@
                       "created": 1412367114,
                       "author_flair_text": null,
                       "created_utc": 1412338314,
-                      "ups": 6,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -814,7 +814,7 @@
                       "report_reasons": null,
                       "author": "TheScriptKiddie",
                       "parent_id": "t1_ckz51s1",
-                      "score": 14,
+                      "score": 15,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You blew my mind with \"proof-of-violence\". It really sums up state-sponsored currency. People around here say fiat to mean that, but really all currencies are ~~fist~~ fiat currencies, including Bitcoin. But when you get right down to it, the US dollar originally had value because the men with guns said so. \"Legal tender for all debts, public and private.\"",
@@ -828,7 +828,7 @@
                       "created": 1412347836,
                       "author_flair_text": null,
                       "created_utc": 1412319036,
-                      "ups": 14,
+                      "ups": 15,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -861,7 +861,7 @@
                                 "report_reasons": null,
                                 "author": "kwanijml",
                                 "parent_id": "t1_ckz7hlp",
-                                "score": 10,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Thanks for the kind words . . . . I doubt that this comment would make a lot of sense or impact on the Amazon review, without changing a lot of stuff for context.  Feel free to use whatever parts of it you think are pertinent, and make them your own words.",
@@ -878,7 +878,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 10
+                                "ups": 7
                               }
                             }
                           ],
@@ -893,7 +893,7 @@
                       "report_reasons": null,
                       "author": "grovulent",
                       "parent_id": "t1_ckz51s1",
-                      "score": 8,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Fantastic reply...  I came to the comments to write something similar... but glad to see you have put it all so adroitly... there is literally nothing I could add.  \n\nSuggestion - could you please put this reply as review of his book on amazon?\n\nhttp://www.amazon.com.au/BitCon-Naked-Truth-About-Bitcoin-ebook/dp/B00NUIUQ3A/ref=sr_1_1?ie=UTF8&amp;qid=1412323367&amp;sr=8-1&amp;keywords=The+Naked+Truth+About+Bitcoin\n\nIf you don't I certainly will.  :)",
@@ -907,7 +907,7 @@
                       "created": 1412352765,
                       "author_flair_text": null,
                       "created_utc": 1412323965,
-                      "ups": 8,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1256,7 +1256,7 @@
                                 "report_reasons": null,
                                 "author": "asherp",
                                 "parent_id": "t1_ckz6c7s",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Why do almost all altcoins have a token if they aren't Bitcoin competitors? Either it's a marketing ploy, or their creators don't understand digital scarcity.",
@@ -1273,7 +1273,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             },
                             {
@@ -1481,7 +1481,7 @@
                       "report_reasons": null,
                       "author": "[deleted]",
                       "parent_id": "t1_ckz51s1",
-                      "score": 5,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "[deleted]",
@@ -1495,7 +1495,7 @@
                       "created": 1412347126,
                       "author_flair_text": null,
                       "created_utc": 1412318326,
-                      "ups": 5,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1826,7 +1826,7 @@
                                 "report_reasons": null,
                                 "author": "kwanijml",
                                 "parent_id": "t1_ckz6qow",
-                                "score": 6,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I never implied that everyone must study economics in order for bitcoin to \"work\".  I am trying to help people who have a very shallow understanding of bitcoin, to be able to appreciate it on a much deeper level, and to not be so easily swayed by the price shifts and popular sentiment and by blowhards like this guy in the video.  A study of the aspects of economics that I specifically mentioned, may help a lot of people to be able to come to some important realizations by themselves.",
@@ -1843,7 +1843,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 5
                               }
                             }
                           ],
@@ -1858,7 +1858,7 @@
                       "report_reasons": null,
                       "author": "eatmybitcorn",
                       "parent_id": "t1_ckz51s1",
-                      "score": 3,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt;Please go study economics. . .\n\nThe best thing about bitcoin is that you don't have to go and study government economics. This is the end of smoke and mirrors. Bitcoin is Laissez-faire. If it works it works, and it works!",
@@ -1872,7 +1872,7 @@
                       "created": 1412348907,
                       "author_flair_text": null,
                       "created_utc": 1412320107,
-                      "ups": 3,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2091,7 +2091,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "Senor_Ding-Dong",
                                                                                             "parent_id": "t1_cl0jzzu",
-                                                                                            "score": 0,
+                                                                                            "score": 1,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "You're right.  I forgot that when something new comes out, it immediately becomes mainstream or its bad.",
@@ -2108,7 +2108,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 0
+                                                                                            "ups": 1
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -2845,7 +2845,7 @@
                                 "report_reasons": null,
                                 "author": "Amanojack",
                                 "parent_id": "t1_ckz902o",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You can't have exponential growth without volatility, because of market psychology. You can't have exponential price growth without those who buy in early getting rich, because of mathematics. There is no technology that can cause the price of an asset to grow exponentially without the people who get it first being rewarded exponentially. No technology can break basic logic, and short of some kind of brain modification of the general populous no technology can enable exponential price growth without people panic buying and panic selling. Once people see the exponential trend, they pile in and it goes faster, then crashes. No way around it as long as people are people.",
@@ -2862,7 +2862,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             },
                             {
@@ -3035,7 +3035,7 @@
                       "report_reasons": null,
                       "author": "hamiltino",
                       "parent_id": "t1_ckz51s1",
-                      "score": -2,
+                      "score": -4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "A ledger which gives MASSIVE precedence to chinese farmers and early adopters is not a ledger i want to be apart of. I would be ok with it if it didn't really effect me but it DOES!!!\n\nWait till we get a more robust ledger or bookkeeping mechanism less subject to volatility, then we can catapult ourselves to exponential adoption. Please don't be a bitcoin cultist as evolution in money is coming and i don't want to see it slow down because you can't let go of something due to some kind of emotional attachment. \n\nDynamic creation rate, system reserves to buy and sell, transaction fee burning according to market conditions. This will be the future, lets get there instead of thinking bitcoin is all or nothing. Innovation in market dynamics is king!!\n\nOf-course bitcoin can become less volatile, if its the only currency we transact in, it won't matter. Remember that it would take 30+ years for that to happen, why the fuck wait when we can get there in 10? This is where my concern in the bitcoin community lies, they would rather get to the destination in a car rather than a plane.\n\n\n\n\n",
@@ -3049,7 +3049,7 @@
                       "created": 1412361460,
                       "author_flair_text": null,
                       "created_utc": 1412332660,
-                      "ups": -2,
+                      "ups": -4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3067,7 +3067,7 @@
             "report_reasons": null,
             "author": "kwanijml",
             "parent_id": "t3_2i5oim",
-            "score": 148,
+            "score": 144,
             "approved_by": null,
             "controversiality": 0,
             "body": "Sadly, the cardinal values and viewpoints of most bitcoiners that I talk with (not to mention the viewpoints being expressed in this very thread), are very closely in line with this man's muddled thinking.  It is no surprise that many here become easily discouraged and convinced by these disingenuous shills.\n\nSorry to be a jerk. .. .but I've got to be brutally honest here:  most of you seem to have a walmart playpool's worth of depth when it comes to understanding what bitcoin is and what it's primary value proposition is.\n\nBitcoin is not yet money.  For the love of disco, let me repeat:  It is not yet a currency.  It does not fulfill the three main requirements of a money to a high degree (medium of exchange; yes great.  store of value; not so great.  Unit of account; not at all . . . yet) And this unit of account aspect is key.  \n\nHow retarded or misleading can one be; to suggest that a commodity, or a would-be-money, is somehow fundamentally flawed, because it does not yet enjoy a great deal of liquidity and widespread adoption, or because it's exchange price with the current money is volatile!?  I mean: how else exactly do people imagine this phenomenon could possibly take place?  . .  .that one day, some magical company called Bitcoin Inc., should just pop on the scene and declare their unit in their digital blockchain ledger to be worth *X* amount, and it will just be so, because they declare it?  \n\nOnly governments can do this, because governments have guns, and a slightly insane population of state-worshipers who believe that their proof-of-violence kind of money is somehow a good thing for society.  Anyhow, regardless of how you feel about anarchy. . . it does not change the fact that valuation of a commodity is either forced and enforced. . . or it is emergent on a market.  It takes time, to say the least.  It cannot happen all at once, and it is going to be a messy, ugly, fits-and-starts, snafus, highly dis-equitable distributions initially, frauds, thefts, evolution of best practices and safeguards, etc.  A process of getting a large segment of the population to not only wrap their heads around a new technology to some extent. . . but to build out infrastructure to make it easier to use, and to have a large enough network of people and businesses demanding and accepting bitcoin.\n\nBitcoin cannot exist without the blockchain. . . but the blockchain **is** bitcoin.  There is no separating the two.  The level of ignorance and/or dishonesty to not contemplate and comprehend this fact, before so vociferously decrying the money aspect of it, is staggering.  One particularly ridiculous inconsistency of his argument, is that the exact type of \"separation\" of Bitcoin and bitcoin which he insisted upon (for uses such as remittances which he gave the example of), are already in existence, by way of companies such as Coinbase and Bitpay, which he lambasted.  There is no such thing as the coin people!  It's a fucking ledger.  No community utilizing blockchain technology as a decentralized network (i.e. not a single entity utilizing it internally and later transferring fiat balances between branches), can make any use of changing entries in a ledger unless the shares or units **have value**.  If they have no value, then no remittance network is possible, because there is no objective metric by which the sender and receiver could possibly determine how many units of the blockchain ledger should be assigned to the particular amount of fiat being sent, and how much fiat should be received at the other end in correspondence to those units of blockchain ledger.  The blockchain must have value, and indeed the units must have price.  This is inseparable from most any use of blockchain technology.  People need to get over their centralized, give-it-to-me now thinking; and understand the price discovery period which is going on with bitcoin.  \n\nBitcoin has the network effect, which is growing, and it is that network (of people) who give value to the bitcoin network, and subsequently the shares of that finite amount of units internal to the ledger.  That is what allows the network to be useful. . . for anything.\n\nI'm sorry, but if you think that this man brings up any valid points whatsoever. . . .please, please; just stop right now.  Get off reddit.  Please don't buy any bitcoin.  Please go back and read the Satoshi whitepaper.  Please go study economics. . . especially monetary history and the history of development of commodities into market-based currency.  You owe it to yourself to more fully understand this amazing technology, and the economic and political implications of it's properties and usefulness.  Money is memory.  Money is societal memory.  Having control over the issuance of money is the ultimate power over society, and it is a power far too great to entrust to governments and central banks. \n\nPlease understand where this man's rhetoric is coming from:  Bitcoin \"the payment network\" alone, is not threatening to anybody.  Bitcoin as money, is extremely threatening to a lot of groups.  There is a concerted effort to distract from this much more important aspect of bitcoin and to try to neuter it into being only a payments network, but also stifle it's development into end-to-end use as it's own unit of account; as money.\n\nEDIT: thanks very much for the gold, whoever you are.",
@@ -3084,7 +3084,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 148
+            "ups": 144
           }
         },
         {
@@ -3137,7 +3137,7 @@
             "report_reasons": null,
             "author": "viq123",
             "parent_id": "t3_2i5oim",
-            "score": 5,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "He's an expert for Christ sake, who know's better about bitcorn, maybe just Mark Williams.",
@@ -3154,7 +3154,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -3357,17 +3357,52 @@
                                 "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
-                                "body": "/u/veritasBS, kwanijml wants to send you a Bitcoin tip for 1.9308 mBTC ($0.73). Follow me to **[collect it](https://www.changetip.com/collect/47323).**\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
-                                "edited": false,
+                                "body": "The Bitcoin tip for 1.9308 mBTC ($0.65) has been collected by *veritasBS*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
+                                "edited": 1412771446,
                                 "author_flair_css_class": null,
                                 "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/u/veritasBS\"&gt;/u/veritasBS&lt;/a&gt;, kwanijml wants to send you a Bitcoin tip for 1.9308 mBTC ($0.73). Follow me to &lt;strong&gt;&lt;a href=\"https://www.changetip.com/collect/47323\"&gt;collect it&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 1.9308 mBTC ($0.65) has been collected by &lt;em&gt;veritasBS&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
                                 "subreddit": "Bitcoin",
                                 "score_hidden": false,
                                 "name": "t1_ckz81py",
                                 "created": 1412355892,
                                 "author_flair_text": null,
                                 "created_utc": 1412327092,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i5oim",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl3pb3b",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "veritasBS",
+                                "parent_id": "t1_ckz81ho",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Thank you for the tip! I did not see how to collect it but i got it now...my first tip! thx",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thank you for the tip! I did not see how to collect it but i got it now...my first tip! thx&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl3pb3b",
+                                "created": 1412801216,
+                                "author_flair_text": null,
+                                "created_utc": 1412772416,
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
@@ -3418,7 +3453,7 @@
             "report_reasons": null,
             "author": "veritasBS",
             "parent_id": "t3_2i5oim",
-            "score": 8,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "This guy does not understand the next step for bitcoin in becoming a currency. Retailer adoption is just the first step. Once enough retailers accept bitcoin, companies like Dell, Expedia Overstock will start to pay some of their employees in bitcoin as a percentage of their wages. This will be opt in for the employees and will be useful to any employee that needs to transfer money, send money to home countries, or wants to separate their personal info from online purchases. This process will close the loop to where the bitcoins accepted by these companies are no longer converted to fiat. We are very close to this loop closing.\n\nedit - spelling.",
@@ -3435,7 +3470,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 5
           }
         },
         {
@@ -3953,7 +3988,7 @@
             "report_reasons": null,
             "author": "rmvaandr",
             "parent_id": "t3_2i5oim",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yes, this is a classic and will give many hours of re-viewing enjoyment in the not too distant future :)",
@@ -3970,7 +4005,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -4036,7 +4071,7 @@
                                                     "report_reasons": null,
                                                     "author": "cryptoliberty",
                                                     "parent_id": "t1_ckz3xfg",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "PoS or Ripple?",
@@ -4053,7 +4088,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -4115,7 +4150,7 @@
                                                     "report_reasons": null,
                                                     "author": "cryptard",
                                                     "parent_id": "t1_ckz9581",
-                                                    "score": -1,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "That \"feedback loop\" theory is complete bullshit for bitcoin. Hardware investment directly correlates to how profitable mining is, nothing else. If anything, miners want less hashrate on the network so the difficulty lowers and their hardware becomes more efficient by gaining more of the network. Note: bitcoin's network hashrate is starting to decrease with the price.\n\nI used wikipedia as its information is valuable. They raise 50 million annually in donations just to prevent any kind of sponsor or endorsement that could lead to biased articles. If people value the information enough, it can be secured with Bitcoin technology. If it's not valued enough, it doesn't deserve to be preserved. Plain and simple.\n\nYour last sentence is comically ironic in a sub about supposed revolutionary technology. Thankfully, actual innovators know not to listen to morons like yourself. Enjoy your sinking ship.",
@@ -4132,7 +4167,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -1
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -4428,7 +4463,7 @@
                                           "report_reasons": null,
                                           "author": "ferretinjapan",
                                           "parent_id": "t1_ckz3i51",
-                                          "score": 15,
+                                          "score": 14,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "The thing is that the currency is intrinsic to decentralisation, it is what drives miners, and secures the blockchain. Take that away and you need to have another incentive to keep miners mining, and this is where it will become centralised, because some external element will be needed. Once an external element is needed, that can be used to starve the incentives and shut down the network.\n\nIBM, Reddit, etc. simply don't get it. A blockchain simply won't work unless there's some form of value that miners can extract as a result of their participation, and encourages them to continue mining into the future, and having any direct control over those incentives, will kill it's decentralised nature, as well as the incentive to invest time or money into the enterprise. No-one on the outside looks at a network with a centralised kill switch and says \"I'm investing time and money into this because I know it will be around in 20 years\". Starting a brand new alt is just as pointless, because you also take on the task of having to create a community, and network effect around the currency, which is exceedingly hard. Even alts that have been incredibly open and fair, with vibrant communities haven't gained ground like Bitcoin has. Absent that, it will become centralised, and once that happens, it's a waste of time even considering using a blockchain.\n\n",
@@ -4442,7 +4477,7 @@
                                           "created": 1412340443,
                                           "author_flair_text": null,
                                           "created_utc": 1412311643,
-                                          "ups": 15,
+                                          "ups": 14,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4662,7 +4697,7 @@
                                 "report_reasons": null,
                                 "author": "BitttBurger",
                                 "parent_id": "t1_ckz3ddd",
-                                "score": 1,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "When you hear about companies entertaining Blockchain technology, they're not necessarily talking about Bitcoin.  You can have Blockchain without Bitcoin.   You can't have Bitcoin without Blockchain.\n\nIBM is making their own blockchain.  They'll be forking Ethereum too.  In both cases, you get the Blockchain without the pesky Bitcoins.  (pesky being his mentality, not mine)\n\nEDIT:   Just watched the video in full.   For some reason he doesn't see why coins are needed at all.  And maybe they're not.   Maybe they are.  I guess it depends on the business model.  Coins provide incentive to invest in a good idea.  Its simply like owning a share in a company.  He doesn't grasp why coins are an integral part of the equation.  And I don't know the answer to that.  Can someone explain why he's wrong?",
@@ -4679,7 +4714,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -4726,7 +4761,7 @@
             "report_reasons": null,
             "author": "cryptard",
             "parent_id": "t3_2i5oim",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Fanatical, but raises some good points.",
@@ -4743,7 +4778,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -5760,7 +5795,7 @@
             "report_reasons": null,
             "author": "m301888",
             "parent_id": "t3_2i5oim",
-            "score": -3,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "09:14 \"People are starting to realize the currency is a charade.\"\n\nI agree.",
@@ -5777,7 +5812,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -2
           }
         }
       ],

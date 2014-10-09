@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "TruValueCapital",
             "media": null,
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Looks like April 2013 ATH is Support",
             "created_utc": 1412527287,
-            "ups": 3,
-            "upvote_ratio": 0.64,
+            "ups": 2,
+            "upvote_ratio": 0.6,
             "num_comments": 3,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "the-y",
             "parent_id": "t3_2id888",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Resident expert in calling the bottom is reporting, I see.\n\n\n\n&gt; [–]TruValueCapital -3 points 14 days ago\n&gt;\n&gt; The selling is done. We go up from here. Too much \"good\" happening in the space.\n\n",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -148,7 +148,7 @@
             "report_reasons": null,
             "author": "sciencelovesyou",
             "parent_id": "t3_2id888",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "You have a gambling problem. ",
@@ -165,7 +165,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         }
       ],

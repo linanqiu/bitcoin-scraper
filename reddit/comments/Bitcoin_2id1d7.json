@@ -46,8 +46,8 @@
             "title": "Bitcoin podcaster David Seaman: \"We need to consider the distinct possibility that Bitcoin is dying.\"",
             "created_utc": 1412522778,
             "ups": 0,
-            "upvote_ratio": 0.49,
-            "num_comments": 40,
+            "upvote_ratio": 0.48,
+            "num_comments": 42,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -146,7 +146,7 @@
                                 "report_reasons": null,
                                 "author": "AussieCryptoCurrency",
                                 "parent_id": "t1_cl11py0",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "\n&gt;Seaman and I crossed paths over at vertcoin a few months ago. He is a complete goof that doesnt know how to research things properly, and his analytic skills are abhorrent.\n\nOh, someone disagrees, so they're a goof! I hear this about Coindesk, BCT, CCN, you name it. Unless it's \"to da moon!\" it's labelled dumb or inept.\n\nDave Seaman is a very pragmatic and intelligent guy. I like his podcast but disagree with his opinion. Yes, it's possible to disagree and not hate the person you disagree with! Try it! I don't hate you and I don't like what you're saying...",
@@ -163,7 +163,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             },
                             {
@@ -190,6 +190,41 @@
                                             "data": {
                                               "modhash": "",
                                               "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id1d7",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2ous4",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "AussieCryptoCurrency",
+                                                    "parent_id": "t1_cl1439a",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "I give a shit what he thinks because his track record from his podcasts shows rationality and critical thinking skills. It doesn't mean I have to agree. I must say this \"goof\" is *quite* a chameleon given his quality podcasts! \n\nI don't know you. I don't know your background. I'm not going to judge or read between the lines of what may have happened from the other posts below. Do you know why? \n\nBecause I don't care. I don't know you. Whether or not you come off as a goof, well, that's on you.\n\n\n",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I give a shit what he thinks because his track record from his podcasts shows rationality and critical thinking skills. It doesn&amp;#39;t mean I have to agree. I must say this &amp;quot;goof&amp;quot; is &lt;em&gt;quite&lt;/em&gt; a chameleon given his quality podcasts! &lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t know you. I don&amp;#39;t know your background. I&amp;#39;m not going to judge or read between the lines of what may have happened from the other posts below. Do you know why? &lt;/p&gt;\n\n&lt;p&gt;Because I don&amp;#39;t care. I don&amp;#39;t know you. Whether or not you come off as a goof, well, that&amp;#39;s on you.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2ous4",
+                                                    "created": 1412702013,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412673213,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                },
                                                 {
                                                   "kind": "t1",
                                                   "data": {
@@ -244,7 +279,51 @@
                                                               "banned_by": null,
                                                               "link_id": "t3_2id1d7",
                                                               "likes": null,
-                                                              "replies": "",
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2id1d7",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2ovg9",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "AussieCryptoCurrency",
+                                                                        "parent_id": "t1_cl26c0d",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "You've got one account devoted to stalking DS huh? Did you perhaps feel like the goof and are taking it out on DSL? I only ask because, well. your replies have nothing to do with anything except that \"Dave Seaman\" was in title.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You&amp;#39;ve got one account devoted to stalking DS huh? Did you perhaps feel like the goof and are taking it out on DSL? I only ask because, well. your replies have nothing to do with anything except that &amp;quot;Dave Seaman&amp;quot; was in title.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2ovg9",
+                                                                        "created": 1412702125,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412673325,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
                                                               "user_reports": [],
                                                               "saved": false,
                                                               "id": "cl26c0d",
@@ -252,7 +331,7 @@
                                                               "report_reasons": null,
                                                               "author": "ricardo_von_nicht",
                                                               "parent_id": "t1_cl149un",
-                                                              "score": 1,
+                                                              "score": 0,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "For the record: here is seamans other account because he seems to be changing them like the seasons; http://www.reddit.com/user/DavidSeamanUS\n\nA man that cant stand by his words I cant respect. At least learn to be a man David. Spend more time with Rogan, you still have things to learn",
@@ -266,7 +345,7 @@
                                                               "created": 1412655784,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412626984,
-                                                              "ups": 1,
+                                                              "ups": 0,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -284,7 +363,7 @@
                                                     "report_reasons": null,
                                                     "author": "davidseamans",
                                                     "parent_id": "t1_cl1439a",
-                                                    "score": 0,
+                                                    "score": -1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Good reason to stay far away from Monero, then.\n\nYou're right, Hyper has turned to shit. Only up 760% since I began helping them out. Their devs can attest to this.\n\nAnd I'm just laughing here, actually loling, that you reply to my suggestion Vertcoin was less than friendly with this kind of a comment. Good luck with everything. ",
@@ -301,7 +380,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 0
+                                                    "ups": -1
                                                   }
                                                 }
                                               ],
@@ -316,7 +395,7 @@
                                           "report_reasons": null,
                                           "author": "ricardo_von_nicht",
                                           "parent_id": "t1_cl13l1i",
-                                          "score": 1,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "ahhh David, welcome back. And once again, your analysis is laughable. I certainly was not supportive of vertpay. What I took issue was people, like you, who were drowning in hysteria like a middle aged woman based on no information. You are the one who made that community venomous. Mod? who the hell cares what a mod says. YOU were called out by the devs for doing this. You started acting like you were some sort of superstar and making hourly threads about \"what I think about...\". \n\nAnd by the way, those devs and people behind vertpay are head devs at Monero.\n\nI reiterate, you are a goof. Nobody gives a shit what you think. Everything you touch turns to shit.",
@@ -330,7 +409,7 @@
                                           "created": 1412558693,
                                           "author_flair_text": null,
                                           "created_utc": 1412529893,
-                                          "ups": 1,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -348,7 +427,7 @@
                                 "report_reasons": null,
                                 "author": "davidseamans",
                                 "parent_id": "t1_cl11py0",
-                                "score": 1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You're one of the people who was supportive of crowdfunding VertPay, a vaporware scam project, right?\n\nWhen the community and some of the mods began to turn on VertPay and its massive funding requirement (200,000 VTC wasn't it? HA!), a bunch of alias accounts created by the same guy flooded the sub with so much negativity that many users, self included just kind of lost interest in spending time there and interacting with your coin's community in any way.\n\nAnd when you get a coin no one wants to interact with because the community is so venomous, the value predictably drops.",
@@ -365,7 +444,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 0
                               }
                             }
                           ],
@@ -380,7 +459,7 @@
                       "report_reasons": null,
                       "author": "ricardo_von_nicht",
                       "parent_id": "t1_cl113x0",
-                      "score": 1,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Seaman and I crossed paths over at vertcoin a few months ago. He is a complete goof that doesnt know how to research things properly, and his analytic skills are abhorrent.",
@@ -394,7 +473,7 @@
                       "created": 1412553441,
                       "author_flair_text": null,
                       "created_utc": 1412524641,
-                      "ups": 1,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -415,7 +494,7 @@
                       "report_reasons": null,
                       "author": "12090205182025",
                       "parent_id": "t1_cl113x0",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "why does miley cyrus not surprise me?  ",
@@ -429,7 +508,7 @@
                       "created": 1412552241,
                       "author_flair_text": null,
                       "created_utc": 1412523441,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -447,7 +526,7 @@
             "report_reasons": null,
             "author": "fishsmellfunny",
             "parent_id": "t3_2id1d7",
-            "score": 11,
+            "score": 10,
             "approved_by": null,
             "controversiality": 0,
             "body": "He also does videos about vertcoin and Miley cyrus.",
@@ -464,7 +543,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {
@@ -518,7 +597,7 @@
                                           "report_reasons": null,
                                           "author": "PASSO3058",
                                           "parent_id": "t1_cl1185e",
-                                          "score": 2,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "When Bitcoin goes back up... Or when I seem talking on his podcasts... I will always remind people that he said bitcoin was a star that broke and went supernova.  What an idiot.   I would be on the same band wagon if another alt currency started to dominate... But until then, he really needs to control his fear mongering at bay... And just recognize that Bitcoin is early stage and we will have days like this.  That's all it is.",
@@ -532,7 +611,7 @@
                                           "created": 1412552480,
                                           "author_flair_text": null,
                                           "created_utc": 1412523680,
-                                          "ups": 2,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -597,7 +676,7 @@
                                           "report_reasons": null,
                                           "author": "AussieCryptoCurrency",
                                           "parent_id": "t1_cl1185e",
-                                          "score": -1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Emo?",
@@ -611,7 +690,7 @@
                                           "created": 1412558531,
                                           "author_flair_text": null,
                                           "created_utc": 1412529731,
-                                          "ups": -1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -661,7 +740,7 @@
                       "report_reasons": null,
                       "author": "PASSO3058",
                       "parent_id": "t1_cl114vv",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "He is always pumping his altcoins...  Wonder what new altcoin he brings up that he is buying..  I mean pre bought.  Hehe",
@@ -675,7 +754,7 @@
                       "created": 1412552136,
                       "author_flair_text": null,
                       "created_utc": 1412523336,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -727,41 +806,6 @@
                                                     "replies": "",
                                                     "user_reports": [],
                                                     "saved": false,
-                                                    "id": "cl14bfz",
-                                                    "gilded": 0,
-                                                    "report_reasons": null,
-                                                    "author": "12090205182025",
-                                                    "parent_id": "t1_cl148iv",
-                                                    "score": 0,
-                                                    "approved_by": null,
-                                                    "controversiality": 0,
-                                                    "body": "his opinion is retarded, and retarded opinions come from retarded minds.  i quite literally believe a man this stupid has a diagnosable learning disability.  ",
-                                                    "edited": false,
-                                                    "author_flair_css_class": null,
-                                                    "downs": 0,
-                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;his opinion is retarded, and retarded opinions come from retarded minds.  i quite literally believe a man this stupid has a diagnosable learning disability.  &lt;/p&gt;\n&lt;/div&gt;",
-                                                    "subreddit": "Bitcoin",
-                                                    "score_hidden": false,
-                                                    "name": "t1_cl14bfz",
-                                                    "created": 1412559136,
-                                                    "author_flair_text": null,
-                                                    "created_utc": 1412530336,
-                                                    "distinguished": null,
-                                                    "mod_reports": [],
-                                                    "num_reports": null,
-                                                    "ups": 0
-                                                  }
-                                                },
-                                                {
-                                                  "kind": "t1",
-                                                  "data": {
-                                                    "subreddit_id": "t5_2s3qj",
-                                                    "banned_by": null,
-                                                    "link_id": "t3_2id1d7",
-                                                    "likes": null,
-                                                    "replies": "",
-                                                    "user_reports": [],
-                                                    "saved": false,
                                                     "id": "cl1clhd",
                                                     "gilded": 0,
                                                     "report_reasons": null,
@@ -785,6 +829,41 @@
                                                     "mod_reports": [],
                                                     "num_reports": null,
                                                     "ups": 1
+                                                  }
+                                                },
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2id1d7",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl14bfz",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "12090205182025",
+                                                    "parent_id": "t1_cl148iv",
+                                                    "score": 0,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "his opinion is retarded, and retarded opinions come from retarded minds.  i quite literally believe a man this stupid has a diagnosable learning disability.  ",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;his opinion is retarded, and retarded opinions come from retarded minds.  i quite literally believe a man this stupid has a diagnosable learning disability.  &lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl14bfz",
+                                                    "created": 1412559136,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412530336,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 0
                                                   }
                                                 }
                                               ],
@@ -863,7 +942,7 @@
                       "report_reasons": null,
                       "author": "AussieCryptoCurrency",
                       "parent_id": "t1_cl114vv",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "\n&gt;.  This podcaster is a douchebag.  I never listened to him before and I never would now.  He's nobody.  Fuck him.  \n\nWhat an *informed* opinion. Never listened to his podcast. Learn to disagree like an adult \n",
@@ -877,7 +956,7 @@
                       "created": 1412558510,
                       "author_flair_text": null,
                       "created_utc": 1412529710,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -930,7 +1009,7 @@
             "report_reasons": null,
             "author": "buttonpincher",
             "parent_id": "t3_2id1d7",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "So this is what they mean by \"capitulation\".",
@@ -947,7 +1026,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -965,7 +1044,7 @@
             "report_reasons": null,
             "author": "Sykotik616",
             "parent_id": "t3_2id1d7",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "What needs to be considered is bitcoin has been extremly over priced for far to long.  There has been a lack of adoption, due to the fact that there are few businesses activley marketing bitcoin.  Bitcoin isnt dying, its finalky getting to the point its supposed to be at.  Bitcoin use and awareness campaign.  Indiegogo, and gofundme.  Take a look.",
@@ -982,7 +1061,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -1000,7 +1079,7 @@
             "report_reasons": null,
             "author": "BitcoinIsSimple",
             "parent_id": "t3_2id1d7",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I have no problem with David seaman, and although the past isn't an indicator of the future performance, it does show the probability that Bitcoin will live on because when you take a hard look at the 70% it's fallen from the top (1200) it's gone through much worse and lived on. ",
@@ -1017,7 +1096,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -1142,7 +1221,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "ddmnyc",
                                                                         "parent_id": "t1_cl1dxsr",
-                                                                        "score": 2,
+                                                                        "score": 3,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "David, I gave you some tips not very long ago. If you're truly leaving the fold, please do the right thing and send me a refund.",
@@ -1159,7 +1238,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 2
+                                                                        "ups": 3
                                                                       }
                                                                     }
                                                                   ],
@@ -1174,7 +1253,7 @@
                                                               "report_reasons": null,
                                                               "author": "Ilogy",
                                                               "parent_id": "t1_cl13wpx",
-                                                              "score": 3,
+                                                              "score": 4,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "&gt; You all shouldn't have let it go below $300\n\nWhat do you mean, \"you all\"? This guy has completely lost it. ",
@@ -1188,7 +1267,7 @@
                                                               "created": 1412578166,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412549366,
-                                                              "ups": 3,
+                                                              "ups": 4,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1244,7 +1323,7 @@
                                                               "report_reasons": null,
                                                               "author": "rmvaandr",
                                                               "parent_id": "t1_cl13wpx",
-                                                              "score": 3,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Not sure why this was being downvoted. The current blatant manipulative dumps absolutely play in the hands of those that want to see Bitcoin fail and will do long term damage to the crypto-currency ecosystem.",
@@ -1258,7 +1337,7 @@
                                                               "created": 1412559454,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412530654,
-                                                              "ups": 3,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1276,7 +1355,7 @@
                                                     "report_reasons": null,
                                                     "author": "davidseamans",
                                                     "parent_id": "t1_cl13513",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "The problem is this price drop. You all shouldn't have let it go below $300, it's outrageous none of the big boys - the Coinbase guys, A16Z, etc - don't see this.\n\nI wrote about it earlier today here-\nhttps://ello.co/davidseaman/post/Cp0aBCe3bVlHDVB_3YcN3A\n\nJust as you had everything going for you, the price craters and now the media and governments will use this against Bitcoin forever. And regulators will use it as an example of why \"Bitcoin can't be trusted.\"\n\nFor as much time as people spend saying price doesn't matter, it matters. It is a value transfer engine, and without a certain value, it is no longer as trustworthy. And when that value plummets for no apparent reason and in clear contradiction of what appear to be very positive developments (Gates, PayPal, etc), it makes Bitcoin's critics appear more legitimate.",
@@ -1293,7 +1372,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 },
                                                 {
@@ -1481,7 +1560,7 @@
                                                               "report_reasons": null,
                                                               "author": "ddmnyc",
                                                               "parent_id": "t1_cl14otl",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "I believe this is the \"then they fight you\" phase, but I'm just a random guy on the Internet, and I don't know anything.",
@@ -1495,7 +1574,7 @@
                                                               "created": 1412572935,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412544135,
-                                                              "ups": 1,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1545,7 +1624,7 @@
                                           "report_reasons": null,
                                           "author": "AussieCryptoCurrency",
                                           "parent_id": "t1_cl12oxv",
-                                          "score": 0,
+                                          "score": -1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Well put Dave. Twitter and Reddit are a circle jerk filled with people who'll bad mouth everyone who disagrees with them. It's all about getting rich overnight for &gt;50% off people on both. Stick to Zapchain or Bitcoin SE if you want a true perspective with people who who don't find value solely in up votes or retweets.\n\nYou're welcome to disagree. Hell, I'd expect it from ppl who blame podcasters and journalists for economic certainties like the far from matured concept that is Bitcoin. Bring some value instead of detracting from people.",
@@ -1559,7 +1638,7 @@
                                           "created": 1412558898,
                                           "author_flair_text": null,
                                           "created_utc": 1412530098,
-                                          "ups": 0,
+                                          "ups": -1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1577,7 +1656,7 @@
                                 "report_reasons": null,
                                 "author": "davidseamans",
                                 "parent_id": "t1_cl1240h",
-                                "score": -1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "What altcoin of the month club? This is why I canceled my Twitter account yesterday, and spend so much less time reading Reddit.\n\nIt's all so much bullshit. If I had unlimited time to counter every ridiculous thing someone said about me, or about how the world works, I gladly would because truth benefits us all. But I'm just busy and this silliness makes no difference. People are paying less attention, because they get it's all bs nowadays - trolls arguing with trolls, the people have headed for the exits. We're outside, just living our lives.\n\nBut back to point at hand: what motherfucking *altcoin of the month* club?\n\nBecause sometimes I talk about altcoins. I discuss them in my newsletter, on my podcast, and when I meet people and they ask me about them.\n\nBut there is no monthly club mate. You'd do well to check your facts. I've been pretty involved with helping Hyper with their business development and helping them get some relationships here in LA because I like the algorithm/coin schedule a lot, and I see opportunity in the world of in-game currency. Specifically, I like how Hyper is taking a many games approach to this, getting in with various game devs and incentivizing them with bounties.\n\nEarlier this year, I've liked some of what other alts have attempted but have drifted away from those communities and don't spend much time thinking or talking about them - some simply had inferior coin algos compared to what's out there with Hyper and a couple others. And some just lost my interest. This is a hobby, when it becomes fatiguing, it's no longer hobby. See, like having to post this to counteract something that's just not true- that's not fun. Reading reddit's not fun, because it's just made up shit about me and people I know personally. My whole approach to \"celebrity journalism\" has changed now that I'm friends with some of these people. It just sucks. Saying things about someone you know aren't true, or that you have no basis for saying, it's just not very evolved stuff.\n\nPeace",
@@ -1594,7 +1673,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 0
                               }
                             }
                           ],
@@ -1609,7 +1688,7 @@
                       "report_reasons": null,
                       "author": "ddmnyc",
                       "parent_id": "t1_cl11g9q",
-                      "score": 6,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "He's pretty much become a shill for his altcoin of the month club.",
@@ -1623,7 +1702,7 @@
                       "created": 1412554373,
                       "author_flair_text": null,
                       "created_utc": 1412525573,
-                      "ups": 6,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

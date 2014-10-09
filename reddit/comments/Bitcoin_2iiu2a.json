@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "darrenbrull",
             "media": null,
-            "score": 0,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "A layman's enumerated thoughts on the decreasing value of BTC.",
             "created_utc": 1412653124,
-            "ups": 0,
-            "upvote_ratio": 0.44,
-            "num_comments": 1,
+            "ups": 2,
+            "upvote_ratio": 0.6,
+            "num_comments": 3,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -70,7 +70,95 @@
             "banned_by": null,
             "link_id": "t3_2iiu2a",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iiu2a",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iiu2a",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2oqfr",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BTCisGod",
+                                "parent_id": "t1_cl2nriu",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "The minimum of due diligence should have revealed pretty much everything about  supply and issuance to everyone looking into bitcoin.  One could \"say\" that it is already fully priced in, or at least it should be.  I guess we'll just have to wait and see.  \n",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The minimum of due diligence should have revealed pretty much everything about  supply and issuance to everyone looking into bitcoin.  One could &amp;quot;say&amp;quot; that it is already fully priced in, or at least it should be.  I guess we&amp;#39;ll just have to wait and see.  &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2oqfr",
+                                "created": 1412701277,
+                                "author_flair_text": null,
+                                "created_utc": 1412672477,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2nriu",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "darrenbrull",
+                      "parent_id": "t1_cl2l6ik",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thanks for a response.\n\nI do not consider this ground breaking; I just thought it would be helpful to some people and interesting discussion.\n\n1) It is true that inflation is accounted for by difficulty increases and reward halving. This helps to slow inflation and the inflation that will occur is a set amount. However, it does not change the fact that inflation is occurring and is thus deflating the value of the currency. It is true that it is harder and harder to mine new coins but it doesn't matter when there is an overabundance. There might as well be an infinite amount with the demand being so low.\n\nJust like the Federal Reserve authorizes the printing of more dollars, thus causing inflation in the dollar, more bitcoins made available through mining, causes inflation in the amount of bitcoins available. This increased supply would grow without demand necessarily matching in its own expansion. It is the principle of supply and demand and I am not sure how an algorithm could correct against this law. For example, if there was only one bitcoin in existence, it would be worth much more than $300 USD because demand would greatly increase. There is not hard–coding for the value of BTC. Please, correct me if I am misguided.\n\n2) A miner could cash–out but I am advocating for the increased incentive and ability of remaining in the BTC ecosystem. It will take considerable encouragement and adoption of BTC, on a large scale and in many market sectors, so a miner would not need or desire a cash–out option. This is a possible, future reality that would work synergistically with an increase in value and would contribute to decreased volatility.\nBTC could get speculated to the moon again but it wont change the fact that mining operations would still be unable to keep the BTC circulating within the bitcoin ecosystem. Cashing–out, to pay for whatever, would create sell pressure and would contribute to the devaluation of the currency units.\nRight now, many miners have to cash out; in your example, many miners would want to cash out for the sake of profit but have to cash out regardless for lack of options. The solution is to find a way for them to not have to and not want to.\n\n3) If the bitcoin price stabilizes at or above $1200, tomorrow, then some change in the ecosystem would have to have occurred. Either deflation in the BTC currency supply or a massive influx of new wealth and new adopters. If it happens in 7 years, then a good guess might be that all coins are mined, deflation is occurring, demand is rising, coupled with new wealth entering the market. Or another option is fiat based economies experiencing a collapse; fiat value deflating through massive printing, therefore, inversely increasing the value of BTC.\n\nI don't really know the answer to what the weak link would be but I am open to suggestions. Right now, my best guess is that if BTC breaks its all–time ceiling, in the near future, it will be due to speculation and wealth infusion (demand). It would not change the fact that inflation is occurring and will continue to do so for the next 7 years, which is the main reason the bitcoin price will continue to fall so long as demand stays the same or decreases.\n\nSo the question is:\nHow do we increase demand, thereby increasing the amount of wealth in the ecosystem, keeping it there, and therefore, counteracting inflation and devaluation?\n\nMy thesis is only \"correct\" supposing that things stay the way they are and do not improve.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for a response.&lt;/p&gt;\n\n&lt;p&gt;I do not consider this ground breaking; I just thought it would be helpful to some people and interesting discussion.&lt;/p&gt;\n\n&lt;p&gt;1) It is true that inflation is accounted for by difficulty increases and reward halving. This helps to slow inflation and the inflation that will occur is a set amount. However, it does not change the fact that inflation is occurring and is thus deflating the value of the currency. It is true that it is harder and harder to mine new coins but it doesn&amp;#39;t matter when there is an overabundance. There might as well be an infinite amount with the demand being so low.&lt;/p&gt;\n\n&lt;p&gt;Just like the Federal Reserve authorizes the printing of more dollars, thus causing inflation in the dollar, more bitcoins made available through mining, causes inflation in the amount of bitcoins available. This increased supply would grow without demand necessarily matching in its own expansion. It is the principle of supply and demand and I am not sure how an algorithm could correct against this law. For example, if there was only one bitcoin in existence, it would be worth much more than $300 USD because demand would greatly increase. There is not hard–coding for the value of BTC. Please, correct me if I am misguided.&lt;/p&gt;\n\n&lt;p&gt;2) A miner could cash–out but I am advocating for the increased incentive and ability of remaining in the BTC ecosystem. It will take considerable encouragement and adoption of BTC, on a large scale and in many market sectors, so a miner would not need or desire a cash–out option. This is a possible, future reality that would work synergistically with an increase in value and would contribute to decreased volatility.\nBTC could get speculated to the moon again but it wont change the fact that mining operations would still be unable to keep the BTC circulating within the bitcoin ecosystem. Cashing–out, to pay for whatever, would create sell pressure and would contribute to the devaluation of the currency units.\nRight now, many miners have to cash out; in your example, many miners would want to cash out for the sake of profit but have to cash out regardless for lack of options. The solution is to find a way for them to not have to and not want to.&lt;/p&gt;\n\n&lt;p&gt;3) If the bitcoin price stabilizes at or above $1200, tomorrow, then some change in the ecosystem would have to have occurred. Either deflation in the BTC currency supply or a massive influx of new wealth and new adopters. If it happens in 7 years, then a good guess might be that all coins are mined, deflation is occurring, demand is rising, coupled with new wealth entering the market. Or another option is fiat based economies experiencing a collapse; fiat value deflating through massive printing, therefore, inversely increasing the value of BTC.&lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t really know the answer to what the weak link would be but I am open to suggestions. Right now, my best guess is that if BTC breaks its all–time ceiling, in the near future, it will be due to speculation and wealth infusion (demand). It would not change the fact that inflation is occurring and will continue to do so for the next 7 years, which is the main reason the bitcoin price will continue to fall so long as demand stays the same or decreases.&lt;/p&gt;\n\n&lt;p&gt;So the question is:\nHow do we increase demand, thereby increasing the amount of wealth in the ecosystem, keeping it there, and therefore, counteracting inflation and devaluation?&lt;/p&gt;\n\n&lt;p&gt;My thesis is only &amp;quot;correct&amp;quot; supposing that things stay the way they are and do not improve.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2nriu",
+                      "created": 1412695834,
+                      "author_flair_text": null,
+                      "created_utc": 1412667034,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl2l6ik",
@@ -78,7 +166,7 @@
             "report_reasons": null,
             "author": "BTCisGod",
             "parent_id": "t3_2iiu2a",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Fairly thorough, but nothing ground breaking.  \n\n1) Miners do not cause inflation, supply inflation is hard coded in the protocol no matter if there are billions of miners or just 1.  \n\n2) If I were a miner and bitcoin were valued way above my production cost, wouldn't I also be just as tempted to cash out?\n\n3) If bitcoin blows out its all time high and stabilizes up there, where is the weak link in your thesis: \"bitcoin will continue its downward slide\"?",
@@ -95,7 +183,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

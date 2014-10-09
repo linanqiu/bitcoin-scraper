@@ -46,7 +46,7 @@
             "title": "What's everyone here doing with the $8 they got from Circle a few days ago?",
             "created_utc": 1412461815,
             "ups": 0,
-            "upvote_ratio": 0.42,
+            "upvote_ratio": 0.33,
             "num_comments": 5,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "sporabolic",
             "parent_id": "t3_2ib8eb",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "apparently most people sold it  ",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -206,7 +206,7 @@
                       "subreddit": "Bitcoin",
                       "score_hidden": false,
                       "name": "t1_cl0l1bp",
-                      "created": 1412495719,
+                      "created": 1412470519,
                       "author_flair_text": null,
                       "created_utc": 1412466919,
                       "ups": 1,

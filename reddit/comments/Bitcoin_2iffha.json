@@ -447,7 +447,7 @@
             "report_reasons": null,
             "author": "jcoinner",
             "parent_id": "t3_2iffha",
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "Cancelled - at least according to the bitstamp api data, which shows no huge trades before the price passed 300.\n\n( though there was a few 300-700 size trades in the last hour, and one 2848 btc trade 10 minutes before removal )\n    \n\n    \"date\": \"1412579386\",\n    \"tid\": 6221621,\n    \"price\": \"300.01\",\n    \"amount\": \"0.50795566\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221620,\n    \"price\": \"300.00\",\n    \"amount\": \"0.20000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221619,\n    \"price\": \"300.00\",\n    \"amount\": \"0.36000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221618,\n    \"price\": \"300.00\",\n    \"amount\": \"1.86000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221617,\n    \"price\": \"300.00\",\n    \"amount\": \"12.65000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221616,\n    \"price\": \"300.00\",\n    \"amount\": \"243.27946757\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221615,\n    \"price\": \"300.00\",\n    \"amount\": \"10.00000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221614,\n    \"price\": \"300.00\",\n    \"amount\": \"0.20000000\"\n\n    \"date\": \"1412579385\",\n    \"tid\": 6221613,\n    \"price\": \"300.00\",\n    \"amount\": \"40.00000000\"\n\n\n",
@@ -464,7 +464,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {

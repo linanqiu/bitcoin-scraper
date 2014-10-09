@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "KilowattQ",
             "media": null,
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Do bitcoins have a tracker?",
             "created_utc": 1412449210,
-            "ups": 3,
-            "upvote_ratio": 0.71,
+            "ups": 4,
+            "upvote_ratio": 0.83,
             "num_comments": 3,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "cgimusic",
             "parent_id": "t3_2iaott",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "They don't really claim to be anonymous, only pseudonymous, meaning that when you send Bitcoins from one address to another they can be tracked to that new address. They may be harder to track if you convert to a different cryptocurrency and then back because your Bitcoins will probably be added to a massive pot of Bitcoins owned by the exchange and then you would be paid back from that massive pot along with a lot of other people.\n\nIf you truly want to hide the origin of coins though there are many easier methods such as mixing services or technologies like CoinJoin.",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {

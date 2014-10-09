@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "TheGift1973",
             "media": null,
-            "score": 16,
+            "score": 14,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "BTC Price Drop: Interview with FMR Director of the United States Mint, Edmund Moy",
             "created_utc": 1412515833,
-            "ups": 16,
-            "upvote_ratio": 0.7,
+            "ups": 14,
+            "upvote_ratio": 0.67,
             "num_comments": 2,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "pecuniology",
             "parent_id": "t3_2ict0z",
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "TL;DR: \"I have no idea, but thanks for asking.\"",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "CarloCaraluzzo",
             "parent_id": "t3_2ict0z",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Ed Moy has been working with money for his whole life. This seems like a person to ask about the Bicoin price drop",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         }
       ],

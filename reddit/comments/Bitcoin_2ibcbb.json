@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "gogonertio",
             "media": null,
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Need advice Please, I am becoming desperate.",
             "created_utc": 1412464491,
-            "ups": 3,
-            "upvote_ratio": 0.57,
-            "num_comments": 30,
+            "ups": 2,
+            "upvote_ratio": 0.54,
+            "num_comments": 33,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -102,7 +102,7 @@
                                 "report_reasons": null,
                                 "author": "FreeMarketAnarchist",
                                 "parent_id": "t1_cl0k6vn",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Sell, cut your losses!\n\nWhat's the fucking difference? He asked for advice he got it. No one knows what will happen. You sound just like a mooninite during the last rise.",
@@ -119,7 +119,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -134,7 +134,7 @@
                       "report_reasons": null,
                       "author": "SuckmahMemba",
                       "parent_id": "t1_cl0k1os",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "^--- and this is exactly why you shouldn't come here for advice. \n",
@@ -148,7 +148,7 @@
                       "created": 1412493698,
                       "author_flair_text": null,
                       "created_utc": 1412464898,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -447,7 +447,7 @@
             "report_reasons": null,
             "author": "pinhead26",
             "parent_id": "t3_2ibcbb",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "Sounds like you should look into more stable investment vehicles. Make a plan and stick to it. If you're emotional, you lose. ",
@@ -464,7 +464,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -482,7 +482,7 @@
             "report_reasons": null,
             "author": "Throwaway206730",
             "parent_id": "t3_2ibcbb",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "\"desperate\" and \"losing my mind\" indicate that you have already bet more than you should.  \n\nDon't panic, but stop putting money on the table.",
@@ -499,7 +499,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -517,7 +517,7 @@
             "report_reasons": null,
             "author": "sporabolic",
             "parent_id": "t3_2ibcbb",
-            "score": 5,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "buy high, sell low, repeat until broke.\n\nedit: sorry for the sarcasm, just go for a walk, for like 60 days. you'll feel better, once it's either recovered or is too far gone to matter.",
@@ -534,7 +534,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -579,7 +579,95 @@
             "banned_by": null,
             "link_id": "t3_2ibcbb",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ibcbb",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ibcbb",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl355je",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Sadbitcoiner",
+                                "parent_id": "t1_cl2uvmb",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "I must have been within $100 of the ATH: http://www.reddit.com/r/Bitcoin/comments/1sar3j/as_someone_who_bought_yesterday/",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I must have been within $100 of the ATH: &lt;a href=\"http://www.reddit.com/r/Bitcoin/comments/1sar3j/as_someone_who_bought_yesterday/\"&gt;http://www.reddit.com/r/Bitcoin/comments/1sar3j/as_someone_who_bought_yesterday/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl355je",
+                                "created": 1412742830,
+                                "author_flair_text": null,
+                                "created_utc": 1412714030,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2uvmb",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "PWNY_EVEREADY",
+                      "parent_id": "t1_cl0n09q",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Name checks out.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Name checks out.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2uvmb",
+                      "created": 1412723328,
+                      "author_flair_text": null,
+                      "created_utc": 1412694528,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl0n09q",
@@ -622,7 +710,7 @@
             "report_reasons": null,
             "author": "i_can_get_you_a_toe",
             "parent_id": "t3_2ibcbb",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "What are we, fucking clairvoyants over here? It's volatile alright, nobody knows where it's gonna go. You're not an idiot for buying, Draper put much more than you at a higher price point. You are an idiot if you expected to become a millionaire without losing some sleep in the process. Just not how the world works. ",
@@ -639,7 +727,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -832,7 +920,7 @@
             "report_reasons": null,
             "author": "BigMoneyGuy",
             "parent_id": "t3_2ibcbb",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "If you bought at $600 and now you are desperate it means you are doing everything wrong, because you were either expecting to see results in less than 1 year, or acting emotionally. You have to have a plan and stick to it to avoid acting emotionally. These fluctuations are normal and happen every year. Just try to accept your \"loss\" (you aren't losing your house over this, are you?), but don't materialize it. This is how you should treat all your investments, unless the fundamentals change for bad and you find out before others do. Bitcoin's fundamentals haven't changed for bad, in fact it's stronger than ever. You will thank me next year.\n\nTL;DR: Hodl",
@@ -849,7 +937,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -967,6 +1055,41 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "cl2uwvw",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "PWNY_EVEREADY",
+            "parent_id": "t3_2ibcbb",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Definitely don't sell.  Bitcoin can only go up.  Remember that it's not a loss until you sell.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Definitely don&amp;#39;t sell.  Bitcoin can only go up.  Remember that it&amp;#39;s not a loss until you sell.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2uwvw",
+            "created": 1412723400,
+            "author_flair_text": null,
+            "created_utc": 1412694600,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ibcbb",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "cl0k2ed",
             "gilded": 0,
             "report_reasons": null,
@@ -1055,7 +1178,7 @@
                                                     "report_reasons": null,
                                                     "author": "mexbit",
                                                     "parent_id": "t1_cl0nirz",
-                                                    "score": 0,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "I invest in the future... not the past... and btsx with bitUSD bitCNY and so on is definitely the way to go. No energy waste and 5 second transactions. No counterparty risk and anonymous... bitcoin has none of that.",
@@ -1072,7 +1195,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 0
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -1087,7 +1210,7 @@
                                           "report_reasons": null,
                                           "author": "BitttBurger",
                                           "parent_id": "t1_cl0mqoe",
-                                          "score": 2,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "And absolutely none of it has any infrastructure, nor merchant adoption. Nor use in the real world. Bitcoin does. Get that going first. The rest will follow.",
@@ -1101,7 +1224,7 @@
                                           "created": 1412501782,
                                           "author_flair_text": null,
                                           "created_utc": 1412472982,
-                                          "ups": 2,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1119,7 +1242,7 @@
                                 "report_reasons": null,
                                 "author": "mexbit",
                                 "parent_id": "t1_cl0mav0",
-                                "score": -1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "There is already a new generation... btsx, nxt, blackcoin and so on...",
@@ -1136,7 +1259,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 0
                               }
                             }
                           ],
@@ -1183,7 +1306,7 @@
             "report_reasons": null,
             "author": "mexbit",
             "parent_id": "t3_2ibcbb",
-            "score": -1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "Imho I think nobody should be invested in bitcoin 1.0 technology if far better solutions are out there. But this is only my opinion... people here will tell you to stay with bitcoin no matter what alternatives are out there..",
@@ -1200,7 +1323,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         },
         {
@@ -1230,7 +1353,7 @@
                       "report_reasons": null,
                       "author": "SuckmahMemba",
                       "parent_id": "t1_cl0k3au",
-                      "score": -1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Ah, your crystal ball again. Or are you gonna present some proof to back up your claims this time?",
@@ -1244,7 +1367,7 @@
                       "created": 1412493606,
                       "author_flair_text": null,
                       "created_utc": 1412464806,
-                      "ups": -1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1262,7 +1385,7 @@
             "report_reasons": null,
             "author": "toliro",
             "parent_id": "t3_2ibcbb",
-            "score": -3,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Hold. You only lose money if you sell. In January, when the price goes above 600, you will wish you could buy at 330",
@@ -1279,7 +1402,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -4
           }
         }
       ],

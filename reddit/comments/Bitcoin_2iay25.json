@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "coinvesting",
             "media": null,
-            "score": 7,
+            "score": 10,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Stay Strong, Bitcoiners!",
             "created_utc": 1412455126,
-            "ups": 7,
-            "upvote_ratio": 0.58,
+            "ups": 10,
+            "upvote_ratio": 0.6,
             "num_comments": 8,
             "visited": false,
             "num_reports": null,
@@ -137,7 +137,7 @@
                                 "report_reasons": null,
                                 "author": "coinvesting",
                                 "parent_id": "t1_cl0gj4j",
-                                "score": 2,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Can I please borrow your crystal ball? ;)",
@@ -154,7 +154,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],

@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "butt_tip",
             "media": null,
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Buy @308 on BTCE and sell @325 on Bitstamp",
             "created_utc": 1412453758,
-            "ups": 4,
+            "ups": 5,
             "upvote_ratio": 0.6,
             "num_comments": 7,
             "visited": false,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "phlogistonical",
             "parent_id": "t3_2iavxq",
-            "score": 8,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "Closing the circle in the fiat world takes too long to make infinite profits.",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -288,7 +288,7 @@
             "report_reasons": null,
             "author": "Mark_Karpeles_Jr",
             "parent_id": "t3_2iavxq",
-            "score": 0,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt;Any flaws? \n\nThat depends. Does [this](http://www.reddit.com/r/Bitcoin/comments/2hm2i1/i_lost_my_btc_on_btce_scam_or_hack/) count as a flaw?",
@@ -305,7 +305,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": -1
           }
         }
       ],

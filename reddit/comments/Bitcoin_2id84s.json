@@ -45,7 +45,7 @@
                 "thumbnail_height": 610
               }
             },
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -66,8 +66,8 @@
             "author_flair_text": null,
             "title": "Bearwhale Activity",
             "created_utc": 1412527227,
-            "ups": 3,
-            "upvote_ratio": 0.62,
+            "ups": 2,
+            "upvote_ratio": 0.56,
             "num_comments": 5,
             "visited": false,
             "num_reports": null,
@@ -204,7 +204,7 @@
             "report_reasons": null,
             "author": "mattjc882002",
             "parent_id": "t3_2id84s",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Wall is gone now. Was a $8m sell order but now just 2x $300k sell orders",
@@ -215,13 +215,13 @@
             "subreddit": "Bitcoin",
             "score_hidden": false,
             "name": "t1_cl12w07",
-            "created": 1412556158,
+            "created": 1412530958,
             "author_flair_text": null,
             "created_utc": 1412527358,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -250,7 +250,7 @@
             "subreddit": "Bitcoin",
             "score_hidden": false,
             "name": "t1_cl136kf",
-            "created": 1412556790,
+            "created": 1412531590,
             "author_flair_text": null,
             "created_utc": 1412527990,
             "distinguished": null,

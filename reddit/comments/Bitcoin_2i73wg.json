@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "vehemently_disagrees",
             "media": null,
-            "score": 48,
+            "score": 52,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Is a BTC address the same thing as a \"public key\"?",
             "created_utc": 1412351635,
-            "ups": 48,
+            "ups": 52,
             "upvote_ratio": 0.88,
             "num_comments": 51,
             "visited": false,
@@ -75,6 +75,41 @@
               "data": {
                 "modhash": "",
                 "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2i73wg",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "ckzkjjy",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Sephyre",
+                      "parent_id": "t1_ckzfzp6",
+                      "score": 11,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "This blew my mind.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This blew my mind.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_ckzkjjy",
+                      "created": 1412389581,
+                      "author_flair_text": null,
+                      "created_utc": 1412360781,
+                      "ups": 11,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
                   {
                     "kind": "t1",
                     "data": {
@@ -190,7 +225,7 @@
                                 "report_reasons": null,
                                 "author": "rommelvr",
                                 "parent_id": "t1_ckzmvgz",
-                                "score": 10,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "HASH160 is the [Bitcoin term](https://en.bitcoin.it/wiki/Script#Crypto) for `The input is hashed twice: first with SHA-256 and then with RIPEMD-160.`.",
@@ -207,7 +242,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 10
+                                "ups": 9
                               }
                             }
                           ],
@@ -222,7 +257,7 @@
                       "report_reasons": null,
                       "author": "Natanael_L",
                       "parent_id": "t1_ckzfzp6",
-                      "score": 7,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "RIPEMD160 is the correct name. And it is the hash of the SHA256 hash of the public key. ",
@@ -236,42 +271,7 @@
                       "created": 1412394104,
                       "author_flair_text": null,
                       "created_utc": 1412365304,
-                      "ups": 7,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2i73wg",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "ckzkjjy",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "Sephyre",
-                      "parent_id": "t1_ckzfzp6",
-                      "score": 12,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "This blew my mind.",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This blew my mind.&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_ckzkjjy",
-                      "created": 1412389581,
-                      "author_flair_text": null,
-                      "created_utc": 1412360781,
-                      "ups": 12,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1365,7 +1365,7 @@
                                           "report_reasons": null,
                                           "author": "dingusbuttface",
                                           "parent_id": "t1_cl06zax",
-                                          "score": 1,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "DUDE...Thank you so much for this!  I hadn't check for a response.  I really appreciate it man.",
@@ -1379,7 +1379,7 @@
                                           "created": 1412682889,
                                           "author_flair_text": null,
                                           "created_utc": 1412654089,
-                                          "ups": 1,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1397,7 +1397,7 @@
                                 "report_reasons": null,
                                 "author": "murbul",
                                 "parent_id": "t1_ckzztry",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yes it is the hash160 of the pubkey. That's the raw data in an address, the rest is the checksum and string encoding to remove ambiguous characters (base58).\n\npubkey -&gt; sha256 -&gt; ripemd160 -&gt; add version byte (0x00) -&gt; add checksum -&gt; convert to base58\n\na) pubkey: 02e8c6c2c6b1107d834f8d4176cd9db2b1d8044ccc17c6bd2a5a75e1135201305b  \nb) sha256 of a: 288f702c0dc9af612c76f79c9e3c268a7c1e1023325b1a7d4b60d1b571e95c00  \nc) ripemd160 of b: 7a872159e6951cc681e0c19126a5a9a36ec2dc6c  \nd) Add version to c: **00**7a872159e6951cc681e0c19126a5a9a36ec2dc6c  \ne) checksum = sha256(sha256(d))[0..3] = 7159d059 (first four bytes of double-sha256 of d)  \nf) append checksum to d: 007a872159e6951cc681e0c19126a5a9a36ec2dc6c**7159d059**  \ng) convert to base58: 1CAsKRLdeQCw3jSMYyRns8qV8m9PXV6EyE\n\nSee https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses for a more complete description.",
@@ -1414,7 +1414,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -1461,7 +1461,7 @@
             "report_reasons": null,
             "author": "altoz",
             "parent_id": "t3_2i73wg",
-            "score": 39,
+            "score": 37,
             "approved_by": null,
             "controversiality": 0,
             "body": "No. Your address is something like 1EHNa6Q4Jz2uvNExL497mE43ikXhwF6kZm. That's actually got the hash160 of the public key. The hash in this case is 751e76e8199196d454941c45d1b3a323f1433bd6. This number then gets a 1 in the front and 4 checksum bytes in the back and base-58 encoded to get you the address.\n\nThe actual public key in this case is 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8\n",
@@ -1478,7 +1478,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 39
+            "ups": 37
           }
         },
         {
@@ -1508,7 +1508,7 @@
                       "report_reasons": null,
                       "author": "PotatoBadger",
                       "parent_id": "t1_ckzg5h3",
-                      "score": 9,
+                      "score": 8,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt;The reverse process is practically impossible.\n\nCompletely true, but I think it is relevant to mention that you do announce the public key whenever you spend any output sent to that address.",
@@ -1522,7 +1522,7 @@
                       "created": 1412398407,
                       "author_flair_text": null,
                       "created_utc": 1412369607,
-                      "ups": 9,
+                      "ups": 8,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1713,7 +1713,7 @@
                                 "report_reasons": null,
                                 "author": "MillyBitcoin",
                                 "parent_id": "t1_ckzgkca",
-                                "score": 3,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "No.  It may be theoretically possible some day but it is not something to worry about now.  If it ever did get broken then it would probably happen over time and Bitcoin could move to new scheme.  it is the Discrete Logarithm Problem that needs to be solved \n\nhttp://en.wikipedia.org/wiki/Discrete_logarithm\n\nhttp://en.wikipedia.org/wiki/Elliptic_curve_cryptography",
@@ -1730,7 +1730,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 6
                               }
                             }
                           ],
@@ -1777,7 +1777,7 @@
             "report_reasons": null,
             "author": "MillyBitcoin",
             "parent_id": "t3_2i73wg",
-            "score": 6,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "No.  the public key goes through 2 different crypto algorthims.  If you do a transaction with the address your public key is revealed in the blockchain or when it is broadcast.\n\nIf SHA256 was broken you still could not calculate the private key from the Bitcoin address if no transactions have taken place with that address.  there is another algorithm protecting the translation between Bitcoin address and the public key (RIPEMD-160).  https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses ",
@@ -1794,7 +1794,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -1812,7 +1812,7 @@
             "report_reasons": null,
             "author": "MrProper",
             "parent_id": "t3_2i73wg",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Almost. It's the same thing in functionality as a public key (but it's not complete and original), the information you provide for others to encode into transactions. You then use the private key to sign your own transactions received to this key, while also providing your REAL public key to demonstrate that it derives to the same address.\n\nMaybe you should read this very basic information before continuing: https://en.bitcoin.it/wiki/Technical_background_of_Bitcoin_addresses",
@@ -1829,7 +1829,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -1996,7 +1996,7 @@
             "report_reasons": null,
             "author": "_niko",
             "parent_id": "t3_2i73wg",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "Lots of inaccuracies, misinformation, and misconceptions in this thread.\n\n",
@@ -2013,7 +2013,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {

@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "dt084",
             "media": null,
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "After adding some BTC to my paper wallet yesterday, I received multiple very small additions to my wallet today. Is this something to be concerned about?",
             "created_utc": 1412475702,
-            "ups": 7,
-            "upvote_ratio": 0.82,
+            "ups": 6,
+            "upvote_ratio": 0.73,
             "num_comments": 9,
             "visited": false,
             "num_reports": null,
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "7MigratingCoconuts",
             "parent_id": "t3_2ibrof",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "It's guerrilla advertising. Nothing to be concerned or worried about, there is nothing that could be compromised from this.\n\nBy spamming dust to random addresses, the confused receivers take to posting questions about it. Looking into the address will lead to scams, gambling sites, or whatever else someone may want to advertise.\n\nThe addresses are obtained by watching the blockchain and automatically compiling a list of addresses recently used.\n\nThe only issue you may have in the future, if these transactions get confirmed is spending them. The amount is too low and will require a substantial fee compared to the amount. Most wallets have a coin control feature allowing you to manually include or exclude various inputs for your transactions mitigating this minor issue completely.",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -181,7 +181,7 @@
                                 "report_reasons": null,
                                 "author": "BTCisGod",
                                 "parent_id": "t1_cl0osnk",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "The whole security built into bitcoin proposes that this isn't possible.",
@@ -192,13 +192,13 @@
                                 "subreddit": "Bitcoin",
                                 "score_hidden": false,
                                 "name": "t1_cl0ozil",
-                                "created": 1412505466,
+                                "created": 1412480266,
                                 "author_flair_text": null,
                                 "created_utc": 1412476666,
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -245,7 +245,7 @@
             "report_reasons": null,
             "author": "BTCisGod",
             "parent_id": "t3_2ibrof",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "All transactions are public.  Some people just scan the blockchain and send spam transactions to addresses they find.  Anybody can do this. If they sent to you with a mining fee, congrats.  If not the spam transaction will probably not be confirmed by miners and be forgotten.",
@@ -262,7 +262,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -327,7 +327,7 @@
                       "report_reasons": null,
                       "author": "BTC2d3",
                       "parent_id": "t1_cl0p6x8",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Why downvote? Is it not true??",
@@ -341,7 +341,7 @@
                       "created": 1412507394,
                       "author_flair_text": null,
                       "created_utc": 1412478594,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -359,7 +359,7 @@
             "report_reasons": null,
             "author": "BTC2d3",
             "parent_id": "t3_2ibrof",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yes it could be a privacy concern, and it feels creepy. These transactions have been happening more than ever in the last couple of weeks.  Possibly it is an attempt to map addresses.  One possibility is the sender is sending these tiny transactions to your address hoping that it will be included as a future output in another transaction so it can link this address with the other addresses in that transaction.\n\nIf someone designed a wallet that allowed you to in a sense get rid of or block these transactions it may be good for privacy on the network.  I realize that the blockchain can't block transactions, but the wallet software can decide to just ignore such spam transactions and not include them in future outputs when making spends from the wallet.",
@@ -376,7 +376,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -405,7 +405,7 @@
             "subreddit": "Bitcoin",
             "score_hidden": false,
             "name": "t1_cl0qkxk",
-            "created": 1412509369,
+            "created": 1412484169,
             "author_flair_text": null,
             "created_utc": 1412480569,
             "distinguished": null,

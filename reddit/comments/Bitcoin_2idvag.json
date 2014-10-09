@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "pdtmeiwn",
             "media": null,
-            "score": 76,
+            "score": 74,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Today's an illustrative day for people who keep complaining about Bitcoin's inequality of ownership",
             "created_utc": 1412541384,
-            "ups": 76,
+            "ups": 74,
             "upvote_ratio": 0.83,
-            "num_comments": 85,
+            "num_comments": 86,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "fiat_sux4",
             "parent_id": "t3_2idvag",
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Levin: \"I would change PoW because it's left 10% of the money supply in the hands of criminals.\"\n\nAntonopoulos: \"Vast improvement over pre-existing currencies where 80% of money is in hands of criminals and they own the banks\".\n\nOh snap!",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 6
           }
         },
         {
@@ -157,7 +157,7 @@
             "report_reasons": null,
             "author": "nuibox",
             "parent_id": "t3_2idvag",
-            "score": 13,
+            "score": 12,
             "approved_by": null,
             "controversiality": 0,
             "body": "Thanks for someone finally saying this!  1 / 21 millionth of all bitcoin for under $300 today.",
@@ -174,7 +174,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 12
           }
         },
         {
@@ -362,7 +362,7 @@
                       "report_reasons": null,
                       "author": "erikwithaknotac",
                       "parent_id": "t1_cl1bk56",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The market rewards the brave ones. Joe gets a dick in the ass, and justly so. Ball-less motherfucker....",
@@ -376,7 +376,7 @@
                       "created": 1412591300,
                       "author_flair_text": null,
                       "created_utc": 1412562500,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -397,7 +397,7 @@
                       "report_reasons": null,
                       "author": "Nooku",
                       "parent_id": "t1_cl1bk56",
-                      "score": 1,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I hate joe, and I love you",
@@ -411,7 +411,7 @@
                       "created": 1412577581,
                       "author_flair_text": null,
                       "created_utc": 1412548781,
-                      "ups": 1,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -447,17 +447,52 @@
                                 "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
-                                "body": "/u/Coinee, Phucknhell wants to send you a Bitcoin tip for 500 bits ($0.16). Follow me to **[collect it](https://www.changetip.com/collect/48622).**\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
-                                "edited": false,
+                                "body": "The Bitcoin tip for 500 bits ($0.16) has been collected by *Coinee*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
+                                "edited": 1412684114,
                                 "author_flair_css_class": null,
                                 "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"/u/Coinee\"&gt;/u/Coinee&lt;/a&gt;, Phucknhell wants to send you a Bitcoin tip for 500 bits ($0.16). Follow me to &lt;strong&gt;&lt;a href=\"https://www.changetip.com/collect/48622\"&gt;collect it&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 500 bits ($0.16) has been collected by &lt;em&gt;Coinee&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
                                 "subreddit": "Bitcoin",
                                 "score_hidden": false,
                                 "name": "t1_cl1pqe8",
                                 "created": 1412608487,
                                 "author_flair_text": null,
                                 "created_utc": 1412579687,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idvag",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2r659",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Coinee",
+                                "parent_id": "t1_cl1pq43",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Thanks Phucknhell!!!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks Phucknhell!!!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2r659",
+                                "created": 1412713705,
+                                "author_flair_text": null,
+                                "created_utc": 1412684905,
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
@@ -740,7 +775,7 @@
                                                     "report_reasons": null,
                                                     "author": "physalisx",
                                                     "parent_id": "t1_cl1dxvo",
-                                                    "score": 9,
+                                                    "score": 10,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Or you might just be an idiot.",
@@ -757,7 +792,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 9
+                                                    "ups": 10
                                                   }
                                                 }
                                               ],
@@ -772,7 +807,7 @@
                                           "report_reasons": null,
                                           "author": "eeeeeeessa",
                                           "parent_id": "t1_cl1d7un",
-                                          "score": -6,
+                                          "score": -8,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "did you read his post? he's talking about \"average joe\" like he's a real person. this guy is clearly mentally ill.",
@@ -786,7 +821,7 @@
                                           "created": 1412578170,
                                           "author_flair_text": null,
                                           "created_utc": 1412549370,
-                                          "ups": -6,
+                                          "ups": -8,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -804,7 +839,7 @@
                                 "report_reasons": null,
                                 "author": "dellintelbitcoin",
                                 "parent_id": "t1_cl1clv2",
-                                "score": 5,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Whats irrational about buying bitcoin right now?",
@@ -821,7 +856,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 3
                               }
                             },
                             {
@@ -1033,7 +1068,7 @@
                                                               "report_reasons": null,
                                                               "author": "eeeeeeessa",
                                                               "parent_id": "t1_cl1dtzs",
-                                                              "score": -4,
+                                                              "score": -5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "hey would RemindMe! work if I wanted it to say remind me in 2 months that you're a faggot?",
@@ -1047,7 +1082,7 @@
                                                               "created": 1412578210,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412549410,
-                                                              "ups": -4,
+                                                              "ups": -5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1161,7 +1196,7 @@
                       "report_reasons": null,
                       "author": "eeeeeeessa",
                       "parent_id": "t1_cl1bk56",
-                      "score": -8,
+                      "score": -7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "this is an amazing post. I'm going to screenshot and timestamp this because people in the future are going to want a raw look at just how irrational markets can be.\n\nalso, if you're buying bitcoins I hate to break it to you, but you're the average joe. bitcoins do not make you special. not even a little bit.",
@@ -1175,7 +1210,7 @@
                       "created": 1412575347,
                       "author_flair_text": null,
                       "created_utc": 1412546547,
-                      "ups": -8,
+                      "ups": -7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1193,7 +1228,7 @@
             "report_reasons": null,
             "author": "Coinee",
             "parent_id": "t3_2idvag",
-            "score": 24,
+            "score": 23,
             "approved_by": null,
             "controversiality": 0,
             "body": "That's the truth!!! You could throw 10 bitcoins at joe and he would not care or he would want more...it's truly amazing... That's why they call him avg joe... He won't buy now... He won't buy at $10... He will complain when they are 10k because he certainly cannot afford one then... He's avg joe that is a fucking leech on the system... Meanwhile, I'm taking all the risks at $660, $510, and now $309... I'm not complaining when it goes down. I quietly buy more. Avg Joe better keep his fucking mouth shut when this goes up... Because absolutely everyone had an opportunity to buy at these levels, but instead they bought high and sold low... Go to hell joe!",
@@ -1210,7 +1245,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 24
+            "ups": 23
           }
         },
         {
@@ -1500,7 +1535,7 @@
             "report_reasons": null,
             "author": "CP70",
             "parent_id": "t3_2idvag",
-            "score": 3,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Awww there's good ol Ripple Tits. I missed her. ",
@@ -1517,7 +1552,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -1691,7 +1726,7 @@
                                 "report_reasons": null,
                                 "author": "pdtmeiwn",
                                 "parent_id": "t1_cl1f2yh",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yes, that's why airdrops like Auroracoin or the one planned for Dominica are a bad idea.  Giving something for free to people who don't value it won't yield good results.",
@@ -1708,7 +1743,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             },
                             {
@@ -1817,7 +1852,7 @@
                                           "report_reasons": null,
                                           "author": "pb1x",
                                           "parent_id": "t1_cl1fgpp",
-                                          "score": 3,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Bitcoin is currency not wealth\n\nWealth is assets of all kinds, currency would only be a small part of that\n\nBitcoin can't possibly change the wealth distribution, neither could any currency system crypto or otherwise",
@@ -1831,7 +1866,7 @@
                                           "created": 1412592836,
                                           "author_flair_text": null,
                                           "created_utc": 1412564036,
-                                          "ups": 3,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1916,7 +1951,7 @@
                       "report_reasons": null,
                       "author": "Amanojack",
                       "parent_id": "t1_cl1d6zj",
-                      "score": 7,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Power law distributions are inevitable in any system.\n\nEDIT: Even if you could airdrop an equal portion of all the bitcoins on every person in the world, which would be the fairest possible distribution, most people would have sold at the first doubling of price. (Think about it.) And with each doubling, exponentially fewer people would remain, with the people who understood and believed in Bitcoin soon emerging as huge holders. \n\nOf course even they would need balls forged of iron to retain those huge stashes they were initially able to buy when everyone scoffed at them, since the same mortal risks would have existed all the way up. Anyone who holds 99% of their net worth in Bitcoin knowing that a simple hack of the system could reduce their net worth by 99%, from say being a millionaire to being a ten-thousandaire, for years and years of insane volatility, deserves every bitcoin they can keep, in my opinion. \n\nSeveral statistical analyses have mentioned that the average holder retains only 83% of their bitcoins after each doubling. I don't know if that is accurate, but a quick look at incentives suggests something in that ballpark would be sensible portfolio balancing for people who are very confident in the \"binary bet.\" That would mean only something like 400 of the original 10,000 bitcoins are likely to be retained by the people who ordered one of the fabled Papa John's pizzas for Laszlo Hanyecz all those years ago. That's a nice return, but hardly an insane reward for holding tight all these years while most people laughed and jeered from the sidelines.",
@@ -1930,7 +1965,7 @@
                       "created": 1412580642,
                       "author_flair_text": null,
                       "created_utc": 1412551842,
-                      "ups": 7,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1948,7 +1983,7 @@
             "report_reasons": null,
             "author": "HamBlamBlam",
             "parent_id": "t3_2idvag",
-            "score": 6,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Pro-tip:  if you want mass adoption of your cryptocurrency, don't set a fixed supply and then put over half of it in a few people's hands.  ",
@@ -1965,7 +2000,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 8
           }
         },
         {
@@ -1983,7 +2018,7 @@
             "report_reasons": null,
             "author": "thelsdj",
             "parent_id": "t3_2idvag",
-            "score": 2,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'm not sure you understand what real inequality is. The people who could most benefit from Bitcoin can't afford to buy any today either, because they barely have the money to pay their bills let alone buy Bitcoin and hope it doesn't lose value before they get a chance to use it. \n\nThe technological cost and security comprehension required at this point is also not enough to offset the ease of use of Western Union or something.\n\nBitcoin has a LOOOOONG way to go before its remotely usable for those suffering from inequality.",
@@ -2000,7 +2035,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 4
           }
         },
         {
@@ -2097,7 +2132,7 @@
             "report_reasons": null,
             "author": "halcy",
             "parent_id": "t3_2idvag",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "I do not want to buy Bitcoins. I want to buy things, using bitcoins. I do not _care_ about bitcoins, beyond that they could be a great tool enabling me to buy and sell things without having to pay too many fees, from anybody, or maybe to do cool things that I can't even think of right now, but at no point in the process are bitcoins a thing I wish to own more than I wish to own any other currency. For me, the exact \"price\" does not matter, but the fantasy based pricing driven rollercoaster that is \"bitcoin investing\" does. \n\nI really do somewhat hope that the price crashes and that people using bitcoin as an \"investment\" rather than as a tool to do things move on to something else. ",
@@ -2114,7 +2149,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -2238,7 +2273,7 @@
                                           "report_reasons": null,
                                           "author": "xithy",
                                           "parent_id": "t1_cl1gwzq",
-                                          "score": 2,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Prove it",
@@ -2252,7 +2287,7 @@
                                           "created": 1412604241,
                                           "author_flair_text": null,
                                           "created_utc": 1412575441,
-                                          "ups": 2,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2270,7 +2305,7 @@
                                 "report_reasons": null,
                                 "author": "Snootwaller",
                                 "parent_id": "t1_cl1g0q2",
-                                "score": -1,
+                                "score": -2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Maybe I will. Thanks for the idea, pumpkin.",
@@ -2287,7 +2322,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": -2
                               }
                             }
                           ],
@@ -2381,7 +2416,7 @@
                       "report_reasons": null,
                       "author": "danielravennest",
                       "parent_id": "t1_cl1acaz",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I'm looking forward to the day when you can buy 10,000 pizzas for 2 BTC.",
@@ -2395,7 +2430,7 @@
                       "created": 1412581143,
                       "author_flair_text": null,
                       "created_utc": 1412552343,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2614,7 +2649,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "truemeliorist",
                                                                                             "parent_id": "t1_cl1bhbk",
-                                                                                            "score": 5,
+                                                                                            "score": 4,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Absolutely agree then :)",
@@ -2631,7 +2666,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 5
+                                                                                            "ups": 4
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -2646,7 +2681,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "pdtmeiwn",
                                                                                   "parent_id": "t1_cl1bf6l",
-                                                                                  "score": 9,
+                                                                                  "score": 8,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Yeah, I'm not arguing that it creates equal ownership.  I think it creates *fairly* equal opportunity to own.  ",
@@ -2660,7 +2695,7 @@
                                                                                   "created": 1412572951,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412544151,
-                                                                                  "ups": 9,
+                                                                                  "ups": 8,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2789,7 +2824,7 @@
                                                               "report_reasons": null,
                                                               "author": "pdtmeiwn",
                                                               "parent_id": "t1_cl1arpm",
-                                                              "score": 10,
+                                                              "score": 9,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Sure, it's hard for someone to buy 10000 today.\n\nBut it's not that hard to buy 1 today.  There are probably millions of people in the US who could buy 1, who know about Bitcoin, but won't do it.  Why not?  Because they evaluate the risk/reward and choose not to.  Yet, I'm fairly certain that two years from now, they'll regret it.\n\nThe point I'm making is that when the guy bought the pizza with 10,000 bitcoins, there were plenty of people who could've bought bitcoins but didn't.  Many people actually mined them but then lost them because they didn't think they'd amount to anything.\n\nLet's do a thought experiment.  A magic Bitcoin fairy snaps her fingers and everyone in the world gets an equal # of bitcoins.  Nobody has any more or any less than anyone else.  There are markets to buy and sell bitcoins.  What happens next?\n\nI guarantee you that 99% of people will sell their bitcoins for what the market will bear.  And that 1% will gladly buy these bitcoins.  And you'll get the same or nearly the same distribution of ownership you have today.\n\nI don't find this unfair.  Everyone has a choice.  If a market exists, the people who don't own any today are choosing not to buy any today, just like I chose not to buy any at $1 in April 2011 when I first heard about them.  ",
@@ -2803,7 +2838,7 @@
                                                               "created": 1412572048,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412543248,
-                                                              "ups": 10,
+                                                              "ups": 9,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2821,7 +2856,7 @@
                                                     "report_reasons": null,
                                                     "author": "truemeliorist",
                                                     "parent_id": "t1_cl1ao9l",
-                                                    "score": -2,
+                                                    "score": -3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "But again, someone out there has 10000 bitcoins for making 2 pizzas.\n\nI could spend an entire week's salary and afford 5 at current prices.\n\nThat is not a fair stake or any remote type of equality of ownership.",
@@ -2838,7 +2873,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -2
+                                                    "ups": -3
                                                   }
                                                 }
                                               ],
@@ -2885,7 +2920,7 @@
                                 "report_reasons": null,
                                 "author": "truemeliorist",
                                 "parent_id": "t1_cl1afos",
-                                "score": -10,
+                                "score": -8,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I disagree. Your argument is that the average Joe has a chance to get coins at a low price and that that defeats inequality of ownership, unless I am misunderstanding you (which is entirely possible).\n\nThe fact is, there is no way for average people/investors to get a fair stake in the bitcoin game at this point.",
@@ -2902,7 +2937,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -10
+                                "ups": -8
                               }
                             }
                           ],
@@ -2917,7 +2952,7 @@
                       "report_reasons": null,
                       "author": "pdtmeiwn",
                       "parent_id": "t1_cl1acaz",
-                      "score": 9,
+                      "score": 10,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The average joe does not want ANY bitcoins right now.  \n\nAnd I guarantee you the average joe would not have bought any bitcoins even at the prices at which the pizzas were sold.  ",
@@ -2931,7 +2966,7 @@
                       "created": 1412570827,
                       "author_flair_text": null,
                       "created_utc": 1412542027,
-                      "ups": 9,
+                      "ups": 10,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3259,7 +3294,7 @@
                       "report_reasons": null,
                       "author": "Orgazmorator",
                       "parent_id": "t1_cl1bkjj",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The central banks can always push the price of their currencies down. People with a lot of bitcoins, can only push the price down as long as they still have bitcoins. When they have sold them all, they have no more power to do so.",
@@ -3273,7 +3308,7 @@
                       "created": 1412575054,
                       "author_flair_text": null,
                       "created_utc": 1412546254,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3361,7 +3396,7 @@
             "report_reasons": null,
             "author": "BTCoverlord",
             "parent_id": "t3_2idvag",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yes, it's an illustrative day to people that complain about inequality of ownership in bitcoin but because of the exact opposite reason.\n\nThese last days are just proving that the bitcoin overlords that have 90% of the market volume and control all this cannot be trusted.\n\nWorst case scenario, I prefer to trust in the central banks as bad as they might be than in some kids that mined millions worth of BTC with their parents electricity in the early days.\n\nAfter all, since we don't have a say in neither scenario, I least I prefer the regulated and that - at least in part - responds to the democratic process, central bank authority.",
@@ -3378,7 +3413,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         }
       ],

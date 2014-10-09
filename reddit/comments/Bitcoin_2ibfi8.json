@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "owpunchinface",
             "media": null,
-            "score": 23,
+            "score": 22,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "An analysis of BTC fundamentals",
             "created_utc": 1412466794,
-            "ups": 23,
+            "ups": 22,
             "upvote_ratio": 0.73,
             "num_comments": 34,
             "visited": false,
@@ -125,7 +125,7 @@
                       "report_reasons": null,
                       "author": "owpunchinface",
                       "parent_id": "t1_cl0mdjx",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Haha, thanks! I loves me some good California Cab too.",
@@ -139,7 +139,7 @@
                       "created": 1412500076,
                       "author_flair_text": null,
                       "created_utc": 1412471276,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -157,7 +157,7 @@
             "report_reasons": null,
             "author": "fuyuasha",
             "parent_id": "t3_2ibfi8",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "I've had a little too much 90+ Lot 109 (Yountville Napa Cab) but  +1 analysis from a value investor ... feels right to me 2 - thanks man.  blockchain fridges /u/changetip verify",
@@ -174,7 +174,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -575,7 +575,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Right_In-The-Pussy",
                                                                         "parent_id": "t1_cl0mrwg",
-                                                                        "score": 0,
+                                                                        "score": -1,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "&gt; And how do you know how much leverage bitcoin miners hold over the market? How much of the entire market is held by these large miners? My research shows that the largest single holder of bitcoins is ~148k bitcoins, or roughly a little less than 1% of the entire market.\n\nit's quite simple, when just a handful of miners own the hashrate they can simply choose to shut it off and because difficulty takes o long to adjust the network is rendered useless.\n\ndecreasing margins in mining means less will survive, it's only logical big companies will retain larger share and thus \"take control\"\n\n",
@@ -592,7 +592,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 0
+                                                                        "ups": -1
                                                                       }
                                                                     }
                                                                   ],
@@ -639,7 +639,7 @@
                                                     "report_reasons": null,
                                                     "author": "Right_In-The-Pussy",
                                                     "parent_id": "t1_cl0m5lh",
-                                                    "score": 2,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Pretty much that but slightly more serious than with gold\n\n&gt;  Let me ask you, how is BTC any different?\n\n* Gold miners are not responsible for securing gold backed security's and gold reserves worldwide\n\n* Gold miners cannot hold the gold market hostage (it doesn't strictly *need* them to function) without the big bitcoin mining companies hashrate will drop off a cliff transactions take hours and bitcoin seizes to function. \n\nIn short gold miners don't have much leverage over the gold market, bitcoin miners do and should centralization continue it makes sense for them to collude and perhaps even demand changes to the protocol....or else\n\nDoes that seem like a genuine concern? ",
@@ -656,7 +656,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -703,7 +703,7 @@
                                 "report_reasons": null,
                                 "author": "Right_In-The-Pussy",
                                 "parent_id": "t1_cl0le8u",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I think if we have to choose between a future which is decentralized and one which is not I know which one will have a positive impact on price and which will have a negative.\n\nWhen the network is centralized to the point control over it rests in the hands of a dozen or so people we literally have the exact same thing as today's central bank system where miners control bitcoin rather than the other way around and the threat of them holding the network hostage suddenly becomes real. ",
@@ -720,7 +720,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -735,7 +735,7 @@
                       "report_reasons": null,
                       "author": "owpunchinface",
                       "parent_id": "t1_cl0l5w6",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "So, your concern is related to the *supply* of BTC. My analysis is on the *demand*, and while they are two sides of the same coin, I would argue that even if supply production were to completely halt today and supply were fixed at something like 10 million BTC (I'm just using that number), there would still be 10,000,000 satoshi/BTC * 10,000,000 BTC = some very large amount of BTCs in circulation. There would still be enough in circulation to conduct transactions.\n\nAs demand goes up, however, the price/BTC would rise and incentivize miners to get back into the game, and create more supply, because creating one more BTC would become worth it at some price point.",
@@ -749,7 +749,7 @@
                       "created": 1412496604,
                       "author_flair_text": null,
                       "created_utc": 1412467804,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -767,7 +767,7 @@
             "report_reasons": null,
             "author": "Right_In-The-Pussy",
             "parent_id": "t3_2ibfi8",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Good post.\n\nI notice you didn't make any mention of mining centralization in the risks category.\n\nI've had lots of worries and made many posts about this but nobody can seem to allay my fears.\n\nHow does the following sit with you, \n\n\n*centralization and why it's inevitable* copy/paste from my post days ago [here](http://www.reddit.com/r/BitcoinMarkets/comments/2i5w7p/how_low_will_you_sell/ckzhlmf\n) \n&gt;Bitcoin was designed to be mined on cpu so everyone has easy access to the equipment and motivation to get involved \"it's easy and I can make some money supporting this cool network\"  this easy way for the average person to get involved and \"contribute\" \n\n&gt;enough hobby miners just doing it for fun makes it very hard for industrial operations to become viable since so many average joes are keeping the hash rate up just for kicks and not $$$.\n\n&gt;Satochi himself seen gpu mining as a bad thing as it would lead to a mining arms race with no space for the average joe to get involved so I can't imagine what he thinks of the ASIC generation and I think a lot of people who got into bitcoin to get away from central authority's will consider other coins more advantageous soon. \n\n&gt;The economics have changed now, I no longer have direct access to cheap bitcoin mining technology as that must now be bought new from an ASIC supplier that has more monetary motivation to use the equipment themselves and sell the coins directly for profit than sell it to me for less so I can mine coins for a profit.\n\n&gt;In theory there is no motivation for a producer of mining equipment to ever sell it to the end consumer when they can make more profit using it themselves (look at butterfly labs for a perfect example of this)\n\n&gt;Just look at where we are today \"cloud hashing\" is ASIC producers sucking more $$ out of people who think they can mine a bitcoin for less than the market price, as the price of bitcoin declines they just adjust their pricing to keep people interested so it's clear they can mine themselves for less.\n\n&gt;The only hope I can find for a more decentralized future is people running miners in winter because they also produce heat but again this is unlikely as why would ASIC producers put their most cutting edge chips into consumer machines and eat away at their own bottom line?\n\nBitcoin mining protocol will either have to be changed or at some point mining will become so comparative only a few major industrial operations will remain.",
@@ -784,7 +784,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -898,7 +898,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "sanswork",
                                                                                             "parent_id": "t1_cl0v0hi",
-                                                                                            "score": -1,
+                                                                                            "score": 0,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Unfortunately no but most people using cold storage and such still have hot wallets.  I'd say the number of users without any hot wallets would be small enough to ignore in your count.",
@@ -915,7 +915,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": -1
+                                                                                            "ups": 0
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -962,7 +962,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "sanswork",
                                                                         "parent_id": "t1_cl0uw2o",
-                                                                        "score": 0,
+                                                                        "score": 1,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Some people probably do for sure.  It would take 5 minutes to write a script to crank out blockchain wallets and considering how many people use it as an indicator of success I wouldn't be surprised if at least a few people have done it already.  But what I was saying was actually that people create multiple wallets on those sites all the time even for normal usage.  I have a bunch of blockchain wallets for different reasons and 3 coinbase accounts from when I've forgotten I had an account and signed up again with a new email address.\n\n&gt;What would be a better way to measure the number of bitcoin users then?\n\n[MAU](http://en.wikipedia.org/wiki/Monthly_Active_Users) on those sites.",
@@ -979,7 +979,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 0
+                                                                        "ups": 1
                                                                       }
                                                                     }
                                                                   ],
@@ -1026,7 +1026,7 @@
                                                     "report_reasons": null,
                                                     "author": "sanswork",
                                                     "parent_id": "t1_cl0lw1c",
-                                                    "score": -1,
+                                                    "score": 0,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "There is no limit to how many blockchain wallets an individual can have.  Same for coinbase.  When either of them start reporting MAU grouped by ip then it will be a figure worth using.",
@@ -1043,7 +1043,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -1
+                                                    "ups": 0
                                                   }
                                                 }
                                               ],
@@ -1125,7 +1125,7 @@
                                 "report_reasons": null,
                                 "author": "Hodldown",
                                 "parent_id": "t1_cl0l9qu",
-                                "score": -3,
+                                "score": -2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Number of transactions has gone from 35,000 a day to 65,000 a day in the past two years so I mean I guess the price from two years ago should be double now? ",
@@ -1142,7 +1142,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -3
+                                "ups": -2
                               }
                             }
                           ],
@@ -1239,7 +1239,7 @@
                                 "report_reasons": null,
                                 "author": "BuffyButtcoinSlayer",
                                 "parent_id": "t1_cl0mdbj",
-                                "score": 1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Cmon, be a bro and let poor hodldown enjoy his bubble pop. We'll get our turn to laugh at him again soon enough. ",
@@ -1256,7 +1256,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 0
                               }
                             }
                           ],
@@ -1271,7 +1271,7 @@
                       "report_reasons": null,
                       "author": "BigMoneyGuy",
                       "parent_id": "t1_cl0l5wj",
-                      "score": 5,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yeah, for the sake of trolling let's ignore the millions that have been invested in research, development and infrastructure, which has created the most powerful distributed computing network that mankind has ever seen. ",
@@ -1285,7 +1285,7 @@
                       "created": 1412498958,
                       "author_flair_text": null,
                       "created_utc": 1412470158,
-                      "ups": 5,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1303,7 +1303,7 @@
             "report_reasons": null,
             "author": "Hodldown",
             "parent_id": "t3_2ibfi8",
-            "score": -1,
+            "score": -3,
             "approved_by": null,
             "controversiality": 0,
             "body": "The fundamentals haven't changed since the 4 years bitcoin was like 5 dollars or less either.  \n\nFundamentals is just the new word /r/bitcoin decided to coopt. Just like with FOMO and anti fragile and a bunch of other crap. In 5 years the protocol has barely changed and bitcoin can head back to the price it spent most of it's entire life very easily. ",
@@ -1320,7 +1320,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": -3
           }
         },
         {

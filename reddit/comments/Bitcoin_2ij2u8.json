@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "CLE_MMMurphy",
             "media": null,
-            "score": 3,
+            "score": 9,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "5 btc offered to lucky customer who orders the rise and rise of bitcoin soon",
             "created_utc": 1412658745,
-            "ups": 3,
-            "upvote_ratio": 1,
-            "num_comments": 0,
+            "ups": 9,
+            "upvote_ratio": 0.71,
+            "num_comments": 1,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -62,7 +62,43 @@
     "kind": "Listing",
     "data": {
       "modhash": "",
-      "children": [],
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ij2u8",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl34uev",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "coincrazyy",
+            "parent_id": "t3_2ij2u8",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "pretty pathetic",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;pretty pathetic&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl34uev",
+            "created": 1412742267,
+            "author_flair_text": null,
+            "created_utc": 1412713467,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
       "after": null,
       "before": null
     }

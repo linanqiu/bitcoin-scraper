@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "treyhtx89",
             "media": null,
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "ELI5: What the hell is going on with Bitcoin?",
             "created_utc": 1412615261,
-            "ups": 3,
-            "upvote_ratio": 0.64,
-            "num_comments": 16,
+            "ups": 2,
+            "upvote_ratio": 0.58,
+            "num_comments": 17,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "geren27",
             "parent_id": "t3_2igp3f",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "We've been in a downtrend for a little while now. This was compounded over the last days (weeks?) with someone(s) who wanted to sell a large number of bitcoin and/or manipulate the market. This pushed the market down further until it culminated with a huge ~30k BTC wall at $300 that was eventually bought up.\n\nWhy are we in a downtrend? That's the golden question. You will probably get 50 different answers. Anything from USD rally, to Bitcoin overvalued, to Bitcoin dieing, to it was all manipulation.\n\nAre the someone(s) who are selling large amounts of BTC/manipulating the market done? Will we reverse into an uptrend? Nobody knows.",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -262,7 +262,7 @@
             "report_reasons": null,
             "author": "Novazilla",
             "parent_id": "t3_2igp3f",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "just hold on man it's gonna be a wild ride.",
@@ -279,7 +279,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -367,7 +367,7 @@
             "report_reasons": null,
             "author": "PASSO3058",
             "parent_id": "t3_2igp3f",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "People bought... People sold.  :-)",
@@ -384,7 +384,42 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igp3f",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl33aoq",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "prof7bit",
+            "parent_id": "t3_2igp3f",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Because its price is volatile and has always been. This is nothing new.\n\nBitcoin itself is working fine, nothing is \"going on\" with it, it still works as well as it has always done.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Because its price is volatile and has always been. This is nothing new.&lt;/p&gt;\n\n&lt;p&gt;Bitcoin itself is working fine, nothing is &amp;quot;going on&amp;quot; with it, it still works as well as it has always done.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl33aoq",
+            "created": 1412739513,
+            "author_flair_text": null,
+            "created_utc": 1412710713,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
           }
         },
         {
@@ -426,7 +461,7 @@
                                 "report_reasons": null,
                                 "author": "bubbleberry1",
                                 "parent_id": "t1_cl20qfx",
-                                "score": 4,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Can't believe this is the top answer.*\n\nSelling bitcoins when there is no buyer is known as burning or destroying bitcoins. That's obviously not what's happening.\n\nRather, more people want to sell than buy, allowing buyers to negotiate a better deal (i.e. lower price)\n\nWe can ask WHY more people are selling than buying, but the comment you replied to (\"price is dropping because no one is buying bitcoin, everyone is just selling\") is so stupid that it should be ridiculed instead of upvoted.\n\n*Edit: I mean the comment you replied to, not yours :)",
@@ -443,7 +478,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -458,7 +493,7 @@
                       "report_reasons": null,
                       "author": "Essexal",
                       "parent_id": "t1_cl207ti",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "So 30,000 sold in 6 hours, but no-one's buying?   ",
@@ -472,7 +507,7 @@
                       "created": 1412645140,
                       "author_flair_text": null,
                       "created_utc": 1412616340,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -493,7 +528,7 @@
                       "report_reasons": null,
                       "author": "mitchwells",
                       "parent_id": "t1_cl207ti",
-                      "score": -4,
+                      "score": -5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This is the correct answer. ",
@@ -507,7 +542,7 @@
                       "created": 1412645031,
                       "author_flair_text": null,
                       "created_utc": 1412616231,
-                      "ups": -4,
+                      "ups": -5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -560,7 +595,7 @@
             "report_reasons": null,
             "author": "hio_State",
             "parent_id": "t3_2igp3f",
-            "score": -4,
+            "score": -3,
             "approved_by": null,
             "controversiality": 0,
             "body": "It's crashing, get out now while it's still worth something.",
@@ -577,7 +612,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -4
+            "ups": -3
           }
         },
         {
@@ -630,7 +665,7 @@
             "report_reasons": null,
             "author": "seven_five",
             "parent_id": "t3_2igp3f",
-            "score": -6,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Everyone has realized there is no value to it. Get out like your life depends on it!!",
@@ -647,7 +682,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -4
           }
         }
       ],

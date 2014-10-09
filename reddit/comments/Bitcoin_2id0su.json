@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "Godfreee",
             "media": null,
-            "score": 300,
+            "score": 303,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "The price dropping doesn't seem to be affecting remitters using our Bitcoin remittance service. The utility of Bitcoin hasn't changed, it is still the cheapest and fastest way to send and receive money, no matter the price.",
             "created_utc": 1412522374,
-            "ups": 300,
+            "ups": 303,
             "upvote_ratio": 0.87,
-            "num_comments": 90,
+            "num_comments": 91,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -258,6 +258,41 @@
                       "num_reports": null,
                       "distinguished": null
                     }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2id0su",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2pdv8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "minedAblock",
+                      "parent_id": "t1_cl11uhf",
+                      "score": 0,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Thanks for helping drive the price down Eric.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for helping drive the price down Eric.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2pdv8",
+                      "created": 1412705223,
+                      "author_flair_text": null,
+                      "created_utc": 1412676423,
+                      "ups": 0,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
                   }
                 ],
                 "after": null,
@@ -271,7 +306,7 @@
             "report_reasons": null,
             "author": "evoorhees",
             "parent_id": "t3_2id0su",
-            "score": 30,
+            "score": 31,
             "approved_by": null,
             "controversiality": 0,
             "body": "Just paid a BitPay invoice yesterday. Took 3 seconds. Let traders play with the price. Bitcoin works great at $10 and $10,000.",
@@ -288,7 +323,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 30
+            "ups": 31
           }
         },
         {
@@ -532,7 +567,7 @@
                                 "report_reasons": null,
                                 "author": "johnbrowncominforya",
                                 "parent_id": "t1_cl135yt",
-                                "score": -1,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Why not just become a Ripple gateway as well?  That would make an easy fiat to fiat  exchange.  There's a market for it from NA and Europe.\n\nEdit: Nevermind the question was already asked and downvoted of course found it at the end of the thread.  Any reason why not adding a ripple gateway?  Not a lot of work.",
@@ -549,7 +584,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 1
                               }
                             }
                           ],
@@ -564,7 +599,7 @@
                       "report_reasons": null,
                       "author": "Godfreee",
                       "parent_id": "t1_cl121kg",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Right now the only way to do that is to have a bank account connected to coinbase and do it directly from there (there is an option to log in via coinbase). So fiat in the bank buy btc with coinbase and then send to rebit and we switch it out to fiat again here into the hands of the recipient. This will probably work with Circle as well. \n\nTo make it seem like it is fiat to fiat to the customer is our end goal, of course.",
@@ -578,7 +613,7 @@
                       "created": 1412556755,
                       "author_flair_text": null,
                       "created_utc": 1412527955,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -599,7 +634,7 @@
                       "report_reasons": null,
                       "author": "EgyptWhite",
                       "parent_id": "t1_cl121kg",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Nah. Makes far more sense to go to the time, effort and expense of converting fiat to Bitcoin, so that the Bitcoin you send can be immediately converted back into fiat, rather than simply not having to convert anything, as with normal remittance services.\n",
@@ -613,7 +648,7 @@
                       "created": 1412580273,
                       "author_flair_text": null,
                       "created_utc": 1412551473,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -666,7 +701,7 @@
             "report_reasons": null,
             "author": "88OOAK",
             "parent_id": "t3_2id0su",
-            "score": 14,
+            "score": 12,
             "approved_by": null,
             "controversiality": 0,
             "body": "I viewed your service and noticed that the process of sending money is owning bitcoin first.\nDo you plan on implementing a process which is FIAT to FIAT to the costumer and behind the scence is FIAT to BITCOIN to FIAT?\n\nI hope you understood, english bad. ",
@@ -683,7 +718,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 12
           }
         },
         {
@@ -713,7 +748,7 @@
                       "report_reasons": null,
                       "author": "Godfreee",
                       "parent_id": "t1_cl16i4u",
-                      "score": 12,
+                      "score": 10,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yes it does. Once you send us the bitcoins, the peso value  will be locked in for you.",
@@ -727,7 +762,7 @@
                       "created": 1412585239,
                       "author_flair_text": null,
                       "created_utc": 1412556439,
-                      "ups": 12,
+                      "ups": 10,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -839,7 +874,7 @@
                                 "report_reasons": null,
                                 "author": "JuiceTheDon",
                                 "parent_id": "t1_cl17efm",
-                                "score": 8,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "That's what you always say. That's what people were saying early 2014, that's what people are going to be saying late 2015 if bitcoin is still around. And guess what, its still going to be JUST AS VOLATILE.",
@@ -856,7 +891,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 6
                               }
                             },
                             {
@@ -1044,7 +1079,7 @@
                                           "report_reasons": null,
                                           "author": "Postal2Dude",
                                           "parent_id": "t1_cl1alnn",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Wait until the dollar crashes.",
@@ -1058,7 +1093,7 @@
                                           "created": 1412573882,
                                           "author_flair_text": null,
                                           "created_utc": 1412545082,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1076,7 +1111,7 @@
                                 "report_reasons": null,
                                 "author": "AnonymousRev",
                                 "parent_id": "t1_cl17efm",
-                                "score": -1,
+                                "score": -2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "..... cough, but it will never match regulated curriences",
@@ -1093,7 +1128,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": -2
                               }
                             },
                             {
@@ -1143,7 +1178,7 @@
                       "report_reasons": null,
                       "author": "arcrad",
                       "parent_id": "t1_cl16i4u",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The volatility of bitcoin will (should...) decrease substantially over time. ",
@@ -1157,7 +1192,7 @@
                       "created": 1412565104,
                       "author_flair_text": null,
                       "created_utc": 1412536304,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1289,7 +1324,7 @@
             "report_reasons": null,
             "author": "bunk3rk1ng",
             "parent_id": "t3_2id0su",
-            "score": 14,
+            "score": 13,
             "approved_by": null,
             "controversiality": 0,
             "body": "Bitcoin seems to be a pretty terrible way to send remittances.  Lets say your family half way across the world needs $500.  You send $500 worth of bitcoins.  Since they are half way around the world, they are asleep.  They wake up hours later and try to get the money.  But it's not worth $500 anymore ;_;  Does this service prevent that?",
@@ -1306,7 +1341,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 13
           }
         },
         {
@@ -1710,7 +1745,7 @@
             "report_reasons": null,
             "author": "AnythingForSuccess",
             "parent_id": "t3_2id0su",
-            "score": 6,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yeah, sure it is, OP. Only one small problem, once the other side actually figures out how to withdraw Bitcoin, it's price has fallen 40%.",
@@ -1727,7 +1762,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -2178,7 +2213,7 @@
                       "report_reasons": null,
                       "author": "Godfreee",
                       "parent_id": "t1_cl145q5",
-                      "score": 15,
+                      "score": 13,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Forgot to add \"that people actually use\".",
@@ -2192,7 +2227,7 @@
                       "created": 1412558982,
                       "author_flair_text": null,
                       "created_utc": 1412530182,
-                      "ups": 15,
+                      "ups": 13,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2213,7 +2248,7 @@
                       "report_reasons": null,
                       "author": "mxisaac",
                       "parent_id": "t1_cl145q5",
-                      "score": 6,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Isn't faster often/always less secure?",
@@ -2227,7 +2262,7 @@
                       "created": 1412564563,
                       "author_flair_text": null,
                       "created_utc": 1412535763,
-                      "ups": 6,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2280,7 +2315,7 @@
             "report_reasons": null,
             "author": "karljt",
             "parent_id": "t3_2id0su",
-            "score": -1,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt; it is still the cheapest and fastest way to send and receive money, no matter the price.\n\nEvery single altcoin that has been created after bitcoin is faster than bitcoin.\n\n\n",
@@ -2297,7 +2332,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 1
           }
         },
         {
@@ -2515,7 +2550,7 @@
                                 "report_reasons": null,
                                 "author": "WishingUponWhiskey",
                                 "parent_id": "t1_cl1145t",
-                                "score": -6,
+                                "score": -7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yea and things like NXT already do Bitcoins job better and faster. This is not the death of the blockchain regardless of what happens to bitcoin",
@@ -2532,7 +2567,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -6
+                                "ups": -7
                               }
                             }
                           ],
@@ -2860,7 +2895,7 @@
             "report_reasons": null,
             "author": "Logical007",
             "parent_id": "t3_2id0su",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yup. People have and will build services on top of the Blockchain that don't depend on a certain price per coin. Services that will make customers very happy.",
@@ -2877,7 +2912,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -2939,7 +2974,7 @@
             "report_reasons": null,
             "author": "sporkmonger",
             "parent_id": "t3_2id0su",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "BitPesa (also BTC remittances) had a pretty good week as well in terms of transfer volume, FWIW. Though I'd just like to veto calling these \"rebittances\". :-P",
@@ -2956,7 +2991,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -3062,7 +3097,7 @@
             "report_reasons": null,
             "author": "HamBlamBlam",
             "parent_id": "t3_2id0su",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "This is true.  At least until the protocol stops printing bitcoins to pay miners $20/transaction.  At that point, remittance is going to get a lot more expensive...",
@@ -3079,7 +3114,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {
@@ -3200,7 +3235,7 @@
                                 "report_reasons": null,
                                 "author": "Dogecoin-Billionaire",
                                 "parent_id": "t1_cl13b30",
-                                "score": -3,
+                                "score": -5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Why not? Ripple seems like a much better way of doing it.",
@@ -3217,7 +3252,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -3
+                                "ups": -5
                               }
                             }
                           ],
@@ -3232,7 +3267,7 @@
                       "report_reasons": null,
                       "author": "Godfreee",
                       "parent_id": "t1_cl12mzn",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "No.",
@@ -3246,7 +3281,7 @@
                       "created": 1412557068,
                       "author_flair_text": null,
                       "created_utc": 1412528268,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3264,7 +3299,7 @@
             "report_reasons": null,
             "author": "bitemperor",
             "parent_id": "t3_2id0su",
-            "score": -3,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "have you considered using Ripple for your purposes? Doesn't it make sense? ",
@@ -3281,7 +3316,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -4
           }
         },
         {
@@ -3343,7 +3378,7 @@
             "report_reasons": null,
             "author": "bitcoin42",
             "parent_id": "t3_2id0su",
-            "score": -5,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "There are way better coins for remittance!",
@@ -3360,7 +3395,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -4
           }
         },
         {

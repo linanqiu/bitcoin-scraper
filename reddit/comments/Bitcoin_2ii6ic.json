@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "cryptopickcanada",
             "media": null,
-            "score": 4,
+            "score": 8,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Official Opening of new Bitcoin ATM in Nanaimo,BC,Canada!",
             "created_utc": 1412640743,
-            "ups": 4,
-            "upvote_ratio": 0.68,
-            "num_comments": 0,
+            "ups": 8,
+            "upvote_ratio": 0.77,
+            "num_comments": 1,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -62,7 +62,43 @@
     "kind": "Listing",
     "data": {
       "modhash": "",
-      "children": [],
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ii6ic",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2n7nv",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "CoinATMRadar",
+            "parent_id": "t3_2ii6ic",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "What are the fees size and limits you set for this unit?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What are the fees size and limits you set for this unit?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2n7nv",
+            "created": 1412693297,
+            "author_flair_text": null,
+            "created_utc": 1412664497,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
       "after": null,
       "before": null
     }

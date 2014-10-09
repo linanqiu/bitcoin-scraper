@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "BashCoBot",
             "media": null,
-            "score": 27,
+            "score": 23,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "[Bitcoin Today] Sunday, October 05, 2014",
             "created_utc": 1412503204,
-            "ups": 27,
-            "upvote_ratio": 0.8,
+            "ups": 23,
+            "upvote_ratio": 0.75,
             "num_comments": 29,
             "visited": false,
             "num_reports": null,
@@ -190,7 +190,7 @@
                                 "report_reasons": null,
                                 "author": "BashCo",
                                 "parent_id": "t1_cl0xyzp",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "It's an entertaining thought, but I really don't think the IRS is nearly that competent. Also, I don't recall ever reading that bitcoin was completely anonymous. In fact, not being anonymous enough is one of the main criticisms against it.\n\nAs for tracking addresses with spam, I suppose it's possible, but I wonder if the actual intent is to bloat the blockchain over time.",
@@ -207,7 +207,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -289,7 +289,7 @@
             "report_reasons": null,
             "author": "J2383",
             "parent_id": "t3_2iciwi",
-            "score": 6,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "I see a lot of mentions about the massive amounts of recent dust spamming being meant for tracking where coins end up, and not link spam as it appears. For anyone who thinks this, I'm curious as to why it would be needed to dust wallet addresses since the blockchain is public already. Why not just keep an eye on the wallets you want to track? It's not as if the dust is going to appear on the other side of a tumbler any more than the coins already in the wallet will",
@@ -306,7 +306,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -380,7 +380,7 @@
                       "report_reasons": null,
                       "author": "throwawaycopycat",
                       "parent_id": "t1_cl0xv73",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "1- Start up  \n2- Cash in  \n3- Sell out  \n4- Bro down  ",
@@ -394,7 +394,7 @@
                       "created": 1412543987,
                       "author_flair_text": null,
                       "created_utc": 1412515187,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -415,7 +415,7 @@
                       "report_reasons": null,
                       "author": "danielravennest",
                       "parent_id": "t1_cl0xv73",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "How does Google run many of their services without fees?  Customer information and advertising.  Circle will build a database of verified people with verified amounts of money.  That's worth quite a bit to marketers.  Expect to see marketing parterships once they build up enough customers.  Low fees is just the honey to attract users, like free email with big storage was the honey to start up gmail.\n\nIt's quite possible their intended business model is to be bought out by someone bigger.  They just have to not run out of money until that happens.",
@@ -429,7 +429,7 @@
                       "created": 1412544969,
                       "author_flair_text": null,
                       "created_utc": 1412516169,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -447,7 +447,7 @@
             "report_reasons": null,
             "author": "BashCo",
             "parent_id": "t3_2iciwi",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "Do we know what Circle's business model is at this point? I know it's been discussed, but haven't seen much conclusion. They have a razor thin spread and I'm curious how they're able to operate without a traditional fee structure.",
@@ -464,7 +464,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -526,7 +526,7 @@
             "report_reasons": null,
             "author": "amendment64",
             "parent_id": "t3_2iciwi",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "So yesterday I was able to buy my flights to Ecuador using BTC!!!  3.6BTC later and my gf and I are off for 4 months of paradise backpacking through South America(don't worry, I rebought what I spent with some fiat)!  I'd like to use my bits as much as I can down there, but I'm not really too sure how many opportunities I will have.  However, overall, Cheapair had competitive prices and made to process super simple.  Tell me Bitcoin isn't a currency now, trolls, cause from my vantage point it's serving that purpose quite well :).",
@@ -543,7 +543,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -597,7 +597,7 @@
                                           "report_reasons": null,
                                           "author": "BTCisGod",
                                           "parent_id": "t1_cl0wji4",
-                                          "score": 2,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "There is a setting/flag you can give to the program to set whichever data directory you want.  https://en.bitcoin.it/wiki/Data_directory#Mac",
@@ -611,7 +611,7 @@
                                           "created": 1412533940,
                                           "author_flair_text": null,
                                           "created_utc": 1412505140,
-                                          "ups": 2,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -661,7 +661,7 @@
                       "report_reasons": null,
                       "author": "BTCisGod",
                       "parent_id": "t1_cl0wbxt",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Sure, sounds like overkill. I believe bitcoind/qt needs about 2 gigs of RAM to initially burn in the blockchain.  I run with about 1mb up/down no problem.  It is better for the network and faster for you if you grab most of the initial blockchain over torrent: https://bitcointalk.org/index.php?topic=145386.0",
@@ -675,7 +675,7 @@
                       "created": 1412533402,
                       "author_flair_text": null,
                       "created_utc": 1412504602,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -720,7 +720,7 @@
                                           "report_reasons": null,
                                           "author": "lclc_",
                                           "parent_id": "t1_cl0wzjw",
-                                          "score": 2,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "btcd should also run on OS X. You have to compile it, should be easy with Go.",
@@ -734,7 +734,7 @@
                                           "created": 1412555250,
                                           "author_flair_text": null,
                                           "created_utc": 1412526450,
-                                          "ups": 2,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -752,7 +752,7 @@
                                 "report_reasons": null,
                                 "author": "Fred-Stiller-OnAWire",
                                 "parent_id": "t1_cl0wvm1",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Thanks for that but I see no mention of a Mac version, is it Linux only? I'm a complete idiot with that kind of stuff.",
@@ -769,7 +769,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -784,7 +784,7 @@
                       "report_reasons": null,
                       "author": "lclc_",
                       "parent_id": "t1_cl0wbxt",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Please consider running an alternative full node implementation to help diversify the network, e.g. btcd or libbitcoin: https://opensource.conformal.com/wiki/btcd\n\nbtcd also needs less resources than Bitcoin Core.",
@@ -798,7 +798,7 @@
                       "created": 1412535923,
                       "author_flair_text": null,
                       "created_utc": 1412507123,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -816,7 +816,7 @@
             "report_reasons": null,
             "author": "Fred-Stiller-OnAWire",
             "parent_id": "t3_2iciwi",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'm not sure if I will be able to get it set up but would a 2012 Mac mini server be good enough to run a full node with about 60Mb down / 15Mb up?",
@@ -833,7 +833,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -863,7 +863,7 @@
                       "report_reasons": null,
                       "author": "aristander",
                       "parent_id": "t1_cl0zvm5",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "No. The venture capital has flowed into businesses, not buying bitcoins. If they were trying to get out they'd be selling the businesses, not dumping bitcoins in market sells.",
@@ -877,7 +877,7 @@
                       "created": 1412557542,
                       "author_flair_text": null,
                       "created_utc": 1412528742,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -942,7 +942,7 @@
                       "report_reasons": null,
                       "author": "Amanojack",
                       "parent_id": "t1_cl10cm2",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yeah, that's the whole idea in a way, and it has already been doing that in some niche arenas for several years.",
@@ -956,7 +956,7 @@
                       "created": 1412554713,
                       "author_flair_text": null,
                       "created_utc": 1412525913,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -974,7 +974,7 @@
             "report_reasons": null,
             "author": "dillpicklechips",
             "parent_id": "t3_2iciwi",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "If bitcoin is the internet of finance, will it route around market inefficencies similar to how the internet routes around errors/censorship? ",
@@ -991,7 +991,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -1021,7 +1021,7 @@
                       "report_reasons": null,
                       "author": "BashCo",
                       "parent_id": "t1_cl0wumj",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If true, you've got MUCH bigger things to worry about.",
@@ -1035,7 +1035,7 @@
                       "created": 1412541211,
                       "author_flair_text": null,
                       "created_utc": 1412512411,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1091,7 +1091,7 @@
                       "report_reasons": null,
                       "author": "miles37",
                       "parent_id": "t1_cl0wumj",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You watch Walking Dead?",
@@ -1105,7 +1105,7 @@
                       "created": 1412546675,
                       "author_flair_text": null,
                       "created_utc": 1412517875,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1126,7 +1126,7 @@
                       "report_reasons": null,
                       "author": "is4k",
                       "parent_id": "t1_cl0wumj",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "welcome to /r/collapse \n\n",
@@ -1140,7 +1140,7 @@
                       "created": 1412548030,
                       "author_flair_text": null,
                       "created_utc": 1412519230,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1158,7 +1158,7 @@
             "report_reasons": null,
             "author": "biterest",
             "parent_id": "t3_2iciwi",
-            "score": -7,
+            "score": -6,
             "approved_by": null,
             "controversiality": 0,
             "body": "How will a global ebola outbreak effect Bitcoin?  It's spreading throughout the US now, some even claiming it's airborne.  This could be a massive event.",
@@ -1175,7 +1175,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -7
+            "ups": -6
           }
         }
       ],

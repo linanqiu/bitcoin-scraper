@@ -46,8 +46,8 @@
             "title": "The origin of BearWhale?",
             "created_utc": 1412564694,
             "ups": 0,
-            "upvote_ratio": 0.3,
-            "num_comments": 3,
+            "upvote_ratio": 0.36,
+            "num_comments": 4,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -117,7 +117,51 @@
                       "banned_by": null,
                       "link_id": "t3_2iex5b",
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iex5b",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl3wdoe",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "DigitallyDisrupt",
+                                "parent_id": "t1_cl1vic3",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "You must be new here (Earth)... Whale has been used in numerous things, even pre-digital/internet-age. And waaaay before Reddit.\n\nA whale is a deep pocketed player in poker.\n\nA whale is someone that buys their way through a video game's levels.\n\nA whale is someone that makes a big splash in stocks.\n\netc, etc.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You must be new here (Earth)... Whale has been used in numerous things, even pre-digital/internet-age. And waaaay before Reddit.&lt;/p&gt;\n\n&lt;p&gt;A whale is a deep pocketed player in poker.&lt;/p&gt;\n\n&lt;p&gt;A whale is someone that buys their way through a video game&amp;#39;s levels.&lt;/p&gt;\n\n&lt;p&gt;A whale is someone that makes a big splash in stocks.&lt;/p&gt;\n\n&lt;p&gt;etc, etc.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl3wdoe",
+                                "created": 1412816134,
+                                "author_flair_text": null,
+                                "created_utc": 1412787334,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "cl1vic3",

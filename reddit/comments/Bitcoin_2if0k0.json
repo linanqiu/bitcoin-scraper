@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "sexypiranha",
             "media": null,
-            "score": 11,
+            "score": 10,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Good time to buy?",
             "created_utc": 1412566879,
-            "ups": 11,
-            "upvote_ratio": 0.76,
+            "ups": 10,
+            "upvote_ratio": 0.75,
             "num_comments": 16,
             "visited": false,
             "num_reports": null,
@@ -210,7 +210,7 @@
             "report_reasons": null,
             "author": "Gold_Hodler",
             "parent_id": "t3_2if0k0",
-            "score": 18,
+            "score": 17,
             "approved_by": null,
             "controversiality": 0,
             "body": "No one has any idea, and anyone telling you otherwise is lying.",
@@ -227,7 +227,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 18
+            "ups": 17
           }
         },
         {
@@ -245,7 +245,7 @@
             "report_reasons": null,
             "author": "Ice-9mm",
             "parent_id": "t3_2if0k0",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Maybe",
@@ -262,7 +262,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {

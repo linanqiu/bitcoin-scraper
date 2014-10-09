@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "NeutralityMentality",
             "media": null,
-            "score": 620,
+            "score": 616,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Ryan X. Charles, hired to help develop Reddit's cryptocurrency, says \"I am not a huge fan of the idea of creating yet another altcoin. My preference is definitely for building something on bitcoin.\"",
             "created_utc": 1412284975,
-            "ups": 620,
+            "ups": 616,
             "upvote_ratio": 0.93,
-            "num_comments": 108,
+            "num_comments": 110,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -158,7 +158,7 @@
                                           "report_reasons": null,
                                           "author": "Matt-Y",
                                           "parent_id": "t1_ckyx9rq",
-                                          "score": 3,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "It appears Overstock will be issuing a cryptosecurity in the near to mid term. I think Patrick also stated that if he was successful he would open source he process so other people can try and issue cryptosecurities.",
@@ -172,7 +172,7 @@
                                           "created": 1412326254,
                                           "author_flair_text": null,
                                           "created_utc": 1412297454,
-                                          "ups": 3,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -269,7 +269,7 @@
                                 "report_reasons": null,
                                 "author": "kyletorpey",
                                 "parent_id": "t1_ckywsu7",
-                                "score": 6,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I think this is the key point. I don't think the US Government would allow Reddit to issue a decentralized cryptostock. I'm not a lawyer, but I think issuing an asset without keeping track of who owns what would be a violation of KYC/AML. Bitcoin gets around this due to the fact that there is no central issuer.",
@@ -286,7 +286,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 5
                               }
                             }
                           ],
@@ -301,7 +301,7 @@
                       "report_reasons": null,
                       "author": "d4d5c4e5",
                       "parent_id": "t1_ckyv8m7",
-                      "score": 7,
+                      "score": 8,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I think in reality the heavy lifting here won't be the technology, because issuing a crypto equity through user created asset metalayer protocols is trivial ar this point, the issue is in figuring out the legality. It might not even be possible anytime soon, depending on how motivated the SEC is to get with it.",
@@ -315,7 +315,7 @@
                       "created": 1412324126,
                       "author_flair_text": null,
                       "created_utc": 1412295326,
-                      "ups": 7,
+                      "ups": 8,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -396,7 +396,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "BadWombat",
                                                                         "parent_id": "t1_ckz4097",
-                                                                        "score": 4,
+                                                                        "score": 5,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Dude just present your points without talking down to us, thank you very much.",
@@ -413,7 +413,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 4
+                                                                        "ups": 5
                                                                       }
                                                                     },
                                                                     {
@@ -542,7 +542,7 @@
                                                               "report_reasons": null,
                                                               "author": "TowerOfOne",
                                                               "parent_id": "t1_ckz23up",
-                                                              "score": 1,
+                                                              "score": 5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Mozilla is reportedly in talks with the Tor Project to natively bake in Tor to Firefox. That's just the first step but I won't bore you with the details.\n\nNo, tell me, do you *enjoy* having all of your text messages, phone calls, emails, visited Websites, and travel plans recorded indefinitely by a global surveillance cartel that is clearly [above the law](https://firstlook.org/theintercept/2014/10/02/the-nsa-and-me/)?\n\nDo you find it comforting that faceless agencies are categorizing your every social relationship and movement, down to the GPS coordinates?\n\nMaybe you don't care about these things, but history has shown that the world's brightest and most talented people DO care about liberty. If you recall, \"liberty\" is this notion that the West used to tout as to why they were morally superior to the Soviets. So yes, I do think the next big social network is going to benefit from having the world's best and brightest, by means of giving them a truly personal outlet for free speech that they can safely and privately count on for trustless peer interaction. Sorry, but Snapchat just ain't doing it for me kid.",
@@ -556,7 +556,7 @@
                                                               "created": 1412339696,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412310896,
-                                                              "ups": 1,
+                                                              "ups": 5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -574,7 +574,7 @@
                                                     "report_reasons": null,
                                                     "author": "bighandxyz",
                                                     "parent_id": "t1_ckyz0u2",
-                                                    "score": 5,
+                                                    "score": 4,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Cloud is the new buzzword around here with more and more intrusive social websites, and you think the world is heading toward anonymous?",
@@ -591,7 +591,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 4
                                                   }
                                                 },
                                                 {
@@ -673,7 +673,7 @@
                                 "report_reasons": null,
                                 "author": "kyletorpey",
                                 "parent_id": "t1_ckywc0i",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "From Reddit's perspective, what are the benefits of using a decentralized ledger rather than one they control themselves?  \n  \nAlso an issue with any \"decentralized\" asset that has some kind of central authority behind is is that it can always be shutdown by the government. Would the government allow people to trade Reddit shares without reports of who is trading with who? AML/KYC requirements could come into play here. US Government shutdown e-gold and Liberty Reserve because they were not keeping track of transactions, which opened the door for money laundering.",
@@ -690,7 +690,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             },
                             {
@@ -942,7 +942,7 @@
                       "report_reasons": null,
                       "author": "killerstorm",
                       "parent_id": "t1_ckyv8m7",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "They can still use colored coins technology for that.\n\nTo do that, you make a color kernel which makes use of 2-of-2 multisig mandatory, which the first key belonging to the owner and second belonging to reddit.\n\nThen reddit can easily make owner authentication mandatory, it won't approve transfers to non-authenticated addresses.\n\nHere are the benefits compared to private accounting server:\n\n1. Cybersecurity risks are drastically reduced, hacking into reddit's server won't have a significant effect.\n2. Buy and sell shares for bitcoins in a trustless manner. Again, reddit doesn't have to run an escrow server, as payments happen directly between users.\n3. Transparency.\n4. Shareholder will be able to authenticate themselves to 3rd party services. (E.g. one can easily make a chat which is exclusive to reddit shareholders (thus is troll-free?))\n\nDrawbacks:\n\n1. Need to pay fees for every transfer.\n2. High-frequency transactions require additional software layers.\n\n",
@@ -956,7 +956,7 @@
                       "created": 1412362547,
                       "author_flair_text": null,
                       "created_utc": 1412333747,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1171,7 +1171,7 @@
                                                     "report_reasons": null,
                                                     "author": "flamingboard",
                                                     "parent_id": "t1_ckyykwu",
-                                                    "score": 5,
+                                                    "score": 4,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Keep yer lips shut or you'll be sleepin with the fishes.",
@@ -1188,7 +1188,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -1203,7 +1203,7 @@
                                           "report_reasons": null,
                                           "author": "uahogugha7",
                                           "parent_id": "t1_ckyxswc",
-                                          "score": 11,
+                                          "score": 9,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "extra extra read all about it.",
@@ -1217,7 +1217,7 @@
                                           "created": 1412327842,
                                           "author_flair_text": null,
                                           "created_utc": 1412299042,
-                                          "ups": 11,
+                                          "ups": 9,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1235,7 +1235,7 @@
                                 "report_reasons": null,
                                 "author": "SkitchenBitchen",
                                 "parent_id": "t1_ckywpf1",
-                                "score": 15,
+                                "score": 14,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I'm walkin ere",
@@ -1252,7 +1252,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 15
+                                "ups": 14
                               }
                             },
                             {
@@ -1270,7 +1270,7 @@
                                 "report_reasons": null,
                                 "author": "justgimmieaname",
                                 "parent_id": "t1_ckywpf1",
-                                "score": 4,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I believe the correct elocution is \"waddayouz\"",
@@ -1287,7 +1287,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 7
                               }
                             }
                           ],
@@ -1302,7 +1302,7 @@
                       "report_reasons": null,
                       "author": "Ody0genesO",
                       "parent_id": "t1_ckyt06w",
-                      "score": 25,
+                      "score": 28,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "what are you, a wise guy?\n",
@@ -1316,7 +1316,7 @@
                       "created": 1412323915,
                       "author_flair_text": null,
                       "created_utc": 1412295115,
-                      "ups": 25,
+                      "ups": 28,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1413,7 +1413,7 @@
             "report_reasons": null,
             "author": "Spats_McGee",
             "parent_id": "t3_2i4no4",
-            "score": 69,
+            "score": 66,
             "approved_by": null,
             "controversiality": 0,
             "body": "They hired a turn of the century newsboy?",
@@ -1430,7 +1430,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 69
+            "ups": 66
           }
         },
         {
@@ -1448,7 +1448,7 @@
             "report_reasons": null,
             "author": "bitpotluck",
             "parent_id": "t3_2i4no4",
-            "score": 16,
+            "score": 14,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'm pretty sure Reddit will take the advice of the guy they hired specifically for that job. :)",
@@ -1465,7 +1465,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 14
           }
         },
         {
@@ -1527,7 +1527,7 @@
             "report_reasons": null,
             "author": "TweetPoster",
             "parent_id": "t3_2i4no4",
-            "score": 16,
+            "score": 18,
             "approved_by": null,
             "controversiality": 0,
             "body": "[**@ryanxcharles**](https://twitter.com/ryanxcharles):\n&gt;[2014-10-02 19:52:11 UTC](https://twitter.com/ryanxcharles/status/517763998033260545)\n\n&gt;I like colored coins a lot.\n\n[**@alness**](https://twitter.com/alness):\n&gt;[2014-10-02 20:25:07 UTC](https://twitter.com/alness/status/517772287052087296)\n\n&gt;[@ryanxcharles](https://twitter.com/ryanxcharles) which design? Also what's with XCP's weird fake multisig txs?\n\n[**@ryanxcharles**](https://twitter.com/ryanxcharles):\n&gt;[2014-10-02 20:31:39 UTC](https://twitter.com/ryanxcharles/status/517773930577530880)\n\n&gt;[@alness](https://twitter.com/alness) Open assets protocol. What are the others? XCP's design is probably because they need to put too much data in a tx.\n\n[**@alness**](https://twitter.com/alness):\n&gt;[2014-10-02 20:53:55 UTC](https://twitter.com/alness/status/517779536285814784)\n\n&gt;[@ryanxcharles](https://twitter.com/ryanxcharles) Only knew of Meni's paper / Mastercoin / XCP. Will look into open\\-assets. So no new crypto for reddit? :\\)\n\n[**@ryanxcharles**](https://twitter.com/ryanxcharles):\n&gt;[2014-10-02 21:07:50 UTC](https://twitter.com/ryanxcharles/status/517783038411800576)\n\n&gt;[@alness](https://twitter.com/alness) I am not a huge fan of the idea of creating yet another altcoin. My preference is definitely for building something on bitcoin.\n\n----\n\n[^[Mistake?]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Error%20Report&amp;message=http://reddit.com/2i4no4%0A%0APlease leave above link unaltered.)\n[^[Suggestion]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Suggestion)\n[^[FAQ]](http://np.reddit.com/r/TweetPoster/comments/13relk/)\n[^[Code]](https://github.com/buttscicles/TweetPoster)\n[^[Issues]](https://github.com/buttscicles/TweetPoster/issues)\n",
@@ -1544,7 +1544,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 18
           }
         },
         {
@@ -1701,7 +1701,7 @@
                                                               "report_reasons": null,
                                                               "author": "RaptorXP",
                                                               "parent_id": "t1_cl0584v",
-                                                              "score": 0,
+                                                              "score": 1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "See the problem is that active development of counterpartyd equals protocol changes. You can see it's fortunately not the case with Bitcoin, or any other widespread protocols (HTTP, TCP, SMTP, etc...). Implementations get improved on a regular basis by the different vendors, yet the protocols have been set in stone for decades.\n\nThere is probably a dozen different implementations of the bitcoin protocol, that can be use instead of Bitcoind: Mike Hearn's BitcoinJ, Amir Taaki's LibBitcoin, BitPay's BitCore, BitcoinJS, NBitcoin, etc...\n\nI'm challenging anyone to build at least one compatible alternative to counterpartyd. Being open source isn't of much use if there is a change to the consensus rules every week - even minor.",
@@ -1715,7 +1715,7 @@
                                                               "created": 1412463706,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412434906,
-                                                              "ups": 0,
+                                                              "ups": 1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2160,7 +2160,7 @@
             "report_reasons": null,
             "author": "LordMeowMeow",
             "parent_id": "t3_2i4no4",
-            "score": 8,
+            "score": 9,
             "approved_by": null,
             "controversiality": 0,
             "body": "Counterparty seems like the way to go based on what I have read so far. The dev team is active, the platform works well, it is built on Bitcoin and finally it offers a lot of attractive options that the other platforms don't (and more coming).",
@@ -2177,7 +2177,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -2207,7 +2207,7 @@
                       "report_reasons": null,
                       "author": "AnalWithAGoat",
                       "parent_id": "t1_ckyu5x3",
-                      "score": 8,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "They mentioned XCP (Counterparty).",
@@ -2221,7 +2221,7 @@
                       "created": 1412320198,
                       "author_flair_text": null,
                       "created_utc": 1412291398,
-                      "ups": 8,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2239,7 +2239,7 @@
             "report_reasons": null,
             "author": "nuibox",
             "parent_id": "t3_2i4no4",
-            "score": 8,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "How come nobody mentioned counter party?",
@@ -2256,7 +2256,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -2576,7 +2576,7 @@
                       "report_reasons": null,
                       "author": "fkinglag",
                       "parent_id": "t1_ckysmn6",
-                      "score": 4,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I am glad to hear this. Does this speak for the overall atmosphere of talk for alternative cyrpto-currencies, perhaps? Last year there were hundreds of alts trying to take off on Bitcoin's rise. Now we still have hundreds (if not over a thousand), but also a graveyard of coins. The coins that did not make it are the ones worth learning from for future improvement upon Bitcoin, IMO. ",
@@ -2590,7 +2590,7 @@
                       "created": 1412318475,
                       "author_flair_text": null,
                       "created_utc": 1412289675,
-                      "ups": 4,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2608,7 +2608,7 @@
             "report_reasons": null,
             "author": "IkmoIkmo",
             "parent_id": "t3_2i4no4",
-            "score": 16,
+            "score": 14,
             "approved_by": null,
             "controversiality": 0,
             "body": "Great to hear, thanks for posting this.",
@@ -2625,7 +2625,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 14
           }
         },
         {
@@ -2757,7 +2757,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2i4no4",
-            "score": 4,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Thank you.",
@@ -2774,7 +2774,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -2827,7 +2827,7 @@
             "report_reasons": null,
             "author": "MillyBitcoin",
             "parent_id": "t3_2i4no4",
-            "score": 2,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "there is the Let's Talk Bitcoin model but it seems to me people are not going to want all these different coins.",
@@ -2844,7 +2844,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -2950,7 +2950,7 @@
             "report_reasons": null,
             "author": "ryancarnated",
             "parent_id": "t3_2i4no4",
-            "score": 2,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "To the moon.",
@@ -2967,7 +2967,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 4
           }
         },
         {
@@ -3611,7 +3611,7 @@
                       "report_reasons": null,
                       "author": "1PenisMan",
                       "parent_id": "t1_ckyt59p",
-                      "score": 3,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "[Penis](https://www.coinprism.info/asset/3N2bUx2XCWBfXzNd3YiDpFVAHQtSi1Yj5w) coin is definitely the most promising asset.",
@@ -3625,7 +3625,7 @@
                       "created": 1412322240,
                       "author_flair_text": null,
                       "created_utc": 1412293440,
-                      "ups": 3,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3713,7 +3713,7 @@
             "report_reasons": null,
             "author": "acoindr",
             "parent_id": "t3_2i4no4",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Sounds great! I like colored coins too, but haven't really seen a good example of them. Anyone know of any?",
@@ -3730,7 +3730,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -3866,7 +3866,51 @@
                       "banned_by": null,
                       "link_id": "t3_2i4no4",
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2i4no4",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl3kfsl",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "ggfor45",
+                                "parent_id": "t1_ckz9u94",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "So you believe bitcoin will fall? think again - the internet needs to fall for that to happen. People will never let bitcoin go!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So you believe bitcoin will fall? think again - the internet needs to fall for that to happen. People will never let bitcoin go!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl3kfsl",
+                                "created": 1412777596,
+                                "author_flair_text": null,
+                                "created_utc": 1412748796,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "ckz9u94",
@@ -3953,7 +3997,7 @@
                       "report_reasons": null,
                       "author": "FuckImOnRedditAgain",
                       "parent_id": "t1_ckyvi1n",
-                      "score": 5,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Where's the buttcoin link? I'm thinking something like \"pointless website schemes way to steal your time AND money with digital beanie babies!\"\n\n",
@@ -3967,7 +4011,7 @@
                       "created": 1412321866,
                       "author_flair_text": null,
                       "created_utc": 1412293066,
-                      "ups": 5,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4020,7 +4064,7 @@
             "report_reasons": null,
             "author": "boonies4u",
             "parent_id": "t3_2i4no4",
-            "score": 0,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "-cough- sidechains -cough-",
@@ -4037,7 +4081,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": -2
           }
         },
         {
@@ -4169,7 +4213,7 @@
             "report_reasons": null,
             "author": "illuminatus104",
             "parent_id": "t3_2i4no4",
-            "score": -5,
+            "score": -6,
             "approved_by": null,
             "controversiality": 0,
             "body": "build on top of NXT",
@@ -4186,7 +4230,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -6
           }
         },
         {
@@ -4239,7 +4283,7 @@
             "report_reasons": null,
             "author": "kingscrown69",
             "parent_id": "t3_2i4no4",
-            "score": -2,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Maybe other bitshares",
@@ -4256,7 +4300,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -4
           }
         },
         {
@@ -4274,7 +4318,7 @@
             "report_reasons": null,
             "author": "throwawash",
             "parent_id": "t3_2i4no4",
-            "score": -3,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Honestly, I think the Reddit staff should skip over Bitcoin and create some sort of hybrid karma/crypto ledger that is not at all presented as a crypto but much more as some sort of value exchange system.\n\nPerhaps something of the sort could be developed on the Bitcoin blockchain, but I hope they're not selling themselves short by missing out on the best of what a custom blockchain could offer.\n\nedit: lol at people down voting simply because they think it will make them less money. fuck off you fools",
@@ -4291,7 +4335,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -4
           }
         }
       ],

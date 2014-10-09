@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "silvie_coin",
             "media": null,
-            "score": 96,
+            "score": 98,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Please Dev's, use Bitcoin in games !",
             "created_utc": 1412598171,
-            "ups": 96,
+            "ups": 98,
             "upvote_ratio": 0.83,
-            "num_comments": 58,
+            "num_comments": 62,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -114,7 +114,7 @@
                                           "report_reasons": null,
                                           "author": "Sigg3net",
                                           "parent_id": "t1_cl27wku",
-                                          "score": 1,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Ah, gotcha! F2P is all the rage these days, so good call.\n\nPerhaps it is time for Google to release the gwallet? ;)",
@@ -128,7 +128,7 @@
                                           "created": 1412663787,
                                           "author_flair_text": null,
                                           "created_utc": 1412634987,
-                                          "ups": 1,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -146,7 +146,7 @@
                                 "report_reasons": null,
                                 "author": "ajwest",
                                 "parent_id": "t1_cl26zuh",
-                                "score": 2,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Actually my game is free-to-play, with optional purchases for players. In-app purchases must be implemented through the Play Store if the user downloaded it from the Play Store. I am happy to host my own APK for free, it's more about how to charge people for in-app items. Right now I'm using the Play Store as a payment provider, but for the version I host myself I need to implement a different payment provider (like PayPal) alongside bitcoin purchases. Or as I said, I could just have this version be \"bitcoin\" formatted and be done with it; offer the same functionality but if you want to pay with Bitcoin you just have to download the version from my website instead.\n\nGoogle Play Services handles charging creditcards well, and it's got a lot of people with their card information already willing to buy small units. It's all just a lot to do when the app idea and design itself needs countless more hours of work, I don't have as much time to fool around with bitcoin as a payment option in an ecosystem that doesn't support it yet.\n\nIf people have other suggestions, I'm all ears. Maybe Google will read this discussion and begin working out a solution...",
@@ -163,7 +163,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -178,7 +178,7 @@
                       "report_reasons": null,
                       "author": "Sigg3net",
                       "parent_id": "t1_cl1zydb",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If you open source the code it can be published on F-Droid. But that is probably not something you're considering at the moment.\n\nSo why not provide an APK with the license sent to the email the buyer provided on the download page.\n\nI've got all my Android humble bundles as apk files.",
@@ -192,7 +192,7 @@
                       "created": 1412657003,
                       "author_flair_text": null,
                       "created_utc": 1412628203,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -368,7 +368,7 @@
             "report_reasons": null,
             "author": "ajwest",
             "parent_id": "t3_2ifwop",
-            "score": 11,
+            "score": 15,
             "approved_by": null,
             "controversiality": 0,
             "body": "As an Android developer working on a free-to-play game, I would absolutely love to accept Bitcoin for my hard-currency purchases. However, given that my game is pretty much forced to be integrated with Google Play Services (for sign-in, push notifications, and ultimately marketing by virtue of listing on their store) I am bound by their Terms of Service which clearly states how digital goods must be purchased through the in-app payment flow and does not allow BTC as a form of currency.\n\nIn this case, my only recourse is to make another version without Play Services integration (in addition to the Play Store version) and republish the app somewhere it can be downloaded and installed directly. This then requires the user to enable the \"Install from unknown sources\" checkbox and seems much more sketchy when I'm offering my game to people.\n\nI should also mention the significance of recreating a way for users to provide their credentials, which is possible but it's more work and yet another flow/logic to learn and figure out how to implement. If I wanted to allow micro-transactions with traditional credit cards in this 2nd non-Play Store version, I would need to find a payment provider (or just leave this other version as bitcoin payments only).\n\nTL;DR: I would love to, but I'm just one man with too few resources for this to be worth it in my target demographic.",
@@ -385,7 +385,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 15
           }
         },
         {
@@ -526,7 +526,7 @@
             "report_reasons": null,
             "author": "rorriMnmaD",
             "parent_id": "t3_2ifwop",
-            "score": 9,
+            "score": 10,
             "approved_by": null,
             "controversiality": 0,
             "body": "OP, you will get a much more receptive audience over at /r/gamedev",
@@ -543,7 +543,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 10
           }
         },
         {
@@ -561,7 +561,7 @@
             "report_reasons": null,
             "author": "leetCoinAdmin",
             "parent_id": "t3_2ifwop",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Our API lets game devs do just that: http://leetcoin.com/api_info",
@@ -578,7 +578,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -596,7 +596,7 @@
             "report_reasons": null,
             "author": "5tu",
             "parent_id": "t3_2ifwop",
-            "score": 5,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "working on it...",
@@ -613,7 +613,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 7
           }
         },
         {
@@ -675,7 +675,7 @@
             "report_reasons": null,
             "author": "Yoghurt114",
             "parent_id": "t3_2ifwop",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "http://startonate.appspot.com/new/index.jsp - VoidSpace\n\nThese guys are gonna accept dogecoin (still in development..)",
@@ -692,7 +692,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -754,7 +754,7 @@
             "report_reasons": null,
             "author": "mughat",
             "parent_id": "t3_2ifwop",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "I am making a cool but tiny MMORPG that will integrate with bitcoin and OT. If I am not too lazy I will finish it one day.",
@@ -771,7 +771,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -789,7 +789,7 @@
             "report_reasons": null,
             "author": "ForestOfGrins",
             "parent_id": "t3_2ifwop",
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "**How to use Bitcoin in games without exposing the game economy to volatility**\n\nStep 1: Create game tokens using Counterparty.\n\nStep 2: Sell game tokens for USD/BTC at a constant price.\n\nNow consumers can enter your game economy and buy the tokens using bitcoin/USD/or whatever. Yet instead of being exposed to the events happening around these currencies, they are merely gates into your game economy. \n\n*Plus then users can trade coins amongst each other and your game will develop a market of its own.*",
@@ -806,7 +806,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -1492,7 +1492,7 @@
                                           "report_reasons": null,
                                           "author": "sharperguy",
                                           "parent_id": "t1_cl1u2w7",
-                                          "score": 4,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "EVE Online is maybe the only game which links in-game currency to real-world currency and even that is slightly indirect.",
@@ -1506,7 +1506,7 @@
                                           "created": 1412630998,
                                           "author_flair_text": null,
                                           "created_utc": 1412602198,
-                                          "ups": 4,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2258,12 +2258,152 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "cl2ndrs",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "formerdigguser",
+            "parent_id": "t3_2ifwop",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "It would even be if the ingame currency would just be named Bitcoin instead of Gold, Credits, Xil or Rupees.\n\nWell, Rupees are kinda cool though...",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It would even be if the ingame currency would just be named Bitcoin instead of Gold, Credits, Xil or Rupees.&lt;/p&gt;\n\n&lt;p&gt;Well, Rupees are kinda cool though...&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2ndrs",
+            "created": 1412694026,
+            "author_flair_text": null,
+            "created_utc": 1412665226,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifwop",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2nlam",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "AussieCryptoCurrency",
+            "parent_id": "t3_2ifwop",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You can be kickstarter, take 5%!",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You can be kickstarter, take 5%!&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2nlam",
+            "created": 1412694988,
+            "author_flair_text": null,
+            "created_utc": 1412666188,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifwop",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2pma1",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Atyzze",
+            "parent_id": "t3_2ifwop",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Nothing stops you from using Bitcoin, a tad tedious, but still possible. Simply send them the private key through the in-game text functions. For whatever goods/deal/services you're wanting to purchase. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nothing stops you from using Bitcoin, a tad tedious, but still possible. Simply send them the private key through the in-game text functions. For whatever goods/deal/services you&amp;#39;re wanting to purchase. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2pma1",
+            "created": 1412706601,
+            "author_flair_text": null,
+            "created_utc": 1412677801,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifwop",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2xw8d",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "yodark",
+            "parent_id": "t3_2ifwop",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "You just need to ask !\n\nhttps://bitcointalk.org/index.php?topic=815206.msg9118307#msg9118307",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You just need to ask !&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://bitcointalk.org/index.php?topic=815206.msg9118307#msg9118307\"&gt;https://bitcointalk.org/index.php?topic=815206.msg9118307#msg9118307&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2xw8d",
+            "created": 1412729163,
+            "author_flair_text": null,
+            "created_utc": 1412700363,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifwop",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "cl1uhjj",
             "gilded": 0,
             "report_reasons": null,
             "author": "bitcoind3",
             "parent_id": "t3_2ifwop",
-            "score": -1,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Please no. Right now if my game account gets hacked I contact the operators who put it back like it was a few days ago. I don't want to worry about securing my computer games accounts like I would bitcoin wallets. ",
@@ -2280,7 +2420,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": -2
           }
         },
         {

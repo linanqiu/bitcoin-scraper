@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "Questual-Ion",
             "media": null,
-            "score": 14,
+            "score": 16,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Could someone please explain in plain English how Bitcoin is secure against 51% attack from a conglomerate of bankers or a government with unlimited funds?",
             "created_utc": 1412631541,
-            "ups": 14,
-            "upvote_ratio": 0.89,
-            "num_comments": 20,
+            "ups": 16,
+            "upvote_ratio": 0.9,
+            "num_comments": 27,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "Apatomoose",
                       "parent_id": "t1_cl2adxa",
-                      "score": 1,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt; Bitcoin interprets censorship as damage and routes around it.\n\n(altered  version of a quote by [John Gilmore](http://en.wikiquote.org/wiki/John_Gilmore))",
@@ -104,7 +104,7 @@
                       "created": 1412669671,
                       "author_flair_text": null,
                       "created_utc": 1412640871,
-                      "ups": 1,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -164,7 +164,95 @@
                                 "banned_by": null,
                                 "link_id": "t3_2iho04",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iho04",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iho04",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2ozru",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "chinawat",
+                                                    "parent_id": "t1_cl2muqa",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Thanks for giving the details of two possibilities, flawed though they both sound. I actually never knew the details, but just read a post from Gavin where he mentioned the possibility in passing.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for giving the details of two possibilities, flawed though they both sound. I actually never knew the details, but just read a post from Gavin where he mentioned the possibility in passing.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2ozru",
+                                                    "created": 1412702876,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412674076,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2muqa",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "giszmo",
+                                          "parent_id": "t1_cl2kv4a",
+                                          "score": 2,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Yes, Gavin has something that is bitcoin days destroyed based, forcing the miner to include at least some real transactions but if some 5% of all transactions never confirm because the attacker takes the hash modulo 20 to decide these tx never confirm just to mess with the system, then what?\n\nOr was it the WOT solution where miners sign off on their competition to be trusted miners? Not a great plan neither for some decentralized protocol that should be censorship resistant.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes, Gavin has something that is bitcoin days destroyed based, forcing the miner to include at least some real transactions but if some 5% of all transactions never confirm because the attacker takes the hash modulo 20 to decide these tx never confirm just to mess with the system, then what?&lt;/p&gt;\n\n&lt;p&gt;Or was it the WOT solution where miners sign off on their competition to be trusted miners? Not a great plan neither for some decentralized protocol that should be censorship resistant.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2muqa",
+                                          "created": 1412691839,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412663039,
+                                          "ups": 2,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl2kv4a",
@@ -191,6 +279,217 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iho04",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iho04",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iho04",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2iho04",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2iho04",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2yz2y",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "bluelightzero",
+                                                                        "parent_id": "t1_cl2xbdl",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "&gt; 10% least important transactions.\n\nand the 90% 'important' transactions missed would make it invalid.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;10% least important transactions.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;and the 90% &amp;#39;important&amp;#39; transactions missed would make it invalid.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2yz2y",
+                                                                        "created": 1412731046,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412702246,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl2xbdl",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "giszmo",
+                                                              "parent_id": "t1_cl2vd60",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "a change that would need careful testing and the evil miner could just work around it, excluding not random, but the 10% least important transactions.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;a change that would need careful testing and the evil miner could just work around it, excluding not random, but the 10% least important transactions.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl2xbdl",
+                                                              "created": 1412728131,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412699331,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2vd60",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "bluelightzero",
+                                                    "parent_id": "t1_cl2ugu3",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "You could make a block invalid if it ignores a well funded transaction for more than 6 blocks.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;You could make a block invalid if it ignores a well funded transaction for more than 6 blocks.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2vd60",
+                                                    "created": 1412724328,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412695528,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2ugu3",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "giszmo",
+                                          "parent_id": "t1_cl2nppq",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "\"empty\" would not be the only concern. How about ignoring all tx that match a regexp? `if sha256sum(tx, date.day, secret)[12] == \"a\": return`\n\nYou would just mess with a fraction of tx that will not confirm before tomorrow. Very disruptive and fine-tunable to fly under any radar but still annoying people all the time.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;empty&amp;quot; would not be the only concern. How about ignoring all tx that match a regexp? &lt;code&gt;if sha256sum(tx, date.day, secret)[12] == &amp;quot;a&amp;quot;: return&lt;/code&gt;&lt;/p&gt;\n\n&lt;p&gt;You would just mess with a fraction of tx that will not confirm before tomorrow. Very disruptive and fine-tunable to fly under any radar but still annoying people all the time.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2ugu3",
+                                          "created": 1412722456,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412693656,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2nppq",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "bluelightzero",
+                                "parent_id": "t1_cl2g3u5",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt; essentially be dormant for months.\n\nIn theory you could make miners send out transactions every 10 minutes and if they see blocks ignoring them for more than a couple of blocks they could invalidate them.\n\nThe network might slow down but the 'empty' blocks China creates will be orphaned.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;essentially be dormant for months.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;In theory you could make miners send out transactions every 10 minutes and if they see blocks ignoring them for more than a couple of blocks they could invalidate them.&lt;/p&gt;\n\n&lt;p&gt;The network might slow down but the &amp;#39;empty&amp;#39; blocks China creates will be orphaned.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2nppq",
+                                "created": 1412695581,
+                                "author_flair_text": null,
+                                "created_utc": 1412666781,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "after": null,
@@ -204,7 +503,7 @@
                       "report_reasons": null,
                       "author": "giszmo",
                       "parent_id": "t1_cl2adxa",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Famous Andreas quote but I don't agree with him on that one. It's not about one double-spend as he says so theatrically. With that amount of equipment, you can sure as hell force miners out of the anonymity they have now as without any concept of good vs. bad miners, only majority counts, so yes, this would disrupt far beyond \"ten minutes\" and it would not need to be covert op if it comes with a wide ban of bitcoin.\n\nIf China banned bitcoin, confiscated mining hardware and put it to work against bitcoin, bitcoin would essentially be dormant for months.",
@@ -218,7 +517,7 @@
                       "created": 1412675347,
                       "author_flair_text": null,
                       "created_utc": 1412646547,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -236,7 +535,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2iho04",
-            "score": 10,
+            "score": 13,
             "approved_by": null,
             "controversiality": 0,
             "body": "A conglomerate of banks or a government can invest 1/2 billion dollars to either\n\n1)  Make all that money back + some  \n\n2)  Fool the market for about 10-20 minutes, wreaking havoc on the network at which time the other good actors demand they get banned.  This would be treated as a _bug_ in the system and the blockchain corrected most likely undoing all havoc.\n\nLink to _hilarious because its true_ reply from Andreas\n\nhttp://www.youtube.com/watch?v=R8E6heAlkS0&amp;t=0m27s",
@@ -253,7 +552,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 13
           }
         },
         {
@@ -271,7 +570,7 @@
             "report_reasons": null,
             "author": "BitcoinFuturist",
             "parent_id": "t3_2iho04",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Hi, new to /r/bitcoin but have been researching the subject for some time.\n\nI suspect the answer lies in game theory. They wont try that because they know that there will be lots of other governments and organisations around the world trying the same thing, as such they will all contribute to each others failed attempts to 51% the network and end up assisting to strengthen it in the process.",
@@ -288,7 +587,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -313,12 +612,47 @@
                       "replies": "",
                       "user_reports": [],
                       "saved": false,
+                      "id": "cl2kjs8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Questual-Ion",
+                      "parent_id": "t1_cl29k4s",
+                      "score": 2,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Yes - USA",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes - USA&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2kjs8",
+                      "created": 1412684535,
+                      "author_flair_text": null,
+                      "created_utc": 1412655735,
+                      "ups": 2,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iho04",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
                       "id": "cl2dgy7",
                       "gilded": 0,
                       "report_reasons": null,
                       "author": "Apatomoose",
                       "parent_id": "t1_cl29k4s",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I know a lot of governments that like to think they have unlimited funds.",
@@ -332,7 +666,7 @@
                       "created": 1412670080,
                       "author_flair_text": null,
                       "created_utc": 1412641280,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -367,41 +701,6 @@
                       "created": 1412675409,
                       "author_flair_text": null,
                       "created_utc": 1412646609,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2iho04",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl2kjs8",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "Questual-Ion",
-                      "parent_id": "t1_cl29k4s",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "Yes - USA",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes - USA&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl2kjs8",
-                      "created": 1412684535,
-                      "author_flair_text": null,
-                      "created_utc": 1412655735,
                       "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
@@ -561,6 +860,41 @@
             "banned_by": null,
             "link_id": "t3_2iho04",
             "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2d3v4",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "chinawat",
+            "parent_id": "t3_2iho04",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "If the attacker is rational, all of the incentives in the system drive against an attack. If the attacker is irrational but has the kind of resources you postulate, what system in the world is safe?",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If the attacker is rational, all of the incentives in the system drive against an attack. If the attacker is irrational but has the kind of resources you postulate, what system in the world is safe?&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2d3v4",
+            "created": 1412669321,
+            "author_flair_text": null,
+            "created_utc": 1412640521,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iho04",
+            "likes": null,
             "replies": {
               "kind": "Listing",
               "data": {
@@ -581,7 +915,7 @@
                       "report_reasons": null,
                       "author": "AUAUA",
                       "parent_id": "t1_cl29v8d",
-                      "score": 1,
+                      "score": -3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You mean Dogecoin?",
@@ -595,7 +929,7 @@
                       "created": 1412679993,
                       "author_flair_text": null,
                       "created_utc": 1412651193,
-                      "ups": 1,
+                      "ups": -3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -613,7 +947,7 @@
             "report_reasons": null,
             "author": "xabbix",
             "parent_id": "t3_2iho04",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "And then when Bitcoin2 will be created, immune to the scenario above, what will they do?",
@@ -630,7 +964,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -666,41 +1000,6 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 0
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2iho04",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl2d3v4",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "chinawat",
-            "parent_id": "t3_2iho04",
-            "score": 2,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "If the attacker is rational, all of the incentives in the system drive against an attack. If the attacker is irrational but has the kind of resources you postulate, what system in the world is safe?",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If the attacker is rational, all of the incentives in the system drive against an attack. If the attacker is irrational but has the kind of resources you postulate, what system in the world is safe?&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl2d3v4",
-            "created": 1412669321,
-            "author_flair_text": null,
-            "created_utc": 1412640521,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 2
           }
         },
         {

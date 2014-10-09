@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "btcdrak",
             "media": null,
-            "score": 6,
+            "score": 8,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "David Seaman is almost suicidal over Bitcoin crash",
             "created_utc": 1412614590,
-            "ups": 6,
-            "upvote_ratio": 0.6,
-            "num_comments": 23,
+            "ups": 8,
+            "upvote_ratio": 0.63,
+            "num_comments": 25,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "bigeyeblueguy",
             "parent_id": "t3_2ignu3",
-            "score": 6,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Why do people even listen to this guy?  He came into Bitcoin pretty late compared to some of us.  I wouldn't consider him an expert. He also likes to pump altcoins and make gossip videos about Justin Beiber and Miley Cyrus tatoos.",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 8
           }
         },
         {
@@ -201,7 +201,7 @@
             "report_reasons": null,
             "author": "jebus911",
             "parent_id": "t3_2ignu3",
-            "score": 12,
+            "score": 13,
             "approved_by": null,
             "controversiality": 0,
             "body": "I highly recommend you play this in the background when you listen to the podcast. And yes, its worth the 15m to listen to\nhttps://www.youtube.com/watch?v=vodd6C5ryUU",
@@ -218,7 +218,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 13
           }
         },
         {
@@ -236,7 +236,7 @@
             "report_reasons": null,
             "author": "br0cket",
             "parent_id": "t3_2ignu3",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "If bitcoin is flawed how come silicon valley is dumping tens of millions of dollars into bitcoin startups and infrastructure. It WILL get better. There is still time. Volatility is nothing new. Bagholders from $1200/BTC might not see that. ",
@@ -253,7 +253,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -376,7 +376,7 @@
             "report_reasons": null,
             "author": "232019",
             "parent_id": "t3_2ignu3",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "This guy is an idiot. ",
@@ -393,7 +393,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -459,7 +459,7 @@
                                                     "report_reasons": null,
                                                     "author": "mattmcegg",
                                                     "parent_id": "t1_cl243el",
-                                                    "score": 2,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "i understood your point perfectly, and my counter-point still stands. if you have that much money invested you have to be able to handle the swings, and of course, follow the old \"dont invest more than you're willing to lose\"",
@@ -476,7 +476,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 3
                                                   }
                                                 },
                                                 {
@@ -494,7 +494,7 @@
                                                     "report_reasons": null,
                                                     "author": "PASSO3058",
                                                     "parent_id": "t1_cl243el",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "I wouldn't.... I'd HODL and become an evangelist!  :-)",
@@ -511,7 +511,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -526,7 +526,7 @@
                                           "report_reasons": null,
                                           "author": "Sadbitcoiner",
                                           "parent_id": "t1_cl20n38",
-                                          "score": -1,
+                                          "score": -2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "You are missing my point, if you had an incredible sum locked into Bitcoin then when it drops 75% in one year, you are going to take moves like this more seriously than someone with a few thousand.  ",
@@ -540,7 +540,7 @@
                                           "created": 1412651601,
                                           "author_flair_text": null,
                                           "created_utc": 1412622801,
-                                          "ups": -1,
+                                          "ups": -2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -590,7 +590,7 @@
                       "report_reasons": null,
                       "author": "Sadbitcoiner",
                       "parent_id": "t1_cl20fmh",
-                      "score": -4,
+                      "score": -5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Easy to say when you don't have a million dollars worth of Bitcoin ",
@@ -604,7 +604,7 @@
                       "created": 1412644842,
                       "author_flair_text": null,
                       "created_utc": 1412616042,
-                      "ups": -4,
+                      "ups": -5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -710,6 +710,41 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ignu3",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2seco",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Ilogy",
+            "parent_id": "t3_2ignu3",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Seaman is complaining that the community let the price get so low, but here he is spreading more FUD than any public speaker on Bitcoin I've seen. He is exactly the type of person trying to plummet the price, yet he is blaming the community for somehow letting the price go so low. As he wrote in [a previous thread](https://www.reddit.com/r/Bitcoin/comments/2id1d7/bitcoin_podcaster_david_seaman_we_need_to/) yesterday:\n\n&gt;The problem is this price drop. You all shouldn't have let it go below $300\n\nWhat does he mean \"you all\" when he is the one trying to scare down the price by declaring Bitcoin dead? \n\nAnd prior to this crash he was already suggesting that the newest wave of altcoins, like his Hyper, were superior to Bitcoin and perhaps Bitcoin was on its way out. He concludes this podcast by suggesting that the future cryptocurrency that will replace Bitcoin will possibly be the coin he is pumping. Something doesn't feel right to me about that. Every time he promotes these altcoins something feels off, like he wants to pump and dump. Now he is so traumatized over the price of Bitcoin . . . it suggests he is much more tied to making money than he lets on. He says the crash shattered his idealism, but the crash was just about the price going down, nothing has changed about Bitcoin per se. \n\nFurthermore, the price of Bitcoin has been volatile for a long time . . . hell, for its entire history. Yet now he is claiming that the volatility proves that Bitcoin is intrinsically flawed. But if it is flawed now, it was always flawed, yet he was pumping it for all this time (up until recently). Why didn't he complain about the volatility after the November 2013 bubble? Nothing has changed yet he is concluding something new is happening here that proves Bitcoin is flawed. \n\nHe claims that Bitcoin is somehow corrupt because its price can be manipulated by powerful rich people like BearWhale. But would it make any difference if the crash is solely due to natural market forces?\n\nHe complains that the media has always bashed Bitcoin, but here he is bashing Bitcoin.\n\nBitcoin hasn't lost me any money. The price keeps going down allowing me to buy more than I would have been able to buy if the price had stayed up. I don't feel any personal loss here. But this guy is on the verge of suicide. \n\nHe has become everything he is complaining about. Does he have no idea the profound disappointment he just incurred on his listeners? He complains about Obama having let him down, David, you fucking let me down! I feel like you were a complete phoney all this time, just like you feel about Obama. \n\nIt is interesting that he concludes with issues of faith. I don't think he understands, and I don't think many people understand, that money fundamentally depends on faith. He says he wants to see the world as it is, not as he wishes it to be. I say it is all perception my friend. He says he is tired of all of the darkness, I say you are helping the darkness to prevail over the light. ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Seaman is complaining that the community let the price get so low, but here he is spreading more FUD than any public speaker on Bitcoin I&amp;#39;ve seen. He is exactly the type of person trying to plummet the price, yet he is blaming the community for somehow letting the price go so low. As he wrote in &lt;a href=\"https://www.reddit.com/r/Bitcoin/comments/2id1d7/bitcoin_podcaster_david_seaman_we_need_to/\"&gt;a previous thread&lt;/a&gt; yesterday:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;The problem is this price drop. You all shouldn&amp;#39;t have let it go below $300&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;What does he mean &amp;quot;you all&amp;quot; when he is the one trying to scare down the price by declaring Bitcoin dead? &lt;/p&gt;\n\n&lt;p&gt;And prior to this crash he was already suggesting that the newest wave of altcoins, like his Hyper, were superior to Bitcoin and perhaps Bitcoin was on its way out. He concludes this podcast by suggesting that the future cryptocurrency that will replace Bitcoin will possibly be the coin he is pumping. Something doesn&amp;#39;t feel right to me about that. Every time he promotes these altcoins something feels off, like he wants to pump and dump. Now he is so traumatized over the price of Bitcoin . . . it suggests he is much more tied to making money than he lets on. He says the crash shattered his idealism, but the crash was just about the price going down, nothing has changed about Bitcoin per se. &lt;/p&gt;\n\n&lt;p&gt;Furthermore, the price of Bitcoin has been volatile for a long time . . . hell, for its entire history. Yet now he is claiming that the volatility proves that Bitcoin is intrinsically flawed. But if it is flawed now, it was always flawed, yet he was pumping it for all this time (up until recently). Why didn&amp;#39;t he complain about the volatility after the November 2013 bubble? Nothing has changed yet he is concluding something new is happening here that proves Bitcoin is flawed. &lt;/p&gt;\n\n&lt;p&gt;He claims that Bitcoin is somehow corrupt because its price can be manipulated by powerful rich people like BearWhale. But would it make any difference if the crash is solely due to natural market forces?&lt;/p&gt;\n\n&lt;p&gt;He complains that the media has always bashed Bitcoin, but here he is bashing Bitcoin.&lt;/p&gt;\n\n&lt;p&gt;Bitcoin hasn&amp;#39;t lost me any money. The price keeps going down allowing me to buy more than I would have been able to buy if the price had stayed up. I don&amp;#39;t feel any personal loss here. But this guy is on the verge of suicide. &lt;/p&gt;\n\n&lt;p&gt;He has become everything he is complaining about. Does he have no idea the profound disappointment he just incurred on his listeners? He complains about Obama having let him down, David, you fucking let me down! I feel like you were a complete phoney all this time, just like you feel about Obama. &lt;/p&gt;\n\n&lt;p&gt;It is interesting that he concludes with issues of faith. I don&amp;#39;t think he understands, and I don&amp;#39;t think many people understand, that money fundamentally depends on faith. He says he wants to see the world as it is, not as he wishes it to be. I say it is all perception my friend. He says he is tired of all of the darkness, I say you are helping the darkness to prevail over the light. &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2seco",
+            "created": 1412717540,
+            "author_flair_text": null,
+            "created_utc": 1412688740,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
           }
         },
         {
@@ -906,12 +941,47 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "cl3dghe",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Avatar-X",
+            "parent_id": "t3_2ignu3",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "I only have seen 2 episodes  of his show ever. But there are a few truly weird ones about some arguments made via proxy with Miley Cyrus that I have only read bad things about.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I only have seen 2 episodes  of his show ever. But there are a few truly weird ones about some arguments made via proxy with Miley Cyrus that I have only read bad things about.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl3dghe",
+            "created": 1412760181,
+            "author_flair_text": null,
+            "created_utc": 1412731381,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ignu3",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "cl20t65",
             "gilded": 0,
             "report_reasons": null,
             "author": "anon515",
             "parent_id": "t3_2ignu3",
-            "score": -6,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "I think this would be a great post for /r/BitcoinMarkets - have you checked them out yet?",
@@ -928,7 +998,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -4
           }
         }
       ],

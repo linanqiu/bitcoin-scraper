@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "travlbum",
             "media": null,
-            "score": 56,
+            "score": 58,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Some random account sent a friend 0.00000001BTC. The sender has been doing this to millions of BTC addresses. I wonder what they're up to...",
             "created_utc": 1412479812,
-            "ups": 56,
-            "upvote_ratio": 0.75,
+            "ups": 58,
+            "upvote_ratio": 0.76,
             "num_comments": 81,
             "visited": false,
             "num_reports": null,
@@ -102,7 +102,7 @@
                                 "report_reasons": null,
                                 "author": "arhuaco",
                                 "parent_id": "t1_cl0vleb",
-                                "score": 14,
+                                "score": 12,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Not advertising. SPAM :-)",
@@ -119,7 +119,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 14
+                                "ups": 12
                               }
                             }
                           ],
@@ -134,7 +134,7 @@
                       "report_reasons": null,
                       "author": "flaim",
                       "parent_id": "t1_cl0qdjb",
-                      "score": 13,
+                      "score": 14,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Just look at the public notes, it's advertising: https://blockchain.info/address/1DiRy9Giiq1GCkAD7VMSrXoKVe2dimnovm",
@@ -148,7 +148,7 @@
                       "created": 1412527982,
                       "author_flair_text": null,
                       "created_utc": 1412499182,
-                      "ups": 13,
+                      "ups": 14,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -205,7 +205,7 @@
                                                     "report_reasons": null,
                                                     "author": "jcoinner",
                                                     "parent_id": "t1_cl0ty2m",
-                                                    "score": 7,
+                                                    "score": 8,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "You mean they're paying 10 cents for each transaction - and that transaction could have hundreds of outputs. \n\nIf you ask me blockchain explorers could cut this out simply by only showing text messages when a certain minimum value is transacted. The message isn't part of the protocol so why should they pay to store and show messages when it's for such trivial reasons.",
@@ -222,7 +222,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 7
+                                                    "ups": 8
                                                   }
                                                 },
                                                 {
@@ -364,7 +364,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "chrisrico",
                                                                                   "parent_id": "t1_cl0w6ji",
-                                                                                  "score": 5,
+                                                                                  "score": 4,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "The $20 figure comes from spreading the 25 BTC mining reward among all of the transactions in the block. It's bullshit.",
@@ -378,7 +378,7 @@
                                                                                   "created": 1412555067,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412526267,
-                                                                                  "ups": 5,
+                                                                                  "ups": 4,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -487,7 +487,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "prelsidente",
                                                                                   "parent_id": "t1_cl0w6ji",
-                                                                                  "score": 4,
+                                                                                  "score": 3,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Why are you avoiding the question I asked.\nIt doesn't cost $20, because no one is paying it.\n\nMore important, since it is widelly used, is that each FIAT transaction costs $100, that's 5 times more than Bitcoin",
@@ -501,7 +501,7 @@
                                                                                   "created": 1412532071,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412503271,
-                                                                                  "ups": 4,
+                                                                                  "ups": 3,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -519,7 +519,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "ThomasVeil",
                                                                         "parent_id": "t1_cl0w5s8",
-                                                                        "score": -3,
+                                                                        "score": -2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "So who is?  \nIs it fine for the network if someone (whoever it is) pays $20 for a $0 transaction?\n",
@@ -536,7 +536,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -3
+                                                                        "ups": -2
                                                                       }
                                                                     },
                                                                     {
@@ -590,7 +590,7 @@
                                                                                                       "report_reasons": null,
                                                                                                       "author": "prelsidente",
                                                                                                       "parent_id": "t1_cl0x1ib",
-                                                                                                      "score": 1,
+                                                                                                      "score": 2,
                                                                                                       "approved_by": null,
                                                                                                       "controversiality": 0,
                                                                                                       "body": "Yes it does. $1 million to store the transactions over all servers, vaults, including eletricity and bandwith for banks, financial institutions, etc.\n\nCan you present me the calculations for those $20?",
@@ -604,7 +604,7 @@
                                                                                                       "created": 1412537572,
                                                                                                       "author_flair_text": null,
                                                                                                       "created_utc": 1412508772,
-                                                                                                      "ups": 1,
+                                                                                                      "ups": 2,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
                                                                                                       "distinguished": null
@@ -654,7 +654,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "prelsidente",
                                                                                   "parent_id": "t1_cl0wcr8",
-                                                                                  "score": 6,
+                                                                                  "score": 5,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "It was $20 on transaction, now is $20 in storage? For what amount of Bitcoin? What gives?\n\nFIAT storage costs millions.",
@@ -668,7 +668,7 @@
                                                                                   "created": 1412535892,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412507092,
-                                                                                  "ups": 6,
+                                                                                  "ups": 5,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -686,7 +686,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "[deleted]",
                                                                         "parent_id": "t1_cl0w5s8",
-                                                                        "score": -5,
+                                                                        "score": -3,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "[deleted]",
@@ -703,7 +703,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -5
+                                                                        "ups": -3
                                                                       }
                                                                     }
                                                                   ],
@@ -718,7 +718,7 @@
                                                               "report_reasons": null,
                                                               "author": "prelsidente",
                                                               "parent_id": "t1_cl0w36t",
-                                                              "score": 7,
+                                                              "score": 5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "That's another one of those phrases that trolls burst out without really thinking about it.\n\nCosts $20 to who? Who's paying for it?",
@@ -732,7 +732,7 @@
                                                               "created": 1412531437,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412502637,
-                                                              "ups": 7,
+                                                              "ups": 5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -785,7 +785,7 @@
                                                     "report_reasons": null,
                                                     "author": "ThomasVeil",
                                                     "parent_id": "t1_cl0ty2m",
-                                                    "score": -8,
+                                                    "score": -6,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Wasn't the story that each Bitcoin transaction basically costs $20?",
@@ -802,7 +802,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -8
+                                                    "ups": -6
                                                   }
                                                 }
                                               ],
@@ -817,7 +817,7 @@
                                           "report_reasons": null,
                                           "author": "mjkeating",
                                           "parent_id": "t1_cl0s8vc",
-                                          "score": 14,
+                                          "score": 16,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "They are paying a transaction fee of .0003 (10 cents) for each satoshi they send.  So, it shouldn't screw up the miners much.",
@@ -831,7 +831,7 @@
                                           "created": 1412519959,
                                           "author_flair_text": null,
                                           "created_utc": 1412491159,
-                                          "ups": 14,
+                                          "ups": 16,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -896,7 +896,7 @@
                                           "report_reasons": null,
                                           "author": "Natanael_L",
                                           "parent_id": "t1_cl0s8vc",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Mining is done with block headers alone.",
@@ -910,7 +910,7 @@
                                           "created": 1412540196,
                                           "author_flair_text": null,
                                           "created_utc": 1412511396,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -931,7 +931,7 @@
                                           "report_reasons": null,
                                           "author": "wbic16",
                                           "parent_id": "t1_cl0s8vc",
-                                          "score": 0,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "It doesn't affect mining at all, other than the storage cost. Each block keeps a hash of the prior block, so they become a constant-time cost in the long-run.\n\nMore likely it will lead to a protocol change that allows miners to ignore and prune such spam in the future.",
@@ -945,7 +945,7 @@
                                           "created": 1412545838,
                                           "author_flair_text": null,
                                           "created_utc": 1412517038,
-                                          "ups": 0,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -963,7 +963,7 @@
                                 "report_reasons": null,
                                 "author": "germican",
                                 "parent_id": "t1_cl0rvln",
-                                "score": 13,
+                                "score": 11,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I think it's a long term thing. Each transaction is added to the block chain. In the short term it won't do much but if it continues for years it just adds than many more transactions to that chain making hashing in mining even more difficult. \n\nWill it have an effect... Only time will tell but people certainly are trying. ",
@@ -980,7 +980,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 13
+                                "ups": 11
                               }
                             }
                           ],
@@ -1074,7 +1074,7 @@
                       "report_reasons": null,
                       "author": "flaim",
                       "parent_id": "t1_cl0qggt",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yep. https://blockchain.info/address/1DiRy9Giiq1GCkAD7VMSrXoKVe2dimnovm",
@@ -1088,7 +1088,7 @@
                       "created": 1412527957,
                       "author_flair_text": null,
                       "created_utc": 1412499157,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1364,7 +1364,7 @@
                       "report_reasons": null,
                       "author": "synfin80",
                       "parent_id": "t1_cl0qggt",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This same method could definitely be used to identify individual address holders based on device fingerprinting/geolocation if a unique code was used on the URL on each address. This one is spam though.",
@@ -1378,7 +1378,7 @@
                       "created": 1412531667,
                       "author_flair_text": null,
                       "created_utc": 1412502867,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1490,7 +1490,7 @@
                                 "report_reasons": null,
                                 "author": "viq123",
                                 "parent_id": "t1_cl0tyup",
-                                "score": 8,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "they may not pay it, i think that their goal can be reached even if transaction isn't confirmed.",
@@ -1507,7 +1507,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 7
                               }
                             },
                             {
@@ -1557,7 +1557,7 @@
                       "report_reasons": null,
                       "author": "mjkeating",
                       "parent_id": "t1_cl0qsey",
-                      "score": -1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Not that convenient when you consider the $.10 transaction fee they are paying.",
@@ -1571,7 +1571,7 @@
                       "created": 1412520040,
                       "author_flair_text": null,
                       "created_utc": 1412491240,
-                      "ups": -1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1636,7 +1636,7 @@
                       "report_reasons": null,
                       "author": "[deleted]",
                       "parent_id": "t1_cl0qsey",
-                      "score": -8,
+                      "score": -5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "[deleted]",
@@ -1650,7 +1650,7 @@
                       "created": 1412512834,
                       "author_flair_text": null,
                       "created_utc": 1412484034,
-                      "ups": -8,
+                      "ups": -5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1668,7 +1668,7 @@
             "report_reasons": null,
             "author": "viq123",
             "parent_id": "t3_2ibx20",
-            "score": 11,
+            "score": 9,
             "approved_by": null,
             "controversiality": 0,
             "body": "spam, advertising. \n\nits 0.0000033$ per view, pretty convenient ",
@@ -1685,7 +1685,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 9
           }
         },
         {
@@ -1715,7 +1715,7 @@
                       "report_reasons": null,
                       "author": "notreddingit",
                       "parent_id": "t1_cl0ta7k",
-                      "score": 15,
+                      "score": 16,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "And you'll notice here in this thread that people on bitcointalk are exploiting the bots by posting thousands of addresses for it to scrape. And it appears to be working. \n\nhttps://bitcointalk.org/index.php?topic=775881.msg8970073#msg8970073",
@@ -1729,7 +1729,7 @@
                       "created": 1412535349,
                       "author_flair_text": null,
                       "created_utc": 1412506549,
-                      "ups": 15,
+                      "ups": 16,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1782,7 +1782,7 @@
             "report_reasons": null,
             "author": "sanswork",
             "parent_id": "t3_2ibx20",
-            "score": 32,
+            "score": 36,
             "approved_by": null,
             "controversiality": 0,
             "body": "Have you heard the good news?  The number of transactions is going up!  This is a definite sign of increasing user adoption and nothing to do with things like this.",
@@ -1799,7 +1799,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 32
+            "ups": 36
           }
         },
         {
@@ -1975,7 +1975,7 @@
             "report_reasons": null,
             "author": "706d206d652074686973",
             "parent_id": "t3_2ibx20",
-            "score": 3,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yup got this too. The address starts with 1BSmart and it was 1 satoshi. I thought the minimum with the dust protection is 45 satoshis but I asked on IRC and they said if they want to mine it themselves they can, so yeah it's a big operation...",
@@ -1992,7 +1992,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -2054,7 +2054,7 @@
             "report_reasons": null,
             "author": "glennmatthew",
             "parent_id": "t3_2ibx20",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "It's ~~advertising~~ spam for a website called [Bitmessage Me](http://bitmsqr.com) - check the transaction notes.",
@@ -2071,7 +2071,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -2259,7 +2259,7 @@
                       "report_reasons": null,
                       "author": "coinwatcher",
                       "parent_id": "t1_cl0qeh7",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The scam is that the they send you 3 of these and on blockchain.info there was a URL which told you on their Bitmessage Me scam website that you have 3 messages and they ask you to log in with your Blockchain.info account to read them ... to steal your BTC.",
@@ -2273,7 +2273,7 @@
                       "created": 1412548317,
                       "author_flair_text": null,
                       "created_utc": 1412519517,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2350,7 +2350,7 @@
                                 "report_reasons": null,
                                 "author": "cipher_gnome",
                                 "parent_id": "t1_cl0tasf",
-                                "score": 4,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "The blockchain doesn't link an address to a person. By posting an address publicly, that address is then linked to you.",
@@ -2367,7 +2367,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             }
                           ],
@@ -2417,7 +2417,7 @@
                       "report_reasons": null,
                       "author": "WizardOfWisdom",
                       "parent_id": "t1_cl0t67u",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Even though bitcoin isn't meant to be anonymous, this kind of experimentation is a bit disturbing and should be looked at.  Can we push this post higher and get more eyes on this?",
@@ -2431,7 +2431,7 @@
                       "created": 1412525686,
                       "author_flair_text": null,
                       "created_utc": 1412496886,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2601,7 +2601,7 @@
                       "report_reasons": null,
                       "author": "homad",
                       "parent_id": "t1_cl0t67u",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "/\\this",
@@ -2615,7 +2615,7 @@
                       "created": 1412524018,
                       "author_flair_text": null,
                       "created_utc": 1412495218,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2633,7 +2633,7 @@
             "report_reasons": null,
             "author": "behindtext",
             "parent_id": "t3_2ibx20",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "sending dust to addresses that are collected using a crawler means that there is an ongoing effort to track utxos. by linking public addresses with utxos, one can systematically de-anonymize portions of the rolling utxo set.\n\nthe way to defeat this attempt at de-anonymization is to not publicly post addresses.",
@@ -2650,7 +2650,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -2727,7 +2727,7 @@
                                 "report_reasons": null,
                                 "author": "homad",
                                 "parent_id": "t1_cl0reih",
-                                "score": -2,
+                                "score": -1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Think about Coinbase (or similar) potentially doing this to sorta thing to further track coins. i think of it as like pinging potential addresses their customers mix/move coins to.",
@@ -2744,7 +2744,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -2
+                                "ups": -1
                               }
                             }
                           ],
@@ -2759,7 +2759,7 @@
                       "report_reasons": null,
                       "author": "J2383",
                       "parent_id": "t1_cl0qboj",
-                      "score": 9,
+                      "score": 10,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "A reasonable theory, but since the blockchain is public, why would they need to dust anyone to see that?",
@@ -2773,7 +2773,7 @@
                       "created": 1412511580,
                       "author_flair_text": null,
                       "created_utc": 1412482780,
-                      "ups": 9,
+                      "ups": 10,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2791,7 +2791,7 @@
             "report_reasons": null,
             "author": "FreeMarketAnarchist",
             "parent_id": "t3_2ibx20",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "I don't know.  My guess would be some kind of data collection. See when and if and where the coins move. ",
@@ -2808,7 +2808,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -3001,7 +3001,7 @@
             "report_reasons": null,
             "author": "maplesyrupghost",
             "parent_id": "t3_2ibx20",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "maybe trying to track to see where they end up",
@@ -3018,7 +3018,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         },
         {
@@ -3048,7 +3048,7 @@
                       "report_reasons": null,
                       "author": "mjkeating",
                       "parent_id": "t1_cl0s6qj",
-                      "score": 6,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "It is possible to send a satoshi if you pay the transaction fee.\n\n",
@@ -3062,7 +3062,7 @@
                       "created": 1412520387,
                       "author_flair_text": null,
                       "created_utc": 1412491587,
-                      "ups": 6,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3095,7 +3095,7 @@
                                 "report_reasons": null,
                                 "author": "targetpro",
                                 "parent_id": "t1_cl0si2w",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "If the sender mined the block as well, I suspect.",
@@ -3112,7 +3112,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             }
                           ],
@@ -3326,7 +3326,7 @@
             "report_reasons": null,
             "author": "d4d5c4e5",
             "parent_id": "t3_2ibx20",
-            "score": -3,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "The transactions you're referring to were 0.0001 BTC, not a single satoshi as OP is stating. It is not possible to send a single satoshi in a transaction, because the transaction simply won't propagate on the network.",
@@ -3343,7 +3343,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -2
           }
         }
       ],

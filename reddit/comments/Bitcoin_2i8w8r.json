@@ -89,7 +89,7 @@
             "subreddit": "Bitcoin",
             "score_hidden": false,
             "name": "t1_ckzz15x",
-            "created": 1412423593,
+            "created": 1412398393,
             "author_flair_text": null,
             "created_utc": 1412394793,
             "distinguished": null,
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "coinvesting",
             "parent_id": "t3_2i8w8r",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I was pleasantly surprised to read the Bitcoin option in this strange thread I found myself reading this evening.",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         }
       ],

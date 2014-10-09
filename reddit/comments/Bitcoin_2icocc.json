@@ -72,7 +72,7 @@
               },
               "type": "youtube.com"
             },
-            "score": 41,
+            "score": 44,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -93,8 +93,8 @@
             "author_flair_text": null,
             "title": "In regards to the recent price swings, from someone that has been around since the first bubble...",
             "created_utc": 1412510616,
-            "ups": 41,
-            "upvote_ratio": 0.72,
+            "ups": 44,
+            "upvote_ratio": 0.73,
             "num_comments": 37,
             "visited": false,
             "num_reports": null,
@@ -138,7 +138,7 @@
                       "report_reasons": null,
                       "author": "ThePiachu",
                       "parent_id": "t1_cl0zl84",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "By your command ;).",
@@ -152,7 +152,7 @@
                       "created": 1412548714,
                       "author_flair_text": null,
                       "created_utc": 1412519914,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -170,7 +170,7 @@
             "report_reasons": null,
             "author": "fxidiot",
             "parent_id": "t3_2icocc",
-            "score": 7,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "SO SAY WE ALL",
@@ -187,7 +187,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 5
           }
         },
         {
@@ -205,7 +205,7 @@
             "report_reasons": null,
             "author": "awinderz",
             "parent_id": "t3_2icocc",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "To the moon!",
@@ -222,7 +222,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -422,7 +422,7 @@
                                 "report_reasons": null,
                                 "author": "TheHelpfulGuy",
                                 "parent_id": "t1_cl0z2xy",
-                                "score": 6,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Fixed link: [btcvol](http://btcvol.info).",
@@ -439,7 +439,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 4
                               }
                             },
                             {
@@ -616,7 +616,7 @@
                                                               "report_reasons": null,
                                                               "author": "bitcoinisawesome",
                                                               "parent_id": "t1_cl10srw",
-                                                              "score": 3,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Yes. Bitcoin in my view isn't a currency *yet*. I like the comment someone made today, calling it a \"candidate currency\". That's fairly accurate. Another way to see it is as a commodity or as the first / most successful digital commodity. It's really a new asset class. 3% is huge, but this is the early days so...makes sense that it would be 3%. ",
@@ -630,7 +630,7 @@
                                                               "created": 1412551314,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412522514,
-                                                              "ups": 3,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1093,7 +1093,7 @@
                                           "report_reasons": null,
                                           "author": "bitcoinisawesome",
                                           "parent_id": "t1_cl10bbk",
-                                          "score": 3,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Yes it's volatile but overall it's gone down significantly. 2 years ago the average volatility was 10%. This year it's been 5% or under. That's a significant improvement.",
@@ -1107,7 +1107,7 @@
                                           "created": 1412550819,
                                           "author_flair_text": null,
                                           "created_utc": 1412522019,
-                                          "ups": 3,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1157,7 +1157,7 @@
                       "report_reasons": null,
                       "author": "bitcoinisawesome",
                       "parent_id": "t1_cl0y9q4",
-                      "score": 5,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yes you are missing the fact that bitcoin volatility has consistently been dropping over the last 4+ years. Source: [btcvol](http://btcvol.info).\n\nWe are just still in the early stages of bitcoin adoption.",
@@ -1171,7 +1171,7 @@
                       "created": 1412546096,
                       "author_flair_text": null,
                       "created_utc": 1412517296,
-                      "ups": 5,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1417,7 +1417,7 @@
             "report_reasons": null,
             "author": "jjamer",
             "parent_id": "t3_2icocc",
-            "score": 0,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "So, the argument that bitcoin volatility will drop as the bitcoin economy grows seems to be false. Am I missing something?",
@@ -1434,7 +1434,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 4
           }
         },
         {
@@ -1452,7 +1452,7 @@
             "report_reasons": null,
             "author": "LongTrailNinja",
             "parent_id": "t3_2icocc",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Ya, keep with it, cause after this everything changes, we will see a change in the mining process to control pricing during dumps from the miners; in 1.18 more years the coins per block go down again, which will lead to higher exclusivity and hence forth higher prices! So buy in and stay in, you'll be pleasantly surprised!",
@@ -1469,7 +1469,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -1534,7 +1534,7 @@
                       "report_reasons": null,
                       "author": "ThePiachu",
                       "parent_id": "t1_cl1166z",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Doubt it. Too little exposure, too few supporters. Bitcoin has a large network of adopters already. Long run, perhaps, but not in the next few years.",
@@ -1548,7 +1548,7 @@
                       "created": 1412556910,
                       "author_flair_text": null,
                       "created_utc": 1412528110,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1566,7 +1566,7 @@
             "report_reasons": null,
             "author": "crimi666",
             "parent_id": "t3_2icocc",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yeah but next time with a altcoin. Price was the only barrier left, when technology is king, coins like ethereum, bitshares, nxt, nem, dark will rule.",
@@ -1583,7 +1583,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         }
       ],

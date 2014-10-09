@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "BobAlison",
             "media": null,
-            "score": 18,
+            "score": 19,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Bitcoin Core coin selection algorithm",
             "created_utc": 1412345605,
-            "ups": 18,
+            "ups": 19,
             "upvote_ratio": 0.84,
-            "num_comments": 0,
+            "num_comments": 1,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -62,7 +62,43 @@
     "kind": "Listing",
     "data": {
       "modhash": "",
-      "children": [],
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2i6to7",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl3ebca",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "miscreanity",
+            "parent_id": "t3_2i6to7",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Very clear explanation and examples, thanks.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Very clear explanation and examples, thanks.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl3ebca",
+            "created": 1412762002,
+            "author_flair_text": null,
+            "created_utc": 1412733202,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        }
+      ],
       "after": null,
       "before": null
     }

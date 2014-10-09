@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "crypto_coiner",
             "media": null,
-            "score": 46,
+            "score": 49,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "“Bitcoin to replace gold” says Jon Matonis",
             "created_utc": 1412587617,
-            "ups": 46,
-            "upvote_ratio": 0.74,
-            "num_comments": 22,
+            "ups": 49,
+            "upvote_ratio": 0.75,
+            "num_comments": 24,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -210,7 +210,7 @@
             "report_reasons": null,
             "author": "magic_jesus",
             "parent_id": "t3_2ifmhn",
-            "score": 12,
+            "score": 13,
             "approved_by": null,
             "controversiality": 0,
             "body": "says **Bitcoin Foundation Executive Director** Jon Matonis",
@@ -227,7 +227,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 13
           }
         },
         {
@@ -498,7 +498,51 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ifmhn",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ifmhn",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2mcd8",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "FjornHorn",
+                                          "parent_id": "t1_cl1xin5",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "That... is my point. Mate :)\n\nLike I said:\n&gt;Humanity, however, will face larger problems.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That... is my point. Mate :)&lt;/p&gt;\n\n&lt;p&gt;Like I said:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Humanity, however, will face larger problems.&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2mcd8",
+                                          "created": 1412689906,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412661106,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl1xin5",
@@ -533,7 +577,51 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ifmhn",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ifmhn",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2mdaa",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "FjornHorn",
+                                          "parent_id": "t1_cl1vv2r",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "So your argument is: In a world where Electricity is (almost) non-existent and the internet and global communications has totally failed, Gold wins.\n\nCan't argue against that! Would hate to life in that nightmare of a world though - my bets would be on food, medical supplies, baby food and clean water for bartering. Can't eat gold. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;So your argument is: In a world where Electricity is (almost) non-existent and the internet and global communications has totally failed, Gold wins.&lt;/p&gt;\n\n&lt;p&gt;Can&amp;#39;t argue against that! Would hate to life in that nightmare of a world though - my bets would be on food, medical supplies, baby food and clean water for bartering. Can&amp;#39;t eat gold. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2mdaa",
+                                          "created": 1412690002,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412661202,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl1vv2r",
@@ -573,7 +661,7 @@
                       "report_reasons": null,
                       "author": "FjornHorn",
                       "parent_id": "t1_cl1uvj8",
-                      "score": 9,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "A Solar flare will not kill Bitcoin (blockchain). Or do you mean a solar flare that kills the entire planet's power?\n\nA worldwide power out?\n\nIn minutes, people start to panic. Cellphone tower switch over to emergency power and most datacenters switch the diesel generators. After a few hours datacenters will start to fail and so will celltowers. Bank, Govt and other services fail. Offices are without power and phones. The dark side of the planet will have looting and escalating situations in major cities. The countryside will be fine, but will be cut of from the world and has to rely on HAM radio of word of mouth to learn what is going on.\n\nAfter about 12 hours supermarkets etc. are plundered and/or no longer re-stocked. Distribution centers for foodstock face cooling failure so a lot of produce is going to spoil very fast. Canned food etc. will be hoarded, so will water. Tap water will fail directly or when the water towers run out of aux. pressure.\n\nHospitals will have their IT services shut down pretty fast, so they are back to landlines after a few hours. Medicine storage sites will face cooling problems but have proper aux. power to stay operational for days. Hospitals will only take emergency cases and run on emergency power. After a few days it could get nasty. No power for oxygen pumps, no new oxygen bottles, no disposal of waste, desinfection machines offline, etc.\n\nAirports will close down because the Flight control etc. only have backup power for a few days. Hundreds of thousands of people are stranded far away from home, not knowing what is going on (except the power being out) and this will escalate.\n\nFuel stations won't be able to deliver fuel - because the pumps operate on electricity. Some fuel stations will get robbed/ or the manual pumps will get hijacked by looters wanting the last fuel available. Payments won't work, maybe only cash for the food that is left at gas stations - employees would be wise to close the shop. No communication with headquarters possible anyway.\n\nIn the following days more failures arise:\n\nBridges don't work. Land below sealevel gets flooded (Netherlands for example) because the pumps shut down after 24 hours of Diesel power. Sewers don't function properly and decease spreads. Food is scarce, more riots. Farm distribution fails due to broken infrastructure. Internet fails and more segments get torn off the now broken fibrelinks on the ocean floor (Gbics offline).\n\n...but somewhere, in mainland Europe, a small Raspberry Pi Bitcoin node is running. Running on Solar power. It's my little Bitcoin node, waiting for the day the internet goes back online and it will be fine.\n\nHumanity, however, will face larger problems.\n",
@@ -587,7 +675,7 @@
                       "created": 1412633216,
                       "author_flair_text": null,
                       "created_utc": 1412604416,
-                      "ups": 9,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -719,7 +807,7 @@
             "report_reasons": null,
             "author": "PoliticalDissidents",
             "parent_id": "t3_2ifmhn",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "I doubt that. No doubt Bitcoin caters to the same crowed as gold to an extent. However gold is the worlds oldest store of value and the worlds first form of money. It's not going away any time soon for that reason. Bitcoin however still offers utility that gold doesn't = the ability to transfer it anywhere near instantly for essentially free.  Also, how valuable are your Bitcoins to you if you get hit with a solar flair?\n\nEdit: Typo",
@@ -736,7 +824,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -754,7 +842,7 @@
             "report_reasons": null,
             "author": "bitcointrdr",
             "parent_id": "t3_2ifmhn",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "in bitcoin we trust? i don't think so.",
@@ -771,7 +859,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -859,7 +947,7 @@
             "report_reasons": null,
             "author": "gersegal",
             "parent_id": "t3_2ifmhn",
-            "score": -1,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "unless they start making jewellery out of bitcoin gold ain't goin away. no-one ever got laid giving his girlfriend some bitcoin",
@@ -876,7 +964,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": -2
           }
         }
       ],

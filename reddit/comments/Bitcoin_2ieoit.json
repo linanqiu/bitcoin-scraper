@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "Despair_Collector",
             "media": null,
-            "score": 338,
+            "score": 341,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Introducing the legendary bitcoin whale!",
             "created_utc": 1412559365,
-            "ups": 338,
+            "ups": 341,
             "upvote_ratio": 0.87,
-            "num_comments": 215,
+            "num_comments": 216,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -138,7 +138,7 @@
                                                               "report_reasons": null,
                                                               "author": "Bragzor",
                                                               "parent_id": "t1_cl1puz5",
-                                                              "score": 11,
+                                                              "score": 10,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "9 million in mortgages? Poor guy.",
@@ -152,7 +152,7 @@
                                                               "created": 1412621174,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412592374,
-                                                              "ups": 11,
+                                                              "ups": 10,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -202,7 +202,7 @@
                                           "report_reasons": null,
                                           "author": "Polycephal_Lee",
                                           "parent_id": "t1_cl1mn7z",
-                                          "score": 11,
+                                          "score": 13,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Everyone has different breaking points, needs, and life circumstances.",
@@ -216,7 +216,7 @@
                                           "created": 1412607283,
                                           "author_flair_text": null,
                                           "created_utc": 1412578483,
-                                          "ups": 11,
+                                          "ups": 13,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -282,7 +282,7 @@
                                                               "report_reasons": null,
                                                               "author": "Sluisifer",
                                                               "parent_id": "t1_cl1ol03",
-                                                              "score": 16,
+                                                              "score": 14,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Well, if the spike in days destroyed is any indication, those coins are at least 2 years old, so they wouldn't have been nearly as much of a fortune back then.  More importantly, though, are you really that surprised when people do weird/stupid/irrational stuff?  It's certainly plausible.",
@@ -296,7 +296,7 @@
                                                               "created": 1412604006,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412575206,
-                                                              "ups": 16,
+                                                              "ups": 14,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -604,7 +604,7 @@
                                           "report_reasons": null,
                                           "author": "Sluisifer",
                                           "parent_id": "t1_cl1mn7z",
-                                          "score": 22,
+                                          "score": 21,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Lots of reasons why they might not have sold before.\n\nMaybe they were backpacking around the world, or in prison, or they just forgot about bitcoin until now.\n\nWhat's so interesting about all of this is how many explanations you can come up with.  At the end of the day, we don't know what's happening.",
@@ -618,7 +618,7 @@
                                           "created": 1412600723,
                                           "author_flair_text": null,
                                           "created_utc": 1412571923,
-                                          "ups": 22,
+                                          "ups": 21,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -741,7 +741,7 @@
                                 "report_reasons": null,
                                 "author": "mustyoshi",
                                 "parent_id": "t1_cl1m915",
-                                "score": 38,
+                                "score": 34,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I would have been selling up and down the last bubble. Not holding till now.",
@@ -758,7 +758,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 38
+                                "ups": 34
                               }
                             },
                             {
@@ -1057,7 +1057,7 @@
                                 "report_reasons": null,
                                 "author": "smixandvanpool",
                                 "parent_id": "t1_cl1m915",
-                                "score": 7,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "hard to think of another explanation right? did u see vorhees' comment earlier today? you only put up a wall like that if you want to scare ppl.. definitely seemed like it at the time, but this guy is not scaring/manipulating, he's cashing out. pretty stoked on the response to this wall.  okcoin, huobi, bifinex, theyre all 10 - 15 dollars over stamp right now..   wall is under 14k already, wonder how many buyers are trying to get funds to stamp? is this not a clear sign that there is demand for bitcoin? \n\n.... and because of all this... still so confused as to why this guy keeps the order up. who knows.. ",
@@ -1074,7 +1074,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 9
                               }
                             },
                             {
@@ -1145,6 +1145,41 @@
                                 "mod_reports": [],
                                 "num_reports": null,
                                 "ups": 3
+                              }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ieoit",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl26d0k",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Tiptop1212",
+                                "parent_id": "t1_cl1m915",
+                                "score": 2,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "My theory is that it was a Russian early adopter or rich oligarch (or both) who would have liked to have waited for a better price to sell (or more likely planned on staying in long term) but after Russia have announced that they are basically going to ban the use of bitcoin, they decided to unload... settle for $9m or risk a siberian gulag... not a difficult choice. ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;My theory is that it was a Russian early adopter or rich oligarch (or both) who would have liked to have waited for a better price to sell (or more likely planned on staying in long term) but after Russia have announced that they are basically going to ban the use of bitcoin, they decided to unload... settle for $9m or risk a siberian gulag... not a difficult choice. &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl26d0k",
+                                "created": 1412655836,
+                                "author_flair_text": null,
+                                "created_utc": 1412627036,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 2
                               }
                             },
                             {
@@ -1376,7 +1411,7 @@
                                 "report_reasons": null,
                                 "author": "smixandvanpool",
                                 "parent_id": "t1_cl1m915",
-                                "score": 6,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "i hold dude. would never sell.   ;)",
@@ -1393,7 +1428,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 4
                               }
                             },
                             {
@@ -1570,41 +1605,6 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ieoit",
                                 "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl26d0k",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "Tiptop1212",
-                                "parent_id": "t1_cl1m915",
-                                "score": 1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "My theory is that it was a Russian early adopter or rich oligarch (or both) who would have liked to have waited for a better price to sell (or more likely planned on staying in long term) but after Russia have announced that they are basically going to ban the use of bitcoin, they decided to unload... settle for $9m or risk a siberian gulag... not a difficult choice. ",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;My theory is that it was a Russian early adopter or rich oligarch (or both) who would have liked to have waited for a better price to sell (or more likely planned on staying in long term) but after Russia have announced that they are basically going to ban the use of bitcoin, they decided to unload... settle for $9m or risk a siberian gulag... not a difficult choice. &lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl26d0k",
-                                "created": 1412655836,
-                                "author_flair_text": null,
-                                "created_utc": 1412627036,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
-                              }
-                            },
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2ieoit",
-                                "likes": null,
                                 "replies": {
                                   "kind": "Listing",
                                   "data": {
@@ -1625,7 +1625,7 @@
                                           "report_reasons": null,
                                           "author": "misterrunon",
                                           "parent_id": "t1_cl1n91l",
-                                          "score": 6,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "here's a link to the wallet that moved the 30k coins http://bitcoinrichlist.com/address/1JX5hS3HyVT3VwnEgvoPLVu6ujPFH7BvrY?charttype=balance\n\ntracking all those transactions is a mindfuck, but if a whale often moves his coins, then \"days destroyed\" won't mean all that much. he's still an early adopter that is selling off a large portion of his stakes.",
@@ -1639,7 +1639,7 @@
                                           "created": 1412601947,
                                           "author_flair_text": null,
                                           "created_utc": 1412573147,
-                                          "ups": 6,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1696,7 +1696,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "veroxii",
                                                                         "parent_id": "t1_cl1o6fc",
-                                                                        "score": 9,
+                                                                        "score": 7,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "They moved them just before. In bitcoinmarkets subreddit someone noticed 30k moving in the blockchain and sure enough just over 6 confirmations later the wall appeared.",
@@ -1713,7 +1713,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 9
+                                                                        "ups": 7
                                                                       }
                                                                     },
                                                                     {
@@ -1906,7 +1906,7 @@
                                           "report_reasons": null,
                                           "author": "etacovda",
                                           "parent_id": "t1_cl1n91l",
-                                          "score": 3,
+                                          "score": 4,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "They are selling on exchange not market. Days destroyed is irrelevant. ",
@@ -1920,7 +1920,7 @@
                                           "created": 1412600348,
                                           "author_flair_text": null,
                                           "created_utc": 1412571548,
-                                          "ups": 3,
+                                          "ups": 4,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2029,48 +2029,14 @@
                               }
                             },
                             {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2ieoit",
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl1so7g",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "dellintelbitcoin",
-                                "parent_id": "t1_cl1m915",
-                                "score": -1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "Early adopters, more than anyone should be able to hold firm during a storm like that. It must have been an error. A bot malfucntioning. Or the trader falling asleep. I doubt those 30k were intended to be sold like that. Nevertheless, grats on the 9MM USD?",
-                                "edited": 1412596822,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Early adopters, more than anyone should be able to hold firm during a storm like that. It must have been an error. A bot malfucntioning. Or the trader falling asleep. I doubt those 30k were intended to be sold like that. Nevertheless, grats on the 9MM USD?&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl1so7g",
-                                "created": 1412625058,
-                                "author_flair_text": null,
-                                "created_utc": 1412596258,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": -1
-                              }
-                            },
-                            {
                               "kind": "more",
                               "data": {
-                                "count": 6,
+                                "count": 7,
                                 "parent_id": "t1_cl1m915",
                                 "children": [
                                   "cl1q57p",
-                                  "cl1rt6w"
+                                  "cl1rt6w",
+                                  "cl1so7g"
                                 ],
                                 "id": "cl1q57p",
                                 "name": "t1_cl1q57p"
@@ -2088,7 +2054,7 @@
                       "report_reasons": null,
                       "author": "modeless",
                       "parent_id": "t1_cl1k93i",
-                      "score": 109,
+                      "score": 106,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Seems pretty clear to me. An early adopter decided $300 is their breaking point. They want to cash out their $9m before they miss their chance. They're not experienced with handling this amount of money because they've never been rich before; they just got lucky. They don't have the connections to sell off-market so they decided to sell the way they know and the way that's guaranteed to work: a Bitstamp sell order below market. They could maybe get more money with a more sophisticated trading strategy but who cares? They'll take their $9m and retire on a beach somewhere for the rest of their lives.\n\nThat's what I'd do if I had 30,000 BTC right now and I bet you would too.",
@@ -2102,7 +2068,7 @@
                       "created": 1412596544,
                       "author_flair_text": null,
                       "created_utc": 1412567744,
-                      "ups": 109,
+                      "ups": 106,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2135,7 +2101,7 @@
                                 "report_reasons": null,
                                 "author": "mjkeating",
                                 "parent_id": "t1_cl1lsbx",
-                                "score": 5,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "&gt;Maybe someone actually does want $300 for their coins\n\nYep.  Occam's Razer would agree.\n\n&gt;and put in an order to that effect.\n\nAnd that's a fact.",
@@ -2152,7 +2118,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 6
                               }
                             },
                             {
@@ -2179,7 +2145,7 @@
                       "report_reasons": null,
                       "author": "interfect",
                       "parent_id": "t1_cl1k93i",
-                      "score": 15,
+                      "score": 17,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Maybe someone actually does want $300 for their coins, and put in an order to that effect.",
@@ -2193,7 +2159,7 @@
                       "created": 1412595417,
                       "author_flair_text": null,
                       "created_utc": 1412566617,
-                      "ups": 15,
+                      "ups": 17,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2226,7 +2192,7 @@
                                 "report_reasons": null,
                                 "author": "Cawley22",
                                 "parent_id": "t1_cl1lgd8",
-                                "score": 16,
+                                "score": 17,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "No because we have been eating it. ",
@@ -2243,7 +2209,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 16
+                                "ups": 17
                               }
                             },
                             {
@@ -2328,7 +2294,7 @@
                       "report_reasons": null,
                       "author": "token_dave",
                       "parent_id": "t1_cl1k93i",
-                      "score": 6,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Sooo if it's clear that this guy isn't really bluffing, shouldn't the market be crashing?",
@@ -2342,7 +2308,7 @@
                       "created": 1412594639,
                       "author_flair_text": null,
                       "created_utc": 1412565839,
-                      "ups": 6,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2477,7 +2443,7 @@
             "report_reasons": null,
             "author": "smixandvanpool",
             "parent_id": "t3_2ieoit",
-            "score": 62,
+            "score": 63,
             "approved_by": null,
             "controversiality": 0,
             "body": "been in bitcoin a long time and this has got to be the most bizarre thing ive seen.  clear market confidence, just chipping away at this thing, other exchanges sitting a few dollars above.. cant figure this one out....\n\nedit: a few hours later ...aaaand here we go. :) ",
@@ -2494,7 +2460,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 62
+            "ups": 63
           }
         },
         {
@@ -2627,7 +2593,7 @@
                                           "report_reasons": null,
                                           "author": "reddbullish",
                                           "parent_id": "t1_cl1n7el",
-                                          "score": 11,
+                                          "score": 13,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "And this is a good thing.",
@@ -2641,7 +2607,7 @@
                                           "created": 1412603266,
                                           "author_flair_text": null,
                                           "created_utc": 1412574466,
-                                          "ups": 11,
+                                          "ups": 13,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2694,7 +2660,7 @@
                                 "report_reasons": null,
                                 "author": "twfry",
                                 "parent_id": "t1_cl1k6s6",
-                                "score": 17,
+                                "score": 15,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Every early adopter eventually will reach their exit point, and with every whale's exit the ownership pool becomes more and more distributed.",
@@ -2711,7 +2677,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 17
+                                "ups": 15
                               }
                             },
                             {
@@ -2817,7 +2783,7 @@
                       "report_reasons": null,
                       "author": "jcoinner",
                       "parent_id": "t1_cl1ix0m",
-                      "score": 20,
+                      "score": 19,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Except that's backwards. We're eating him and when done his Top100 stash will have dissolved into thousands of small holders.\n\nEveryone should get a bite of this whale. Watch him die, his hopes of being a billionaire dashed forever. Sob. Sob.",
@@ -2831,7 +2797,7 @@
                       "created": 1412591869,
                       "author_flair_text": null,
                       "created_utc": 1412563069,
-                      "ups": 20,
+                      "ups": 19,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2911,7 +2877,7 @@
                                           "report_reasons": null,
                                           "author": "gameboy17",
                                           "parent_id": "t1_cl1jz7j",
-                                          "score": 23,
+                                          "score": 24,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Well it's a Bitcoin whale, and Bitcoin is all about innovation, so there's no reason THIS whale can't have gills.",
@@ -2925,7 +2891,7 @@
                                           "created": 1412591553,
                                           "author_flair_text": null,
                                           "created_utc": 1412562753,
-                                          "ups": 23,
+                                          "ups": 24,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3026,7 +2992,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "jitty",
                                                                         "parent_id": "t1_cl1m53m",
-                                                                        "score": 5,
+                                                                        "score": 6,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Battlestar Galactica",
@@ -3043,7 +3009,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 5
+                                                                        "ups": 6
                                                                       }
                                                                     }
                                                                   ],
@@ -3122,7 +3088,7 @@
                                           "report_reasons": null,
                                           "author": "SebastianMaki",
                                           "parent_id": "t1_cl1jz7j",
-                                          "score": 11,
+                                          "score": 12,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Thanks Dwight.",
@@ -3136,7 +3102,7 @@
                                           "created": 1412591529,
                                           "author_flair_text": null,
                                           "created_utc": 1412562729,
-                                          "ups": 11,
+                                          "ups": 12,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3505,7 +3471,7 @@
                                 "report_reasons": null,
                                 "author": "ddmnyc",
                                 "parent_id": "t1_cl1jui3",
-                                "score": 31,
+                                "score": 35,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Whales don't have gills. They are mammals. ",
@@ -3522,7 +3488,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 31
+                                "ups": 35
                               }
                             },
                             {
@@ -3695,7 +3661,7 @@
                       "report_reasons": null,
                       "author": "Kristkind",
                       "parent_id": "t1_cl1ix0m",
-                      "score": 2,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Gills. He will filter us out with his gills.",
@@ -3709,7 +3675,7 @@
                       "created": 1412591113,
                       "author_flair_text": null,
                       "created_utc": 1412562313,
-                      "ups": 2,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3762,7 +3728,7 @@
             "report_reasons": null,
             "author": "ddmnyc",
             "parent_id": "t3_2ieoit",
-            "score": 53,
+            "score": 52,
             "approved_by": null,
             "controversiality": 0,
             "body": "Krill. We are the krill. ",
@@ -3779,7 +3745,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 53
+            "ups": 52
           }
         },
         {
@@ -3888,7 +3854,7 @@
                       "report_reasons": null,
                       "author": "nawariata",
                       "parent_id": "t1_cl1jr42",
-                      "score": 27,
+                      "score": 28,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Good guy whale, sharing his coins at a discount.",
@@ -3902,7 +3868,7 @@
                       "created": 1412592364,
                       "author_flair_text": null,
                       "created_utc": 1412563564,
-                      "ups": 27,
+                      "ups": 28,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3971,7 +3937,7 @@
                                                               "report_reasons": null,
                                                               "author": "interfect",
                                                               "parent_id": "t1_cl1l56t",
-                                                              "score": 7,
+                                                              "score": 6,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "I love how the price has been flatlined.\n\nVolatility problems? You must be thinking of some other Bitcoin.",
@@ -3985,7 +3951,7 @@
                                                               "created": 1412595504,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412566704,
-                                                              "ups": 7,
+                                                              "ups": 6,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4368,7 +4334,7 @@
             "report_reasons": null,
             "author": "T62A",
             "parent_id": "t3_2ieoit",
-            "score": 14,
+            "score": 15,
             "approved_by": null,
             "controversiality": 0,
             "body": "If that whale wanted the price lower by causing panic, well well well 1/3 of his coins were already eaten.",
@@ -4385,7 +4351,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 14
+            "ups": 15
           }
         },
         {
@@ -4462,7 +4428,7 @@
                                 "report_reasons": null,
                                 "author": "MAD_OR_NAW",
                                 "parent_id": "t1_cl1ovoq",
-                                "score": -3,
+                                "score": -4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "you are a crazy motherfucker. this is more than likely not the first wave. i think there will be at least 3 more down to nearly 100. i'd sell of some profit. maybe come back in a little below 250 but that's crazy too.",
@@ -4479,7 +4445,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -3
+                                "ups": -4
                               }
                             }
                           ],
@@ -4719,7 +4685,7 @@
             "report_reasons": null,
             "author": "BUYORSELLWHATDOIDO",
             "parent_id": "t3_2ieoit",
-            "score": 12,
+            "score": 11,
             "approved_by": null,
             "controversiality": 0,
             "body": "His face is on the other end, the dumpings come from his ass.",
@@ -4736,7 +4702,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 12
+            "ups": 11
           }
         },
         {
@@ -4982,7 +4948,7 @@
             "report_reasons": null,
             "author": "mrschtief",
             "parent_id": "t3_2ieoit",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "I think this whale is pro bitcoin. He sells 30k at 300 and puts up a buy wall at 290 after this. Rescuing the market and his other bitcoins",
@@ -4999,7 +4965,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -5017,7 +4983,7 @@
             "report_reasons": null,
             "author": "austinb303",
             "parent_id": "t3_2ieoit",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Wall is gone! Price shooting up on Bitstamp, wow.",
@@ -5034,7 +5000,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -5666,7 +5632,7 @@
             "report_reasons": null,
             "author": "pwnerofnoob",
             "parent_id": "t3_2ieoit",
-            "score": 5,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "I genuinely laughed outloud. Thank you.",
@@ -5683,7 +5649,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -5701,7 +5667,7 @@
             "report_reasons": null,
             "author": "Anenome5",
             "parent_id": "t3_2ieoit",
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "You mean weakhand-whale.",
@@ -5718,7 +5684,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -5836,7 +5802,7 @@
                       "report_reasons": null,
                       "author": "jesuswithoutabeard",
                       "parent_id": "t1_cl1jhm9",
-                      "score": 13,
+                      "score": 15,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Tonight will be known as the night the market stood still.",
@@ -5850,7 +5816,7 @@
                       "created": 1412592625,
                       "author_flair_text": null,
                       "created_utc": 1412563825,
-                      "ups": 13,
+                      "ups": 15,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -6571,6 +6537,41 @@
                                           "num_reports": null,
                                           "distinguished": null
                                         }
+                                      },
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ieoit",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl3qab1",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "pietrod21",
+                                          "parent_id": "t1_cl1ojr7",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Good job, you are a good detective! What tool did you use to find this?",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Good job, you are a good detective! What tool did you use to find this?&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl3qab1",
+                                          "created": 1412803937,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412775137,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
                                       }
                                     ],
                                     "after": null,
@@ -6584,7 +6585,7 @@
                                 "report_reasons": null,
                                 "author": "Introshine",
                                 "parent_id": "t1_cl1oifv",
-                                "score": 6,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Like I said\n\n&gt; he quickly moved 30k BTC onto stamp\n\nI saw this on the blockchain\n\nhttps://blockchain.info/address/159SCycgn8weAy2XGUEhD6V1RTFni7E3iq\n\nNotice how he sends 0.0001 BTC before sending the motherload? Notice how the Inputs come from hundreds of smaller addresses? You know who also used to handle BTC like that?....",
@@ -6601,7 +6602,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 7
                               }
                             },
                             {
@@ -6806,7 +6807,7 @@
             "report_reasons": null,
             "author": "trancephorm",
             "parent_id": "t3_2ieoit",
-            "score": 2,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "That much coins for the ridiculous price of 300$ is a very good chance for some investor to get a hold of a fortune. I do wish to remind everyone here, another bubble is very very close because there was so much positivity around Bitcoin recently and also maybe some buds here forgot Bitcoin is the most important invention in history, since Internet.",
@@ -6823,7 +6824,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {

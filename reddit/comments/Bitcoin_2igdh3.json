@@ -289,7 +289,7 @@
             "report_reasons": null,
             "author": "jtooker",
             "parent_id": "t3_2igdh3",
-            "score": 5,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "If you are looking to spend soonish, Bitcoin does not help you too much today when compared to credit cards.  Some benefits:\n\n* You are more anonymous\n* Your bitcoin/credit card cannot be stolen by your merchant (but your CC company will reimburse you when this occurs)\n    * But your Bitcoin funds can be stolen by hackers if you are keeping your wallet on your computer\n* Get a few percent off your purchases at participating stores/merchants\n\nIf you are looking to invest in Bitcoin, you just sit on it until it becomes accepted 'everywhere'.  While you wait, look into securing your Bitcoin, including cold storage.  __Never invest more than you can afford to lose.__\n\nLastly, welcome.\n\n[EDIT]: get someone else to 'join you' while you learn/play, if they are worried about losing money, offer them some bitcoin so they take no risk - though part of experience is actually buying/trading.  At a minimum you can give money to your buddy - cannot easily do this with credit cards.",
@@ -306,7 +306,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 4
           }
         },
         {
@@ -324,7 +324,7 @@
             "report_reasons": null,
             "author": "anon515",
             "parent_id": "t3_2igdh3",
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Something you can do now:\n\nSpend it without giving out all your personal info.\nSpend it without the other person being able to \"take\" more money out.\nSpend it without worrying that the other person might leak your \"credit card info\" to hackers or thieves.\nSpend it on a friend without high 3rd party fees.\nSpend it globally with ease.\n\nPretty cool.",
@@ -341,7 +341,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         },
         {
@@ -635,51 +635,7 @@
                       "banned_by": null,
                       "link_id": "t3_2igdh3",
                       "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "modhash": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2igdh3",
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl2fcve",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "slackermanz",
-                                "parent_id": "t1_cl1zifw",
-                                "score": 1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "Was going to recommend #2. Feel like a cyber-ninja by signing up to a VPN pseudonymously with a [burner email.](https://www.guerrillamail.com)\n\nI've heard good things about AirVPN and PrivateInternetAccess. Though, be sure to fix any [DNS leaks](https://www.dnsleaktest.com/) that occur, unless you want google/ISPs watching over your shoulder. /r/VPN may assist, too.\n\nYou'll enjoy a next-level amount of security against MiTM and other surveillance/third-party attacks (and some extra privacy)",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Was going to recommend #2. Feel like a cyber-ninja by signing up to a VPN pseudonymously with a &lt;a href=\"https://www.guerrillamail.com\"&gt;burner email.&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve heard good things about AirVPN and PrivateInternetAccess. Though, be sure to fix any &lt;a href=\"https://www.dnsleaktest.com/\"&gt;DNS leaks&lt;/a&gt; that occur, unless you want google/ISPs watching over your shoulder. &lt;a href=\"/r/VPN\"&gt;/r/VPN&lt;/a&gt; may assist, too.&lt;/p&gt;\n\n&lt;p&gt;You&amp;#39;ll enjoy a next-level amount of security against MiTM and other surveillance/third-party attacks (and some extra privacy)&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl2fcve",
-                                "created": 1412673877,
-                                "author_flair_text": null,
-                                "created_utc": 1412645077,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
-                              }
-                            }
-                          ],
-                          "after": null,
-                          "before": null
-                        }
-                      },
+                      "replies": "",
                       "user_reports": [],
                       "saved": false,
                       "id": "cl1zifw",
@@ -889,12 +845,47 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "cl2oakc",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "vbenes",
+            "parent_id": "t3_2igdh3",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "https://www.humblebundle.com/weekly",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://www.humblebundle.com/weekly\"&gt;https://www.humblebundle.com/weekly&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2oakc",
+            "created": 1412698652,
+            "author_flair_text": null,
+            "created_utc": 1412669852,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2igdh3",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "cl1xozf",
             "gilded": 0,
             "report_reasons": null,
             "author": "BigMoneyGuy",
             "parent_id": "t3_2igdh3",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt; What are some things I can do that I can't do with a credit card?\n\nSave wealth for harsher times, for the future of your family, etc.",
@@ -911,7 +902,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

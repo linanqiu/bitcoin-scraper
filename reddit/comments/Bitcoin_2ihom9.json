@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "coinwatcher",
             "media": null,
-            "score": 8,
+            "score": 5,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Russia Seizes Bitcoin Mining Equipment in Incident at China Border",
             "created_utc": 1412631831,
-            "ups": 8,
-            "upvote_ratio": 0.83,
+            "ups": 5,
+            "upvote_ratio": 0.67,
             "num_comments": 2,
             "visited": false,
             "num_reports": null,
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2ihom9",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Russia saves man unspeakable amounts of money by accident.",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         }
       ],

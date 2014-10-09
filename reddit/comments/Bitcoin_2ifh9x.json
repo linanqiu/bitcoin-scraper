@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "BitcoinWallet",
             "media": null,
-            "score": 97,
+            "score": 96,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Bitcoin Wallet 4.0 released!",
             "created_utc": 1412581489,
-            "ups": 97,
+            "ups": 96,
             "upvote_ratio": 0.94,
             "num_comments": 49,
             "visited": false,
@@ -618,7 +618,7 @@
                                                     "report_reasons": null,
                                                     "author": "giszmo",
                                                     "parent_id": "t1_cl25oil",
-                                                    "score": 0,
+                                                    "score": -1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Actually the kids need their own phones.\n\nActually … your post was not helpful.",
@@ -635,7 +635,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 0
+                                                    "ups": -1
                                                   }
                                                 }
                                               ],
@@ -682,7 +682,7 @@
                                 "report_reasons": null,
                                 "author": "giszmo",
                                 "parent_id": "t1_cl1sujk",
-                                "score": 1,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I so hope they do. I almost daily give my phone to kids to play and don't want them to toy around with my bitcoins so for now Mycelium my wallet is and it's almost exclusively due to this feature missing. The other short-comings I could look over for the app being FOSS and not only a bit transparent.",
@@ -699,7 +699,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -761,7 +761,7 @@
                                 "report_reasons": null,
                                 "author": "ente_",
                                 "parent_id": "t1_cl1zbh9",
-                                "score": 2,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Well, the obvious way would be to make the password protection optional. The question is, would more users lose coins because of someone getting hold of the phone, or forgetting the password?",
@@ -778,7 +778,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             },
                             {
@@ -1222,7 +1222,7 @@
                                                                                                       "report_reasons": null,
                                                                                                       "author": "Whooshless",
                                                                                                       "parent_id": "t1_cl1r9p7",
-                                                                                                      "score": 10,
+                                                                                                      "score": 9,
                                                                                                       "approved_by": null,
                                                                                                       "controversiality": 0,
                                                                                                       "body": "\"Oh shit I was wrong, better make aggressive generalizations.\"",
@@ -1236,7 +1236,7 @@
                                                                                                       "created": 1412618666,
                                                                                                       "author_flair_text": null,
                                                                                                       "created_utc": 1412589866,
-                                                                                                      "ups": 10,
+                                                                                                      "ups": 9,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
                                                                                                       "distinguished": null
@@ -1401,7 +1401,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "utuxia",
                                                                                             "parent_id": "t1_cl1r93f",
-                                                                                            "score": -8,
+                                                                                            "score": -10,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "nope. didn't know that. are you saying there's no problem with wallet software and we're all good?",
@@ -1418,7 +1418,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": -8
+                                                                                            "ups": -10
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -1433,7 +1433,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "cipher_gnome",
                                                                                   "parent_id": "t1_cl1r6fb",
-                                                                                  "score": 8,
+                                                                                  "score": 10,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "You do know this post is about the android wallet don't you?",
@@ -1447,7 +1447,7 @@
                                                                                   "created": 1412617292,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412588492,
-                                                                                  "ups": 8,
+                                                                                  "ups": 10,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -1465,7 +1465,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "utuxia",
                                                                         "parent_id": "t1_cl1r5ug",
-                                                                        "score": -13,
+                                                                        "score": -11,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "....and you didn't notice any problem? Like CPU overheating, or having to wait like 4 hours on a fiber connection to download the blockchain?\n\nOn my computer, it never finished, I gave up after a week. I use multibit, but lets just say its less than confidence inspiring.",
@@ -1482,7 +1482,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -13
+                                                                        "ups": -11
                                                                       }
                                                                     }
                                                                   ],
@@ -1707,7 +1707,7 @@
                                 "report_reasons": null,
                                 "author": "utuxia",
                                 "parent_id": "t1_cl1q7vr",
-                                "score": -15,
+                                "score": -13,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "If you have to ask...",
@@ -1724,7 +1724,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -15
+                                "ups": -13
                               }
                             }
                           ],
@@ -1771,7 +1771,7 @@
             "report_reasons": null,
             "author": "utuxia",
             "parent_id": "t3_2ifh9x",
-            "score": -14,
+            "score": -16,
             "approved_by": null,
             "controversiality": 0,
             "body": "Fix the obvious problems.",
@@ -1788,7 +1788,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -14
+            "ups": -16
           }
         }
       ],

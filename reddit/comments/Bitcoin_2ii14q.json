@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "btchelpmeplease",
             "media": null,
-            "score": 6,
+            "score": 10,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "BIT COIN EXPERTS - Please Help Me",
             "created_utc": 1412637945,
-            "ups": 6,
-            "upvote_ratio": 1,
-            "num_comments": 35,
+            "ups": 10,
+            "upvote_ratio": 0.92,
+            "num_comments": 40,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -141,7 +141,51 @@
                                           "banned_by": null,
                                           "link_id": "t3_2ii14q",
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ii14q",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2pcsh",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "alwayslose",
+                                                    "parent_id": "t1_cl2csv8",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Coincidence I would say.  Since you've got the IP, you could always give that to the cops?  They take computer crimes pretty seriously these days.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Coincidence I would say.  Since you&amp;#39;ve got the IP, you could always give that to the cops?  They take computer crimes pretty seriously these days.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2pcsh",
+                                                    "created": 1412705036,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412676236,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "cl2csv8",
@@ -807,7 +851,72 @@
                                                                                             "banned_by": null,
                                                                                             "link_id": "t3_2ii14q",
                                                                                             "likes": null,
-                                                                                            "replies": "",
+                                                                                            "replies": {
+                                                                                              "kind": "Listing",
+                                                                                              "data": {
+                                                                                                "modhash": "",
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "kind": "t1",
+                                                                                                    "data": {
+                                                                                                      "subreddit_id": "t5_2s3qj",
+                                                                                                      "banned_by": null,
+                                                                                                      "link_id": "t3_2ii14q",
+                                                                                                      "likes": null,
+                                                                                                      "replies": {
+                                                                                                        "kind": "Listing",
+                                                                                                        "data": {
+                                                                                                          "modhash": "",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "kind": "more",
+                                                                                                              "data": {
+                                                                                                                "count": 0,
+                                                                                                                "parent_id": "t1_cl2pfkw",
+                                                                                                                "children": [
+                                                                                                                  "cl318vq"
+                                                                                                                ],
+                                                                                                                "id": "cl318vq",
+                                                                                                                "name": "t1_cl318vq"
+                                                                                                              }
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "after": null,
+                                                                                                          "before": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "user_reports": [],
+                                                                                                      "saved": false,
+                                                                                                      "id": "cl2pfkw",
+                                                                                                      "gilded": 0,
+                                                                                                      "report_reasons": null,
+                                                                                                      "author": "alwayslose",
+                                                                                                      "parent_id": "t1_cl2ee95",
+                                                                                                      "score": 2,
+                                                                                                      "approved_by": null,
+                                                                                                      "controversiality": 0,
+                                                                                                      "body": "Not really.  He says his gmail account was accessed by another IP.  Blockchain sends wallet backups.  He most likely has a keylogger.",
+                                                                                                      "edited": false,
+                                                                                                      "author_flair_css_class": null,
+                                                                                                      "downs": 0,
+                                                                                                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Not really.  He says his gmail account was accessed by another IP.  Blockchain sends wallet backups.  He most likely has a keylogger.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                                      "subreddit": "Bitcoin",
+                                                                                                      "score_hidden": false,
+                                                                                                      "name": "t1_cl2pfkw",
+                                                                                                      "created": 1412705517,
+                                                                                                      "author_flair_text": null,
+                                                                                                      "created_utc": 1412676717,
+                                                                                                      "ups": 2,
+                                                                                                      "mod_reports": [],
+                                                                                                      "num_reports": null,
+                                                                                                      "distinguished": null
+                                                                                                    }
+                                                                                                  }
+                                                                                                ],
+                                                                                                "after": null,
+                                                                                                "before": null
+                                                                                              }
+                                                                                            },
                                                                                             "user_reports": [],
                                                                                             "saved": false,
                                                                                             "id": "cl2ee95",
@@ -1165,7 +1274,7 @@
                                 "report_reasons": null,
                                 "author": "BigMoneyGuy",
                                 "parent_id": "t1_cl2cp3p",
-                                "score": 1,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Did you put those files on Dropbox or something?",
@@ -1182,7 +1291,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -1276,7 +1385,7 @@
                       "report_reasons": null,
                       "author": "FreeMarketAnarchist",
                       "parent_id": "t1_cl2gxex",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I don't know why but I felt that as well. ",
@@ -1290,7 +1399,7 @@
                       "created": 1412681284,
                       "author_flair_text": null,
                       "created_utc": 1412652484,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1399,7 +1508,7 @@
                       "report_reasons": null,
                       "author": "SatoshisGhost",
                       "parent_id": "t1_cl2dzzi",
-                      "score": 2,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You can also block Tor and allow only your IP Address to access your wallet ",
@@ -1413,7 +1522,7 @@
                       "created": 1412673309,
                       "author_flair_text": null,
                       "created_utc": 1412644509,
-                      "ups": 2,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1480,6 +1589,76 @@
             "created": 1412671440,
             "author_flair_text": null,
             "created_utc": 1412642640,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ii14q",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl3zh42",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "peilthetraveler",
+            "parent_id": "t3_2ii14q",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "http://www.reddit.com/r/Bitcoin/comments/2ins8f/stolen_funds_from_blockchain_wallet_can_anyone/\n\nLooks like the same hacker.\n",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://www.reddit.com/r/Bitcoin/comments/2ins8f/stolen_funds_from_blockchain_wallet_can_anyone/\"&gt;http://www.reddit.com/r/Bitcoin/comments/2ins8f/stolen_funds_from_blockchain_wallet_can_anyone/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Looks like the same hacker.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl3zh42",
+            "created": 1412821780,
+            "author_flair_text": null,
+            "created_utc": 1412792980,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ii14q",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl3zxaa",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "peilthetraveler",
+            "parent_id": "t3_2ii14q",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "http://www.wikihow.com/Trace-an-IP-Address\n\nhttp://www.ip-lookup.net/index.php\n\nYou'll probably need a court order to get that information on who's IP that is.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://www.wikihow.com/Trace-an-IP-Address\"&gt;http://www.wikihow.com/Trace-an-IP-Address&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.ip-lookup.net/index.php\"&gt;http://www.ip-lookup.net/index.php&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;You&amp;#39;ll probably need a court order to get that information on who&amp;#39;s IP that is.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl3zxaa",
+            "created": 1412822582,
+            "author_flair_text": null,
+            "created_utc": 1412793782,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,

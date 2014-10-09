@@ -460,7 +460,7 @@
                                           "report_reasons": null,
                                           "author": "Tectract",
                                           "parent_id": "t1_cl23eki",
-                                          "score": 1,
+                                          "score": -1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt; but they will not be able to stole your bitcoins or give them away multiple times, therefore fractional reserve is impossible\n\nThat's not how fractional lending works. Go take econ 101. Fractional lending is possible with any commodity. ",
@@ -474,7 +474,7 @@
                                           "created": 1412659587,
                                           "author_flair_text": null,
                                           "created_utc": 1412630787,
-                                          "ups": 1,
+                                          "ups": -1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -492,7 +492,7 @@
                                 "report_reasons": null,
                                 "author": "UcY7cef",
                                 "parent_id": "t1_cl22fnj",
-                                "score": 1,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yes they can, but people will not give their bitcoins to banks. And even if some people give them, we are seeing how companies give proof of full reserve. Those companies that don't give proof of full reserve will lose clients. But I think banks will not store your full private key, they will store maybe one of your multisig keys, but they will not be able to stole your bitcoins or give them away multiple times, therefore fractional reserve is impossible.",
@@ -509,7 +509,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             }
                           ],
@@ -524,7 +524,7 @@
                       "report_reasons": null,
                       "author": "Tectract",
                       "parent_id": "t1_cl212ts",
-                      "score": 2,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You can do fractional reserve lending with any commodity, including gold and bitcoin. ",
@@ -538,7 +538,7 @@
                       "created": 1412648406,
                       "author_flair_text": null,
                       "created_utc": 1412619606,
-                      "ups": 2,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -556,7 +556,7 @@
             "report_reasons": null,
             "author": "UcY7cef",
             "parent_id": "t3_2ig5uo",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Good video.\nThe same way bittorrent did not make record industry disappear, Bitcoin will not make Banks disappear. Banks will not disappear, but they will lose much of their power. Central Banks will not be able to dilute the money and normal banks will not be able to create money from nothing using fractional reserve.\n\nMoney is power. Bitcoin is a shift in the control of the money. Bitcoin is a shift of power from banks and governments to the people. \n",
@@ -573,7 +573,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         }
       ],

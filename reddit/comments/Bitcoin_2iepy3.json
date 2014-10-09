@@ -47,7 +47,7 @@
             "created_utc": 1412560238,
             "ups": 4,
             "upvote_ratio": 0.64,
-            "num_comments": 12,
+            "num_comments": 18,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -152,7 +152,51 @@
                       "banned_by": null,
                       "link_id": "t3_2iepy3",
                       "likes": null,
-                      "replies": "",
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iepy3",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2urj6",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "VIERK",
+                                "parent_id": "t1_cl1k398",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "True",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;True&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2urj6",
+                                "created": 1412723090,
+                                "author_flair_text": null,
+                                "created_utc": 1412694290,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
                       "user_reports": [],
                       "saved": false,
                       "id": "cl1k398",
@@ -254,7 +298,51 @@
             "banned_by": null,
             "link_id": "t3_2iepy3",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iepy3",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2ur5k",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "VIERK",
+                      "parent_id": "t1_cl1jv2g",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "some sound advice. thanks man.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;some sound advice. thanks man.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2ur5k",
+                      "created": 1412723066,
+                      "author_flair_text": null,
+                      "created_utc": 1412694266,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl1jv2g",
@@ -464,7 +552,183 @@
             "banned_by": null,
             "link_id": "t3_2iepy3",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2iepy3",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2iepy3",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iepy3",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iepy3",
+                                                    "likes": null,
+                                                    "replies": "",
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl3ayfs",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "pb1x",
+                                                    "parent_id": "t1_cl2widb",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "If you want anonymity you'll have to pay a premium for that by buying on localbitcoins \n\nI don't know why you'd care though and you can always withdraw the coins so they don't know how much you have",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you want anonymity you&amp;#39;ll have to pay a premium for that by buying on localbitcoins &lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t know why you&amp;#39;d care though and you can always withdraw the coins so they don&amp;#39;t know how much you have&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl3ayfs",
+                                                    "created": 1412754704,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412725904,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2widb",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "VIERK",
+                                          "parent_id": "t1_cl2vm2z",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "but is it anonymous. i'm not doing anything illegal but still i would like to buy bitcoins without revealing my identity to these companies. ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;but is it anonymous. i&amp;#39;m not doing anything illegal but still i would like to buy bitcoins without revealing my identity to these companies. &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2widb",
+                                          "created": 1412726570,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412697770,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2vm2z",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "pb1x",
+                                "parent_id": "t1_cl2uqk0",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Buying on coin base or circle is secure if you turn on 2 factor auth\n\nBut do your research on what you are buying, make informed decisions\n\nBitcoin is the answer to a terribly corrupt and wasteful system that is the finance industry, but it's not a foregone conclusion",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Buying on coin base or circle is secure if you turn on 2 factor auth&lt;/p&gt;\n\n&lt;p&gt;But do your research on what you are buying, make informed decisions&lt;/p&gt;\n\n&lt;p&gt;Bitcoin is the answer to a terribly corrupt and wasteful system that is the finance industry, but it&amp;#39;s not a foregone conclusion&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2vm2z",
+                                "created": 1412724818,
+                                "author_flair_text": null,
+                                "created_utc": 1412696018,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2uqk0",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "VIERK",
+                      "parent_id": "t1_cl1jjnu",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "i was thinking about spending $8,000 on them. that's all i have saved up. i don't know how to buy them though without connecting my bank account surely that's not secure?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;i was thinking about spending $8,000 on them. that&amp;#39;s all i have saved up. i don&amp;#39;t know how to buy them though without connecting my bank account surely that&amp;#39;s not secure?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2uqk0",
+                      "created": 1412723029,
+                      "author_flair_text": null,
+                      "created_utc": 1412694229,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl1jjnu",

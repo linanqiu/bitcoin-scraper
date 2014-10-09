@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "GM4N1986",
             "media": null,
-            "score": 965,
+            "score": 962,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Silk Road Lawyers Poke Holes in FBI’s Story",
             "created_utc": 1412331399,
-            "ups": 965,
+            "ups": 962,
             "upvote_ratio": 0.94,
-            "num_comments": 191,
+            "num_comments": 192,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -114,7 +114,7 @@
                                           "report_reasons": null,
                                           "author": "geosh",
                                           "parent_id": "t1_ckzeeax",
-                                          "score": 9,
+                                          "score": 8,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "It's not the jury that decides what gets in or not as evidence. The legal term \"evidence\" has a lot of legal implications, so for that reason they leave what gets to be \"evidence\" or not up to the judges.",
@@ -128,7 +128,7 @@
                                           "created": 1412391145,
                                           "author_flair_text": null,
                                           "created_utc": 1412362345,
-                                          "ups": 9,
+                                          "ups": 8,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -146,7 +146,7 @@
                                 "report_reasons": null,
                                 "author": "Genxwire",
                                 "parent_id": "t1_ckzcxdn",
-                                "score": 31,
+                                "score": 33,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "They are betting on the Jury to be too ignorant to understand this...",
@@ -163,7 +163,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 31
+                                "ups": 33
                               }
                             },
                             {
@@ -237,7 +237,7 @@
                                           "report_reasons": null,
                                           "author": "anekdotos",
                                           "parent_id": "t1_ckzd1qb",
-                                          "score": 6,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "As far as I can tell, that doesn't have anything to do with the CAPTCHA.  It looks like that, for some reason, the SilkRoad was serving up the response from a PHP file that contained:\n\n    &lt;?php\n        print_r($_SERVER);\n    ?&gt;\n\nWhich will print server information.  It could have potentially leaked the public IP of the SilkRoad FrontEnd server which could in turn lead the FBI to Ulbricht.  But I can't tell... all the information is redacted from the original post.  It could have been nothing, a mistake on Ulbrichts end, or that someone else had some sort of access to the server. The information that it revealed would be useful information to someone wanting to hack the server, so it could have been a hacker as well. \n\nWish I could give a more concrete answer.",
@@ -251,7 +251,7 @@
                                           "created": 1412376813,
                                           "author_flair_text": null,
                                           "created_utc": 1412348013,
-                                          "ups": 6,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -351,7 +351,7 @@
                                           "report_reasons": null,
                                           "author": "acoindr",
                                           "parent_id": "t1_ckzd1qb",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt;First, thanks for walking me through this. So, one of the reddit post in question is here:\nhttp://www.reddit.com/r/SilkRoad/comments/1dmznd/should_we_be_worried_showing_on_login_page/\nIs that post an example of what the FBI is claiming? Or is it different?\n\nWow, it looks like the Feds are telling the truth and SilkRoad screwed up.\n\nI'll try breaking it down in plain speak, starting with the post you reference here:\n\nhttp://www.reddit.com/r/SilkRoad/comments/1dmznd/should_we_be_worried_showing_on_login_page/\n\nThis appears to be a reddit post, put up on May 3, 2013, in a [SR subreddit](http://www.reddit.com/r/SilkRoad/) from a user explaining that on SilkRoad's login page a bunch of data is showing. As anekdotos correctly notes it appears the command \"print_r($_SERVER);\" is in SilkRoad's login page script, which outputs data, which includes a lot of information - of greatest significance, the server's IP address.\n\nApparently other users saw it too, so the reddit post doesn't appear to be fake. That data probably *was* showing on SilkRoad's login page. Obviously the feds were monitoring SilkRoad, meaning they too probably saw that data, again, containing the server's IP address. AFAIK SilkRoad always used a CAPTCHA on their login page. I'm guessing the feds thought their CAPTCHA was \"leaking\" as I'm guessing they don't have a bunch of web developers sitting around which they can consult. So that's probably why they refer to the CAPTCHA, but that hasn't anything to do with it. My guess is the command was put in for debugging, but wasn't removed - either that, or SR's login page was hacked and somebody put it there (which seems to me more fitting for that type of command).",
@@ -365,7 +365,7 @@
                                           "created": 1412386518,
                                           "author_flair_text": null,
                                           "created_utc": 1412357718,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -383,7 +383,7 @@
                                 "report_reasons": null,
                                 "author": "rufusthelawyer",
                                 "parent_id": "t1_ckzcxdn",
-                                "score": 4,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "First, thanks for walking me through this.  So, one of the reddit post in question is here:\n\nhttp://www.reddit.com/r/SilkRoad/comments/1dmznd/should_we_be_worried_showing_on_login_page/\n\nIs that post an example of what the FBI is claiming?  Or is it different?\n\nAgain, thanks for walking me through this stuff.  I made it through approximately 3 semesters of a comp sci degree, and I have the world of respect for people that stick with it.\n",
@@ -400,7 +400,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 6
                               }
                             },
                             {
@@ -494,7 +494,7 @@
                       "report_reasons": null,
                       "author": "anekdotos",
                       "parent_id": "t1_ckzblvx",
-                      "score": 55,
+                      "score": 57,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "To simplify things, you have: Client Browsing SilkRoad -&gt; Tor -&gt; SilkRoad Front End Server -&gt; SilkRoad Backend Server.  The configuration file provided was for the backend server.  In that configuration file it explicitly only allows IP's 127.0.0.1 (Which is the loopback IP, so itself) and 62.75.246.20 which is the front end servers IP.  \n\nThis means that ONLY the SilkRoad front end server can communicate with the back end server.  The article states that, \"...but the document the government released in 70-6.pdf shows the rules for serving the Silk Road Web pages, and those rules are that all content – **including the login CAPTCHA** – gets served to the front end server but to nobody else.\"\n\nThis implies that the CAPTCHA was hosted on the back end server, making what the FBI claim to be impossible* (See **EDIT2**)\n\n____\n\nAs someone still in university for computers, if Ulbricht set up the CAPTCHA the way the FBI implies he did (on a public server open to the regular internet) then he really wasn't trying to hide who he was.  It would be an extremelly stupid move; one that you pretty much have to go out of your way to do. \n\n___\n\n**EDIT:** Here's some more conversation on this article: https://news.ycombinator.com/item?id=8404511\n\n___\n\n**EDIT2:** More information that I didn't notice could potentially provide some weight behind the FBI's claim:\n\n* https://news.ycombinator.com/item?id=8405287\n* http://krebsonsecurity.com/2014/10/silk-road-lawyers-poke-holes-in-fbis-story/comment-page-1/#comment-296697",
@@ -508,7 +508,7 @@
                       "created": 1412374718,
                       "author_flair_text": null,
                       "created_utc": 1412345918,
-                      "ups": 55,
+                      "ups": 57,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -617,7 +617,7 @@
                       "report_reasons": null,
                       "author": "TheMonkeyMind",
                       "parent_id": "t1_ckzdhzo",
-                      "score": 13,
+                      "score": 12,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "http://web.archive.org/web/20141003003426/http://krebsonsecurity.com/2014/10/silk-road-lawyers-poke-holes-in-fbis-story/",
@@ -631,7 +631,7 @@
                       "created": 1412386646,
                       "author_flair_text": null,
                       "created_utc": 1412357846,
-                      "ups": 13,
+                      "ups": 12,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -910,7 +910,7 @@
                                 "report_reasons": null,
                                 "author": "Vagabondager",
                                 "parent_id": "t1_ckzffr3",
-                                "score": 12,
+                                "score": 11,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Meanwhile the FBI are still cowboys that don't know what they're doing running around in suits and ties pretending to defend liberty.  ",
@@ -927,7 +927,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 12
+                                "ups": 11
                               }
                             },
                             {
@@ -1113,7 +1113,7 @@
                                                               "report_reasons": null,
                                                               "author": "slavik262",
                                                               "parent_id": "t1_ckzycbj",
-                                                              "score": 3,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "What if I told you raw stopping power isn't the only variable in the equation?\n\nI'm not denying that a 10mm in the right place will probably do more damage. But I'll stick with 9mm because:\n\n- It does just fine\n- Cheaper bullets mean I can practice a lot more.\n- Lower recoil makes accurate follow-up shots easier.\n\nShot placement &gt; caliber. The caliber arguments get really old really fast. Shoot what you want and move on.",
@@ -1127,7 +1127,7 @@
                                                               "created": 1412430780,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412401980,
-                                                              "ups": 3,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1145,7 +1145,7 @@
                                                     "report_reasons": null,
                                                     "author": "10mmauto",
                                                     "parent_id": "t1_ckzr2yr",
-                                                    "score": 4,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "I'm sorry, can you repeat the double negative for me?  The modern JHP 9mm is not less functional than the 10mm?  So the 9mm is as functional as the 10mm?  \n\nThat's ridiculous.  10mm auto is between .357 magnum and .41 magnum in power level, but works in a semi-auto pistol.  9mm has LESS THAN HALF THE ENERGY of the 10mm auto round.  The 10mm auto has tons of case capacity for powder.  In a longer barrel handgun with a light bullet you are starting to get hydraulic wounding from the energy dump.  \n\n[155 gr. 10mm auto with Speer Gold Dot bullet](http://www.underwoodammo.com/10mmauto155graingolddotjacketedhollowpointboxof50.aspx)\n\nMuzzle Velocity: 1500 fps\n\nMuzzle Energy: 775 ft. lbs.\n\n[9mm HST](http://www.federalpremium.com/products/details/handgun.aspx?id=1013)\n\nMuzzle Velocity: 1150 fps\n\nMuzzle Energy: 364 ft. lbs.\n",
@@ -1162,7 +1162,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 4
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -1339,7 +1339,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "viborg",
                                                                                   "parent_id": "t1_ckzo1by",
-                                                                                  "score": 5,
+                                                                                  "score": 6,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Yeah, the standard libertarian party line, no surprise there. So if the government just ceased to exist tomorrow, the corporations would also automatically disappear because they're just \"lines in the tax code\"?",
@@ -1353,7 +1353,7 @@
                                                                                   "created": 1412396691,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412367891,
-                                                                                  "ups": 5,
+                                                                                  "ups": 6,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -1371,7 +1371,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "fixeroftoys",
                                                                         "parent_id": "t1_ckznf02",
-                                                                        "score": 3,
+                                                                        "score": 5,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Yes, but it's worth pointing out corporations are just a line in the tax code and can only exist like they do with government collusion. ",
@@ -1388,7 +1388,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 3
+                                                                        "ups": 5
                                                                       }
                                                                     }
                                                                   ],
@@ -1403,7 +1403,7 @@
                                                               "report_reasons": null,
                                                               "author": "viborg",
                                                               "parent_id": "t1_ckzleew",
-                                                              "score": 4,
+                                                              "score": 5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "The same maxim also applies to corporations, doesn't it?",
@@ -1417,7 +1417,7 @@
                                                               "created": 1412395159,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412366359,
-                                                              "ups": 4,
+                                                              "ups": 5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1508,7 +1508,7 @@
                                                                                                       "report_reasons": null,
                                                                                                       "author": "lllO_Olll",
                                                                                                       "parent_id": "t1_ckzqepb",
-                                                                                                      "score": -3,
+                                                                                                      "score": -4,
                                                                                                       "approved_by": null,
                                                                                                       "controversiality": 0,
                                                                                                       "body": "Libertarians are not for individual liberty, despite their name.",
@@ -1522,7 +1522,7 @@
                                                                                                       "created": 1412402183,
                                                                                                       "author_flair_text": null,
                                                                                                       "created_utc": 1412373383,
-                                                                                                      "ups": -3,
+                                                                                                      "ups": -4,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
                                                                                                       "distinguished": null
@@ -1759,7 +1759,7 @@
                                                               "report_reasons": null,
                                                               "author": "TallMagnolia",
                                                               "parent_id": "t1_ckzleew",
-                                                              "score": 0,
+                                                              "score": 3,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "They way it's phrased here makes it sound like some kind of conspiracy. Citizens generally trust the government more than individuals to obtain more firepower. As much as they might abuse the weapons, they would be far more frightening in the hands of private citizens or organizations. We are more oppressed through means of policy and money than firepower, by orders of magnitude.",
@@ -1773,7 +1773,7 @@
                                                               "created": 1412391490,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412362690,
-                                                              "ups": 0,
+                                                              "ups": 3,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1823,7 +1823,7 @@
                                           "report_reasons": null,
                                           "author": "TallMagnolia",
                                           "parent_id": "t1_ckzkt5y",
-                                          "score": -26,
+                                          "score": -27,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "How is life in the bunker treating you?",
@@ -1837,7 +1837,7 @@
                                           "created": 1412390847,
                                           "author_flair_text": null,
                                           "created_utc": 1412362047,
-                                          "ups": -26,
+                                          "ups": -27,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1855,7 +1855,7 @@
                                 "report_reasons": null,
                                 "author": "twfry",
                                 "parent_id": "t1_ckzffr3",
-                                "score": 28,
+                                "score": 33,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Government agents always want to have the higher firepower. That is what \"sensible gun control\" is always really about. It is to make sure the (law abiding) public has less ammo, smaller caliber ammo and less functional tools then government workers are allowed to have. \n\nIt doesn't matter whether you are for or against gun control, it simply is the underlying purpose. To make sure the police and Feds have superior firepower. ",
@@ -1872,7 +1872,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 28
+                                "ups": 33
                               }
                             },
                             {
@@ -2133,7 +2133,7 @@
                       "report_reasons": null,
                       "author": "slavik262",
                       "parent_id": "t1_ckzf162",
-                      "score": 49,
+                      "score": 48,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Fun fact: The FBI doesn't use 9mm because some agents in the 1980s got their [asses handed to them in a shootout](http://www.reddit.com/r/guns/comments/1od9ne/heres_some_interesting_information_the_most/ccr3g0c\n) by a former Army Ranger.  Instead of accepting that the disaster was a result of the bad decision making, lack of training, lack of marksmanship skills, and cowboy attitude on the part of the FBI agents, and despite the fact that the Ranger was shot multiple times with different calibers that all failed to stop him, they decided it was the 9mm's fault. This led to the rise of 10mm, then .40 S&amp;W.",
@@ -2147,7 +2147,7 @@
                       "created": 1412379769,
                       "author_flair_text": null,
                       "created_utc": 1412350969,
-                      "ups": 49,
+                      "ups": 48,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2200,7 +2200,7 @@
             "report_reasons": null,
             "author": "anonymau5",
             "parent_id": "t3_2i6d98",
-            "score": 51,
+            "score": 52,
             "approved_by": null,
             "controversiality": 0,
             "body": "next: FBI pokes holes in Silk Road Lawyers. *10mm sized holes.\n\nedit: Thanks for da knowledge /u/slavik262 !\n\nI like gold and gold givers",
@@ -2217,7 +2217,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 51
+            "ups": 52
           }
         },
         {
@@ -2271,7 +2271,7 @@
                                           "report_reasons": null,
                                           "author": "elan96",
                                           "parent_id": "t1_ckzdnie",
-                                          "score": 8,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Over a long period of sending requests to the onion url they could monitor what servers initiate a connection to the same server, i.e if they can monitor it and see everytime they load the silk road server x connects with server y you can gradually start building up a list of possible servers.\r\rJust a guess",
@@ -2285,7 +2285,7 @@
                                           "created": 1412381021,
                                           "author_flair_text": null,
                                           "created_utc": 1412352221,
-                                          "ups": 8,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2318,7 +2318,7 @@
                                                     "report_reasons": null,
                                                     "author": "ravend13",
                                                     "parent_id": "t1_ckzmgj7",
-                                                    "score": 3,
+                                                    "score": 4,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "The DDOS theory is most likely correct, IMHO.",
@@ -2335,7 +2335,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -2488,7 +2488,7 @@
                                                               "report_reasons": null,
                                                               "author": "[deleted]",
                                                               "parent_id": "t1_ckzthd7",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "[deleted]",
@@ -2502,7 +2502,7 @@
                                                               "created": 1412422393,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412393593,
-                                                              "ups": 1,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2786,7 +2786,7 @@
                                 "report_reasons": null,
                                 "author": "JamesColesPardon",
                                 "parent_id": "t1_ckzd89y",
-                                "score": 1,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "&gt;which I guess is fine because, heck, we're still doing it.\n\nIt's not fine, regardless of whether or not they are doing it. It's only fine because we're too distracted with our Facebook, Twitter, this stupid iOS/Android feud (divide and conquer, baby), the Kardashians and NFL domestic abuse scandals, all while working shittier jobs for shittier pay, all while trying to crawl out of our debts to get ahead.\n\nThe rest of your post is fantastic, but I just wanted to point out the possibly subconscious defeatist attitude that your comment started with.\n\n",
@@ -2803,7 +2803,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 3
                               }
                             },
                             {
@@ -2888,7 +2888,7 @@
                       "report_reasons": null,
                       "author": "hack_jealousy",
                       "parent_id": "t1_ckzcm4s",
-                      "score": 33,
+                      "score": 35,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Perhaps you've just landed.\n\nWe have this thing here in the states called the NSA.  They do this, 'illegally spy on all American citizens,' trick, which I guess is fine because, heck, we're still doing it.\n\nThen we've got another thing called, 'parallel construction,' where the cops 'protect and serve' us by illegally using the information from the NSA to convict us.  Except the whole trick is they lie, totally knowingly, about how they got the information.\n\nGot it?  Oh, and welcome to Earth!",
@@ -2902,7 +2902,7 @@
                       "created": 1412375359,
                       "author_flair_text": null,
                       "created_utc": 1412346559,
-                      "ups": 33,
+                      "ups": 35,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2979,7 +2979,7 @@
                                 "report_reasons": null,
                                 "author": "not_a_bots_bot",
                                 "parent_id": "t1_ckzqi82",
-                                "score": 1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "that sounds like using illegal methods on a large number of POI's. if I understand what you're getting at\n",
@@ -2996,7 +2996,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 0
                               }
                             }
                           ],
@@ -3082,7 +3082,7 @@
                                                     "report_reasons": null,
                                                     "author": "sagnessagiel",
                                                     "parent_id": "t1_ckzfyyr",
-                                                    "score": 3,
+                                                    "score": 4,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "If federal, state, or military missions overlap, the organizations will compete with each other in almost antagonistic ways. (e.g. US Marines vs Navy SEALs in the Bin Laden raid)\n\nAlso, investigative authorities like to try and keep their evidence from being tainted by illegal \"wiretapping\" from other organizations (otherwise all their work, legit or not, will be thrown out of court; just like this case!). Maybe this is why secret courts were invented.",
@@ -3099,7 +3099,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -3114,7 +3114,7 @@
                                           "report_reasons": null,
                                           "author": "strallus",
                                           "parent_id": "t1_ckzdykj",
-                                          "score": 3,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "No sure that different branches of government having different priorities and goals and methods should be called \"dysfunctional\"...",
@@ -3128,7 +3128,7 @@
                                           "created": 1412380808,
                                           "author_flair_text": null,
                                           "created_utc": 1412352008,
-                                          "ups": 3,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3205,7 +3205,7 @@
                                                     "report_reasons": null,
                                                     "author": "coldacid",
                                                     "parent_id": "t1_ckze2ov",
-                                                    "score": 3,
+                                                    "score": 5,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "That's why protocols are more important than code. A leaky implementation can be fixed; a leaky method of communication has to be replaced.",
@@ -3222,7 +3222,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 5
                                                   }
                                                 }
                                               ],
@@ -3348,7 +3348,7 @@
                                 "report_reasons": null,
                                 "author": "FletchQQ",
                                 "parent_id": "t1_ckzd8wb",
-                                "score": 7,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "The US Goverment also created the Internet, RSA Encryption, SHA-256 and many other technologies. The TOR  protocol is also also open source, and it has developers who are not government funded and any flaw / exploit within TOR will most likely have be discovered.",
@@ -3365,7 +3365,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 6
                               }
                             },
                             {
@@ -3415,7 +3415,7 @@
                       "report_reasons": null,
                       "author": "bonked_or_maybe_not",
                       "parent_id": "t1_ckzcm4s",
-                      "score": -4,
+                      "score": -5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Look who created TOR. Look who pays [for the work on it](http://pando.com/2014/07/16/tor-spooks/).",
@@ -3429,7 +3429,7 @@
                       "created": 1412375395,
                       "author_flair_text": null,
                       "created_utc": 1412346595,
-                      "ups": -4,
+                      "ups": -5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3542,7 +3542,7 @@
                                                               "report_reasons": null,
                                                               "author": "Kavis",
                                                               "parent_id": "t1_cl05bdh",
-                                                              "score": 0,
+                                                              "score": 1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "If that's what you meant, you should have lead with that, instead of:\n\n&gt; It's the definition of brain-washing.\n\n.\n&gt; I know copy/pasting off of thesaurus.com makes you feel like you're bigger than me, and it certainly helps you pad your posts with irrelevant information, but please spare me the snarky attitude.\n\nBy all means, after you.",
@@ -3556,7 +3556,7 @@
                                                               "created": 1412469834,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412441034,
-                                                              "ups": 0,
+                                                              "ups": 1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -3606,7 +3606,7 @@
                                           "report_reasons": null,
                                           "author": "Kavis",
                                           "parent_id": "t1_ckzl9yz",
-                                          "score": 6,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "I wasn't aware that [congestive heart failure, epillepsy, food allergies, herpes simplex symptoms, and ulcers](http://en.wikipedia.org/wiki/Placebo#Symptoms_and_conditions) were considered unmeasurable phenomena.  \n\nThe definition of \"brainwash\" is\n\n&gt;make (someone) adopt radically different beliefs by using systematic and often forcible pressure.  \n\nSynonyms include indoctrinate, condition, reeducate, persuade, influence, propagandize, and inculcate.   To call the placebo effect brainwashing is to dramatically understate what brainwashing actually is.  Kidnapping someone, locking them in a closet, and telling them you're their friend until they believe you is brainwashing.  Giving them a pill that contains 25 mg less active ingredient than they think it does is... rather an entirely different prospect.\n\nEdit: If you do think self-reported pain is \"unmeasurable\", you should (re?)familiarize yourself with a few diagnostic tools used in pain management:\n\n[Trigger points, also called 'jump sign',](http://centenoschultz.com/trigger-point-injections/) are used to diagnose back pain.  Touching the trigger point causes the patient to involuntarily jerk or jump, which is why it's called jump sign.\n\n[Phalen's maneuver](http://en.wikipedia.org/wiki/Phalen_maneuver) is used to diagnose nerve pain and muscle weakness in the upper extremities (i.e., carpal tunnel syndrome).  As is [Tinel's sign](http://en.wikipedia.org/wiki/Tinel%27s_sign).  \n\nI'm sure there are others, but it's been years since I worked for an anesthesiologist and I can't remember them.",
@@ -3620,7 +3620,7 @@
                                           "created": 1412403165,
                                           "author_flair_text": null,
                                           "created_utc": 1412374365,
-                                          "ups": 6,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3641,7 +3641,7 @@
                                           "report_reasons": null,
                                           "author": "noiserr",
                                           "parent_id": "t1_ckzl9yz",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Placebo effect is a feeling of being cured after taking fake medicine without knowing it's fake.",
@@ -3655,7 +3655,7 @@
                                           "created": 1412399824,
                                           "author_flair_text": null,
                                           "created_utc": 1412371024,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3705,7 +3705,7 @@
                       "report_reasons": null,
                       "author": "Kavis",
                       "parent_id": "t1_ckzb60b",
-                      "score": 10,
+                      "score": 8,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I don't think placebo means what you think it means.  It's actually the opposite of what you seem to be saying.  The placebo effect is when a false therapy (such as a sugar pill without any active ingredients) produces a measurable effect on a patient's health.  \n\nFar from being sham ways to placate the masses, if guilt and innocence were placebos, they would still produce meaningful judicial outcomes.",
@@ -3719,7 +3719,7 @@
                       "created": 1412387348,
                       "author_flair_text": null,
                       "created_utc": 1412358548,
-                      "ups": 10,
+                      "ups": 8,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3859,7 +3859,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "catherinecc",
                                                                                             "parent_id": "t1_ckzn037",
-                                                                                            "score": 0,
+                                                                                            "score": 1,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Of course they will. We have no interest in dealing with traitors in the USA.",
@@ -3876,7 +3876,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 0
+                                                                                            "ups": 1
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -3891,7 +3891,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "urban_hermit",
                                                                                   "parent_id": "t1_ckzmrj6",
-                                                                                  "score": 4,
+                                                                                  "score": 7,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "It most certainly is.  I'm wondering if they'll get away with it.",
@@ -3905,7 +3905,7 @@
                                                                                   "created": 1412394355,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412365555,
-                                                                                  "ups": 4,
+                                                                                  "ups": 7,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -3923,7 +3923,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "zomiaen",
                                                                         "parent_id": "t1_ckzmmxa",
-                                                                        "score": 12,
+                                                                        "score": 13,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Well, that's what happened here. And that's why they're poking holes in the story all over.",
@@ -3940,7 +3940,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 12
+                                                                        "ups": 13
                                                                       }
                                                                     },
                                                                     {
@@ -3990,7 +3990,7 @@
                                                               "report_reasons": null,
                                                               "author": "urban_hermit",
                                                               "parent_id": "t1_ckzg09q",
-                                                              "score": 6,
+                                                              "score": 7,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "You would think so.\n\nIt's called parallel construction.  They simply make up a story about how they *could* have stumbled upon DPR without breaking the law, after they've already broken the law to identify him.  \n\nYes, they do it all the time.\n\nhttp://en.wikipedia.org/wiki/Parallel_construction",
@@ -4004,7 +4004,7 @@
                                                               "created": 1412393652,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412364852,
-                                                              "ups": 6,
+                                                              "ups": 7,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4025,7 +4025,7 @@
                                                               "report_reasons": null,
                                                               "author": "elevul",
                                                               "parent_id": "t1_ckzg09q",
-                                                              "score": -2,
+                                                              "score": -1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "He will just disappear, then.",
@@ -4039,7 +4039,7 @@
                                                               "created": 1412391373,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412362573,
-                                                              "ups": -2,
+                                                              "ups": -1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4057,7 +4057,7 @@
                                                     "report_reasons": null,
                                                     "author": "Yorn2",
                                                     "parent_id": "t1_ckzfhtz",
-                                                    "score": 19,
+                                                    "score": 20,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "And for a US example:\nhttps://en.wikipedia.org/wiki/Escobedo_v._Illinois\n\nPolice cannot violate the law during investigations or they risk losing the case entirely. It's unlikely that Ross won't be prosecuted under some form of criminal act, but if the case is built on illegal activities of the feds, a good chunk of the evidence is inadmissible in court.",
@@ -4074,7 +4074,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 19
+                                                    "ups": 20
                                                   }
                                                 }
                                               ],
@@ -4089,7 +4089,7 @@
                                           "report_reasons": null,
                                           "author": "marm0lade",
                                           "parent_id": "t1_ckzecro",
-                                          "score": 33,
+                                          "score": 37,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Judge's care. See Kim Dotcom and the botched megaupload prosecution.",
@@ -4103,7 +4103,7 @@
                                           "created": 1412379881,
                                           "author_flair_text": null,
                                           "created_utc": 1412351081,
-                                          "ups": 33,
+                                          "ups": 37,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4212,7 +4212,7 @@
                                           "report_reasons": null,
                                           "author": "btchombre",
                                           "parent_id": "t1_ckzecro",
-                                          "score": 6,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Well, OJ Simpson would disagree with you",
@@ -4226,7 +4226,7 @@
                                           "created": 1412380939,
                                           "author_flair_text": null,
                                           "created_utc": 1412352139,
-                                          "ups": 6,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4314,7 +4314,7 @@
                                 "report_reasons": null,
                                 "author": "Genxwire",
                                 "parent_id": "t1_ckzcmbu",
-                                "score": 9,
+                                "score": 8,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "... they don't care.  They being the FBI, NSA, whoever.  All they care about is money and power.",
@@ -4331,7 +4331,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 9
+                                "ups": 8
                               }
                             }
                           ],
@@ -4346,7 +4346,7 @@
                       "report_reasons": null,
                       "author": "lazyplayboy",
                       "parent_id": "t1_ckzb60b",
-                      "score": 50,
+                      "score": 49,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This is nothing to do with burden of proof, it's about potential illegalities in the FBI's investigation.",
@@ -4360,7 +4360,7 @@
                       "created": 1412374003,
                       "author_flair_text": null,
                       "created_utc": 1412345203,
-                      "ups": 50,
+                      "ups": 49,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4381,7 +4381,7 @@
                       "report_reasons": null,
                       "author": "thbt101",
                       "parent_id": "t1_ckzb60b",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "That may seem true from the conspiracy theory stuff you read on the internet, but in the real world the burden of proof is still a very real thing and there still is a real presumption of evidence. ",
@@ -4395,7 +4395,7 @@
                       "created": 1412401729,
                       "author_flair_text": null,
                       "created_utc": 1412372929,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4554,7 +4554,7 @@
                                           "report_reasons": null,
                                           "author": "imahotdoglol",
                                           "parent_id": "t1_ckzlgeh",
-                                          "score": -1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt; if they harm no other person in doing so.\n\nother than the two dead guys he had killed?",
@@ -4568,7 +4568,7 @@
                                           "created": 1412422835,
                                           "author_flair_text": null,
                                           "created_utc": 1412394035,
-                                          "ups": -1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -4823,7 +4823,7 @@
                                 "report_reasons": null,
                                 "author": "DirtyPolecat",
                                 "parent_id": "t1_ckzfebt",
-                                "score": 4,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Ross provided access to substances which should be allowed to freely be traded amongst people if they wish and if they harm no other person in doing so.  Mark ran off with people's shit.  How are the two comparable?",
@@ -4840,7 +4840,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 6
                               }
                             }
                           ],
@@ -4887,7 +4887,7 @@
             "report_reasons": null,
             "author": "PresidentOfBitcoin",
             "parent_id": "t3_2i6d98",
-            "score": 120,
+            "score": 118,
             "approved_by": null,
             "controversiality": 0,
             "body": "whatever, it doesn't even matter anymore.  the concept of burden of proof for LEO's in the country has gotten so far removed.  guilt/innocence is a placebo construct...its just a matter of if they want to send you to prison or not.",
@@ -4904,7 +4904,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 120
+            "ups": 118
           }
         },
         {
@@ -4966,7 +4966,7 @@
             "report_reasons": null,
             "author": "Pongpianskul",
             "parent_id": "t3_2i6d98",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "503 error; please provide mirror.",
@@ -4983,7 +4983,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -5001,7 +5001,7 @@
             "report_reasons": null,
             "author": "rspeed",
             "parent_id": "t3_2i6d98",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'd like to see the nginx configuration for the front-end server. This doesn't necessarily disprove the FBI claim if it was still acting as the relay.\n\nTo be fair, my recollection of the FBI's claims about the whole captcha thing is a bit hazy at this point.",
@@ -5018,7 +5018,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -5414,7 +5414,7 @@
                                           "report_reasons": null,
                                           "author": "strallus",
                                           "parent_id": "t1_ckzf6v7",
-                                          "score": 8,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "wat.",
@@ -5428,7 +5428,7 @@
                                           "created": 1412380946,
                                           "author_flair_text": null,
                                           "created_utc": 1412352146,
-                                          "ups": 8,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -5516,7 +5516,7 @@
                                 "report_reasons": null,
                                 "author": "kryptobs2000",
                                 "parent_id": "t1_ckzdcat",
-                                "score": -1,
+                                "score": -4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "So? Marijuana is one of the main driving forces behind pizza sales but you don't see people posting their stashes over on /r/pizza.",
@@ -5533,7 +5533,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": -4
                               }
                             }
                           ],
@@ -5718,7 +5718,7 @@
                                 "report_reasons": null,
                                 "author": "Kichigai",
                                 "parent_id": "t1_ckzcbkj",
-                                "score": -1,
+                                "score": -4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Had an effect, past tense. Now what's driving adoption is the support of big name and local businesses.",
@@ -5735,7 +5735,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": -4
                               }
                             }
                           ],
@@ -5750,7 +5750,7 @@
                       "report_reasons": null,
                       "author": "iShootDope_AmA",
                       "parent_id": "t1_ckzbhfk",
-                      "score": 13,
+                      "score": 15,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If you think Silk Road didn't have a huge effect on bitcoin you are fucking cracked.",
@@ -5764,7 +5764,7 @@
                       "created": 1412373287,
                       "author_flair_text": null,
                       "created_utc": 1412344487,
-                      "ups": 13,
+                      "ups": 15,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -5782,7 +5782,7 @@
             "report_reasons": null,
             "author": "Kichigai",
             "parent_id": "t3_2i6d98",
-            "score": -2,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "Duh, that's what their lawyers are *supposed to do*. That's a pretty silly thing to have for a headline. The story is more interesting, though, but it has little to do with Bitcoin itself other than that was the currency used on the site.",
@@ -5799,7 +5799,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": 0
           }
         },
         {
@@ -5853,7 +5853,7 @@
                                           "report_reasons": null,
                                           "author": "ProbablyPostingNaked",
                                           "parent_id": "t1_ckzb7hq",
-                                          "score": 5,
+                                          "score": 6,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "It is known. ",
@@ -5867,7 +5867,7 @@
                                           "created": 1412371890,
                                           "author_flair_text": null,
                                           "created_utc": 1412343090,
-                                          "ups": 5,
+                                          "ups": 6,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -5885,7 +5885,7 @@
                                 "report_reasons": null,
                                 "author": "reste",
                                 "parent_id": "t1_ckzb00g",
-                                "score": 7,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "It is known.",
@@ -5902,7 +5902,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 6
                               }
                             },
                             {
@@ -5976,7 +5976,7 @@
                                           "report_reasons": null,
                                           "author": "perthguppy",
                                           "parent_id": "t1_ckzb6w1",
-                                          "score": 5,
+                                          "score": 4,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "No, even hidden nodes are pretty easy to compromise if you have enough nodes (say between 1 and 10% of the network) and enough time (the more nodes the less time)\n",
@@ -5990,7 +5990,7 @@
                                           "created": 1412376750,
                                           "author_flair_text": null,
                                           "created_utc": 1412347950,
-                                          "ups": 5,
+                                          "ups": 4,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -6166,7 +6166,7 @@
                                 "report_reasons": null,
                                 "author": "FletchQQ",
                                 "parent_id": "t1_ckzbb77",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "But if he's completly hidden, then how can he be a suspect for them to tap him?",
@@ -6183,7 +6183,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             },
                             {
@@ -6292,7 +6292,7 @@
                                           "report_reasons": null,
                                           "author": "KallistiTMP",
                                           "parent_id": "t1_ckzbcxz",
-                                          "score": 8,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "From what I understand of this it would imply that the government tracked him down without using Tor at all.",
@@ -6306,7 +6306,7 @@
                                           "created": 1412371040,
                                           "author_flair_text": null,
                                           "created_utc": 1412342240,
-                                          "ups": 8,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -6383,7 +6383,7 @@
                                                     "report_reasons": null,
                                                     "author": "fx101",
                                                     "parent_id": "t1_ckzbkc9",
-                                                    "score": 9,
+                                                    "score": 10,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "There was, and a talk was recently shut down discussing this exploit. A couple of CMU researchers realized you could encode unique ids for users using headers and rogue relays.",
@@ -6400,7 +6400,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 9
+                                                    "ups": 10
                                                   }
                                                 }
                                               ],
@@ -6415,7 +6415,7 @@
                                           "report_reasons": null,
                                           "author": "zonky",
                                           "parent_id": "t1_ckzbcxz",
-                                          "score": 6,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Wasn't there a spike in Tor nodes sometime during last year? I imagine if you control enough nodes you may people able to derive the source of a connection.  But what do I know.",
@@ -6429,7 +6429,7 @@
                                           "created": 1412371355,
                                           "author_flair_text": null,
                                           "created_utc": 1412342555,
-                                          "ups": 6,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -6447,7 +6447,7 @@
                                 "report_reasons": null,
                                 "author": "jmw74",
                                 "parent_id": "t1_ckzbb77",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I hope it's just that and not that they don't want to reveal their Tor attack technique.",
@@ -6464,7 +6464,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             },
                             {
@@ -6506,7 +6506,7 @@
                                                     "report_reasons": null,
                                                     "author": "vernes1978",
                                                     "parent_id": "t1_ckzccyp",
-                                                    "score": 1,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "[I](http://associatesmind.com/wp-content/uploads/2013/03/judgedredd_i-am-the-law.jpg) [am](http://www.youtube.com/watch?v=itmNiTwHOsM) [the](http://www.joblo.com/newsimages1/dreddful.jpg) [law!](http://warpsignal.files.wordpress.com/2011/04/judge-dredd.jpg)",
@@ -6523,7 +6523,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -6538,7 +6538,7 @@
                                           "report_reasons": null,
                                           "author": "iShootDope_AmA",
                                           "parent_id": "t1_ckzbktp",
-                                          "score": 4,
+                                          "score": 2,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "wat?",
@@ -6552,7 +6552,7 @@
                                           "created": 1412373380,
                                           "author_flair_text": null,
                                           "created_utc": 1412344580,
-                                          "ups": 4,
+                                          "ups": 2,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -6716,7 +6716,7 @@
                       "report_reasons": null,
                       "author": "sjalq",
                       "parent_id": "t1_ckzawdu",
-                      "score": 25,
+                      "score": 21,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "No it does not. It means that the FBI may have broken the law at some point to identify Ulbricht. Perhaps they tapped him and a whole host of others without a warrant. Perhaps they have an illegal program or access to an illegal program that they milked to find him. ",
@@ -6730,7 +6730,7 @@
                       "created": 1412370643,
                       "author_flair_text": null,
                       "created_utc": 1412341843,
-                      "ups": 25,
+                      "ups": 21,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -6909,7 +6909,7 @@
                       "report_reasons": null,
                       "author": "Genxwire",
                       "parent_id": "t1_ckzawdu",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "TOR has been compromised... they canceled the black hat event stating as much, and wouldn't let the presenter speak.",
@@ -6923,7 +6923,7 @@
                       "created": 1412377996,
                       "author_flair_text": null,
                       "created_utc": 1412349196,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -7213,7 +7213,7 @@
             "report_reasons": null,
             "author": "NUCLEAR_HERO",
             "parent_id": "t3_2i6d98",
-            "score": -5,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Uh silkroads devs fucked up and revealed the IP address.\n\nWhy are we so quick to jump to the defense of hard drug merchants? Because \"muh NSA\"?",
@@ -7230,7 +7230,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -4
           }
         },
         {

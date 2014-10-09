@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "rnvk",
             "media": null,
-            "score": 26,
+            "score": 25,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Coinkite: FLASH SALE! Since Bitcoin is on sale, the next 30 Coinkite Terminals 30% off.",
             "created_utc": 1412537476,
-            "ups": 26,
-            "upvote_ratio": 0.64,
+            "ups": 25,
+            "upvote_ratio": 0.63,
             "num_comments": 18,
             "visited": false,
             "num_reports": null,
@@ -287,7 +287,7 @@
                                                               "report_reasons": null,
                                                               "author": "time_dj",
                                                               "parent_id": "t1_cl1az41",
-                                                              "score": 3,
+                                                              "score": 5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "**Merchant pays POS Fee: 1% !!**\n\nOnly way to avoid the fee is to pay you.  \n\n$ 31.72/mo  \n \nor   \n\n $ 267.04/mo  \nor  \n$ 2,670.42/mo\n\n\nSo its worse... A tablet with a printer that wants to take your money whether you make money or not! Your first two plans **take 1%** of everything you make and your other plans cost  between $ 31.72/mo and $ 2,670.42/mo whether you make money or not!  \n  \nTablets are dirt cheap and we all already have printers.. thanks tho.",
@@ -301,7 +301,7 @@
                                                               "created": 1412573130,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412544330,
-                                                              "ups": 3,
+                                                              "ups": 5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -462,7 +462,7 @@
                                 "report_reasons": null,
                                 "author": "Shuai",
                                 "parent_id": "t1_cl199jb",
-                                "score": 7,
+                                "score": 6,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "So basically its like a tablet with a printer.",
@@ -479,7 +479,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 7
+                                "ups": 6
                               }
                             },
                             {
@@ -497,7 +497,7 @@
                                 "report_reasons": null,
                                 "author": "garoththorp",
                                 "parent_id": "t1_cl199jb",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Hey, thanks for taking the time to post this here.\n\nLooking down the list though, it really looks like the only things that aren't solved by software are the printer-related stuff.\n\nBut I really don't think that's the way the world's moving. For example, I had the pleasure of using one of Square's PoS terminals a couple months ago: https://squareup.com/stand\n\nWhich is an iPad. If you scroll down, they even have sweet little printers that work with it. But realistically, even the printer bit is going the way of the dodo. If you've used square with an independent merchant, most of the time, they just e-mail your receipt to you. That's way better than having a paper copy. I'm sure some people are still in the habit of paper receipt collecting, but I see absolutely no reason why it's a good idea.\n\nPlus, although coinkite clearly tried really hard to make a nice list of why their terminal is better than a tablet, you gotta run the mental list through your head of the reverse. An iPad does infinitely more than this terminal can do. For example, you can run Square's software on it and pay fiat. Or you can avoid lock-in into coinkite's system. Or you can run a promo video on it while it's not in use. It's just a much better device.\n\nI see no way that dedicated bitcoin terminal hardware will be around in 5 years. That's just trying to emulate the old way of doing things rather than moving forward.",
@@ -514,7 +514,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             }
                           ],
@@ -529,7 +529,7 @@
                       "report_reasons": null,
                       "author": "rnvk",
                       "parent_id": "t1_cl18yak",
-                      "score": 10,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt; Why use that if I can just use my phone or tablet?\n\n&gt; The purpose of our terminal is to improve the bitcoin experience in a few different ways:\n\n* Our terminal is much more solid than a cell phone\n* Accounting reports, CSV export of all transactions\n* Logic to handle multiple employees and managers\n* API integration, terminal control and printing\n* Integrated receipt printer allows both parties to walk away with paper proof of transaction\n* Customers are used to seeing this type of handheld payment terminal\n* Retailers often employ cashiers who may not be comfortable using a laptop\n* A specialized device is less attractive to thieves\n* FREE word GPRS\n\n&gt; Exchange Mode\n\n* Sell Bitcoin/Litecoin to anyone, anywhere. It’s like a Bitcoin ATM, but you can take it anywhere!\n* Buy Bitcoin, Receive Bitcoin from QR code or a Coinkite card\n* Print Paper Wallets with private key and also redeemable online\n* Print Vouchers with PIN and redeemable online\n* Exchange Rate Markup can easily be set by you\n* Scan to Pay the sold coins directly into your customer's wallet\n\n&gt; Retail Mode\n\n* Accept Bitcoin from any wallet by printing a QR code\n* Accept Debit Cards from Coinkite users\n* Receive Tips by simply choosing the amount\n* Book Keeping with options for Table Number, Invoice Number, etc...\n* View Unpaid Bills on screen list of unconfirmed transactions for each table\n* Add Markup by setting your exchange premium. It will be automatically added to all fiat conversions\n* Double Receipts option; receipt for yourself and the customer\n\n\nMore into [here](https://coinkite.com/faq/terminal)",
@@ -543,7 +543,7 @@
                       "created": 1412568630,
                       "author_flair_text": null,
                       "created_utc": 1412539830,
-                      "ups": 10,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

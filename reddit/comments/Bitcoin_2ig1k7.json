@@ -46,7 +46,7 @@
             "title": "\"Buy when there is blood in the streets\" Baron Rothschild",
             "created_utc": 1412601901,
             "ups": 0,
-            "upvote_ratio": 0.31,
+            "upvote_ratio": 0.33,
             "num_comments": 7,
             "visited": false,
             "num_reports": null,
@@ -225,7 +225,7 @@
                                 "report_reasons": null,
                                 "author": "hio_State",
                                 "parent_id": "t1_cl1unm4",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Extreme risk, no money",
@@ -242,7 +242,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],

@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "ParsnipCommander",
             "media": null,
-            "score": 178,
+            "score": 179,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "If you've ever wanted to support Andreas Antonopoulos but weren't sure how - he just finished his Bitcoin book today, and pre-orders available here!",
             "created_utc": 1412539891,
-            "ups": 178,
+            "ups": 179,
             "upvote_ratio": 0.86,
-            "num_comments": 60,
+            "num_comments": 61,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -192,7 +192,7 @@
             "report_reasons": null,
             "author": "usrn",
             "parent_id": "t3_2idsq9",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Is it on \"or books\"? I would rather buy it with btc.",
@@ -209,7 +209,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -239,7 +239,7 @@
                       "report_reasons": null,
                       "author": "rafikichi",
                       "parent_id": "t1_cl1fnez",
-                      "score": -1,
+                      "score": -2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I wish I had gold to give.  ^ He deserves it. ^",
@@ -253,7 +253,7 @@
                       "created": 1412601435,
                       "author_flair_text": null,
                       "created_utc": 1412572635,
-                      "ups": -1,
+                      "ups": -2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -271,7 +271,7 @@
             "report_reasons": null,
             "author": "rmvaandr",
             "parent_id": "t3_2idsq9",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "The only thing that could make this book better is a honey badger.",
@@ -285,41 +285,6 @@
             "created": 1412581922,
             "author_flair_text": null,
             "created_utc": 1412553122,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 5
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2idsq9",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1g7dz",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "bruce_fenton",
-            "parent_id": "t3_2idsq9",
-            "score": 6,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Andreas is a great guy with lots of integrity.",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Andreas is a great guy with lots of integrity.&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1g7dz",
-            "created": 1412583221,
-            "author_flair_text": null,
-            "created_utc": 1412554421,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
@@ -355,428 +320,6 @@
             "created": 1412588389,
             "author_flair_text": null,
             "created_utc": 1412559589,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2idsq9",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2idsq9",
-                      "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "modhash": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2idsq9",
-                                "likes": null,
-                                "replies": {
-                                  "kind": "Listing",
-                                  "data": {
-                                    "modhash": "",
-                                    "children": [
-                                      {
-                                        "kind": "t1",
-                                        "data": {
-                                          "subreddit_id": "t5_2s3qj",
-                                          "banned_by": null,
-                                          "link_id": "t3_2idsq9",
-                                          "likes": null,
-                                          "replies": {
-                                            "kind": "Listing",
-                                            "data": {
-                                              "modhash": "",
-                                              "children": [
-                                                {
-                                                  "kind": "t1",
-                                                  "data": {
-                                                    "subreddit_id": "t5_2s3qj",
-                                                    "banned_by": null,
-                                                    "link_id": "t3_2idsq9",
-                                                    "likes": null,
-                                                    "replies": {
-                                                      "kind": "Listing",
-                                                      "data": {
-                                                        "modhash": "",
-                                                        "children": [
-                                                          {
-                                                            "kind": "t1",
-                                                            "data": {
-                                                              "subreddit_id": "t5_2s3qj",
-                                                              "banned_by": null,
-                                                              "link_id": "t3_2idsq9",
-                                                              "likes": null,
-                                                              "replies": {
-                                                                "kind": "Listing",
-                                                                "data": {
-                                                                  "modhash": "",
-                                                                  "children": [
-                                                                    {
-                                                                      "kind": "t1",
-                                                                      "data": {
-                                                                        "subreddit_id": "t5_2s3qj",
-                                                                        "banned_by": null,
-                                                                        "link_id": "t3_2idsq9",
-                                                                        "likes": null,
-                                                                        "replies": {
-                                                                          "kind": "Listing",
-                                                                          "data": {
-                                                                            "modhash": "",
-                                                                            "children": [
-                                                                              {
-                                                                                "kind": "t1",
-                                                                                "data": {
-                                                                                  "subreddit_id": "t5_2s3qj",
-                                                                                  "banned_by": null,
-                                                                                  "link_id": "t3_2idsq9",
-                                                                                  "likes": null,
-                                                                                  "replies": "",
-                                                                                  "user_reports": [],
-                                                                                  "saved": false,
-                                                                                  "id": "cl1xij1",
-                                                                                  "gilded": 0,
-                                                                                  "report_reasons": null,
-                                                                                  "author": "AussieCryptoCurrency",
-                                                                                  "parent_id": "t1_cl1qoly",
-                                                                                  "score": 1,
-                                                                                  "approved_by": null,
-                                                                                  "controversiality": 0,
-                                                                                  "body": "And what are you doing to help that? Have you bought Andreas' book? You've canned Blockchain.info which Andreas has done a marvellous job with. \n\nPassively assuming credibility will come from retailers is what got us here in the first place. No one is keeping their BTC. They exchange for fiat and push the supply far away from demand",
-                                                                                  "edited": false,
-                                                                                  "author_flair_css_class": null,
-                                                                                  "downs": 0,
-                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And what are you doing to help that? Have you bought Andreas&amp;#39; book? You&amp;#39;ve canned Blockchain.info which Andreas has done a marvellous job with. &lt;/p&gt;\n\n&lt;p&gt;Passively assuming credibility will come from retailers is what got us here in the first place. No one is keeping their BTC. They exchange for fiat and push the supply far away from demand&lt;/p&gt;\n&lt;/div&gt;",
-                                                                                  "subreddit": "Bitcoin",
-                                                                                  "score_hidden": false,
-                                                                                  "name": "t1_cl1xij1",
-                                                                                  "created": 1412638723,
-                                                                                  "author_flair_text": null,
-                                                                                  "created_utc": 1412609923,
-                                                                                  "ups": 1,
-                                                                                  "mod_reports": [],
-                                                                                  "num_reports": null,
-                                                                                  "distinguished": null
-                                                                                }
-                                                                              }
-                                                                            ],
-                                                                            "after": null,
-                                                                            "before": null
-                                                                          }
-                                                                        },
-                                                                        "user_reports": [],
-                                                                        "saved": false,
-                                                                        "id": "cl1qoly",
-                                                                        "gilded": 0,
-                                                                        "report_reasons": null,
-                                                                        "author": "utuxia",
-                                                                        "parent_id": "t1_cl1qlll",
-                                                                        "score": -1,
-                                                                        "approved_by": null,
-                                                                        "controversiality": 0,
-                                                                        "body": "they really need some expertise. These open source wallets all suck ass.",
-                                                                        "edited": false,
-                                                                        "author_flair_css_class": null,
-                                                                        "downs": 0,
-                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;they really need some expertise. These open source wallets all suck ass.&lt;/p&gt;\n&lt;/div&gt;",
-                                                                        "subreddit": "Bitcoin",
-                                                                        "score_hidden": false,
-                                                                        "name": "t1_cl1qoly",
-                                                                        "created": 1412613746,
-                                                                        "author_flair_text": null,
-                                                                        "created_utc": 1412584946,
-                                                                        "distinguished": null,
-                                                                        "mod_reports": [],
-                                                                        "num_reports": null,
-                                                                        "ups": -1
-                                                                      }
-                                                                    }
-                                                                  ],
-                                                                  "after": null,
-                                                                  "before": null
-                                                                }
-                                                              },
-                                                              "user_reports": [],
-                                                              "saved": false,
-                                                              "id": "cl1qlll",
-                                                              "gilded": 0,
-                                                              "report_reasons": null,
-                                                              "author": "inviolinable",
-                                                              "parent_id": "t1_cl1qjac",
-                                                              "score": 1,
-                                                              "approved_by": null,
-                                                              "controversiality": 0,
-                                                              "body": "That's the beauty of open source, I guess. It's hard to run a scam out in the sunlight. Credibility by design. Hopefully this inspires new minds to contribute their expertise to the protocol.",
-                                                              "edited": false,
-                                                              "author_flair_css_class": null,
-                                                              "downs": 0,
-                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s the beauty of open source, I guess. It&amp;#39;s hard to run a scam out in the sunlight. Credibility by design. Hopefully this inspires new minds to contribute their expertise to the protocol.&lt;/p&gt;\n&lt;/div&gt;",
-                                                              "subreddit": "Bitcoin",
-                                                              "score_hidden": false,
-                                                              "name": "t1_cl1qlll",
-                                                              "created": 1412613232,
-                                                              "author_flair_text": null,
-                                                              "created_utc": 1412584432,
-                                                              "ups": 1,
-                                                              "mod_reports": [],
-                                                              "num_reports": null,
-                                                              "distinguished": null
-                                                            }
-                                                          },
-                                                          {
-                                                            "kind": "t1",
-                                                            "data": {
-                                                              "subreddit_id": "t5_2s3qj",
-                                                              "banned_by": null,
-                                                              "link_id": "t3_2idsq9",
-                                                              "likes": null,
-                                                              "replies": {
-                                                                "kind": "Listing",
-                                                                "data": {
-                                                                  "modhash": "",
-                                                                  "children": [
-                                                                    {
-                                                                      "kind": "t1",
-                                                                      "data": {
-                                                                        "subreddit_id": "t5_2s3qj",
-                                                                        "banned_by": null,
-                                                                        "link_id": "t3_2idsq9",
-                                                                        "likes": null,
-                                                                        "replies": "",
-                                                                        "user_reports": [],
-                                                                        "saved": false,
-                                                                        "id": "cl2dvji",
-                                                                        "gilded": 0,
-                                                                        "report_reasons": null,
-                                                                        "author": "utuxia",
-                                                                        "parent_id": "t1_cl28sck",
-                                                                        "score": 1,
-                                                                        "approved_by": null,
-                                                                        "controversiality": 0,
-                                                                        "body": "haha. ",
-                                                                        "edited": false,
-                                                                        "author_flair_css_class": null,
-                                                                        "downs": 0,
-                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;haha. &lt;/p&gt;\n&lt;/div&gt;",
-                                                                        "subreddit": "Bitcoin",
-                                                                        "score_hidden": false,
-                                                                        "name": "t1_cl2dvji",
-                                                                        "created": 1412670914,
-                                                                        "author_flair_text": null,
-                                                                        "created_utc": 1412642114,
-                                                                        "distinguished": null,
-                                                                        "mod_reports": [],
-                                                                        "num_reports": null,
-                                                                        "ups": 1
-                                                                      }
-                                                                    }
-                                                                  ],
-                                                                  "after": null,
-                                                                  "before": null
-                                                                }
-                                                              },
-                                                              "user_reports": [],
-                                                              "saved": false,
-                                                              "id": "cl28sck",
-                                                              "gilded": 0,
-                                                              "report_reasons": null,
-                                                              "author": "meowcafe",
-                                                              "parent_id": "t1_cl1qjac",
-                                                              "score": 1,
-                                                              "approved_by": null,
-                                                              "controversiality": 0,
-                                                              "body": "at first I thought he meant Bill O'Reilly had written a book on Bitcoin as well...glad it's not the case!",
-                                                              "edited": false,
-                                                              "author_flair_css_class": null,
-                                                              "downs": 0,
-                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;at first I thought he meant Bill O&amp;#39;Reilly had written a book on Bitcoin as well...glad it&amp;#39;s not the case!&lt;/p&gt;\n&lt;/div&gt;",
-                                                              "subreddit": "Bitcoin",
-                                                              "score_hidden": false,
-                                                              "name": "t1_cl28sck",
-                                                              "created": 1412660396,
-                                                              "author_flair_text": null,
-                                                              "created_utc": 1412631596,
-                                                              "ups": 1,
-                                                              "mod_reports": [],
-                                                              "num_reports": null,
-                                                              "distinguished": null
-                                                            }
-                                                          }
-                                                        ],
-                                                        "after": null,
-                                                        "before": null
-                                                      }
-                                                    },
-                                                    "user_reports": [],
-                                                    "saved": false,
-                                                    "id": "cl1qjac",
-                                                    "gilded": 0,
-                                                    "report_reasons": null,
-                                                    "author": "utuxia",
-                                                    "parent_id": "t1_cl1qi1w",
-                                                    "score": 3,
-                                                    "approved_by": null,
-                                                    "controversiality": 0,
-                                                    "body": "....and O'Reilly no doubt. The foremost publisher in tech books. They are the original open source book publisher. Its not like they will just allow a scam to be published in their name. Lots of credibility.",
-                                                    "edited": false,
-                                                    "author_flair_css_class": null,
-                                                    "downs": 0,
-                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;....and O&amp;#39;Reilly no doubt. The foremost publisher in tech books. They are the original open source book publisher. Its not like they will just allow a scam to be published in their name. Lots of credibility.&lt;/p&gt;\n&lt;/div&gt;",
-                                                    "subreddit": "Bitcoin",
-                                                    "score_hidden": false,
-                                                    "name": "t1_cl1qjac",
-                                                    "created": 1412612847,
-                                                    "author_flair_text": null,
-                                                    "created_utc": 1412584047,
-                                                    "distinguished": null,
-                                                    "mod_reports": [],
-                                                    "num_reports": null,
-                                                    "ups": 3
-                                                  }
-                                                }
-                                              ],
-                                              "after": null,
-                                              "before": null
-                                            }
-                                          },
-                                          "user_reports": [],
-                                          "saved": false,
-                                          "id": "cl1qi1w",
-                                          "gilded": 0,
-                                          "report_reasons": null,
-                                          "author": "inviolinable",
-                                          "parent_id": "t1_cl1q57n",
-                                          "score": 3,
-                                          "approved_by": null,
-                                          "controversiality": 0,
-                                          "body": "Oh yes, very true. It's remarkable how much legitimacy the medium of the 'book' has. Well earned I believe.",
-                                          "edited": false,
-                                          "author_flair_css_class": null,
-                                          "downs": 0,
-                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh yes, very true. It&amp;#39;s remarkable how much legitimacy the medium of the &amp;#39;book&amp;#39; has. Well earned I believe.&lt;/p&gt;\n&lt;/div&gt;",
-                                          "subreddit": "Bitcoin",
-                                          "score_hidden": false,
-                                          "name": "t1_cl1qi1w",
-                                          "created": 1412612649,
-                                          "author_flair_text": null,
-                                          "created_utc": 1412583849,
-                                          "ups": 3,
-                                          "mod_reports": [],
-                                          "num_reports": null,
-                                          "distinguished": null
-                                        }
-                                      }
-                                    ],
-                                    "after": null,
-                                    "before": null
-                                  }
-                                },
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl1q57n",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "utuxia",
-                                "parent_id": "t1_cl1q4o8",
-                                "score": 1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "Because techies will start to notice. Those who have only heard about it and thought it was a ponzi scheme, a few (i'd say a lot) will now see an official book and think, \"Wait, this is a real thing?\"",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Because techies will start to notice. Those who have only heard about it and thought it was a ponzi scheme, a few (i&amp;#39;d say a lot) will now see an official book and think, &amp;quot;Wait, this is a real thing?&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl1q57n",
-                                "created": 1412610632,
-                                "author_flair_text": null,
-                                "created_utc": 1412581832,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
-                              }
-                            }
-                          ],
-                          "after": null,
-                          "before": null
-                        }
-                      },
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl1q4o8",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "inviolinable",
-                      "parent_id": "t1_cl1ph43",
-                      "score": 2,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "Why is that?",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Why is that?&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl1q4o8",
-                      "created": 1412610547,
-                      "author_flair_text": null,
-                      "created_utc": 1412581747,
-                      "ups": 2,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1ph43",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "utuxia",
-            "parent_id": "t3_2idsq9",
-            "score": 2,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Ironically, the mere fact that O'Reilly has a book about Bitcoin gives it some legitimacy.",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ironically, the mere fact that O&amp;#39;Reilly has a book about Bitcoin gives it some legitimacy.&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1ph43",
-            "created": 1412607256,
-            "author_flair_text": null,
-            "created_utc": 1412578456,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
@@ -1065,6 +608,41 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
+            "id": "cl1g7dz",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "bruce_fenton",
+            "parent_id": "t3_2idsq9",
+            "score": 5,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Andreas is a great guy with lots of integrity.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Andreas is a great guy with lots of integrity.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1g7dz",
+            "created": 1412583221,
+            "author_flair_text": null,
+            "created_utc": 1412554421,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 5
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idsq9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
             "id": "cl1itzk",
             "gilded": 0,
             "report_reasons": null,
@@ -1141,7 +719,7 @@
                                           "report_reasons": null,
                                           "author": "AussieCryptoCurrency",
                                           "parent_id": "t1_cl1vhb7",
-                                          "score": 2,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "\n&gt;Yea, let's support Bitcoin and those working to make it better by *stealing*. You are a genius! I bet your mother is very proud of you.\n\nExactly. This makes me sick.",
@@ -1155,7 +733,7 @@
                                           "created": 1412638779,
                                           "author_flair_text": null,
                                           "created_utc": 1412609979,
-                                          "ups": 2,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1416,196 +994,29 @@
             "replies": "",
             "user_reports": [],
             "saved": false,
-            "id": "cl1kpk1",
+            "id": "cl3p84h",
             "gilded": 0,
             "report_reasons": null,
-            "author": "btcdentist",
+            "author": "the_g00se",
             "parent_id": "t3_2idsq9",
             "score": 1,
             "approved_by": null,
             "controversiality": 0,
-            "body": "Andreas is a genuinely good guy. Congrats on his book!",
+            "body": "Made my purchase using Gyft! Saved 3% too.",
             "edited": false,
             "author_flair_css_class": null,
             "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Andreas is a genuinely good guy. Congrats on his book!&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Made my purchase using Gyft! Saved 3% too.&lt;/p&gt;\n&lt;/div&gt;",
             "subreddit": "Bitcoin",
             "score_hidden": false,
-            "name": "t1_cl1kpk1",
-            "created": 1412592992,
+            "name": "t1_cl3p84h",
+            "created": 1412800955,
             "author_flair_text": null,
-            "created_utc": 1412564192,
+            "created_utc": 1412772155,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
             "ups": 1
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2idsq9",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2idsq9",
-                      "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "modhash": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2idsq9",
-                                "likes": null,
-                                "replies": {
-                                  "kind": "Listing",
-                                  "data": {
-                                    "modhash": "",
-                                    "children": [
-                                      {
-                                        "kind": "t1",
-                                        "data": {
-                                          "subreddit_id": "t5_2s3qj",
-                                          "banned_by": null,
-                                          "link_id": "t3_2idsq9",
-                                          "likes": null,
-                                          "replies": "",
-                                          "user_reports": [],
-                                          "saved": false,
-                                          "id": "cl234iy",
-                                          "gilded": 0,
-                                          "report_reasons": null,
-                                          "author": "rowdy_beaver",
-                                          "parent_id": "t1_cl1pg09",
-                                          "score": 1,
-                                          "approved_by": null,
-                                          "controversiality": 0,
-                                          "body": "They don't consume the leaves, instead the cuttings are used to grow fungi that the ants consume.  Leaf cutter ants are farmers.  Bitcoin has miners that keep the network going.  Both are organized groups.",
-                                          "edited": false,
-                                          "author_flair_css_class": null,
-                                          "downs": 0,
-                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They don&amp;#39;t consume the leaves, instead the cuttings are used to grow fungi that the ants consume.  Leaf cutter ants are farmers.  Bitcoin has miners that keep the network going.  Both are organized groups.&lt;/p&gt;\n&lt;/div&gt;",
-                                          "subreddit": "Bitcoin",
-                                          "score_hidden": false,
-                                          "name": "t1_cl234iy",
-                                          "created": 1412649740,
-                                          "author_flair_text": null,
-                                          "created_utc": 1412620940,
-                                          "ups": 1,
-                                          "mod_reports": [],
-                                          "num_reports": null,
-                                          "distinguished": null
-                                        }
-                                      }
-                                    ],
-                                    "after": null,
-                                    "before": null
-                                  }
-                                },
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl1pg09",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "utuxia",
-                                "parent_id": "t1_cl1gfkg",
-                                "score": 1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "What's the reference again? Leaf cutter ants eat themselves or something?",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s the reference again? Leaf cutter ants eat themselves or something?&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl1pg09",
-                                "created": 1412607115,
-                                "author_flair_text": null,
-                                "created_utc": 1412578315,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
-                              }
-                            }
-                          ],
-                          "after": null,
-                          "before": null
-                        }
-                      },
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl1gfkg",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "AstarJoe",
-                      "parent_id": "t1_cl1eyo4",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "Leafcutter ants. Yep. He references them in relation to bitcoin. ",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Leafcutter ants. Yep. He references them in relation to bitcoin. &lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl1gfkg",
-                      "created": 1412583761,
-                      "author_flair_text": null,
-                      "created_utc": 1412554961,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1eyo4",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "sentdex",
-            "parent_id": "t3_2idsq9",
-            "score": 0,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Hah! O'Reilly is always just putting random animals on the cover.  Anyone else notice they're ants? I don't think that was random. Andreas likes to reference them, I bet that was a request.  ",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hah! O&amp;#39;Reilly is always just putting random animals on the cover.  Anyone else notice they&amp;#39;re ants? I don&amp;#39;t think that was random. Andreas likes to reference them, I bet that was a request.  &lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1eyo4",
-            "created": 1412580390,
-            "author_flair_text": null,
-            "created_utc": 1412551590,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 0
           }
         },
         {
@@ -1855,6 +1266,463 @@
                       "banned_by": null,
                       "link_id": "t3_2idsq9",
                       "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idsq9",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idsq9",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2idsq9",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idsq9",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idsq9",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2idsq9",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl1xij1",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "AussieCryptoCurrency",
+                                                                                  "parent_id": "t1_cl1qoly",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "And what are you doing to help that? Have you bought Andreas' book? You've canned Blockchain.info which Andreas has done a marvellous job with. \n\nPassively assuming credibility will come from retailers is what got us here in the first place. No one is keeping their BTC. They exchange for fiat and push the supply far away from demand",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And what are you doing to help that? Have you bought Andreas&amp;#39; book? You&amp;#39;ve canned Blockchain.info which Andreas has done a marvellous job with. &lt;/p&gt;\n\n&lt;p&gt;Passively assuming credibility will come from retailers is what got us here in the first place. No one is keeping their BTC. They exchange for fiat and push the supply far away from demand&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl1xij1",
+                                                                                  "created": 1412638723,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412609923,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl1qoly",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "utuxia",
+                                                                        "parent_id": "t1_cl1qlll",
+                                                                        "score": -2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "they really need some expertise. These open source wallets all suck ass.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;they really need some expertise. These open source wallets all suck ass.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl1qoly",
+                                                                        "created": 1412613746,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412584946,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": -2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl1qlll",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "inviolinable",
+                                                              "parent_id": "t1_cl1qjac",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "That's the beauty of open source, I guess. It's hard to run a scam out in the sunlight. Credibility by design. Hopefully this inspires new minds to contribute their expertise to the protocol.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;That&amp;#39;s the beauty of open source, I guess. It&amp;#39;s hard to run a scam out in the sunlight. Credibility by design. Hopefully this inspires new minds to contribute their expertise to the protocol.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl1qlll",
+                                                              "created": 1412613232,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412584432,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          },
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2idsq9",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2idsq9",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2dvji",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "utuxia",
+                                                                        "parent_id": "t1_cl28sck",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "haha. ",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;haha. &lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2dvji",
+                                                                        "created": 1412670914,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412642114,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl28sck",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "meowcafe",
+                                                              "parent_id": "t1_cl1qjac",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "at first I thought he meant Bill O'Reilly had written a book on Bitcoin as well...glad it's not the case!",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;at first I thought he meant Bill O&amp;#39;Reilly had written a book on Bitcoin as well...glad it&amp;#39;s not the case!&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl28sck",
+                                                              "created": 1412660396,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412631596,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl1qjac",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "utuxia",
+                                                    "parent_id": "t1_cl1qi1w",
+                                                    "score": 2,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "....and O'Reilly no doubt. The foremost publisher in tech books. They are the original open source book publisher. Its not like they will just allow a scam to be published in their name. Lots of credibility.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;....and O&amp;#39;Reilly no doubt. The foremost publisher in tech books. They are the original open source book publisher. Its not like they will just allow a scam to be published in their name. Lots of credibility.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl1qjac",
+                                                    "created": 1412612847,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412584047,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 2
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl1qi1w",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "inviolinable",
+                                          "parent_id": "t1_cl1q57n",
+                                          "score": 4,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "Oh yes, very true. It's remarkable how much legitimacy the medium of the 'book' has. Well earned I believe.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Oh yes, very true. It&amp;#39;s remarkable how much legitimacy the medium of the &amp;#39;book&amp;#39; has. Well earned I believe.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl1qi1w",
+                                          "created": 1412612649,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412583849,
+                                          "ups": 4,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1q57n",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "utuxia",
+                                "parent_id": "t1_cl1q4o8",
+                                "score": 0,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "Because techies will start to notice. Those who have only heard about it and thought it was a ponzi scheme, a few (i'd say a lot) will now see an official book and think, \"Wait, this is a real thing?\"",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Because techies will start to notice. Those who have only heard about it and thought it was a ponzi scheme, a few (i&amp;#39;d say a lot) will now see an official book and think, &amp;quot;Wait, this is a real thing?&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1q57n",
+                                "created": 1412610632,
+                                "author_flair_text": null,
+                                "created_utc": 1412581832,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 0
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1q4o8",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "inviolinable",
+                      "parent_id": "t1_cl1ph43",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Why is that?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Why is that?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1q4o8",
+                      "created": 1412610547,
+                      "author_flair_text": null,
+                      "created_utc": 1412581747,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1ph43",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "utuxia",
+            "parent_id": "t3_2idsq9",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Ironically, the mere fact that O'Reilly has a book about Bitcoin gives it some legitimacy.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ironically, the mere fact that O&amp;#39;Reilly has a book about Bitcoin gives it some legitimacy.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1ph43",
+            "created": 1412607256,
+            "author_flair_text": null,
+            "created_utc": 1412578456,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idsq9",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1kpk1",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "btcdentist",
+            "parent_id": "t3_2idsq9",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Andreas is a genuinely good guy. Congrats on his book!",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Andreas is a genuinely good guy. Congrats on his book!&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1kpk1",
+            "created": 1412592992,
+            "author_flair_text": null,
+            "created_utc": 1412564192,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idsq9",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idsq9",
+                      "likes": null,
                       "replies": "",
                       "user_reports": [],
                       "saved": false,
@@ -1895,7 +1763,7 @@
             "report_reasons": null,
             "author": "ajvw",
             "parent_id": "t3_2idsq9",
-            "score": 0,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "LOL sold for $ and not BTC!",
@@ -1912,7 +1780,174 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": -2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idsq9",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idsq9",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idsq9",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idsq9",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl234iy",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "rowdy_beaver",
+                                          "parent_id": "t1_cl1pg09",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "They don't consume the leaves, instead the cuttings are used to grow fungi that the ants consume.  Leaf cutter ants are farmers.  Bitcoin has miners that keep the network going.  Both are organized groups.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They don&amp;#39;t consume the leaves, instead the cuttings are used to grow fungi that the ants consume.  Leaf cutter ants are farmers.  Bitcoin has miners that keep the network going.  Both are organized groups.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl234iy",
+                                          "created": 1412649740,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412620940,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl1pg09",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "utuxia",
+                                "parent_id": "t1_cl1gfkg",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "What's the reference again? Leaf cutter ants eat themselves or something?",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What&amp;#39;s the reference again? Leaf cutter ants eat themselves or something?&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl1pg09",
+                                "created": 1412607115,
+                                "author_flair_text": null,
+                                "created_utc": 1412578315,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1gfkg",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "AstarJoe",
+                      "parent_id": "t1_cl1eyo4",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Leafcutter ants. Yep. He references them in relation to bitcoin. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Leafcutter ants. Yep. He references them in relation to bitcoin. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1gfkg",
+                      "created": 1412583761,
+                      "author_flair_text": null,
+                      "created_utc": 1412554961,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1eyo4",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sentdex",
+            "parent_id": "t3_2idsq9",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Hah! O'Reilly is always just putting random animals on the cover.  Anyone else notice they're ants? I don't think that was random. Andreas likes to reference them, I bet that was a request.  ",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hah! O&amp;#39;Reilly is always just putting random animals on the cover.  Anyone else notice they&amp;#39;re ants? I don&amp;#39;t think that was random. Andreas likes to reference them, I bet that was a request.  &lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1eyo4",
+            "created": 1412580390,
+            "author_flair_text": null,
+            "created_utc": 1412551590,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
           }
         },
         {
@@ -2118,7 +2153,7 @@
                                                     "report_reasons": null,
                                                     "author": "EgyptWhite",
                                                     "parent_id": "t1_cl1doxn",
-                                                    "score": 2,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Isn't Bitcoin, according to many here, all about the demise of things a lot of people believe in?\n",
@@ -2135,7 +2170,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -2293,7 +2328,7 @@
                       "report_reasons": null,
                       "author": "BitttBurger",
                       "parent_id": "t1_cl1h0xf",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Ants represent the Bitcoin concept much better than Bitcoins tendency to have price value fluctuations.",
@@ -2307,7 +2342,7 @@
                       "created": 1412589000,
                       "author_flair_text": null,
                       "created_utc": 1412560200,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2325,7 +2360,7 @@
             "report_reasons": null,
             "author": "ddmnyc",
             "parent_id": "t3_2idsq9",
-            "score": -1,
+            "score": -3,
             "approved_by": null,
             "controversiality": 0,
             "body": "WHY is the cover not a honey badger? Fail.",
@@ -2342,7 +2377,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": -3
           }
         },
         {
@@ -2372,7 +2407,7 @@
                       "report_reasons": null,
                       "author": "the_nsa_loves_you",
                       "parent_id": "t1_cl1h3a2",
-                      "score": 7,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The ebook is on Github for free. If you were so quick to judge without a simple Google search, you're probably not the target audience. It has a high level overview as an introductIon, but the latter chapters are geared towards a technical audience.",
@@ -2386,7 +2421,7 @@
                       "created": 1412587062,
                       "author_flair_text": null,
                       "created_utc": 1412558262,
-                      "ups": 7,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

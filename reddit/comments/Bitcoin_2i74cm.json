@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "BitcoinWallet",
             "media": null,
-            "score": 146,
+            "score": 150,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Bitcoin Wallet 4.0 release candidate! Finally HD arrives for everyone. Please help testing!",
             "created_utc": 1412351888,
-            "ups": 146,
+            "ups": 150,
             "upvote_ratio": 0.95,
             "num_comments": 83,
             "visited": false,
@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "alwayslose",
                       "parent_id": "t1_ckzpujc",
-                      "score": 8,
+                      "score": 7,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Thanks, I really wish people wouldn't use esoteric acronyms without expanding them first.",
@@ -104,7 +104,7 @@
                       "created": 1412415612,
                       "author_flair_text": null,
                       "created_utc": 1412386812,
-                      "ups": 8,
+                      "ups": 7,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -292,7 +292,7 @@
                       "report_reasons": null,
                       "author": "trrrrouble",
                       "parent_id": "t1_ckzpujc",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "High Definition wallet, implying that the previous wallets are Low Definition.",
@@ -306,7 +306,7 @@
                       "created": 1412401810,
                       "author_flair_text": null,
                       "created_utc": 1412373010,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -324,7 +324,7 @@
             "report_reasons": null,
             "author": "itsnotlupus",
             "parent_id": "t3_2i74cm",
-            "score": 17,
+            "score": 14,
             "approved_by": null,
             "controversiality": 0,
             "body": "Apparently HD stands for [Hierarchical Deterministic](https://en.bitcoin.it/wiki/Deterministic_wallet), and we get to blame /u/nullc for the concept.\n\nHad to google it, thought I'd save someone else the trouble.\n",
@@ -341,7 +341,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 14
           }
         },
         {
@@ -359,7 +359,7 @@
             "report_reasons": null,
             "author": "jgarzik",
             "parent_id": "t3_2i74cm",
-            "score": 8,
+            "score": 10,
             "approved_by": null,
             "controversiality": 0,
             "body": "Seconded.  Much testing is needed, for these major new features.\n\nGreat stuff!\n",
@@ -376,7 +376,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 10
           }
         },
         {
@@ -596,7 +596,7 @@
             "report_reasons": null,
             "author": "GooglePlusBot",
             "parent_id": "t3_2i74cm",
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "[**+Bitcoin Wallet**](https://plus.google.com/101256420499771441772) [_2014-10-03T15:56:29.692Z_](https://plus.google.com/101256420499771441772/posts/KujxxG844gH)\n&gt;\n&gt;Finally, I uploaded the Bitcoin Wallet release candidate of Version 4! It's HD! Please help testing so we can release it the next days.\n&gt;\n&gt;For the mainnet version, you need to become tester (see [https://plus.google.com/101256420499771441772/posts/VhyWchXkBFR](https://plus.google.com/101256420499771441772/posts/VhyWchXkBFR)). The testnet version is on Google Play already for everyone. There is also direct downloads here: [https://github.com/schildbach/bitcoin-wallet/releases/tag/v4.0](https://github.com/schildbach/bitcoin-wallet/releases/tag/v4.0)\n&gt;\n&gt;Here is what's new in v4.0:\n&gt;\n&gt;* All Bitcoin addresses are now deterministically derived from one single secret, which was created when you installed the app for the first time. So from now on, only one backup is needed to recover all your future funds in that wallet.\n&gt;\n&gt;* The app does its best to not reuse addresses any more. \"Request coins\" will use a fresh address on each invocation. The current address in the QR code on the main page changes as soon as coins are received on it.\n&gt;\n&gt;* When sending coins, the fee is shown while you type and before you press \"Send\". After sending, you'll see the paid fee in the transaction list.\n&gt;\n&gt;* When sending coins, most errors are now shown already before you press Send.\n&gt;\n&gt;* The app now requires Android 4.0.3 or higher. This makes UI development much easier in future.\n&gt;\n&gt;* The app has a fresher, sharper looking app icon. The icon for the testnet version is now entirely grey.\n&gt;\n&gt;* On Android 4.1 or higher, the app-widget is now horizontally resizable.\n&gt;\n&gt;* Based on bitcoinj 0.12.\n&gt;\n&gt;Thanks to everyone participating, especially to all of the bitcoinj team members and the busy translators on Transifex!﻿",
@@ -613,7 +613,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -714,7 +714,7 @@
                                                     "report_reasons": null,
                                                     "author": "BitcoinWallet",
                                                     "parent_id": "t1_ckzpahg",
-                                                    "score": 5,
+                                                    "score": 4,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "The default lookahead size is 100. It's in bitcoinj, DeterministicKeyChain.getLookaheadSize().",
@@ -731,7 +731,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 4
                                                   }
                                                 }
                                               ],
@@ -810,7 +810,7 @@
                       "report_reasons": null,
                       "author": "7trXMk6Z",
                       "parent_id": "t1_ckzl892",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The standard is somewhere between 100 and 1000 (some do 100, some look 1000 past) addresses past the last one with any transactions, and then if it finds one with a tx, another 100-1000 past that.  So it always checks so it has that amount of empty no-tx addresses before it concludes that it's done looking.  But every wallet that uses HD wallets uses them sequentially, since it's not possible from the outside to determine that they are linked.  So have giant gaps between would only happen if you are doing it manually and for some reason make big gaps.",
@@ -824,7 +824,7 @@
                       "created": 1412394173,
                       "author_flair_text": null,
                       "created_utc": 1412365373,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1186,7 +1186,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "dskloet",
                                                                         "parent_id": "t1_ckzs38j",
-                                                                        "score": 5,
+                                                                        "score": 3,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "I read Mycelium does BIP32+39+44 and I was assuming this was going to work with other wallets as well. Are you saying that other wallets will likely end up with something different?",
@@ -1203,7 +1203,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 5
+                                                                        "ups": 3
                                                                       }
                                                                     }
                                                                   ],
@@ -1349,7 +1349,7 @@
                                 "report_reasons": null,
                                 "author": "dskloet",
                                 "parent_id": "t1_ckzn8t5",
-                                "score": 3,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Incompatible? What's wrong with BIP39?",
@@ -1366,7 +1366,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             },
                             {
@@ -1428,7 +1428,7 @@
                                 "report_reasons": null,
                                 "author": "kraml",
                                 "parent_id": "t1_ckzn8t5",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Just pick something and go with it. The number one reason why HD wallets are cool is because you can restore them from a seed where and even my dad couldn't mess up and lose his funds. ",
@@ -1445,7 +1445,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             },
                             {
@@ -1618,7 +1618,7 @@
                       "report_reasons": null,
                       "author": "BitcoinWallet",
                       "parent_id": "t1_ckzlit5",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "For now, you still use traditional backups via files. The 12 word systems are currently quite incompatible, so we (all wallet developers) need to work on improving interoperability.",
@@ -1632,7 +1632,7 @@
                       "created": 1412394828,
                       "author_flair_text": null,
                       "created_utc": 1412366028,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1785,7 +1785,7 @@
                       "report_reasons": null,
                       "author": "GibbsSamplePlatter",
                       "parent_id": "t1_ckzl9ud",
-                      "score": 6,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Address re-use makes it easier to track your funds, and is theoretically weaker due to various attacks.",
@@ -1799,7 +1799,7 @@
                       "created": 1412393393,
                       "author_flair_text": null,
                       "created_utc": 1412364593,
-                      "ups": 6,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2502,7 +2502,7 @@
             "report_reasons": null,
             "author": "trrrrouble",
             "parent_id": "t3_2i74cm",
-            "score": 2,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "Oh god I requested this a long time ago, glad to see it's coming together!!\n\nNo more address reuse, EVER.",
@@ -2519,7 +2519,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         },
         {
@@ -2874,7 +2874,7 @@
                       "report_reasons": null,
                       "author": "trrrrouble",
                       "parent_id": "t1_ckzjxsp",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Why don't you encrypt your phone and put pin/pwd on lockscreen?",
@@ -2888,7 +2888,7 @@
                       "created": 1412389957,
                       "author_flair_text": null,
                       "created_utc": 1412361157,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3371,7 +3371,7 @@
             "report_reasons": null,
             "author": "time_dj",
             "parent_id": "t3_2i74cm",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "108Op wallets FTW!!! I wanna give a shot out to all my senior citizen homies rocking 1024 x 768!  ",
@@ -3388,7 +3388,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         }
       ],

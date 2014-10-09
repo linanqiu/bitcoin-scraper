@@ -72,7 +72,7 @@
                 "author_url": "http://www.youtube.com/user/ScipiusFlavius"
               }
             },
-            "score": 44,
+            "score": 43,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -93,7 +93,7 @@
             "author_flair_text": null,
             "title": "Time for a refresher. Bitcoin: A Market Guide",
             "created_utc": 1412527523,
-            "ups": 44,
+            "ups": 43,
             "upvote_ratio": 0.82,
             "num_comments": 4,
             "visited": false,
@@ -208,7 +208,7 @@
                       "report_reasons": null,
                       "author": "denart4",
                       "parent_id": "t1_cl173ci",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Why would you go in the air when you can dig through the ground?",
@@ -222,7 +222,7 @@
                       "created": 1412576449,
                       "author_flair_text": null,
                       "created_utc": 1412547649,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

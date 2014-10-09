@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "solled",
             "media": null,
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Jeffrey Robinson podcast interview on his \"Naked Truth about Bitcoin\"",
             "created_utc": 1412515338,
-            "ups": 3,
-            "upvote_ratio": 0.67,
+            "ups": 4,
+            "upvote_ratio": 0.75,
             "num_comments": 5,
             "visited": false,
             "num_reports": null,
@@ -236,7 +236,7 @@
             "report_reasons": null,
             "author": "solled",
             "parent_id": "t3_2icsjo",
-            "score": -1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "He compares Bitcoin to frozen pork bellies. Lol.",
@@ -253,7 +253,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         }
       ],

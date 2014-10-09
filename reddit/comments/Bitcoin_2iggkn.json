@@ -47,7 +47,7 @@
             "created_utc": 1412610836,
             "ups": 0,
             "upvote_ratio": 0.5,
-            "num_comments": 8,
+            "num_comments": 12,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -94,7 +94,51 @@
                                 "banned_by": null,
                                 "link_id": "t3_2iggkn",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2iggkn",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2oa6p",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "vbenes",
+                                          "parent_id": "t1_cl1z9sj",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I don't believe you.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t believe you.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2oa6p",
+                                          "created": 1412698587,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412669787,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl1z9sj",
@@ -134,7 +178,7 @@
                       "report_reasons": null,
                       "author": "seedpod02",
                       "parent_id": "t1_cl1y7uq",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I doubt it.. s/he's probably made to the moon predictions under another user name and whichever is right - that prediction or this - s/he's get to crow about it",
@@ -148,7 +192,7 @@
                       "created": 1412641002,
                       "author_flair_text": null,
                       "created_utc": 1412612202,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -185,7 +229,139 @@
                                           "banned_by": null,
                                           "link_id": "t3_2iggkn",
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2iggkn",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2iggkn",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2iggkn",
+                                                                        "likes": null,
+                                                                        "replies": "",
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl30wkt",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "fuckotheclown2",
+                                                                        "parent_id": "t1_cl2uzac",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "This argument makes me want to puke because I hear it so often.\n\nHow is it not obvious to everyone that if a precedent of popular alt-coin jumping was set, that the whole concept of virtual currency would collapse? Do people just not get that money is based on putting faith into something worth putting faith into?\n\nNevermind that every single altcoin (if you look at a timeline of bitcoin popularity and when they all appeared) is very, very clearly a copycat pyramid scheme that adds nothing to the concept, except hollow gimmicks that could have been achieved with Bitcoin in the first place.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This argument makes me want to puke because I hear it so often.&lt;/p&gt;\n\n&lt;p&gt;How is it not obvious to everyone that if a precedent of popular alt-coin jumping was set, that the whole concept of virtual currency would collapse? Do people just not get that money is based on putting faith into something worth putting faith into?&lt;/p&gt;\n\n&lt;p&gt;Nevermind that every single altcoin (if you look at a timeline of bitcoin popularity and when they all appeared) is very, very clearly a copycat pyramid scheme that adds nothing to the concept, except hollow gimmicks that could have been achieved with Bitcoin in the first place.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl30wkt",
+                                                                        "created": 1412735243,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412706443,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl2uzac",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "AUAUA",
+                                                              "parent_id": "t1_cl2swtk",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "There are two hundred other alt coins too, not that bitcoin wouldn't get patched first if something were wrong",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There are two hundred other alt coins too, not that bitcoin wouldn&amp;#39;t get patched first if something were wrong&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl2uzac",
+                                                              "created": 1412723534,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412694734,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2swtk",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "fuckotheclown2",
+                                                    "parent_id": "t1_cl2kodr",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "The fundamentals are sound. There's nothing that *can* replace bitcoin, and it is filling a bigger niche every day.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The fundamentals are sound. There&amp;#39;s nothing that &lt;em&gt;can&lt;/em&gt; replace bitcoin, and it is filling a bigger niche every day.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2swtk",
+                                                    "created": 1412718881,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412690081,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "cl2kodr",
@@ -289,7 +465,7 @@
             "report_reasons": null,
             "author": "usrn",
             "parent_id": "t3_2iggkn",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "&gt; this year we're seeing the big correction, I think the price will still go lower, might even go as low as $90\n\nare you up for a bet? ;)",
@@ -306,7 +482,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {

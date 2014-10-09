@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "Cocosoft",
                       "parent_id": "t1_ckzcr3y",
-                      "score": 10,
+                      "score": 13,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Amazing!  \nI got the biggest bitcoiner right now.",
@@ -104,7 +104,7 @@
                       "created": 1412383078,
                       "author_flair_text": null,
                       "created_utc": 1412354278,
-                      "ups": 10,
+                      "ups": 13,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -173,7 +173,7 @@
                                                               "report_reasons": null,
                                                               "author": "fuyuasha",
                                                               "parent_id": "t1_cl04h3t",
-                                                              "score": 1,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Shh! Please be quiet Sir, or everyone will want one.",
@@ -187,7 +187,7 @@
                                                               "created": 1412682428,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412653628,
-                                                              "ups": 1,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -304,7 +304,7 @@
                                 "report_reasons": null,
                                 "author": "Winsome_Chap",
                                 "parent_id": "t1_ckzd7wu",
-                                "score": 8,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yes, yes, I know some of those words!",
@@ -321,7 +321,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             },
                             {
@@ -383,7 +383,7 @@
                                 "report_reasons": null,
                                 "author": "ragmondo",
                                 "parent_id": "t1_ckzd7wu",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yay that was my contribution!",
@@ -400,7 +400,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -462,7 +462,7 @@
                                 "report_reasons": null,
                                 "author": "GibbsSamplePlatter",
                                 "parent_id": "t1_ckzoi3a",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "&gt;Thanks to devrandom, we have an integrated Tor mode using the Orchid library. The user does not have to install the Tor client as it’s all pure Java. WalletAppKit users can enable usage of Tor with a single line of code. This support should be considered experimental for now.",
@@ -479,7 +479,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             },
                             {
@@ -561,7 +561,7 @@
             "report_reasons": null,
             "author": "GibbsSamplePlatter",
             "parent_id": "t3_2i6t6h",
-            "score": 36,
+            "score": 34,
             "approved_by": null,
             "controversiality": 0,
             "body": "Great stuff.  \n\nHD Wallets (BIP32/39)   \nTor support in one line of code  \nMultisig/married wallets  \nImproved/sped up key generation\nand more!  \n\nNow devs, get to it!",
@@ -578,7 +578,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 34
           }
         },
         {
@@ -632,7 +632,7 @@
                                           "report_reasons": null,
                                           "author": "GibbsSamplePlatter",
                                           "parent_id": "t1_ckzf52y",
-                                          "score": 3,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt;backup keys as they are generated  \n\n:)",
@@ -646,7 +646,7 @@
                                           "created": 1412388730,
                                           "author_flair_text": null,
                                           "created_utc": 1412359930,
-                                          "ups": 3,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -664,7 +664,7 @@
                                 "report_reasons": null,
                                 "author": "jgarzik",
                                 "parent_id": "t1_ckzdtcl",
-                                "score": 6,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "That is why the keypool was created, years ago.\n",
@@ -681,7 +681,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 4
                               }
                             }
                           ],
@@ -696,7 +696,7 @@
                       "report_reasons": null,
                       "author": "GibbsSamplePlatter",
                       "parent_id": "t1_ckzdhdf",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "and who has the time to manually backup keys as they are generated?  \n\naint no one",
@@ -710,7 +710,7 @@
                       "created": 1412376561,
                       "author_flair_text": null,
                       "created_utc": 1412347761,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -731,7 +731,7 @@
                       "report_reasons": null,
                       "author": "BitcoinWallet",
                       "parent_id": "t1_ckzdhdf",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "In case anyone is interested, we've been alpha-testing Bitcoin Wallet 4.0 for a while and now there is a release candidate. v4.0 uses bitcoinj 0.12 and makes use of deterministically derived addresses. Please help testing:\n\nhttps://plus.google.com/101256420499771441772/posts/KujxxG844gH",
@@ -745,7 +745,7 @@
                       "created": 1412395231,
                       "author_flair_text": null,
                       "created_utc": 1412366431,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1079,7 +1079,7 @@
             "report_reasons": null,
             "author": "aaronvoisine",
             "parent_id": "t3_2i6t6h",
-            "score": 4,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Congrats Mike! I need to add tor support in [breadwallet](http://breadwallet.com).",
@@ -1096,7 +1096,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -1173,7 +1173,7 @@
                                 "report_reasons": null,
                                 "author": "tenthirtyone1031",
                                 "parent_id": "t1_ckzdu60",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yeah, exactly. It's opensource so everyone still benefits. ",
@@ -1190,7 +1190,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -1205,7 +1205,7 @@
                       "report_reasons": null,
                       "author": "GibbsSamplePlatter",
                       "parent_id": "t1_ckzdskv",
-                      "score": 16,
+                      "score": 13,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The good news is protocol changes take consensus.  \n\nHe can say anything he likes as long as he cranks out software like this and Lighthouse. I'll just discount any bad ideas :)",
@@ -1219,7 +1219,7 @@
                       "created": 1412376606,
                       "author_flair_text": null,
                       "created_utc": 1412347806,
-                      "ups": 16,
+                      "ups": 13,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1237,7 +1237,7 @@
             "report_reasons": null,
             "author": "tenthirtyone1031",
             "parent_id": "t3_2i6t6h",
-            "score": 0,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Mike Hearn has done great work and is an incredibly talented and valuable community member.\n\nThat said, I just can't bring myself to support his work given his past comments about enabling technology that would make Bitcoin less anonymous and easier for establishments to control. Maybe I am misrepresenting him but that's not why I am involved in Bitcoin. \n\nI'm eternally torn on Mike Hearn. I think that's a good thing but I wish he would just come over to the dark side =)",
@@ -1254,7 +1254,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 4
           }
         },
         {
@@ -1307,7 +1307,7 @@
             "report_reasons": null,
             "author": "elux",
             "parent_id": "t3_2i6t6h",
-            "score": 2,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "Isn't he the guy that... Sorry, just kidding!  Great job! :)",
@@ -1324,7 +1324,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 0
           }
         }
       ],

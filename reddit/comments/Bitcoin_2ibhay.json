@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "aiah17trever",
             "media": null,
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "ELI5: Why do people see bitcoin more like a stock instead of a true currency?",
             "created_utc": 1412468120,
-            "ups": 7,
-            "upvote_ratio": 0.77,
+            "ups": 6,
+            "upvote_ratio": 0.72,
             "num_comments": 12,
             "visited": false,
             "num_reports": null,
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "PASSO3058",
             "parent_id": "t3_2ibhay",
-            "score": 3,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "I tried emailing the Bitcoin CEO about the stock price and got no response... You got me on this one too.",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 5
           }
         },
         {
@@ -228,7 +228,7 @@
                                           "report_reasons": null,
                                           "author": "aiah17trever",
                                           "parent_id": "t1_cl0lzhm",
-                                          "score": -1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "True. However, bitcoin is not commonly SPENT, only TRADED.",
@@ -242,7 +242,7 @@
                                           "created": 1412498344,
                                           "author_flair_text": null,
                                           "created_utc": 1412469544,
-                                          "ups": -1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -260,7 +260,7 @@
                                 "report_reasons": null,
                                 "author": "paavokoya",
                                 "parent_id": "t1_cl0lv8y",
-                                "score": 4,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "People trade traditional currencies every day.  Forex is a $5 trillion per day market.",
@@ -277,7 +277,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 3
                               }
                             },
                             {
@@ -362,7 +362,7 @@
                       "report_reasons": null,
                       "author": "hio_State",
                       "parent_id": "t1_cl0lof4",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt; We think \"true currency\" is something more like gold. Something that can't be created out of thin air,\n\nAre you aware that gold can be popped from right out of the ground and for most of human history this happened at a rate exceeding the growth of human economies creating an inflationary standard? ",
@@ -376,7 +376,7 @@
                       "created": 1412501946,
                       "author_flair_text": null,
                       "created_utc": 1412473146,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -397,7 +397,7 @@
                       "report_reasons": null,
                       "author": "bighandxyz",
                       "parent_id": "t1_cl0lof4",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "&gt;gold ... free market\n\nExcept both gold and silver were both heavily manipulated in its history.",
@@ -411,7 +411,7 @@
                       "created": 1412520646,
                       "author_flair_text": null,
                       "created_utc": 1412491846,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -429,7 +429,7 @@
             "report_reasons": null,
             "author": "BigMoneyGuy",
             "parent_id": "t3_2ibhay",
-            "score": 3,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "If by \"true currency\" you mean the kind of currency that is only 100 years old and intentionally loses value every year to fund propaganda, wars and whatnot... Well, we don't treat it like that because that sucks, and we don't want more of that.\n\nWe think \"true currency\" is something more like gold. Something that can't be created out of thin air, and whose price is dictated by the free market. Bitcoin is meant to be like gold, but without the physical limitations (eg: you can't send gold over the wire, but you can send Bitcoin).",
@@ -446,7 +446,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 1
           }
         },
         {
@@ -499,7 +499,7 @@
             "report_reasons": null,
             "author": "Hodldown",
             "parent_id": "t3_2ibhay",
-            "score": -4,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "First people tried to use it as a currency but little took it and it was hard to use or spend and fluctuated in value wildly so then you saw a lot people talking like it was a bank account and was gonna kill banks but it started losing value so now it's magically a stock now and eventually that will fail and next people will pretend it's some other 4th thing. ",
@@ -516,7 +516,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -4
+            "ups": 0
           }
         }
       ],

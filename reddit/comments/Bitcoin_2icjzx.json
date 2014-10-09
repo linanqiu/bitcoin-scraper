@@ -68,7 +68,7 @@
               },
               "type": "youtu.be"
             },
-            "score": 35,
+            "score": 33,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -89,8 +89,8 @@
             "author_flair_text": null,
             "title": "[Video] Coins in the Kingdom, 2014 - Shawn Wilkinson at Storj question to Antonopoulos &amp; Tucker",
             "created_utc": 1412504806,
-            "ups": 35,
-            "upvote_ratio": 0.81,
+            "ups": 33,
+            "upvote_ratio": 0.82,
             "num_comments": 3,
             "visited": false,
             "num_reports": null,
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2icjzx",
-            "score": 8,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "When i hear a great moment in a speech or presentation, i get goose bumps on my arms. \n\nWhen Andreas speaks, i get goose bumps on my arms, legs, head and chest.\n\n",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 5
           }
         },
         {
@@ -157,7 +157,7 @@
             "report_reasons": null,
             "author": "seriouslytaken",
             "parent_id": "t3_2icjzx",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "Mirror?",
@@ -174,7 +174,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -192,7 +192,7 @@
             "report_reasons": null,
             "author": "BitcoinIsSimple",
             "parent_id": "t3_2icjzx",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Andreas! Yeah!",
@@ -209,7 +209,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         }
       ],

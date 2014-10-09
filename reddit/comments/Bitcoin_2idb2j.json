@@ -46,7 +46,7 @@
             "title": "According to the Fibonacci Retracements next drop is @ 240$",
             "created_utc": 1412529117,
             "ups": 0,
-            "upvote_ratio": 0.43,
+            "upvote_ratio": 0.4,
             "num_comments": 5,
             "visited": false,
             "num_reports": null,
@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "Sherlockcoin",
                       "parent_id": "t1_cl140sy",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Due to what's happening , one must consider the worst case scenario...",
@@ -104,7 +104,7 @@
                       "created": 1412558839,
                       "author_flair_text": null,
                       "created_utc": 1412530039,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -181,7 +181,7 @@
                                 "report_reasons": null,
                                 "author": "paulej",
                                 "parent_id": "t1_cl15ka3",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Lower prices only mean miners with high costs go out of business. The network hash rate might drop as a result. However, neither affect the price of bitcoin. Miners might demand more transaction fees, but that would only hurt bitcoin and small miners will accept the lower fees.",
@@ -198,7 +198,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -245,7 +245,7 @@
             "report_reasons": null,
             "author": "paulej",
             "parent_id": "t3_2idb2j",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "While I'm very supportive of bitcoin, I stated last year that bitcoin is actually worth about $150 or so. I forgot what I wrote, but I'm sure folks can find it.\n\nIf I were to do the same analysis this year, I suspect it would still be about $150. Nothing has really changed to support a higher price. There is wider usage now, but there are also more coins in the world.\n\nThere is a support base for bitcoin, but as demonstrated today, it's not $300 or higher.",
@@ -262,7 +262,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         }
       ],

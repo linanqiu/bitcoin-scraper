@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "mwasilczuk",
             "media": null,
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Hashlet?",
             "created_utc": 1412655239,
-            "ups": 1,
-            "upvote_ratio": 0.67,
-            "num_comments": 2,
+            "ups": 0,
+            "upvote_ratio": 0.5,
+            "num_comments": 3,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "andyrowe",
             "parent_id": "t3_2iixpu",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "[r/bitcoinmining](http://reddit.com/r/bitcoinmining)",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "BTCisGod",
             "parent_id": "t3_2iixpu",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "THE VOICE OF THE INTERNET SAYS: \"JUST DO IT\"",
@@ -130,7 +130,42 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iixpu",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2n7en",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "btcsa",
+            "parent_id": "t3_2iixpu",
+            "score": -1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Yes they are. The zen will get ROI the fastest if you ask me. If you get a zen at the current rate, you will probably get ROI in about 150 days-ish.\nWhen the price of btc is low, your 0.08c per MH per day of maintenance fees is more btc, and eats into your profit. You also pay more btc for the $20 hashlet, so getting ROI is longer. If I were you I would wait a bit to see if the price goes up, then buy Zen hashlets. \nCheck out one of my spreadsheets here: https://docs.google.com/spreadsheets/d/1g3TxmHJrFiQtZv1o0-aroB5ut-CJoQNBTbL1aOQFqTg/edit#gid=0 \nNote that at the time, I paid $15.99 for the hashlet, and that was 0.03267054.\nI suggest you wait for higher btc price, then you can pay less btc, and less fees, and get ROI quicker. \n\nEDIT: I got the estimated days by taking todays rate for $21 which is 0,06416 then dividing that by my own average profit in my spreadsheet 0.0004962783333 = 129,26 days. Then I added an extra 20 days just because.",
+            "edited": 1412664766,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Yes they are. The zen will get ROI the fastest if you ask me. If you get a zen at the current rate, you will probably get ROI in about 150 days-ish.\nWhen the price of btc is low, your 0.08c per MH per day of maintenance fees is more btc, and eats into your profit. You also pay more btc for the $20 hashlet, so getting ROI is longer. If I were you I would wait a bit to see if the price goes up, then buy Zen hashlets. \nCheck out one of my spreadsheets here: &lt;a href=\"https://docs.google.com/spreadsheets/d/1g3TxmHJrFiQtZv1o0-aroB5ut-CJoQNBTbL1aOQFqTg/edit#gid=0\"&gt;https://docs.google.com/spreadsheets/d/1g3TxmHJrFiQtZv1o0-aroB5ut-CJoQNBTbL1aOQFqTg/edit#gid=0&lt;/a&gt; \nNote that at the time, I paid $15.99 for the hashlet, and that was 0.03267054.\nI suggest you wait for higher btc price, then you can pay less btc, and less fees, and get ROI quicker. &lt;/p&gt;\n\n&lt;p&gt;EDIT: I got the estimated days by taking todays rate for $21 which is 0,06416 then dividing that by my own average profit in my spreadsheet 0.0004962783333 = 129,26 days. Then I added an extra 20 days just because.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2n7en",
+            "created": 1412693268,
+            "author_flair_text": null,
+            "created_utc": 1412664468,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -1
           }
         }
       ],

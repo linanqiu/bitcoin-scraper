@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "jonstern",
             "media": null,
-            "score": 16,
+            "score": 19,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "How those who sold at $300 feel.",
             "created_utc": 1412622814,
-            "ups": 16,
-            "upvote_ratio": 0.67,
-            "num_comments": 16,
+            "ups": 19,
+            "upvote_ratio": 0.68,
+            "num_comments": 17,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -117,85 +117,6 @@
                       "banned_by": null,
                       "link_id": "t3_2ih4ww",
                       "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "modhash": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2ih4ww",
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl29ajz",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "jonstern",
-                                "parent_id": "t1_cl26cm2",
-                                "score": 5,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "OH WAIT! You are a throwaway TROLL! GO FUCK YOURSELF!",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OH WAIT! You are a throwaway TROLL! GO FUCK YOURSELF!&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl29ajz",
-                                "created": 1412661386,
-                                "author_flair_text": null,
-                                "created_utc": 1412632586,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 5
-                              }
-                            }
-                          ],
-                          "after": null,
-                          "before": null
-                        }
-                      },
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl26cm2",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "Btchodler",
-                      "parent_id": "t1_cl24jns",
-                      "score": -5,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "OP is an idiot baghodler since 1000.",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OP is an idiot baghodler since 1000.&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl26cm2",
-                      "created": 1412655815,
-                      "author_flair_text": null,
-                      "created_utc": 1412627015,
-                      "ups": -5,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ih4ww",
-                      "likes": null,
                       "replies": "",
                       "user_reports": [],
                       "saved": false,
@@ -223,6 +144,85 @@
                       "num_reports": null,
                       "distinguished": null
                     }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ih4ww",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ih4ww",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl29ajz",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "jonstern",
+                                "parent_id": "t1_cl26cm2",
+                                "score": 6,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "OH WAIT! You are a throwaway TROLL! GO FUCK YOURSELF!",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OH WAIT! You are a throwaway TROLL! GO FUCK YOURSELF!&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl29ajz",
+                                "created": 1412661386,
+                                "author_flair_text": null,
+                                "created_utc": 1412632586,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 6
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl26cm2",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "[deleted]",
+                      "parent_id": "t1_cl24jns",
+                      "score": -5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "[deleted]",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl26cm2",
+                      "created": 1412655815,
+                      "author_flair_text": null,
+                      "created_utc": 1412627015,
+                      "ups": -5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
                   }
                 ],
                 "after": null,
@@ -236,7 +236,7 @@
             "report_reasons": null,
             "author": "mustyoshi",
             "parent_id": "t3_2ih4ww",
-            "score": 8,
+            "score": 9,
             "approved_by": null,
             "controversiality": 0,
             "body": "This dump might not be over.\n\nHindsight is 20/20.",
@@ -253,7 +253,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 9
           }
         },
         {
@@ -271,7 +271,7 @@
             "report_reasons": null,
             "author": "RedWolf84",
             "parent_id": "t3_2ih4ww",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "I bought 25 of them on 300, i wish i could bought some more",
@@ -288,7 +288,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -345,6 +345,41 @@
                       "banned_by": null,
                       "link_id": "t3_2ih4ww",
                       "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2mfdr",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "psionides",
+                      "parent_id": "t1_cl24g22",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I sold some of mine at $300 and then rebought (most of) them at ~$320... Oh well, at least I've learnt something this week :)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I sold some of mine at $300 and then rebought (most of) them at ~$320... Oh well, at least I&amp;#39;ve learnt something this week :)&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2mfdr",
+                      "created": 1412690213,
+                      "author_flair_text": null,
+                      "created_utc": 1412661413,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ih4ww",
+                      "likes": null,
                       "replies": {
                         "kind": "Listing",
                         "data": {
@@ -377,7 +412,7 @@
                                           "report_reasons": null,
                                           "author": "noneedforgreed",
                                           "parent_id": "t1_cl261fq",
-                                          "score": 1,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Distribution of wealth just become more equal though. ",
@@ -391,7 +426,7 @@
                                           "created": 1412682589,
                                           "author_flair_text": null,
                                           "created_utc": 1412653789,
-                                          "ups": 1,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -473,7 +508,7 @@
             "report_reasons": null,
             "author": "bilbo_james",
             "parent_id": "t3_2ih4ww",
-            "score": 2,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "unless I picked up the shenanigans of the last 24 hours incorrectly, there was only one person selling at $300\nAnd he's off to the bank with $9M now !\n\n ",
@@ -490,7 +525,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 5
           }
         },
         {
@@ -555,7 +590,7 @@
                       "report_reasons": null,
                       "author": "spirit-receiver",
                       "parent_id": "t1_cl2cb3j",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Nobody knows for sure, but some people say it was a guy named Satoshi Nakamoto.",
@@ -569,7 +604,7 @@
                       "created": 1412669721,
                       "author_flair_text": null,
                       "created_utc": 1412640921,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

@@ -21,12 +21,12 @@
             "likes": null,
             "user_reports": [],
             "secure_media": {
-              "type": "youtube.com",
               "oembed": {
                 "provider_url": "http://www.youtube.com/",
                 "description": "Uploaded by voogru on 2014-10-06.",
                 "title": "The slaying of bearwhale! 30k BTC sell order being chewed through!",
                 "url": "http://www.youtube.com/watch?v=-uX_bB_4VJk",
+                "type": "video",
                 "author_name": "voogru",
                 "height": 338,
                 "width": 600,
@@ -35,10 +35,10 @@
                 "version": "1.0",
                 "provider_name": "YouTube",
                 "thumbnail_url": "https://i.embed.ly/1/image?url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F-uX_bB_4VJk%2Fhqdefault.jpg&amp;key=b1e305db91cf4aa5a86b732cc9fffceb",
-                "type": "video",
                 "thumbnail_height": 360,
                 "author_url": "http://www.youtube.com/user/voogru"
-              }
+              },
+              "type": "youtube.com"
             },
             "link_flair_text": null,
             "id": "2ifjr8",
@@ -53,12 +53,12 @@
             "report_reasons": null,
             "author": "Voogru",
             "media": {
-              "type": "youtube.com",
               "oembed": {
                 "provider_url": "http://www.youtube.com/",
                 "description": "Uploaded by voogru on 2014-10-06.",
                 "title": "The slaying of bearwhale! 30k BTC sell order being chewed through!",
                 "url": "http://www.youtube.com/watch?v=-uX_bB_4VJk",
+                "type": "video",
                 "author_name": "voogru",
                 "height": 338,
                 "width": 600,
@@ -67,12 +67,12 @@
                 "version": "1.0",
                 "provider_name": "YouTube",
                 "thumbnail_url": "http://i.ytimg.com/vi/-uX_bB_4VJk/hqdefault.jpg",
-                "type": "video",
                 "thumbnail_height": 360,
                 "author_url": "http://www.youtube.com/user/voogru"
-              }
+              },
+              "type": "youtube.com"
             },
-            "score": 345,
+            "score": 355,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -93,9 +93,9 @@
             "author_flair_text": null,
             "title": "The slaying of bearwhale! 30k BTC sell order being chewed through!",
             "created_utc": 1412584448,
-            "ups": 345,
+            "ups": 355,
             "upvote_ratio": 0.9,
-            "num_comments": 144,
+            "num_comments": 146,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -174,7 +174,7 @@
                                                     "report_reasons": null,
                                                     "author": "mr_dick_doge",
                                                     "parent_id": "t1_cl1ze2i",
-                                                    "score": 17,
+                                                    "score": 16,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Also, loose vs lose. Whenever I see that mistake, I know it must be made by a native English speaker lol",
@@ -191,7 +191,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 17
+                                                    "ups": 16
                                                   }
                                                 },
                                                 {
@@ -233,7 +233,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Lusankya",
                                                                         "parent_id": "t1_cl261m6",
-                                                                        "score": 5,
+                                                                        "score": 6,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "You can bring a child to school, but you can't make them learn.",
@@ -250,7 +250,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 5
+                                                                        "ups": 6
                                                                       }
                                                                     }
                                                                   ],
@@ -312,7 +312,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Paradigmist",
                                                                         "parent_id": "t1_cl2c9lw",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "What do you want me to say? Congratulations, you are smart. There are many people who lack the motivation or ability to thoroughly master English. Some of these people are lazy, some don't see the point, and some just have innate problems with language.  I have a friend with dyslexia.  He has abysmal spelling, but he's one of the most insightful people I know.\n\nAre you seriously surprised that not everyone masters English just because it's taught in school, or do you just have a superiority complex?",
@@ -329,7 +329,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -344,7 +344,7 @@
                                                               "report_reasons": null,
                                                               "author": "el_muerte17",
                                                               "parent_id": "t1_cl20wbs",
-                                                              "score": -2,
+                                                              "score": -4,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "That's funny.  As a native English speaker, reading and writing were a core component of my grade school education.  Marks were deducted for improper spelling and grammar in every course that had essays and reports, not just English.\n\nAnd even if you slept through all your school, do people read literally nothing besides Facebook and texts they send each other?  Pick up any book, magazine, or newspaper.  Read news online.  Correct usage should be readily apparent through examples.",
@@ -358,7 +358,7 @@
                                                               "created": 1412667570,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412638770,
-                                                              "ups": -2,
+                                                              "ups": -4,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -529,7 +529,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "Aug_12",
                                                                                             "parent_id": "t1_cl2c46m",
-                                                                                            "score": 1,
+                                                                                            "score": 2,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Except for idioms, it usually is. Look at every sentence in this comment chain. They are all logical in terms of their grammar.",
@@ -546,7 +546,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 1
+                                                                                            "ups": 2
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -561,21 +561,21 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "singularity87",
                                                                                   "parent_id": "t1_cl2ap3e",
-                                                                                  "score": 3,
+                                                                                  "score": 2,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
-                                                                                  "body": "Except language often not logical.",
-                                                                                  "edited": false,
+                                                                                  "body": "Except language is often not logical.",
+                                                                                  "edited": 1412665673,
                                                                                   "author_flair_css_class": null,
                                                                                   "downs": 0,
-                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Except language often not logical.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Except language is often not logical.&lt;/p&gt;\n&lt;/div&gt;",
                                                                                   "subreddit": "Bitcoin",
                                                                                   "score_hidden": false,
                                                                                   "name": "t1_cl2c46m",
                                                                                   "created": 1412667254,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412638454,
-                                                                                  "ups": 3,
+                                                                                  "ups": 2,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -628,7 +628,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "twfry",
                                                                         "parent_id": "t1_cl29ahd",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Should I assume \"that can't scan right\" breaks the \"verb being replaced by a proposition\" rule somehow?\n\nBecause it does not sound right, and I don't know why...\n\nEdit: Yes I understand sentences are not suppose to start with \"because\", but I've always actively disliked that rule.",
@@ -645,7 +645,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -660,7 +660,7 @@
                                                               "report_reasons": null,
                                                               "author": "percyhiggenbottom",
                                                               "parent_id": "t1_cl20yxl",
-                                                              "score": 3,
+                                                              "score": 4,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Yes but it's a goddamn verb being replaced by a preposition. Surely that can't scan right to anyone? ",
@@ -674,7 +674,7 @@
                                                               "created": 1412661382,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412632582,
-                                                              "ups": 3,
+                                                              "ups": 4,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -699,7 +699,51 @@
                                                                         "banned_by": null,
                                                                         "link_id": "t3_2ifjr8",
                                                                         "likes": null,
-                                                                        "replies": "",
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ifjr8",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl34j48",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "niceargent",
+                                                                                  "parent_id": "t1_cl2cztd",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Thanks for your perspective. I've come to think that the way one learns *any* language as native and as secondary, is very different!",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for your perspective. I&amp;#39;ve come to think that the way one learns &lt;em&gt;any&lt;/em&gt; language as native and as secondary, is very different!&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl34j48",
+                                                                                  "created": 1412741707,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412712907,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
                                                                         "user_reports": [],
                                                                         "saved": false,
                                                                         "id": "cl2cztd",
@@ -707,7 +751,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "twfry",
                                                                         "parent_id": "t1_cl23k3o",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Having been an American expat in both Asia and EU, it's never ceased to amaze me how many rules non-native speakers memorize. Almost 100% of the time I've seen a non-native speaker have to explain a certain rule to a native speaker. Inevitably the native speaker takes a \"I can't remember that\" position. It is truly an absurd language. ",
@@ -724,7 +768,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     }
                                                                   ],
@@ -806,7 +850,7 @@
                                                     "report_reasons": null,
                                                     "author": "twfry",
                                                     "parent_id": "t1_cl1ze2i",
-                                                    "score": 4,
+                                                    "score": 6,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Because native english speakers don't bother to learn the 1 million arbitrary and absurd rules that form english, and instead just go with what sounds about right. What sounds about right drifts over each generation. ",
@@ -823,7 +867,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 4
+                                                    "ups": 6
                                                   }
                                                 }
                                               ],
@@ -838,7 +882,7 @@
                                           "report_reasons": null,
                                           "author": "niceargent",
                                           "parent_id": "t1_cl1vdlc",
-                                          "score": 25,
+                                          "score": 27,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "As a non native english speaker, I can't understand why so many of you keep making those mistakes!",
@@ -852,7 +896,7 @@
                                           "created": 1412642504,
                                           "author_flair_text": null,
                                           "created_utc": 1412613704,
-                                          "ups": 25,
+                                          "ups": 27,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -984,7 +1028,7 @@
                                 "report_reasons": null,
                                 "author": "ninguem",
                                 "parent_id": "t1_cl1upuj",
-                                "score": 64,
+                                "score": 67,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Great explanation but please fix the \"would of\", \"might of\" \"could of\" (should be \"would have\" or \"would've\" etc if you want) because they are grating especially in such large numbers.",
@@ -1001,7 +1045,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 64
+                                "ups": 67
                               }
                             },
                             {
@@ -1098,7 +1142,7 @@
                                 "report_reasons": null,
                                 "author": "Terrierpike",
                                 "parent_id": "t1_cl1upuj",
-                                "score": -3,
+                                "score": -1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "And next week, he'll put another 30k up there.",
@@ -1115,7 +1159,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -3
+                                "ups": -1
                               }
                             }
                           ],
@@ -1130,7 +1174,7 @@
                       "report_reasons": null,
                       "author": "PoliticalDissidents",
                       "parent_id": "t1_cl1tczn",
-                      "score": 85,
+                      "score": 89,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The guy placed a limit order for approximately 30k Bitcoin. \n\nEssentially he went ahead and put on auction 30k Bitcoin at a price of $300. If he did a market order (dumping the coins) he would of eaten up the order book and prices would of crashed to very low and he wouldn't of made as much money. \n\nSo what this guy did was make a sell wall. Essentially with the Bitcoin market being as illiquid as it is he couldn't sell all his Bitcoin quickly. Much rather he listed them at the desired price which then required people to buy from him. The prices couldn't go higher than his listing as the volume of his trade is far greater than the volume the exchange typically sees. As such traders couldn't bring up the price above $300 even if there was enough demand to typically do this because about 30k (roughly $9 million) of Bitcoin needed to be eaten through for prices to go higher.\n\nThis all happened on Bitstamp but all exchanges fallow suit more or less, if not there would be huge arbitrage opportunities. If for example you had $50k in Bitstamp you could of bought at $300 and sold in Bitfinex for more imediatly after for a higher price because traders on Bitfinex are able to breakthrough the sell orders far easier as there isn't a huge sell wall.  The term Buy wall or Sell wall come about because it looks literally like a wall on a graph that maps the depth of the order book. Here's the [buy wall that this whale made](http://i.imgur.com/XJCZKt6.jpg). Contrary, [the order book on Bitstamp currently looks like this.](https://www.bitstamp.net/market/order_book/). It's a measurement of how many Bitcoin you can obtain for a certain price, because while the price might currently be $325 there isn't enough sell orders to accommodate that price for a large volume, much rather you would need to pay more to get more Bitcoin. \n\nI might of gone a little 12 year old on you there so hopefully you understand. ",
@@ -1144,7 +1188,7 @@
                       "created": 1412632115,
                       "author_flair_text": null,
                       "created_utc": 1412603315,
-                      "ups": 85,
+                      "ups": 89,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1257,7 +1301,7 @@
                                                               "report_reasons": null,
                                                               "author": "antricfer",
                                                               "parent_id": "t1_cl1uwst",
-                                                              "score": 3,
+                                                              "score": 4,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Hookers will eat that in a couple of months. ",
@@ -1271,7 +1315,7 @@
                                                               "created": 1412645046,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412616246,
-                                                              "ups": 3,
+                                                              "ups": 4,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1324,7 +1368,7 @@
                                                     "report_reasons": null,
                                                     "author": "Ditto_B",
                                                     "parent_id": "t1_cl1ujfo",
-                                                    "score": 14,
+                                                    "score": 12,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "&gt; 9 million, you'll never spend that in your entire life\n\nI'm sure that's what everyone says until they actually get 9 million to spend.",
@@ -1341,7 +1385,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 14
+                                                    "ups": 12
                                                   }
                                                 },
                                                 {
@@ -1427,7 +1471,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "PoliticalDissidents",
                                                                         "parent_id": "t1_cl20334",
-                                                                        "score": 12,
+                                                                        "score": 14,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "So one of the common criticism of Bitcoin is that the early adopters hold a disproportionate amount of wealth. That they got in when Bitcoin was worth pennies and now became millionaires (an opportunity the rest of us didn't have). So it's kind of like talking about how 1% of the US population holds 40% of it's wealth and deeming that unjust and problematic.\n\nThough this argument is largely based on analyzing  the addresses with the most Bitcoin and saying their balance is representative of X percentage of all addresses that have Bitcoin and that therefor Y amount of users hold X amount of wealth. This is an extremely flawed analysis because A) you can hold your Bitcoin in several different addresses and we don't truly know the number of Bitcoiners out there, B) some addresses with lots of Bitcoin hold them on other people's behalf (Coinbase, or even exchanges' reserves like that of Bitstamp), a C) we don't know how many Bitcoins have been lost, because a lot have been. There are plenty of people who mined several thousand Bitcoin back when it took less than a week to do so, they deleted the wallet thinking it would never amount to much even though that wallet is now worth millions of dollars that could of been theirs if they took the effort to protect their Bitcoin.\n\nRegardless. [The argument is still made by some.](http://www.businessinsider.com/bitcoin-inequality-2014-1)\n\nSo what I'm saying here, is that over time, things like what this whale did are going to happen. Some guy just sold $9 million dollars worth of Bitcoin at todays rates. But, you didn't see 1 guy buy all $9 million worth, much rather several individuals bought them. So as a result, there is less concentration of wealth amongst Bitcoin holders and a greater more evenly distributed wealth amongst the public as a result. ",
@@ -1444,7 +1488,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 12
+                                                                        "ups": 14
                                                                       }
                                                                     }
                                                                   ],
@@ -1617,7 +1661,7 @@
                                                               "report_reasons": null,
                                                               "author": "Scarity",
                                                               "parent_id": "t1_cl24kfr",
-                                                              "score": 3,
+                                                              "score": 2,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Thought I'd cater to both kind of people :)",
@@ -1631,7 +1675,7 @@
                                                               "created": 1412654985,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412626185,
-                                                              "ups": 3,
+                                                              "ups": 2,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1681,7 +1725,7 @@
                                           "report_reasons": null,
                                           "author": "Scarity",
                                           "parent_id": "t1_cl1u9ag",
-                                          "score": 6,
+                                          "score": 4,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Bitcoin price is ~350 USD, keeps going down a bit, someone says fuck it and sells his 30 000 bitcoins for 300 dollars a piece (yes, thats 9 million, you'll never spend that in your entire life).\n\nPrice couldn't go up until 'the rest' bought up all those coins... (again, in a few hours internet strangers bought up +9 million worth of bitcoins).\n\nPeople still kinda believe in bitcoins, the price held at the 300, while it could've been much worse... (another 'whale' could of said, oh fuck, I'm following at 290 or something)\n\n",
@@ -1695,7 +1739,7 @@
                                           "created": 1412631629,
                                           "author_flair_text": null,
                                           "created_utc": 1412602829,
-                                          "ups": 6,
+                                          "ups": 4,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1758,16 +1802,16 @@
                                           "id": "cl1v1xz",
                                           "gilded": 0,
                                           "report_reasons": null,
-                                          "author": "general-Insano",
+                                          "author": "[deleted]",
                                           "parent_id": "t1_cl1u9ag",
                                           "score": -4,
                                           "approved_by": null,
                                           "controversiality": 0,
-                                          "body": "Imagine like I am standing in front of you in line and I have 15k btc and want to get rid of them at $300 but you would rather sell at $320, but as I got here first all of my coins have to be sold first.\n\n\n\n\n\n",
+                                          "body": "[deleted]",
                                           "edited": false,
                                           "author_flair_css_class": null,
                                           "downs": 0,
-                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Imagine like I am standing in front of you in line and I have 15k btc and want to get rid of them at $300 but you would rather sell at $320, but as I got here first all of my coins have to be sold first.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
                                           "subreddit": "Bitcoin",
                                           "score_hidden": false,
                                           "name": "t1_cl1v1xz",
@@ -2003,7 +2047,7 @@
                                 "report_reasons": null,
                                 "author": "SleeplessinOslo",
                                 "parent_id": "t1_cl1u0y1",
-                                "score": 8,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "now like I am 5.",
@@ -2020,7 +2064,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 9
                               }
                             }
                           ],
@@ -2109,6 +2153,120 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ifjr8",
                                 "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2m88b",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "clausy",
+                                "parent_id": "t1_cl26njz",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "They're not futures. Limit orders are good till cancel. You can put in a bid right now to buy at $1 but it won't get filled until all the other bitcoins bid at a higher price are sold.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They&amp;#39;re not futures. Limit orders are good till cancel. You can put in a bid right now to buy at $1 but it won&amp;#39;t get filled until all the other bitcoins bid at a higher price are sold.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2m88b",
+                                "created": 1412689510,
+                                "author_flair_text": null,
+                                "created_utc": 1412660710,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl26njz",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Dblstandard",
+                      "parent_id": "t1_cl1tczn",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "In addition an explanation would be greatly appreciated. \n\nI've been googling for the last few hours to try and find an answer to my question with 0 luck. \n\nWhat service,exchange, software, etc allows you to set up a buy/sell order for a future date? I don't see anything explaining how you set a sell wall up. \n\nI keep hearing folks say that he primed it by processing the first sell wall IIRC 10-12k then set the next wall at 20k Or so. \n\nI get why the buy/sell wall is, I just don't understand how one goes about setting one up. \nThanks. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In addition an explanation would be greatly appreciated. &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve been googling for the last few hours to try and find an answer to my question with 0 luck. &lt;/p&gt;\n\n&lt;p&gt;What service,exchange, software, etc allows you to set up a buy/sell order for a future date? I don&amp;#39;t see anything explaining how you set a sell wall up. &lt;/p&gt;\n\n&lt;p&gt;I keep hearing folks say that he primed it by processing the first sell wall IIRC 10-12k then set the next wall at 20k Or so. &lt;/p&gt;\n\n&lt;p&gt;I get why the buy/sell wall is, I just don&amp;#39;t understand how one goes about setting one up. \nThanks. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl26njz",
+                      "created": 1412656373,
+                      "author_flair_text": null,
+                      "created_utc": 1412627573,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2ddor",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "snaxion",
+                      "parent_id": "t1_cl1tczn",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "A big and scary whale stacked up whalebones, 30 miles high. The good fairy krill methodically ate away the mean scary whalebones until it was all gone and the fairies lived happily ever after. The End.",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A big and scary whale stacked up whalebones, 30 miles high. The good fairy krill methodically ate away the mean scary whalebones until it was all gone and the fairies lived happily ever after. The End.&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2ddor",
+                      "created": 1412669892,
+                      "author_flair_text": null,
+                      "created_utc": 1412641092,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ifjr8",
+                                "likes": null,
                                 "replies": {
                                   "kind": "Listing",
                                   "data": {
@@ -2133,7 +2291,51 @@
                                                     "banned_by": null,
                                                     "link_id": "t3_2ifjr8",
                                                     "likes": null,
-                                                    "replies": "",
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ifjr8",
+                                                              "likes": null,
+                                                              "replies": "",
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl2m6y0",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "clausy",
+                                                              "parent_id": "t1_cl2b7ga",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "They don't. It's a bad analogy. It only works if the cookies are identical.",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They don&amp;#39;t. It&amp;#39;s a bad analogy. It only works if the cookies are identical.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl2m6y0",
+                                                              "created": 1412689387,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412660587,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
                                                     "user_reports": [],
                                                     "saved": false,
                                                     "id": "cl2b7ga",
@@ -2205,7 +2407,7 @@
                                 "report_reasons": null,
                                 "author": "tequila13",
                                 "parent_id": "t1_cl21d11",
-                                "score": 2,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I really have no idea what 'gluten free' and 'chocolate sprinkles' are meant to mean in your analogy. So he had a big quantity to sell at a lower price, after that you lost me with the chocolate sprinkles.",
@@ -2222,7 +2424,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -2237,7 +2439,7 @@
                       "report_reasons": null,
                       "author": "AnalyzerX7",
                       "parent_id": "t1_cl1tczn",
-                      "score": 2,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If I have 100 cookies for sale at 1$ per cookie and everyone is happily buying my cookies everything is dandy, then you come in from your other girl scout branch with your fancy gluten free batch and start selling 10,000 cookies at 75c per cookie and your treats are also delicious - my cookies don't look as yummy anymore. I now have to wait for your cookies to sell off or lower the price of my cookies, unless you have chocolate sprinkles. Everyone loves chocolate sprinkles",
@@ -2251,77 +2453,7 @@
                       "created": 1412646353,
                       "author_flair_text": null,
                       "created_utc": 1412617553,
-                      "ups": 2,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl26njz",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "Dblstandard",
-                      "parent_id": "t1_cl1tczn",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "In addition an explanation would be greatly appreciated. \n\nI've been googling for the last few hours to try and find an answer to my question with 0 luck. \n\nWhat service,exchange, software, etc allows you to set up a buy/sell order for a future date? I don't see anything explaining how you set a sell wall up. \n\nI keep hearing folks say that he primed it by processing the first sell wall IIRC 10-12k then set the next wall at 20k Or so. \n\nI get why the buy/sell wall is, I just don't understand how one goes about setting one up. \nThanks. ",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;In addition an explanation would be greatly appreciated. &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve been googling for the last few hours to try and find an answer to my question with 0 luck. &lt;/p&gt;\n\n&lt;p&gt;What service,exchange, software, etc allows you to set up a buy/sell order for a future date? I don&amp;#39;t see anything explaining how you set a sell wall up. &lt;/p&gt;\n\n&lt;p&gt;I keep hearing folks say that he primed it by processing the first sell wall IIRC 10-12k then set the next wall at 20k Or so. &lt;/p&gt;\n\n&lt;p&gt;I get why the buy/sell wall is, I just don&amp;#39;t understand how one goes about setting one up. \nThanks. &lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl26njz",
-                      "created": 1412656373,
-                      "author_flair_text": null,
-                      "created_utc": 1412627573,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl2ddor",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "snaxion",
-                      "parent_id": "t1_cl1tczn",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "A big and scary whale stacked up whalebones, 30 miles high. The good fairy krill methodically ate away the mean scary whalebones until it was all gone and the fairies lived happily ever after. The End.",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;A big and scary whale stacked up whalebones, 30 miles high. The good fairy krill methodically ate away the mean scary whalebones until it was all gone and the fairies lived happily ever after. The End.&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl2ddor",
-                      "created": 1412669892,
-                      "author_flair_text": null,
-                      "created_utc": 1412641092,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2342,7 +2474,7 @@
                       "report_reasons": null,
                       "author": "gubatron",
                       "parent_id": "t1_cl1tczn",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "seems like a hedge fund manager had to liquidate his positions, because shit is about to go down if you look at what's happening outside the Bitcoin markets.\n\n",
@@ -2356,7 +2488,7 @@
                       "created": 1412651955,
                       "author_flair_text": null,
                       "created_utc": 1412623155,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2374,7 +2506,7 @@
             "report_reasons": null,
             "author": "lostpatrol",
             "parent_id": "t3_2ifjr8",
-            "score": 33,
+            "score": 37,
             "approved_by": null,
             "controversiality": 0,
             "body": "Can someone explain this video to me like I am 6 years old?",
@@ -2391,7 +2523,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 33
+            "ups": 37
           }
         },
         {
@@ -2421,7 +2553,7 @@
                       "report_reasons": null,
                       "author": "kikkerdril",
                       "parent_id": "t1_cl1rcem",
-                      "score": 9,
+                      "score": 10,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "http://bitcointicker.co/",
@@ -2435,7 +2567,7 @@
                       "created": 1412618612,
                       "author_flair_text": null,
                       "created_utc": 1412589812,
-                      "ups": 9,
+                      "ups": 10,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2471,6 +2603,120 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 8
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifjr8",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1ws33",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "roflbbq",
+                      "parent_id": "t1_cl1tkvh",
+                      "score": 5,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "Song: [Something A La Mode - GString](https://www.youtube.com/watch?v=-su4WO5TVxQ)",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Song: &lt;a href=\"https://www.youtube.com/watch?v=-su4WO5TVxQ\"&gt;Something A La Mode - GString&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1ws33",
+                      "created": 1412637169,
+                      "author_flair_text": null,
+                      "created_utc": 1412608369,
+                      "ups": 5,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1tl65",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "changetip",
+                      "parent_id": "t1_cl1tkvh",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The Bitcoin tip for 1 song (3.832 mBTC/$1.30) has been collected by *Voogru*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
+                      "edited": 1412614454,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 1 song (3.832 mBTC/$1.30) has been collected by &lt;em&gt;Voogru&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1tl65",
+                      "created": 1412628626,
+                      "author_flair_text": null,
+                      "created_utc": 1412599826,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1tkvh",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "justacointoon",
+            "parent_id": "t3_2ifjr8",
+            "score": 6,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Love it! What is that song by the way?\n\n/u/changetip 1 liter o' cola\n\nEdit: Changetip is like, \"Do we serve 'liter o'cola'?\"",
+            "edited": 1412600047,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Love it! What is that song by the way?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"/u/changetip\"&gt;/u/changetip&lt;/a&gt; 1 liter o&amp;#39; cola&lt;/p&gt;\n\n&lt;p&gt;Edit: Changetip is like, &amp;quot;Do we serve &amp;#39;liter o&amp;#39;cola&amp;#39;?&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1tkvh",
+            "created": 1412628596,
+            "author_flair_text": null,
+            "created_utc": 1412599796,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 6
           }
         },
         {
@@ -2535,7 +2781,7 @@
                       "report_reasons": null,
                       "author": "hexmasta",
                       "parent_id": "t1_cl1qmob",
-                      "score": 6,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "[Like this?](https://www.youtube.com/watch?v=dCsMNurn3bQ&amp;oref=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdCsMNurn3bQ&amp;has_verified=1)",
@@ -2549,7 +2795,7 @@
                       "created": 1412636109,
                       "author_flair_text": null,
                       "created_utc": 1412607309,
-                      "ups": 6,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2567,7 +2813,7 @@
             "report_reasons": null,
             "author": "ParsnipCommander",
             "parent_id": "t3_2ifjr8",
-            "score": 16,
+            "score": 14,
             "approved_by": null,
             "controversiality": 0,
             "body": "Ha, that's pretty good. Just glad no one has posted one of those vides of people poking a hole into a dead whale - and it explodes",
@@ -2584,7 +2830,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 16
+            "ups": 14
           }
         },
         {
@@ -3120,7 +3366,7 @@
             "report_reasons": null,
             "author": "utuxia",
             "parent_id": "t3_2ifjr8",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "should have let it record awhile longer.\n\nhow did you make this recording? I want details, thinking about doing the same.",
@@ -3137,121 +3383,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ifjr8",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl1ws33",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "roflbbq",
-                      "parent_id": "t1_cl1tkvh",
-                      "score": 5,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "Song: [Something A La Mode - GString](https://www.youtube.com/watch?v=-su4WO5TVxQ)",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Song: &lt;a href=\"https://www.youtube.com/watch?v=-su4WO5TVxQ\"&gt;Something A La Mode - GString&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl1ws33",
-                      "created": 1412637169,
-                      "author_flair_text": null,
-                      "created_utc": 1412608369,
-                      "ups": 5,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  },
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl1tl65",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "changetip",
-                      "parent_id": "t1_cl1tkvh",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "The Bitcoin tip for 1 song (3.832 mBTC/$1.30) has been collected by *Voogru*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
-                      "edited": 1412614454,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 1 song (3.832 mBTC/$1.30) has been collected by &lt;em&gt;Voogru&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl1tl65",
-                      "created": 1412628626,
-                      "author_flair_text": null,
-                      "created_utc": 1412599826,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1tkvh",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "justacointoon",
-            "parent_id": "t3_2ifjr8",
-            "score": 7,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Love it! What is that song by the way?\n\n/u/changetip 1 liter o' cola\n\nEdit: Changetip is like, \"Do we serve 'liter o'cola'?\"",
-            "edited": 1412600047,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Love it! What is that song by the way?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"/u/changetip\"&gt;/u/changetip&lt;/a&gt; 1 liter o&amp;#39; cola&lt;/p&gt;\n\n&lt;p&gt;Edit: Changetip is like, &amp;quot;Do we serve &amp;#39;liter o&amp;#39;cola&amp;#39;?&amp;quot;&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1tkvh",
-            "created": 1412628596,
-            "author_flair_text": null,
-            "created_utc": 1412599796,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 7
+            "ups": 5
           }
         },
         {
@@ -3269,7 +3401,7 @@
             "report_reasons": null,
             "author": "omen2k",
             "parent_id": "t3_2ifjr8",
-            "score": 13,
+            "score": 12,
             "approved_by": null,
             "controversiality": 0,
             "body": "SPLIT YOUR LUNGS WITH BLOOD AND THUNDER\n\nWHEN YOU SEE THE WHITE WHALE\n\nWHITE WHALE\nHOLY GRAIL\nWHITE WHALE\nHOLY GRAIL",
@@ -3286,7 +3418,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 12
           }
         },
         {
@@ -3322,6 +3454,85 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 3
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifjr8",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl1vzke",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "changetip",
+                      "parent_id": "t1_cl1vyxo",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "The Bitcoin tip for 50 mBTC ($17.12) has been collected by *Voogru*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
+                      "edited": 1412614447,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 50 mBTC ($17.12) has been collected by &lt;em&gt;Voogru&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl1vzke",
+                      "created": 1412635356,
+                      "author_flair_text": null,
+                      "created_utc": 1412606556,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1vyxo",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "px403",
+            "parent_id": "t3_2ifjr8",
+            "score": 6,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Ha! badass   /u/changetip 50 mBTC\n\nYou are now obliged to cover every major market event.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ha! badass   &lt;a href=\"/u/changetip\"&gt;/u/changetip&lt;/a&gt; 50 mBTC&lt;/p&gt;\n\n&lt;p&gt;You are now obliged to cover every major market event.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1vyxo",
+            "created": 1412635316,
+            "author_flair_text": null,
+            "created_utc": 1412606516,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 6
           }
         },
         {
@@ -3431,7 +3642,7 @@
                                                     "report_reasons": null,
                                                     "author": "Zapmeister",
                                                     "parent_id": "t1_cl1u47b",
-                                                    "score": 17,
+                                                    "score": 16,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "**I'VE GOT IT**\n\nIt's a significant figures issue.\n\nThe default setting on bitcoinity is to show latest trade prices to 4 significant figures, which can be changed under preferences. On bitstamp you can specify your price up to the nearest cent, which at the current price would be 5 significant figures.\n\nBitcoinity, unlike (say) bitcoinwisdom, will group together latest trades in the history under the same price, so no 2 consecutive trades in the history will appear as the same price. What constitutes the same will be determined by how many significant figures you set your preferences to on the site. Don't believe me? See for yourself - change the number of significant figures you see to 3, then to 5, and you'll see that large orders will be split into smaller numbers. The green and red arrows only indicate movement in the last trade price, not buys/sells.\n\nWhat is going on here is that, since bitstamp allows you to set prices to 5 significant figures, you get a lot of people buying at 300.00 and selling at 299.99. These are reported on bitcoinity (set to 4 sig fig) all at the same price, so all orders within that time period are grouped together and listed as 300.0 which you see on that screenshot. Furthermore, the trade before it of 0.1 at 299.4 was 29 minutes before, which means that the 11362.58 is just the total of all sells made at 299.99 and buys at 300.00 in those 29 minutes. And finally, the video clearly shows that there were long periods of time where the only trades were made at those two prices. Bingo.",
@@ -3448,7 +3659,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 17
+                                                    "ups": 16
                                                   }
                                                 }
                                               ],
@@ -3699,7 +3910,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "2weiX",
                                                                                   "parent_id": "t1_cl1tgi4",
-                                                                                  "score": 4,
+                                                                                  "score": 5,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Also, the amount sold was almost exactly the same amount being bought at the same time! ",
@@ -3713,7 +3924,7 @@
                                                                                   "created": 1412628674,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412599874,
-                                                                                  "ups": 4,
+                                                                                  "ups": 5,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -3845,7 +4056,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Dogecoin-Billionaire",
                                                                         "parent_id": "t1_cl1sq8j",
-                                                                        "score": 7,
+                                                                        "score": 8,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "There is no record of that trade happening on historic order books, that's why I'm asking. Even the 1 minute charts on bitcoinwisdom don't show an 11k trade spike.\n\nCoincidentally the original amount dumped was almost exactly the same as the amount bought later.",
@@ -3862,7 +4073,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 7
+                                                                        "ups": 8
                                                                       }
                                                                     }
                                                                   ],
@@ -3877,7 +4088,7 @@
                                                               "report_reasons": null,
                                                               "author": "pitchbend",
                                                               "parent_id": "t1_cl1sfld",
-                                                              "score": 9,
+                                                              "score": 10,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "https://i.imgur.com/1lt33xP.jpg",
@@ -3891,7 +4102,7 @@
                                                               "created": 1412625298,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412596498,
-                                                              "ups": 9,
+                                                              "ups": 10,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4323,7 +4534,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Dogecoin-Billionaire",
                                                                         "parent_id": "t1_cl1u1ay",
-                                                                        "score": -4,
+                                                                        "score": -3,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "A heavily cropped img, case closed!",
@@ -4340,7 +4551,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": -4
+                                                                        "ups": -3
                                                                       }
                                                                     }
                                                                   ],
@@ -4486,7 +4697,7 @@
                                 "report_reasons": null,
                                 "author": "lclc_",
                                 "parent_id": "t1_cl1rh42",
-                                "score": -6,
+                                "score": -7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Yep, the bearwhale just took the sell order back after 10k or so got sold. We didn't eat the full whale.",
@@ -4503,7 +4714,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -6
+                                "ups": -7
                               }
                             }
                           ],
@@ -4518,7 +4729,7 @@
                       "report_reasons": null,
                       "author": "chipfox",
                       "parent_id": "t1_cl1rfz5",
-                      "score": 15,
+                      "score": 14,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I think 7,000 might be a bit on the low side, but there was nowhere near 30,000 coins traded. Everyone is ignoring that part?",
@@ -4532,7 +4743,7 @@
                       "created": 1412618697,
                       "author_flair_text": null,
                       "created_utc": 1412589897,
-                      "ups": 15,
+                      "ups": 14,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4550,7 +4761,7 @@
             "report_reasons": null,
             "author": "Dogecoin-Billionaire",
             "parent_id": "t3_2ifjr8",
-            "score": 9,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "Can someone please explain how the \"bearwhale\" was gotten, or harpooned?\n\nOn bitstamp I see maybe 7,000 BTC volume after the price flatlined, which is nowhere near the 30,000 we all saw.",
@@ -4567,86 +4778,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ifjr8",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl1vzke",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "changetip",
-                      "parent_id": "t1_cl1vyxo",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "The Bitcoin tip for 50 mBTC ($17.12) has been collected by *Voogru*.\n\n\n[ChangeTip info](https://www.changetip.com/tip-online/reddit) | [ChangeTip video](https://www.youtube.com/watch?v=_AnfKpypMNw) | /r/Bitcoin",
-                      "edited": 1412614447,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;The Bitcoin tip for 50 mBTC ($17.12) has been collected by &lt;em&gt;Voogru&lt;/em&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.changetip.com/tip-online/reddit\"&gt;ChangeTip info&lt;/a&gt; | &lt;a href=\"https://www.youtube.com/watch?v=_AnfKpypMNw\"&gt;ChangeTip video&lt;/a&gt; | &lt;a href=\"/r/Bitcoin\"&gt;/r/Bitcoin&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl1vzke",
-                      "created": 1412635356,
-                      "author_flair_text": null,
-                      "created_utc": 1412606556,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1vyxo",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "px403",
-            "parent_id": "t3_2ifjr8",
-            "score": 6,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Ha! badass   /u/changetip 50 mBTC\n\nYou are now obliged to cover every major market event.",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Ha! badass   &lt;a href=\"/u/changetip\"&gt;/u/changetip&lt;/a&gt; 50 mBTC&lt;/p&gt;\n\n&lt;p&gt;You are now obliged to cover every major market event.&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1vyxo",
-            "created": 1412635316,
-            "author_flair_text": null,
-            "created_utc": 1412606516,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -4682,6 +4814,41 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifjr8",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1vlg0",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "hamiltino",
+            "parent_id": "t3_2ifjr8",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Man this is such a good tune",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Man this is such a good tune&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1vlg0",
+            "created": 1412634404,
+            "author_flair_text": null,
+            "created_utc": 1412605604,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
           }
         },
         {
@@ -4755,7 +4922,7 @@
                       "report_reasons": null,
                       "author": "roflbbq",
                       "parent_id": "t1_cl1vm5k",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "http://bitcointicker.co/",
@@ -4769,7 +4936,7 @@
                       "created": 1412637404,
                       "author_flair_text": null,
                       "created_utc": 1412608604,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4980,7 +5147,7 @@
             "report_reasons": null,
             "author": "Just_My_Perspective",
             "parent_id": "t3_2ifjr8",
-            "score": 6,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "Bitstamp made over $5million today wow",
@@ -4997,7 +5164,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 5
           }
         },
         {
@@ -5027,7 +5194,7 @@
                       "report_reasons": null,
                       "author": "Voogru",
                       "parent_id": "t1_cl1qp4j",
-                      "score": 10,
+                      "score": 12,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Feel free to post it there.",
@@ -5041,7 +5208,7 @@
                       "created": 1412614444,
                       "author_flair_text": null,
                       "created_utc": 1412585644,
-                      "ups": 10,
+                      "ups": 12,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -5073,41 +5240,6 @@
             "created": 1412613833,
             "author_flair_text": null,
             "created_utc": 1412585033,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ifjr8",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1vlg0",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "hamiltino",
-            "parent_id": "t3_2ifjr8",
-            "score": 2,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Man this is such a good tune",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Man this is such a good tune&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1vlg0",
-            "created": 1412634404,
-            "author_flair_text": null,
-            "created_utc": 1412605604,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
@@ -5369,7 +5501,7 @@
                       "report_reasons": null,
                       "author": "Voogru",
                       "parent_id": "t1_cl26mu8",
-                      "score": 3,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Everyone knows bitcoiners can predict the future. I simply looked at my ~~cystal~~ blockchain ball.",
@@ -5383,7 +5515,7 @@
                       "created": 1412656884,
                       "author_flair_text": null,
                       "created_utc": 1412628084,
-                      "ups": 3,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -5471,7 +5603,7 @@
             "report_reasons": null,
             "author": "Ripsaw1990",
             "parent_id": "t3_2ifjr8",
-            "score": 0,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Rip my ears",
@@ -5488,86 +5620,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ifjr8",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ifjr8",
-                      "likes": null,
-                      "replies": "",
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl2fyho",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "aurelorba",
-                      "parent_id": "t1_cl1urej",
-                      "score": 1,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "30,000 bitcoins of demand has been satisfied.\n\nIOW there are 30,000  worth of bitcoin buying that no longer exists.\n\nOr the demand only exists @ $300. ",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;30,000 bitcoins of demand has been satisfied.&lt;/p&gt;\n\n&lt;p&gt;IOW there are 30,000  worth of bitcoin buying that no longer exists.&lt;/p&gt;\n\n&lt;p&gt;Or the demand only exists @ $300. &lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl2fyho",
-                      "created": 1412675065,
-                      "author_flair_text": null,
-                      "created_utc": 1412646265,
-                      "ups": 1,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl1urej",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "unusualfacts30",
-            "parent_id": "t3_2ifjr8",
-            "score": -2,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "Whale threw the order\nWhale ate the order\n\nUse logic. If people have money to eat up 30k BTC order then why price hasn't moved much? I assume people must be buying lot of BTC yet the price stays the same after hours?\n\nDoesn't make sense if you really think about it.",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Whale threw the order\nWhale ate the order&lt;/p&gt;\n\n&lt;p&gt;Use logic. If people have money to eat up 30k BTC order then why price hasn&amp;#39;t moved much? I assume people must be buying lot of BTC yet the price stays the same after hours?&lt;/p&gt;\n\n&lt;p&gt;Doesn&amp;#39;t make sense if you really think about it.&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl1urej",
-            "created": 1412632233,
-            "author_flair_text": null,
-            "created_utc": 1412603433,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         },
         {
@@ -5656,6 +5709,85 @@
             "banned_by": null,
             "link_id": "t3_2ifjr8",
             "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ifjr8",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2fyho",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "aurelorba",
+                      "parent_id": "t1_cl1urej",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "30,000 bitcoins of demand has been satisfied.\n\nIOW there are 30,000  worth of bitcoin buying that no longer exists.\n\nOr the demand only exists @ $300. ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;30,000 bitcoins of demand has been satisfied.&lt;/p&gt;\n\n&lt;p&gt;IOW there are 30,000  worth of bitcoin buying that no longer exists.&lt;/p&gt;\n\n&lt;p&gt;Or the demand only exists @ $300. &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2fyho",
+                      "created": 1412675065,
+                      "author_flair_text": null,
+                      "created_utc": 1412646265,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl1urej",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "unusualfacts30",
+            "parent_id": "t3_2ifjr8",
+            "score": -2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Whale threw the order\nWhale ate the order\n\nUse logic. If people have money to eat up 30k BTC order then why price hasn't moved much? I assume people must be buying lot of BTC yet the price stays the same after hours?\n\nDoesn't make sense if you really think about it.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Whale threw the order\nWhale ate the order&lt;/p&gt;\n\n&lt;p&gt;Use logic. If people have money to eat up 30k BTC order then why price hasn&amp;#39;t moved much? I assume people must be buying lot of BTC yet the price stays the same after hours?&lt;/p&gt;\n\n&lt;p&gt;Doesn&amp;#39;t make sense if you really think about it.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl1urej",
+            "created": 1412632233,
+            "author_flair_text": null,
+            "created_utc": 1412603433,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": -2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ifjr8",
+            "likes": null,
             "replies": "",
             "user_reports": [],
             "saved": false,
@@ -5664,7 +5796,7 @@
             "report_reasons": null,
             "author": "Whale30",
             "parent_id": "t3_2ifjr8",
-            "score": -3,
+            "score": -4,
             "approved_by": null,
             "controversiality": 0,
             "body": "and the Bearwhale T-shirs came the day after! http://teespring.com/bearwhaleislove\n\n5% discount on bitcoin payments!\n",
@@ -5681,7 +5813,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -3
+            "ups": -4
           }
         }
       ],

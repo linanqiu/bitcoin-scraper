@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "BashCoBot",
             "media": null,
-            "score": 577,
+            "score": 581,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Anxiously awaiting the next bubble...",
             "created_utc": 1412362658,
-            "ups": 577,
+            "ups": 581,
             "upvote_ratio": 0.87,
-            "num_comments": 154,
+            "num_comments": 155,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -114,7 +114,7 @@
                                           "report_reasons": null,
                                           "author": "SLO_Chemist",
                                           "parent_id": "t1_ckzuuyi",
-                                          "score": 5,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Log scale is used for huge numbers i.e. plotting something on the X axis, that comprises a huge range, each evenly spaced tick mark represents the value increasing by a factor of ten (multiplied by ten) AKA an order of magnitude, rather than by the same amount as the interval before it. \n\nSo I think it makes sense to talk about it in the way the poster above you did. ",
@@ -128,7 +128,7 @@
                                           "created": 1412439620,
                                           "author_flair_text": null,
                                           "created_utc": 1412410820,
-                                          "ups": 5,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -193,7 +193,7 @@
                                           "report_reasons": null,
                                           "author": "btcrave",
                                           "parent_id": "t1_ckzsep8",
-                                          "score": 8,
+                                          "score": 9,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "provably funnier",
@@ -207,7 +207,7 @@
                                           "created": 1412406827,
                                           "author_flair_text": null,
                                           "created_utc": 1412378027,
-                                          "ups": 8,
+                                          "ups": 9,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -225,7 +225,7 @@
                                 "report_reasons": null,
                                 "author": "[deleted]",
                                 "parent_id": "t1_ckzn5ep",
-                                "score": 1,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "[deleted]",
@@ -242,7 +242,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 2
                               }
                             },
                             {
@@ -292,7 +292,7 @@
                       "report_reasons": null,
                       "author": "BashCoBot",
                       "parent_id": "t1_ckzmyv3",
-                      "score": 30,
+                      "score": 35,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Logarithmically funnier. ",
@@ -306,7 +306,7 @@
                       "created": 1412394643,
                       "author_flair_text": null,
                       "created_utc": 1412365843,
-                      "ups": 30,
+                      "ups": 35,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -327,7 +327,7 @@
                       "report_reasons": null,
                       "author": "angerballism",
                       "parent_id": "t1_ckzmyv3",
-                      "score": 6,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Pop pop?? ",
@@ -341,7 +341,7 @@
                       "created": 1412421275,
                       "author_flair_text": null,
                       "created_utc": 1412392475,
-                      "ups": 6,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -418,7 +418,7 @@
                                 "report_reasons": null,
                                 "author": "bkDJ",
                                 "parent_id": "t1_ckzsoh0",
-                                "score": 8,
+                                "score": 10,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Huh, did you miss it? Go back and watch again!",
@@ -435,7 +435,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 8
+                                "ups": 10
                               }
                             }
                           ],
@@ -450,7 +450,7 @@
                       "report_reasons": null,
                       "author": "twfry",
                       "parent_id": "t1_ckzmyv3",
-                      "score": 4,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Still watching and waiting, when does the chest finally open?!?!",
@@ -464,7 +464,7 @@
                       "created": 1412406608,
                       "author_flair_text": null,
                       "created_utc": 1412377808,
-                      "ups": 4,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -485,7 +485,7 @@
                       "report_reasons": null,
                       "author": "BitcoinCollapse",
                       "parent_id": "t1_ckzmyv3",
-                      "score": -7,
+                      "score": -6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The illusion that bitcoin \"has no cost\" or \"it is low cost\" is now being realised by more and more people.\nAs an investment bitcoin sucks. The sooner one dumps it, the better.\nBitcoin has destroyed many bitcoin believers, who kept on their coins and did not sell when it was trading at the stratoshere, and will destory even more who still believe that the dead cat will bounce back.",
@@ -499,7 +499,7 @@
                       "created": 1412438740,
                       "author_flair_text": null,
                       "created_utc": 1412409940,
-                      "ups": -7,
+                      "ups": -6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -588,7 +588,7 @@
                                           "report_reasons": null,
                                           "author": "lysergicfuneral",
                                           "parent_id": "t1_cl05jxb",
-                                          "score": 1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Hope is a powerful thing :(",
@@ -602,7 +602,7 @@
                                           "created": 1412469316,
                                           "author_flair_text": null,
                                           "created_utc": 1412440516,
-                                          "ups": 1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -620,7 +620,7 @@
                                 "report_reasons": null,
                                 "author": "the-y",
                                 "parent_id": "t1_ckzvp56",
-                                "score": 14,
+                                "score": 11,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "No no no, it was all natural and organic growth! You just don't understand exponential growth! That's what disruptive technologies do!",
@@ -637,7 +637,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 14
+                                "ups": 11
                               }
                             }
                           ],
@@ -687,7 +687,7 @@
                       "report_reasons": null,
                       "author": "ironicalballs",
                       "parent_id": "t1_ckzuwsk",
-                      "score": 10,
+                      "score": 11,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "B-b-b-ut the Bitcoin buzzwords! Privacy! Convenience! Stored Value!",
@@ -701,7 +701,7 @@
                       "created": 1412413173,
                       "author_flair_text": null,
                       "created_utc": 1412384373,
-                      "ups": 10,
+                      "ups": 11,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -719,7 +719,7 @@
             "report_reasons": null,
             "author": "bin161",
             "parent_id": "t3_2i7o2w",
-            "score": 23,
+            "score": 22,
             "approved_by": null,
             "controversiality": 0,
             "body": "You know why there isn't going to be a bubble? Because EVERYONE is waiting for one so that they can dump their coins (whether they want to admit it or not). Demand is never going to be an order of magnitude higher than supply.",
@@ -736,7 +736,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 23
+            "ups": 22
           }
         },
         {
@@ -814,7 +814,7 @@
                                                               "report_reasons": null,
                                                               "author": "tjberens",
                                                               "parent_id": "t1_cl006v9",
-                                                              "score": 8,
+                                                              "score": 6,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "So you did see something?",
@@ -828,7 +828,7 @@
                                                               "created": 1412432974,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412404174,
-                                                              "ups": 8,
+                                                              "ups": 6,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -846,7 +846,7 @@
                                                     "report_reasons": null,
                                                     "author": "kuenx",
                                                     "parent_id": "t1_ckzswgd",
-                                                    "score": 1,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "It's 6.43 seconds so I must have watched it at least 20 times. I didn't see nothing.",
@@ -863,7 +863,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -878,7 +878,7 @@
                                           "report_reasons": null,
                                           "author": "AAAdamKK",
                                           "parent_id": "t1_ckzrqpn",
-                                          "score": 7,
+                                          "score": 6,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Try harder.",
@@ -892,7 +892,7 @@
                                           "created": 1412407138,
                                           "author_flair_text": null,
                                           "created_utc": 1412378338,
-                                          "ups": 7,
+                                          "ups": 6,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1115,7 +1115,7 @@
                                           "report_reasons": null,
                                           "author": "coinvesting",
                                           "parent_id": "t1_ckzuojg",
-                                          "score": 4,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "For next time: http://gif-explode.com/?explode=http://i.giphy.com/ToMjGpjr5QdRfdDLuc8.gif",
@@ -1129,7 +1129,7 @@
                                           "created": 1412420693,
                                           "author_flair_text": null,
                                           "created_utc": 1412391893,
-                                          "ups": 4,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1249,7 +1249,7 @@
                       "report_reasons": null,
                       "author": "BashCoBot",
                       "parent_id": "t1_ckzojc8",
-                      "score": 20,
+                      "score": 18,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You're the first person to notice the easter egg! 200 bits /u/changetip",
@@ -1263,7 +1263,7 @@
                       "created": 1412398126,
                       "author_flair_text": null,
                       "created_utc": 1412369326,
-                      "ups": 20,
+                      "ups": 18,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1363,7 +1363,7 @@
                       "report_reasons": null,
                       "author": "norsurfit",
                       "parent_id": "t1_ckzojc8",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I hate screamers like this.",
@@ -1377,7 +1377,7 @@
                       "created": 1412421140,
                       "author_flair_text": null,
                       "created_utc": 1412392340,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1398,7 +1398,7 @@
                       "report_reasons": null,
                       "author": "BitBacchus",
                       "parent_id": "t1_ckzojc8",
-                      "score": -1,
+                      "score": -4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I can't believe a naked Jennifer Lawrence pic popped out. +10 would watch again.",
@@ -1412,7 +1412,7 @@
                       "created": 1412413744,
                       "author_flair_text": null,
                       "created_utc": 1412384944,
-                      "ups": -1,
+                      "ups": -4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1430,7 +1430,7 @@
             "report_reasons": null,
             "author": "epaga",
             "parent_id": "t3_2i7o2w",
-            "score": 37,
+            "score": 36,
             "approved_by": null,
             "controversiality": 0,
             "body": "Haha, that was great. Well worth the wait for the ending.",
@@ -1447,7 +1447,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 37
+            "ups": 36
           }
         },
         {
@@ -1477,7 +1477,7 @@
                       "report_reasons": null,
                       "author": "BitcoinCollapse",
                       "parent_id": "t1_ckzx036",
-                      "score": 3,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Btc as a technology is ok.\n\nAs an investment there is no reason to be worth more than a couple of dollars.\n\nGradually the price will go to that level.",
@@ -1491,7 +1491,7 @@
                       "created": 1412445427,
                       "author_flair_text": null,
                       "created_utc": 1412416627,
-                      "ups": 3,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1580,7 +1580,7 @@
                                           "report_reasons": null,
                                           "author": "Shibinator",
                                           "parent_id": "t1_ckzyudr",
-                                          "score": 4,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Yes, that's because they weren't aware of it when it hit $1, $10 or $100.  If it had, they would have called it Tulip Mania then, and then rethought that position when a long time later they heard it had again skyrocketed in price.\n\nIt is likely their opinion will be different when it hits $10 000 now, but only because they heard about it at $1000.  People who hear about it for the first time at $10 000 will probably also think it's tulip mania.",
@@ -1594,7 +1594,7 @@
                                           "created": 1412440910,
                                           "author_flair_text": null,
                                           "created_utc": 1412412110,
-                                          "ups": 4,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1746,7 +1746,7 @@
             "report_reasons": null,
             "author": "IGETSHIVERSWHENIP",
             "parent_id": "t3_2i7o2w",
-            "score": 13,
+            "score": 12,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'm not. I'm anxiously waiting for my skeptical friends and family to finally understand the benefit of P2P digital currencies. I'm waiting for them to realize that bitcoin is not some fad, scam, or get rich quick plan. So many more people know what bitcoin is now, and they know it has *some* value, so the seed has been sewn.\n\nOn a different note, I don't think recurring progressively large bubbles are good for bitcoin in the long run. If we had another perfectly timed and proportionate bubble, anyone who bought some during, would know that it would be highly likely to lose value if they held onto it. So in the end, i'm patiently watching bitcoin do the right thing, which is whatever bitcoin does, because at an integral level bitcoin is and always will be an amazing tool.\n\nTo me, bitcoin has always had the same value: it's priceless. ",
@@ -1763,7 +1763,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 13
+            "ups": 12
           }
         },
         {
@@ -1781,7 +1781,7 @@
             "report_reasons": null,
             "author": "modeless",
             "parent_id": "t3_2i7o2w",
-            "score": 9,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "More like http://0.media.dorkly.cvcdn.com/91/27/742d0bbda7da685a72822039931f121f.jpg",
@@ -1798,7 +1798,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 9
+            "ups": 7
           }
         },
         {
@@ -1872,7 +1872,7 @@
                       "report_reasons": null,
                       "author": "N-Bluth",
                       "parent_id": "t1_ckzrnu7",
-                      "score": 13,
+                      "score": 17,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I have been staring at bitcoinwisdom all year.",
@@ -1886,7 +1886,7 @@
                       "created": 1412408626,
                       "author_flair_text": null,
                       "created_utc": 1412379826,
-                      "ups": 13,
+                      "ups": 17,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1939,7 +1939,7 @@
             "report_reasons": null,
             "author": "donchaknoowww",
             "parent_id": "t3_2i7o2w",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "I didn't realize what sub this was, and I was so confused and frustrated",
@@ -1956,7 +1956,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -2421,7 +2421,7 @@
             "report_reasons": null,
             "author": "kiisfm",
             "parent_id": "t3_2i7o2w",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "I kept staring and hoping",
@@ -2438,7 +2438,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -2582,7 +2582,7 @@
                       "report_reasons": null,
                       "author": "Shibinator",
                       "parent_id": "t1_ckzrr99",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "The exact opposite: a bubble will happen when everyone is convinced it is about to.\n\nThen all the sellers vanish at anything approaching the current price, the buying price skyrockets, more people further up the selling chain decide they've put their bid in too low and also cancel their sells, and voila - a bubble.\n\nA bubble will not happen so long as there's still enough sellers who think it won't.",
@@ -2596,7 +2596,7 @@
                       "created": 1412417136,
                       "author_flair_text": null,
                       "created_utc": 1412388336,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2614,7 +2614,7 @@
             "report_reasons": null,
             "author": "jcdobber",
             "parent_id": "t3_2i7o2w",
-            "score": 4,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Because to many want the next bubble it will probably not happen anymore :(",
@@ -2631,7 +2631,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 6
           }
         },
         {
@@ -2661,7 +2661,7 @@
                       "report_reasons": null,
                       "author": "Kristkind",
                       "parent_id": "t1_ckzn56o",
-                      "score": 4,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Bubbles are inside the chest.\n\nEdit: That's also where the crowbar is.",
@@ -2675,7 +2675,7 @@
                       "created": 1412396373,
                       "author_flair_text": null,
                       "created_utc": 1412367573,
-                      "ups": 4,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2740,7 +2740,7 @@
                       "report_reasons": null,
                       "author": "trancephorm",
                       "parent_id": "t1_ckzn56o",
-                      "score": -4,
+                      "score": -3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Beep! wrong. bubble is still in the definition of Bitcoin. There will be at least one more bubble, mark my words. Bitcoin's job not done yet.",
@@ -2754,7 +2754,7 @@
                       "created": 1412399430,
                       "author_flair_text": null,
                       "created_utc": 1412370630,
-                      "ups": -4,
+                      "ups": -3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2898,7 +2898,7 @@
                       "report_reasons": null,
                       "author": "General_Pie",
                       "parent_id": "t1_ckzrm4e",
-                      "score": 46,
+                      "score": 42,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I honestly can't tell if you're being sarcastic, or you are actually this delusional",
@@ -2912,7 +2912,7 @@
                       "created": 1412409621,
                       "author_flair_text": null,
                       "created_utc": 1412380821,
-                      "ups": 46,
+                      "ups": 42,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3045,7 +3045,7 @@
                                           "report_reasons": null,
                                           "author": "prirate",
                                           "parent_id": "t1_ckzuzdg",
-                                          "score": 2,
+                                          "score": 4,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "You sound like anybody defending their asset after a valid point is raised against it. Point is if you take advice about stock x from someone who owns stock x they will NEVER tell you it's about to tank. I don't think BTC will tank, but you aren't very convincing with your vague \"if you've seen what I've seen\" argument\n\nedit: can't tell if sarcasm",
@@ -3059,7 +3059,7 @@
                                           "created": 1412413442,
                                           "author_flair_text": null,
                                           "created_utc": 1412384642,
-                                          "ups": 2,
+                                          "ups": 4,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3077,7 +3077,7 @@
                                 "report_reasons": null,
                                 "author": "nikesonfuse",
                                 "parent_id": "t1_ckzuho8",
-                                "score": 5,
+                                "score": 7,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You'd believe if you were as informed as me or even less ignorant than you are!",
@@ -3094,7 +3094,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 7
                               }
                             }
                           ],
@@ -3109,7 +3109,7 @@
                       "report_reasons": null,
                       "author": "prirate",
                       "parent_id": "t1_ckzrm4e",
-                      "score": 9,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "you sound like every other person talking about one of their investments. \n\n\"Yeah, in (Unit_of_time), (investment_name) is going to explode, i'm expecting a (stupidly_huge_percent) increase...\"",
@@ -3123,7 +3123,7 @@
                       "created": 1412411077,
                       "author_flair_text": null,
                       "created_utc": 1412382277,
-                      "ups": 9,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3144,7 +3144,7 @@
                       "report_reasons": null,
                       "author": "Amanojack",
                       "parent_id": "t1_ckzrm4e",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This kind of sentiment suggests we haven't reached capitulation yet. There is anxiety in the market, bordering on despair, but too much hope still. Long term we're going much higher, but I'm not so sure about the next few weeks.",
@@ -3158,7 +3158,7 @@
                       "created": 1412420826,
                       "author_flair_text": null,
                       "created_utc": 1412392026,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3440,7 +3440,7 @@
                                           "report_reasons": null,
                                           "author": "mootinator",
                                           "parent_id": "t1_ckzved0",
-                                          "score": 6,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Shortsell ALL the bitcoin!",
@@ -3454,7 +3454,7 @@
                                           "created": 1412413985,
                                           "author_flair_text": null,
                                           "created_utc": 1412385185,
-                                          "ups": 6,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3475,7 +3475,7 @@
                                           "report_reasons": null,
                                           "author": "ThisFreaknGuy",
                                           "parent_id": "t1_ckzved0",
-                                          "score": 2,
+                                          "score": 1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Okay wow. I really need to do some more reading on this because it definitely seems huge, that's for sure! Thanks for the info.",
@@ -3489,7 +3489,7 @@
                                           "created": 1412465860,
                                           "author_flair_text": null,
                                           "created_utc": 1412437060,
-                                          "ups": 2,
+                                          "ups": 1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -3507,7 +3507,7 @@
                                 "report_reasons": null,
                                 "author": "BigMoneyGuy",
                                 "parent_id": "t1_ckztzqs",
-                                "score": 3,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "When the Winklevoss ETF is approved, people will be able to trade Bitcoin in the stock market. Sounds like moon to me.",
@@ -3524,7 +3524,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 4
                               }
                             }
                           ],
@@ -4131,7 +4131,7 @@
                                 "report_reasons": null,
                                 "author": "Lawsky",
                                 "parent_id": "t1_ckzzf96",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "You're confusing merchant adoption with consumer adoption.",
@@ -4148,7 +4148,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -4195,7 +4195,7 @@
             "report_reasons": null,
             "author": "Vlad2Vlad",
             "parent_id": "t3_2i7o2w",
-            "score": 6,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "No worries, big bubble coming.\n\nThe ETF bubble which should start later this year should take BTC past $10,000 by early next year of possibly even by this Christmas.\n\nThe ETF (COIN) will change everything - on a global scale.",
@@ -4212,7 +4212,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 4
           }
         },
         {
@@ -4265,7 +4265,7 @@
             "report_reasons": null,
             "author": "jacky4566",
             "parent_id": "t3_2i7o2w",
-            "score": 2,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "It will test $300 before it goes up again. ",
@@ -4282,7 +4282,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 4
           }
         },
         {
@@ -4487,7 +4487,7 @@
                       "report_reasons": null,
                       "author": "BashCoBot",
                       "parent_id": "t1_cl03s13",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I agree, although this is just lighthearted fun for those who would rather see **any** growth at all.",
@@ -4501,7 +4501,7 @@
                       "created": 1412445066,
                       "author_flair_text": null,
                       "created_utc": 1412416266,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4820,7 +4820,7 @@
                                                                                             "report_reasons": null,
                                                                                             "author": "throwawash",
                                                                                             "parent_id": "t1_cl044sd",
-                                                                                            "score": 2,
+                                                                                            "score": 1,
                                                                                             "approved_by": null,
                                                                                             "controversiality": 0,
                                                                                             "body": "Oh, don't get me wrong, I perfectly see the joke humorous part of it. I find it funny as well. What I was talking about is the rabid up voting of this post by the community, just shows what's rely on people's minds. What you think or intended as a joke is not necessarily what it's only about.",
@@ -4837,7 +4837,7 @@
                                                                                             "distinguished": null,
                                                                                             "mod_reports": [],
                                                                                             "num_reports": null,
-                                                                                            "ups": 2
+                                                                                            "ups": 1
                                                                                           }
                                                                                         }
                                                                                       ],
@@ -4884,7 +4884,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "throwawash",
                                                                         "parent_id": "t1_cl042uj",
-                                                                        "score": 1,
+                                                                        "score": 0,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Is this really 100% just a joke? Is it really pure chance that this was up voted to the top? Get real.",
@@ -4901,7 +4901,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 0
                                                                       }
                                                                     }
                                                                   ],
@@ -4916,7 +4916,7 @@
                                                               "report_reasons": null,
                                                               "author": "BashCoBot",
                                                               "parent_id": "t1_cl041w9",
-                                                              "score": 3,
+                                                              "score": 1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "I don't think so at all. I think it just shows that we can take a joke. I'm surprised and a little saddened that some people seem so offended by it.",
@@ -4930,7 +4930,7 @@
                                                               "created": 1412446780,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412417980,
-                                                              "ups": 3,
+                                                              "ups": 1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -4948,7 +4948,7 @@
                                                     "report_reasons": null,
                                                     "author": "throwawash",
                                                     "parent_id": "t1_cl03wbg",
-                                                    "score": -1,
+                                                    "score": -3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "And it's the top post on the frontpage. It shows what really pushes people's buttons. It's just a sad marker of this community, really.",
@@ -4965,7 +4965,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": -1
+                                                    "ups": -3
                                                   }
                                                 }
                                               ],
@@ -4980,7 +4980,7 @@
                                           "report_reasons": null,
                                           "author": "BashCoBot",
                                           "parent_id": "t1_cl03v0v",
-                                          "score": 4,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "lol, IT'S A GIF! I posted it so people could have a laugh. Lighten up for fuck's sake. ",
@@ -4994,7 +4994,7 @@
                                           "created": 1412445502,
                                           "author_flair_text": null,
                                           "created_utc": 1412416702,
-                                          "ups": 4,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -5071,7 +5071,7 @@
                                                     "report_reasons": null,
                                                     "author": "CrimsonSpider",
                                                     "parent_id": "t1_cl05z1c",
-                                                    "score": 3,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "And your point is? I shouldn't allowed to criticize submissions? Way to go with supporting censorship you asshat.",
@@ -5088,7 +5088,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -5170,7 +5170,7 @@
                                 "report_reasons": null,
                                 "author": "CrimsonSpider",
                                 "parent_id": "t1_cl0345n",
-                                "score": 0,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Fuck off. Bitcoin isn't about your ass getting stuffed with money, even though people seem to think so. Its about breaking away from the current banks and shit. OP, you are a retard.",
@@ -5187,7 +5187,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": 1
                               }
                             }
                           ],
@@ -5386,7 +5386,7 @@
                       "report_reasons": null,
                       "author": "APigeonOntheHead",
                       "parent_id": "t1_ckzpi1w",
-                      "score": 0,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I bet you lost money\n",
@@ -5400,7 +5400,7 @@
                       "created": 1412404684,
                       "author_flair_text": null,
                       "created_utc": 1412375884,
-                      "ups": 0,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -5418,7 +5418,7 @@
             "report_reasons": null,
             "author": "trancephorm",
             "parent_id": "t3_2i7o2w",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Watching graphs, spending my whole time in crypto for years now, I can only tell one thing: it can shoot up any minute now, previous ATH easily broken, we're going to at least 5k $.\n\nOtherwise, this descent can't go much further, mine absolute low is 270$.",
@@ -5435,7 +5435,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         },
         {
@@ -5570,7 +5570,7 @@
                       "report_reasons": null,
                       "author": "BashCoBot",
                       "parent_id": "t1_cl03wfw",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yeah, I don't understand either. I mean, they're exciting and all, but obviously not sustainable. Organic growth is preferred. ",
@@ -5584,7 +5584,7 @@
                       "created": 1412445773,
                       "author_flair_text": null,
                       "created_utc": 1412416973,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -5602,7 +5602,7 @@
             "report_reasons": null,
             "author": "Frankeh",
             "parent_id": "t3_2i7o2w",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I don't understand why bubbles are lusted for on here. \n\nBy their definition bubbles have winners and losers.. Why not aim for sustainable growth so that everyone can be a winner?",
@@ -5619,7 +5619,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -5775,7 +5775,7 @@
                                 "report_reasons": null,
                                 "author": "CryptoCOINnoisseur",
                                 "parent_id": "t1_ckzuwi1",
-                                "score": 0,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Finally a logical question.\n\nBitcoins true value is based on a few factors. 1: the amount in supply, 2: the amount of demand for it, 3: and MOST IMPORTANTLY, the amount of money it took to extract the current supply of bitcoin from the blockchain by mining (cost of buying miners, electricity, plus a small percentage marked as an acceptable realistic profit margin)\n\nYou are correct that in the LONG run for as long as BTC can sustain its value will go up. It will be incrementally and not $10,000. Even with all 21 million mined assuming that 10-12% of them are lost for good due to lost passwords etc. and considering the average increase in energy costs annually if it keeps up at its current 10 year trend. the MAX 1 bitcoin could EVER be worth is $2,180-$2,445. That is not a random number, it is the byproduct of 5 classes of 50-70 students each (ivy league economics majors) running the numbers in a blind study (did not know anything more than the numbers, no idea it was tied to bitcoin) Over 90% of them reached the same conclusion. \n\nLastly, \"adoption\" as everyone wants to call it, has NOTHING to do with the price or value right now as less than 0.5% of companies that accept bitcoin have adopted it. \n\n99.5% of companies like overstock, newegg, tiger direct, dell, etc. use bitcoin as a marketing tool. None of the big players are holding any bitcoin, not even their profits from bitcoin sales. They have not adopted it, they are simply using a third party to make it easier for you to part with your money. 99.5% of companies never see a single bitcoin, and admittedly will tell you they have no interest in obtaining any bitcoin. \n\nTo make it clear, I AM an economics expert, a professor of economics @ one of the top 10 institutions in the world. I MYSELF DO HAVE BITCOIN, not as an investment, not because i have any disillusion of it making me rich although a good marketing ploy could spike the price again (highly unlikely as the major players have already done it and made more than they can spend in a lifetime) but, i own it because it is easy to use and makes sending money to family across the US, and friends overseas easier than tying my shoes. \n\nBitcoin has changed the way money is transferred for a small percentage of the world, it has laid the framework for a new kind of money to replace the worlds current financial infrastructure, but it is not the total package or the full solution. While all of you run around chasing the \"i'm going to get rich\" train. One of you, or maybe a small group of you are already seeing bitcoin for what it really is, what it really lacks, and know its real limits, and are using that knowledge to already start building the first real \"crypto currency\" as right now Bitcoin and every other coin out there are nothing more than cryptography based digital commodities, Not money, not currency, maybe ground breaking and on the fore front of technology, but not ever going to replace or even come close to having a market share with money.\n\nIn short, Bitcoin is not currency, nor is any other crypto at current. Bitcoin is your debit card you get from your bank, without your bank. Like that small 3.75 inch piece of plastic, it holds some money for you for when you want to spend it. When you swipe that plastic card at a retail location, it transferes 1's and 0's to another parties institution meaning they now own the money. Bitcoin has actually complicated that process as it ads a 3rd step. you scan a QR code, transfer the value and now the retailer has to have a party convert that bitcoin to cash or fiat so they can actually do something with it.\n\nLets not all be a flock of sheeple controlled my mass marketing and advertising that get led into believing that any current crypto currency is anything more than what it really is. Spend a few minutes and burn a little energy letting a few neurons fire and have a thought of your own not influenced by all the marketing and advertising that has been pumped in there when it comes to what current cryptos really are. You will quickly realize that all i have done is put the obvious into text, those who argue are not capable of their own thought process and are the future cast of \"Idiocracy the reality show\" much like the movie.\n\n",
@@ -5792,7 +5792,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": 1
                               }
                             }
                           ],
@@ -5842,7 +5842,7 @@
                       "report_reasons": null,
                       "author": "Debo242424",
                       "parent_id": "t1_ckzufto",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If you think bitcoin isn't going to go back up even if it's just by manipulation alone your definitely not in this \"guys w brains\" group you speak of.  Just watch. Once the momentum starts in the other direction it won't stop easily. \n\nAlso even if your right about another coin taking the number one spot from bitcoin I guarentee you won't be invested in it.  ",
@@ -5856,7 +5856,7 @@
                       "created": 1412413670,
                       "author_flair_text": null,
                       "created_utc": 1412384870,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -6079,7 +6079,7 @@
                       "report_reasons": null,
                       "author": "BashCoBot",
                       "parent_id": "t1_ckztmw9",
-                      "score": 3,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": ":(",
@@ -6093,7 +6093,7 @@
                       "created": 1412409778,
                       "author_flair_text": null,
                       "created_utc": 1412380978,
-                      "ups": 3,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -6111,7 +6111,7 @@
             "report_reasons": null,
             "author": "[deleted]",
             "parent_id": "t3_2i7o2w",
-            "score": -6,
+            "score": -3,
             "approved_by": null,
             "controversiality": 0,
             "body": "[deleted]",
@@ -6128,7 +6128,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -6
+            "ups": -3
           }
         }
       ],

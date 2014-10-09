@@ -46,8 +46,8 @@
             "title": "I'm moving on... indefinitely..",
             "created_utc": 1412622276,
             "ups": 0,
-            "upvote_ratio": 0.31,
-            "num_comments": 9,
+            "upvote_ratio": 0.38,
+            "num_comments": 10,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -169,7 +169,7 @@
                       "report_reasons": null,
                       "author": "Tearthatwall",
                       "parent_id": "t1_cl24055",
-                      "score": 0,
+                      "score": -1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Free market to irresponsible/naive kids, no accountability for others, survival of the fitest, kill or be killed that sort of things, pick-up the coins where blood is everywhere. I know you enjoy that sort of stuff :), grow up. \n\nRegulations are made for a reason, I know its not perfect.. But nothing is perfect. Regulations are set to aim for fairness- again not perfect but its a great start. Otherwise it will be chaotic society.\n\nYes I get it, bankers/western union/governments etc can be evil at times and what? replace it with this, its no better?\n\nI saw it, Bitstamp wall appeared twice.. and it can happen again... no one can stop it. Someone is manipulating right in your face. \n\nI do not intend to get rich quick... I'm in bitcoin because it has its merits as a protocol and could be used as a currency and others. I invested time and learn.",
@@ -183,7 +183,7 @@
                       "created": 1412662628,
                       "author_flair_text": null,
                       "created_utc": 1412633828,
-                      "ups": 0,
+                      "ups": -1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -201,7 +201,7 @@
             "report_reasons": null,
             "author": "hopeful_end",
             "parent_id": "t3_2ih3rk",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "If you can not handle a free market economy and want some regulations then go fiat. It is not that hard.",
@@ -218,7 +218,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -377,7 +377,51 @@
             "banned_by": null,
             "link_id": "t3_2ih3rk",
             "likes": null,
-            "replies": "",
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ih3rk",
+                      "likes": null,
+                      "replies": "",
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2njuw",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "Tearthatwall",
+                      "parent_id": "t1_cl2bsnh",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I hear you... I hope suicide due to 'get poor quick' will not happen eventually... So, I'm just warning everyone... please consider not to spend what you cannot afford for Bitcoin. Dont sell your house/car for bitcoin... ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I hear you... I hope suicide due to &amp;#39;get poor quick&amp;#39; will not happen eventually... So, I&amp;#39;m just warning everyone... please consider not to spend what you cannot afford for Bitcoin. Dont sell your house/car for bitcoin... &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2njuw",
+                      "created": 1412694799,
+                      "author_flair_text": null,
+                      "created_utc": 1412665999,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
             "user_reports": [],
             "saved": false,
             "id": "cl2bsnh",

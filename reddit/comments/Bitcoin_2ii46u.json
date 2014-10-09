@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "MonetaryFew",
             "media": null,
-            "score": 1,
+            "score": 5,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "As long as VISA has its customers private key printed (usually engraved) on their 'credit card,' I'll be bullish on Bitcoin!",
             "created_utc": 1412639537,
-            "ups": 1,
-            "upvote_ratio": 0.53,
-            "num_comments": 5,
+            "ups": 5,
+            "upvote_ratio": 0.62,
+            "num_comments": 13,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -121,6 +121,85 @@
                                 "num_reports": null,
                                 "ups": 1
                               }
+                            },
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ii46u",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ii46u",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2v43w",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "MistakeNotDotDotDot",
+                                          "parent_id": "t1_cl2oqax",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "&gt; If you think your credit card number is a public address, please go ahead and post your number right here and wait for the funds to come in... Or not!\n\nI'm going to tell you a secret: not everything is public key cryptography.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;If you think your credit card number is a public address, please go ahead and post your number right here and wait for the funds to come in... Or not!&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;I&amp;#39;m going to tell you a secret: not everything is public key cryptography.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2v43w",
+                                          "created": 1412723816,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412695016,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2oqax",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "MonetaryFew",
+                                "parent_id": "t1_cl2h2xh",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "If you think your credit card number is a public address, please go ahead and post your number right here and wait for the funds to come in... Or not! \n\nDon't forget the safety code and expiration date... ",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;If you think your credit card number is a public address, please go ahead and post your number right here and wait for the funds to come in... Or not! &lt;/p&gt;\n\n&lt;p&gt;Don&amp;#39;t forget the safety code and expiration date... &lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2oqax",
+                                "created": 1412701255,
+                                "author_flair_text": null,
+                                "created_utc": 1412672455,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
                             }
                           ],
                           "after": null,
@@ -132,22 +211,321 @@
                       "id": "cl2h2xh",
                       "gilded": 0,
                       "report_reasons": null,
-                      "author": "SatoshisGhost",
+                      "author": "[deleted]",
                       "parent_id": "t1_cl2d4a8",
                       "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
-                      "body": "It's more like the public address printed on the card ",
+                      "body": "[deleted]",
                       "edited": false,
                       "author_flair_css_class": null,
                       "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s more like the public address printed on the card &lt;/p&gt;\n&lt;/div&gt;",
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
                       "subreddit": "Bitcoin",
                       "score_hidden": false,
                       "name": "t1_cl2h2xh",
                       "created": 1412677249,
                       "author_flair_text": null,
                       "created_utc": 1412648449,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  },
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ii46u",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ii46u",
+                                "likes": null,
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ii46u",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ii46u",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ii46u",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ii46u",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ii46u",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl2p72m",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "MonetaryFew",
+                                                                                  "parent_id": "t1_cl2p50w",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Hey! If you call credit cards a debt-based credit product... You will always get my vote! And remember everyone, paying with your credit card means you are creating new “money.” \n\nWhat a marvelous idea!\n",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Hey! If you call credit cards a debt-based credit product... You will always get my vote! And remember everyone, paying with your credit card means you are creating new “money.” &lt;/p&gt;\n\n&lt;p&gt;What a marvelous idea!&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl2p72m",
+                                                                                  "created": 1412704106,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412675306,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl2p50w",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "Oo0o8o0oO",
+                                                                        "parent_id": "t1_cl2p2gw",
+                                                                        "score": 2,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Gladly. I appreciate you being so positive. My initial reply was a bit combative and yet you've been quite friendly. I agree with the sentiment of your post. Best wishes to you.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Gladly. I appreciate you being so positive. My initial reply was a bit combative and yet you&amp;#39;ve been quite friendly. I agree with the sentiment of your post. Best wishes to you.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl2p50w",
+                                                                        "created": 1412703751,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412674951,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 2
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl2p2gw",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "MonetaryFew",
+                                                              "parent_id": "t1_cl2p1eo",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Thanks for the replies! Good feedback... I understand what you mean. I hope you still get my point.\n",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Thanks for the replies! Good feedback... I understand what you mean. I hope you still get my point.&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl2p2gw",
+                                                              "created": 1412703326,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412674526,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2p1eo",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "Oo0o8o0oO",
+                                                    "parent_id": "t1_cl2oz58",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "Im probably not as familiar as you are with PCI compliance but it seems unnecessary. Bitcoin is remaining in compliance with all bitcoin transactions by nature of it being an open protocol.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Im probably not as familiar as you are with PCI compliance but it seems unnecessary. Bitcoin is remaining in compliance with all bitcoin transactions by nature of it being an open protocol.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2p1eo",
+                                                    "created": 1412703150,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412674350,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2oz58",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "MonetaryFew",
+                                          "parent_id": "t1_cl2orsl",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "I do agree with you. Certainly... A credit card number is not exactly the same as a private key. More information is needed. But still, these things are easily retrievable. \n\nHave you ever heard of PCI compliance? You think this kind of measures make any sense in a bitcoin world? \n\nhttps://www.pcicomplianceguide.org/pci-faqs-2/#1",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I do agree with you. Certainly... A credit card number is not exactly the same as a private key. More information is needed. But still, these things are easily retrievable. &lt;/p&gt;\n\n&lt;p&gt;Have you ever heard of PCI compliance? You think this kind of measures make any sense in a bitcoin world? &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.pcicomplianceguide.org/pci-faqs-2/#1\"&gt;https://www.pcicomplianceguide.org/pci-faqs-2/#1&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2oz58",
+                                          "created": 1412702771,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412673971,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl2orsl",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "Oo0o8o0oO",
+                                "parent_id": "t1_cl2oo8m",
+                                "score": 3,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "&gt;Please explain me why this is disingenuous...\n\nBitcoin is a currency whereas credit cards are a debt-based credit product. You start with an analogy which isn't accurate. Credit cards and bitcoins serve two different purposes. Any parallels you draw from this point forward are irrelevant. \n\nBut still:\n\nIf I have your credit card, I have the ability to spend at only certain vendors (you have no billing address, cvv, PIN, corroborating ID) and only until Visa shuts down your account for suspicious activity and then refunds all of the purchases. You're mildly inconvenienced.\n\nIf I have your private key, I have your money. You're fucked. \n\nThey're not even kinda the same thing but if you make them kinda the same thing, Bitcoin doesn't look as good as your intention is trying to make it. I'm a big fan of Bitcoin but this angle isn't a strong one. It just feels like propaganda.",
+                                "edited": 1412673015,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;Please explain me why this is disingenuous...&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Bitcoin is a currency whereas credit cards are a debt-based credit product. You start with an analogy which isn&amp;#39;t accurate. Credit cards and bitcoins serve two different purposes. Any parallels you draw from this point forward are irrelevant. &lt;/p&gt;\n\n&lt;p&gt;But still:&lt;/p&gt;\n\n&lt;p&gt;If I have your credit card, I have the ability to spend at only certain vendors (you have no billing address, cvv, PIN, corroborating ID) and only until Visa shuts down your account for suspicious activity and then refunds all of the purchases. You&amp;#39;re mildly inconvenienced.&lt;/p&gt;\n\n&lt;p&gt;If I have your private key, I have your money. You&amp;#39;re fucked. &lt;/p&gt;\n\n&lt;p&gt;They&amp;#39;re not even kinda the same thing but if you make them kinda the same thing, Bitcoin doesn&amp;#39;t look as good as your intention is trying to make it. I&amp;#39;m a big fan of Bitcoin but this angle isn&amp;#39;t a strong one. It just feels like propaganda.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl2orsl",
+                                "created": 1412701502,
+                                "author_flair_text": null,
+                                "created_utc": 1412672702,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 3
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl2oo8m",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "MonetaryFew",
+                      "parent_id": "t1_cl2d4a8",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "I don't get how this is not like a private key? As far as I know, if I have someone's credit card number, I can unlock the funds and order things online. Obviously, this comes with a risk and will not go unnoticed, but still... Please explain me why this is disingenuous...",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;I don&amp;#39;t get how this is not like a private key? As far as I know, if I have someone&amp;#39;s credit card number, I can unlock the funds and order things online. Obviously, this comes with a risk and will not go unnoticed, but still... Please explain me why this is disingenuous...&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl2oo8m",
+                      "created": 1412700908,
+                      "author_flair_text": null,
+                      "created_utc": 1412672108,
                       "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
@@ -236,7 +614,7 @@
             "report_reasons": null,
             "author": "AnonymousRev",
             "parent_id": "t3_2ii46u",
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "never herd of chip and pin?",
@@ -253,7 +631,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         }
       ],

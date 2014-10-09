@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "ozme",
             "media": null,
-            "score": 7,
+            "score": 6,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Bitcoin Fibonacci Retracements – Is Leonardo predicting a bottom near $319?",
             "created_utc": 1412451751,
-            "ups": 7,
-            "upvote_ratio": 0.59,
+            "ups": 6,
+            "upvote_ratio": 0.58,
             "num_comments": 23,
             "visited": false,
             "num_reports": null,
@@ -125,7 +125,7 @@
                       "report_reasons": null,
                       "author": "paavokoya",
                       "parent_id": "t1_cl0gea1",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Chartists gonna chart",
@@ -139,7 +139,7 @@
                       "created": 1412498193,
                       "author_flair_text": null,
                       "created_utc": 1412469393,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -192,7 +192,7 @@
             "report_reasons": null,
             "author": "poop-machine",
             "parent_id": "t3_2iasvq",
-            "score": 11,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "Technical analysis is baloney. Show a randomly generated chart to chartists and they'll immediately discover \"Fibonacci retracements\", \"inverted shoulder patterns\", \"trendlines\" and \"support levels\".",
@@ -209,7 +209,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 7
           }
         },
         {
@@ -227,7 +227,7 @@
             "report_reasons": null,
             "author": "bin161",
             "parent_id": "t3_2iasvq",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "By the same logic, why did it bust through the $499 \"resistance\"?",
@@ -244,7 +244,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -388,7 +388,7 @@
                       "report_reasons": null,
                       "author": "rydan",
                       "parent_id": "t1_cl0es03",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "313 is also a prime number.",
@@ -402,7 +402,7 @@
                       "created": 1412487836,
                       "author_flair_text": null,
                       "created_utc": 1412459036,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -502,7 +502,7 @@
                       "report_reasons": null,
                       "author": "butt_tip",
                       "parent_id": "t1_cl0es03",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Is zero a prime? ",
@@ -516,7 +516,7 @@
                       "created": 1412481325,
                       "author_flair_text": null,
                       "created_utc": 1412452525,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -581,7 +581,7 @@
                       "report_reasons": null,
                       "author": "ozme",
                       "parent_id": "t1_cl0fa31",
-                      "score": 1,
+                      "score": 0,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Ready your bids!",
@@ -595,7 +595,7 @@
                       "created": 1412481937,
                       "author_flair_text": null,
                       "created_utc": 1412453137,
-                      "ups": 1,
+                      "ups": 0,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -672,7 +672,7 @@
                                 "report_reasons": null,
                                 "author": "Y3808",
                                 "parent_id": "t1_cl0fjwq",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Can confirm, Voodoo priestesses sacrifice chickens every year for the New Orleans Saints.  The Saints are garbage, and the chickens didn't do shit.",
@@ -689,7 +689,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -736,7 +736,7 @@
             "report_reasons": null,
             "author": "ptole",
             "parent_id": "t3_2iasvq",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Use open/close points for fib endpoints, not the session extremes.",
@@ -753,7 +753,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -806,7 +806,7 @@
             "report_reasons": null,
             "author": "brezzz",
             "parent_id": "t3_2iasvq",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Another chart that  predicts that the price of bitcoin is close to, but not quite at, the bottom. My dowsing rods are telling me this is junk analysis, but who knows, one of these days they will probably be right and see a dead-cat bounce or two. ",
@@ -823,7 +823,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {

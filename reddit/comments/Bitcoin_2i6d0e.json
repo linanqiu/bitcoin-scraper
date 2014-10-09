@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "robertgenito",
             "media": null,
-            "score": 45,
+            "score": 42,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "My vision and passion over the last 2 years...",
             "created_utc": 1412331068,
-            "ups": 45,
-            "upvote_ratio": 0.86,
+            "ups": 42,
+            "upvote_ratio": 0.84,
             "num_comments": 44,
             "visited": false,
             "num_reports": null,
@@ -126,7 +126,7 @@
                                                     "report_reasons": null,
                                                     "author": "jbusma",
                                                     "parent_id": "t1_cl09m5t",
-                                                    "score": 2,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Oh yeah this guy is great everyone :)\n\nQuick to answer emails.",
@@ -143,7 +143,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -222,7 +222,7 @@
                       "report_reasons": null,
                       "author": "robertgenito",
                       "parent_id": "t1_ckz99ya",
-                      "score": 3,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Thank you for asking:) Although I'd rather not compare it to LBC. WallofCoins.com was inspired by BitInstant, #bitcoin-otc, and a few other of my technical obsessions. I'm not sure where to start...there are a lot of things WallofCoins.com is doing differently.\n\nTo start: it's the first fully-transparent market (that I know of). All deposit addresses are posted on a separate server and verified using my GPG key. https://deposits.wallofcoins.com",
@@ -236,7 +236,7 @@
                       "created": 1412365055,
                       "author_flair_text": null,
                       "created_utc": 1412336255,
-                      "ups": 3,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -254,7 +254,7 @@
             "report_reasons": null,
             "author": "ferroh",
             "parent_id": "t3_2i6d0e",
-            "score": 10,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Can you tell us some of the ways that this is different/better than [localbitcoins](https://localbitcoins.com/)?",
@@ -271,7 +271,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 8
           }
         },
         {
@@ -360,7 +360,7 @@
                                           "report_reasons": null,
                                           "author": "robertgenito",
                                           "parent_id": "t1_ckzanv0",
-                                          "score": 4,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "I promise to fix once banks in the UK are supported! Then again, I'd rather license the code to someone in the UK who really loves and cares about people having an easy way to get coins.\n\nOh...do you have a google voice line? That may be an option.",
@@ -374,7 +374,7 @@
                                           "created": 1412369100,
                                           "author_flair_text": null,
                                           "created_utc": 1412340300,
-                                          "ups": 4,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -392,7 +392,7 @@
                                 "report_reasons": null,
                                 "author": "MaxSan",
                                 "parent_id": "t1_ckza7bn",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "No, I cant. In the UK phone numbers begin with a 0 or internationally 0044 or a +44. None of these digits are excepted by your filter system.",
@@ -409,7 +409,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             }
                           ],
@@ -424,7 +424,7 @@
                       "report_reasons": null,
                       "author": "robertgenito",
                       "parent_id": "t1_ckza4g2",
-                      "score": 3,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "now that I think about it... you probably can lol. The phone number input limits to 10 digits. Give it a try? Right now just the top 10 banks in the USA are supported, but definitely looking to expand to reach others.",
@@ -438,7 +438,7 @@
                       "created": 1412366944,
                       "author_flair_text": null,
                       "created_utc": 1412338144,
-                      "ups": 3,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -706,7 +706,7 @@
                                                     "report_reasons": null,
                                                     "author": "CropCircleSystems",
                                                     "parent_id": "t1_ckzd0nr",
-                                                    "score": 3,
+                                                    "score": 1,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "I can certainly say after going through the procedure a few times, the user in me is saying \"hooray\" and the opportunistic scammer in me was saying \"damn, I'm gonna need to find a real job soon\". Hahaha. I didn't even try it but I have enough experience on both sides of the scam and my mind's gone through the permutations and I think there's no benefit to attempting to run a scam through wallofcoins.com unless your goal is nothing more than giving people headaches while dragging your FDIC insured bank account and federally recognized identity through the mud and possibly to prison.\n\nTo be clear because I don't think I've seen it mentioned yet, a seller sends their coins FIRST to a one-use cold-stored address controlled only by Wall of Coins before even listed as available for sale so unless the seller can defraud a buyer AND THEN convince agents at the the company to side with them, all they can really do is delay and inconvenience the process. I recommended a hard-line policy that no one gets their money back in the case of a dispute that isn't resolved with a total agreement between buyer and seller. The coins should be burnt (sent to a provably unspendable address) in such a case. (The value is then effectively distributed to all other holders of bitcoin, proportionately.) This would be the most secure and effective protection against dishonesty because it removes the financial incentive to be dishonest. It may be too early for users to understand that accepting a policy of possibly burning their coins actually results in a far smaller likelihood of loss, because we live in an era of \"consumer protections\" breeding consumer idiots, for the most part. This topic could use some further debate.",
@@ -723,7 +723,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 3
+                                                    "ups": 1
                                                   }
                                                 }
                                               ],
@@ -802,7 +802,7 @@
                       "report_reasons": null,
                       "author": "robertgenito",
                       "parent_id": "t1_ckzavk1",
-                      "score": 5,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Good question. While this turns into a huge web of a flow chart diagram, here are the basics: All coins are held *entirely* in cold storage. When you vouch to buy coins, you're asked to either SMS text reply with a code to verify once you've made the payment, or text reply with a code to cancel your purchase. My team members (or myself for when things get too busy!) fight for your coin's release.\n\nIf you're a seller, you receive a text message when the buyer makes the payment. If their deposit is correct, you SMS text a verification. If the deposit is not correct, or is missing, you text reply with a different code. I could literally write a book about this...and already have in our internal docs. I should release them:)",
@@ -816,7 +816,7 @@
                       "created": 1412369872,
                       "author_flair_text": null,
                       "created_utc": 1412341072,
-                      "ups": 5,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1051,7 +1051,7 @@
                                 "report_reasons": null,
                                 "author": "CropCircleSystems",
                                 "parent_id": "t1_ckzeb37",
-                                "score": 4,
+                                "score": 5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I haven't had occasion to use the site since about four days ago so maybe not yet but I imagine I will soon be on it again and as always I'll be sure to let you know my impressions and ideas.\n\nTo others, I've been using the site for over a month now and my feedback has always been about minor tweaks and ideas. Through the private beta I've only experienced smooth, painless operation. I found no bugs or even minor glitches that would hinder my use in any way. I have always walked away from each deal with the impression that the site seems technically very sound and Rob is being diligent and thorough when it comes to all the areas of the business not just the code. All I ever thought it could use was more users so I'm excited about the public launch.",
@@ -1068,7 +1068,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 4
+                                "ups": 5
                               }
                             }
                           ],
@@ -1115,7 +1115,7 @@
             "report_reasons": null,
             "author": "CropCircleSystems",
             "parent_id": "t3_2i6d0e",
-            "score": 3,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I have traded bitcoins locally and online since 2011 via almost every method, exchange, website, forum or chatroom you can mention. I've used wallofcoins.com now five or six times to buy bitcoins and it is mind-blowingly simple. It is so simple that, if you are not new to bitcoin, you might say to yourself \"Where is all the bullshit I'm accustomed to? What happened to all the hoops I have to jump through?\" I recommend that anyone with questions simply connect and buy a small amount of coin. (I wouldn't recommend trying to sell just a small amount of coin because you will only get matched to buyers of equal or smaller amounts since there's no aggregation happening on the buying side, I imagine because to do so would complicate the buyer's experience. At any rate, selling any amount is simple, effective and able to be transparently audited.) There's almost no \"explaining\" the simplicity. I do not miss the hoops or the bullshit and I have practically all but forgotten about other ways to buy and sell bitcoins.\n\nNote: I am not compensated by or affiliated with Wall of Coins however I have met it's creator, this guy Rob, a couple months ago through a mutual good friend. I've been to his company's office in Sarasota, Florida which is about an hour from where I live. I've given him a little feedback while he developed the site and it was in a private beta phase our friend had invited me to. I have no skin in Rob's business beyond that of the obvious benefit that comes with having a quick and easy way to buy coins and super simple way to sell coins while naming my own price. I can also say I meet a lot of nerds through the course of business who talk a big talk and Rob is one of the slim slim few with a real attention to tiny detail, passion for quality and correctness, who has a real understanding of the very many facets of information and financial security.\n\nFYI, I myself am a notorious scam artist and degenerate gambler, so put a dash of salt on my words to fit your taste, but I'm being totally honest. I have never before been able to recommend to new bitcoin users any method of buying or selling other than \"send your money to me and your prayers to God.\" Hahaha. And now finally, this is a great way I think that both beginners and experts will appreciate.",
@@ -1132,7 +1132,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 1
           }
         },
         {
@@ -1320,7 +1320,7 @@
                       "report_reasons": null,
                       "author": "robertgenito",
                       "parent_id": "t1_ckz9l48",
-                      "score": 3,
+                      "score": 5,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "do you know one?",
@@ -1334,7 +1334,7 @@
                       "created": 1412364913,
                       "author_flair_text": null,
                       "created_utc": 1412336113,
-                      "ups": 3,
+                      "ups": 5,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1757,7 +1757,7 @@
                                           "report_reasons": null,
                                           "author": "robertgenito",
                                           "parent_id": "t1_ckzbu9j",
-                                          "score": 5,
+                                          "score": 4,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Definitely up for interpretation. It could also mean, \"We cared far more about the critical back end and critical business process,\" or even, \"We're minimalists.\" Most of the front-end love and attention has been the javascript / behavioral part, and automated selenium testing. Design will get there.\n\nHence Rome wasn't built in a day...",
@@ -1771,7 +1771,7 @@
                                           "created": 1412372419,
                                           "author_flair_text": null,
                                           "created_utc": 1412343619,
-                                          "ups": 5,
+                                          "ups": 4,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1853,7 +1853,7 @@
             "report_reasons": null,
             "author": "lclc_",
             "parent_id": "t3_2i6d0e",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Please get a webdesigner.",
@@ -1870,7 +1870,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         }
       ],

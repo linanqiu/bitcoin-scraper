@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "bittime",
             "media": null,
-            "score": 12,
+            "score": 19,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "BitBeat: Bitcoin Finds Willing Buyers, Even With Prices Plunging",
             "created_utc": 1412644193,
-            "ups": 12,
+            "ups": 19,
             "upvote_ratio": 0.89,
-            "num_comments": 1,
+            "num_comments": 2,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -62,7 +62,43 @@
     "kind": "Listing",
     "data": {
       "modhash": "",
-      "children": [],
+      "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iid5t",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2pq1w",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "sgornick",
+            "parent_id": "t3_2iid5t",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Josh sure gets a lot of mileage from that pic (Taken at Bitcoin Conference 2013, San Jose).  Too bad these news outlets always crop out the rest of the photo: http://assets.sbnation.com/assets/2649159/btc-billionaire-300.jpg",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Josh sure gets a lot of mileage from that pic (Taken at Bitcoin Conference 2013, San Jose).  Too bad these news outlets always crop out the rest of the photo: &lt;a href=\"http://assets.sbnation.com/assets/2649159/btc-billionaire-300.jpg\"&gt;http://assets.sbnation.com/assets/2649159/btc-billionaire-300.jpg&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2pq1w",
+            "created": 1412707201,
+            "author_flair_text": null,
+            "created_utc": 1412678401,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
+          }
+        }
+      ],
       "after": null,
       "before": null
     }

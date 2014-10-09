@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "rp990",
             "media": null,
-            "score": 3,
+            "score": 5,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Just got my trezor...",
             "created_utc": 1412647901,
-            "ups": 3,
+            "ups": 5,
             "upvote_ratio": 1,
             "num_comments": 1,
             "visited": false,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "Aussiehash",
             "parent_id": "t3_2iikly",
-            "score": 2,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "No need to wipe it, out of the box it in uninitialized.\n\nIf you are a tin foil hatter, and you want to make sure somebody hasn't uploaded evil firmware onto the device between the Czech republic to your mailbox, you can (re)flash the firmware, although this is unnecessary as you will see a warning if unsigned firmware is running on Trezor.\n\nhttp://www.reddit.com/r/TREZOR/comments/2gf1uv/is_it_possible_for_an_infected_machine_to_modify/\n\nMy first edition trezor came with 1.2.0 firmware, which required an 1.2.1 firmware upgrade to use `myTrezor.com`",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 3
           }
         }
       ],

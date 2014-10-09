@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "thoughtrationality",
             "media": null,
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Any other Australians panicking?",
             "created_utc": 1412640624,
-            "ups": 0,
-            "upvote_ratio": 0.44,
+            "ups": 1,
+            "upvote_ratio": 0.54,
             "num_comments": 5,
             "visited": false,
             "num_reports": null,
@@ -218,7 +218,7 @@
             "report_reasons": null,
             "author": "nobodybelievesyou",
             "parent_id": "t3_2ii6ae",
-            "score": -1,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Help, a service started by a guy so notorious for losing bitcoins that there is a bitcoin rapper named after him is not working",
@@ -235,7 +235,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 1
           }
         }
       ],

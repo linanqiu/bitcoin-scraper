@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "bitcoinexperto",
             "media": null,
-            "score": 14,
+            "score": 15,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "The problem is not the technology, the problems is in the markets.",
             "created_utc": 1412457519,
-            "ups": 14,
-            "upvote_ratio": 0.63,
-            "num_comments": 48,
+            "ups": 15,
+            "upvote_ratio": 0.64,
+            "num_comments": 47,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "bitcoinexperto",
                       "parent_id": "t1_cl0hte2",
-                      "score": 0,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "That looks good, thank you. I'll look into it.",
@@ -104,7 +104,7 @@
                       "created": 1412488144,
                       "author_flair_text": null,
                       "created_utc": 1412459344,
-                      "ups": 0,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "SimonBelmond",
             "parent_id": "t3_2ib1qb",
-            "score": 8,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "OK, please have a look at OpenTransactions. It features voting pools and auditing and incentivices competitors to participate because users like you and I demand it. On top of it, it will be possible to build almost trustless exchanges. Of course the FIAT side is more difficult. Banks could issue Cryptofiat as colored coins, however.\n\nhttp://otblog.net/2014/05/open-transactions-introduction/\n\nhttp://opentransactions.org/wiki/index.php/About\n\n(many videos linked to the right)\n\nhttp://otblog.net/2014/06/voting-pools-colored-coins-talk-crypto-valley/\n",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -157,7 +157,7 @@
             "report_reasons": null,
             "author": "aaronvoisine",
             "parent_id": "t3_2ib1qb",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "If you think the price is being manipulated, then why not profit off the manipulators? You have a personal profit incentive to help correct the market. Buy the coins they're selling cheap now to push down the price (which helps counteract their attempts) and wait for the pump that these same manipulators will have to later pull off to make a profit.",
@@ -174,7 +174,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -283,7 +283,7 @@
                       "report_reasons": null,
                       "author": "bitcoinexperto",
                       "parent_id": "t1_cl0hqmv",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Ok, so no control at all then... Let the shady people among us do whatever they want with the markets at the cost of everyone else?\n\nJust for the record: I'm not screaming for regulation, just want *reliable* markets and I'm not sure what is the way to achieve that.",
@@ -297,7 +297,7 @@
                       "created": 1412488062,
                       "author_flair_text": null,
                       "created_utc": 1412459262,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -315,7 +315,7 @@
             "report_reasons": null,
             "author": "H100P",
             "parent_id": "t3_2ib1qb",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Regulations. That is exactly what they want! Control. So now they rig the price down, so \"we\" scream for regulation and control. So their mission is accomplished. Very sad. \nThat's my view",
@@ -332,7 +332,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -350,7 +350,7 @@
             "report_reasons": null,
             "author": "pdtmeiwn",
             "parent_id": "t3_2ib1qb",
-            "score": 4,
+            "score": 5,
             "approved_by": null,
             "controversiality": 0,
             "body": "So we need to get rid of free markets in order for the free market to work...",
@@ -367,7 +367,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 5
           }
         },
         {
@@ -543,7 +543,7 @@
             "report_reasons": null,
             "author": "kwanijml",
             "parent_id": "t3_2ib1qb",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I'm not opposed to patronizing exchanges with tighter controls (e.g. an insurance agency and or industry watchdog which regularly audits).  That's how regulation is beneficial: when it is voluntary so that it can't stifle valuable innovation for actors who wish to take on more risk; and when it is based on market demand, and done by entities who have skin in the game if their regulations fail.\n\nSo please keep in mind that Gox happened precisely because of state imposed controls (i.e. coercive centralized regulation).  The result of the state's meddling and the uncertain investing environment it created is/was a lack of well-funded competition; which is what lead the masses to have little other choice than Gox, and for the exchange industry in general to have little competition and remain immature for so long.",
@@ -560,7 +560,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -692,7 +692,7 @@
             "report_reasons": null,
             "author": "vaginasyndrome",
             "parent_id": "t3_2ib1qb",
-            "score": 2,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "why do people always say the market value is 'X' and that is what someone is willing to buy/sell? This isnt cut and dry economics fucking 101!!!!\nI will give you a perfect example.  10 millionaire friends all approach an early adopter friend and say\" we all want to buy 10000 btc each,the Miner has 10 wallets preloaded with 10k bitcoin on each.  They hand over the money at market price, the adopter hands over the wallets. 100,000 bitcoin just exchanged hands. This doesnt affect the price because it is unknown, if it were known the real true price could be justified.",
@@ -709,7 +709,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 2
+            "ups": 1
           }
         },
         {
@@ -809,7 +809,7 @@
                       "report_reasons": null,
                       "author": "BigMoneyGuy",
                       "parent_id": "t1_cl0jkc3",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "PoS is not a viable alternative to PoW unless you want a 100% centralized coin, please stop trying to push that shit.\n\n&gt; competitors like Ripple may go mainstream before Bitcoin can catch up\n\nLOL. You mean Ripple, the centralized scamcoin that got dumped by its own creator and was then cloned and rebranded into \"Stellar\" (by the same guy) to restart the pump cycle?",
@@ -823,7 +823,7 @@
                       "created": 1412496819,
                       "author_flair_text": null,
                       "created_utc": 1412468019,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -844,7 +844,7 @@
                       "report_reasons": null,
                       "author": "paleh0rse",
                       "parent_id": "t1_cl0jkc3",
-                      "score": -2,
+                      "score": -1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Fuck Ripple. Please leave all discussions of your centralized scam coins in your own sub...",
@@ -858,7 +858,7 @@
                       "created": 1412511498,
                       "author_flair_text": null,
                       "created_utc": 1412482698,
-                      "ups": -2,
+                      "ups": -1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -876,7 +876,7 @@
             "report_reasons": null,
             "author": "wildgeraas",
             "parent_id": "t3_2ib1qb",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "The problem IS technology: miners are awarded 4000 BTC daily and they cash out 90% - paid for by gullible hodlers.\n\nThe mining algorithm is Bitcoin's strenght AND weakness. Partial proof-of-stake may fix this, but will take 2-3 years to hard fork. Until then, competitors like Ripple may go mainstream before Bitcoin can catch up.",
@@ -893,7 +893,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -997,16 +997,16 @@
             "id": "cl0j56j",
             "gilded": 0,
             "report_reasons": null,
-            "author": "sacktap",
+            "author": "[deleted]",
             "parent_id": "t3_2ib1qb",
-            "score": -1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
-            "body": "BitSharesX was designed to accomplish this. It's a decentralized exchange and bank. \n\nhttp://wiki.bitshares.org/index.php/What_is_BitShares\n\nhttp://wiki.bitshares.org/index.php/FAQs",
+            "body": "[deleted]",
             "edited": false,
             "author_flair_css_class": null,
             "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;BitSharesX was designed to accomplish this. It&amp;#39;s a decentralized exchange and bank. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://wiki.bitshares.org/index.php/What_is_BitShares\"&gt;http://wiki.bitshares.org/index.php/What_is_BitShares&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://wiki.bitshares.org/index.php/FAQs\"&gt;http://wiki.bitshares.org/index.php/FAQs&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;[deleted]&lt;/p&gt;\n&lt;/div&gt;",
             "subreddit": "Bitcoin",
             "score_hidden": false,
             "name": "t1_cl0j56j",
@@ -1016,7 +1016,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         },
         {
@@ -1173,7 +1173,7 @@
                                                               "report_reasons": null,
                                                               "author": "paleh0rse",
                                                               "parent_id": "t1_cl0sa79",
-                                                              "score": -2,
+                                                              "score": -1,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "Any time you mention expanding the supply, you've left \"appropriate criticism and sound logic\" far behind...",
@@ -1187,7 +1187,7 @@
                                                               "created": 1412514248,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412485448,
-                                                              "ups": -2,
+                                                              "ups": -1,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -1205,7 +1205,7 @@
                                                     "report_reasons": null,
                                                     "author": "cryptard",
                                                     "parent_id": "t1_cl0rh41",
-                                                    "score": 2,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "I'm cool with it, but it doesn't mean I'm not going to call it out. Some members might even start to question the integrity of this community as I get under the skin of deluded fanatics when they're confronted by my criticisms and sound logic.\n\nI am that euphoric.",
@@ -1222,7 +1222,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 2
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -1237,7 +1237,7 @@
                                           "report_reasons": null,
                                           "author": "paleh0rse",
                                           "parent_id": "t1_cl0l6iq",
-                                          "score": -2,
+                                          "score": -1,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Any discussion of expanding the supply of Bitcoin is *rightfully* going to be met with derision and scorn.\n\nDeal with that or GTFO.",
@@ -1251,7 +1251,7 @@
                                           "created": 1412511783,
                                           "author_flair_text": null,
                                           "created_utc": 1412482983,
-                                          "ups": -2,
+                                          "ups": -1,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1269,7 +1269,7 @@
                                 "report_reasons": null,
                                 "author": "cryptard",
                                 "parent_id": "t1_cl0jasl",
-                                "score": 2,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "It's not fiat, it's backed on energy - or proof of energy burned.\n\n\"Let's not mess with the formula\" - it's hilarious how dismissive bitcoiners are to any innovation that doesn't directly provide profit to their investment. Proponents of supposed revolutionary technology telling others to not even try to improve the model. What a charade.\n\nBy all means, keep riding your Austrian economics and your anti-gub'ment rhetorics while bitcoin dissolves. Ideology-based pumps have come and gone. There's no scarcity with open-sourced technology that anyone can iterate on and reboot with.",
@@ -1286,7 +1286,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 3
                               }
                             }
                           ],
@@ -1301,7 +1301,7 @@
                       "report_reasons": null,
                       "author": "lostrom2000",
                       "parent_id": "t1_cl0i1fk",
-                      "score": 2,
+                      "score": 1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "What you're proposing is just another version of fiat.  Inflation is something that as a society, we've been conditioned to accept as normal, but it is not.  Scarcity combined with utility is what creates value.  Fiat definitely is not scarce and it has utility only because the gov't tells us it does, it's basically just scrip whose \"value\" is only as good as the gov't that issues it.  \nBitcoin is created outside of any one gov't, has utility and is scarce.   Let's not mess with that formula.",
@@ -1315,7 +1315,7 @@
                       "created": 1412491572,
                       "author_flair_text": null,
                       "created_utc": 1412462772,
-                      "ups": 2,
+                      "ups": 1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1533,7 +1533,7 @@
                                                                                                       "report_reasons": null,
                                                                                                       "author": "Natanael_L",
                                                                                                       "parent_id": "t1_cl0wxj8",
-                                                                                                      "score": -1,
+                                                                                                      "score": 0,
                                                                                                       "approved_by": null,
                                                                                                       "controversiality": 0,
                                                                                                       "body": "How could you, unless you're willing to blindly trust their security and value? It would be like accepting some random painting as payment, being told it is valuable. You can't confirm it without a lot of work.",
@@ -1547,7 +1547,7 @@
                                                                                                       "created": 1412538041,
                                                                                                       "author_flair_text": null,
                                                                                                       "created_utc": 1412509241,
-                                                                                                      "ups": -1,
+                                                                                                      "ups": 0,
                                                                                                       "mod_reports": [],
                                                                                                       "num_reports": null,
                                                                                                       "distinguished": null
@@ -1597,7 +1597,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "Natanael_L",
                                                                                   "parent_id": "t1_cl0w53h",
-                                                                                  "score": 1,
+                                                                                  "score": 2,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "And yet all the ISP:s uses BGP and IP ranges from ICANN as well as their DNS system to remain compatible, instead of trying to establish their own assignments with the same protocols. Same with the Bitcoin blockchain, it is that ledger and its rules which has the majority of the momentum. \n\nNobody seriously tried to undermine the existing globally coordinated standards around IPv4 &amp; co and replace all the assignments and stuff to push for their own tech. It just doesn't make sense to even try. \n\nMicrosoft tried to make the web proprietary with their messy implementation in IE6, with ActiveX and later with Silverlight. It failed, and now they're sticking with same standards everybody else are using, and now contribute work to further HTML development as well. It will be the same with Bitcoin, you can't fight the whole world.\n\nYou can't be interoperable with the world without using the language they are talking. \n\nWith cryptocurrencies the ledger in use essentially is the dictionary of the language, and you can't be compatible with somebody who don't use your ledger. ",
@@ -1611,7 +1611,7 @@
                                                                                   "created": 1412533358,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412504558,
-                                                                                  "ups": 1,
+                                                                                  "ups": 2,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -1725,7 +1725,7 @@
                                           "report_reasons": null,
                                           "author": "paleh0rse",
                                           "parent_id": "t1_cl0lqvh",
-                                          "score": -1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Alt coins only serve two distinct functions:  \n\n1) pump and dumps for their creators, and  \n2) test beds for ideas that can eventually be perfected and implemented in/on Bitcoin itself.\n\nIt's pretty clear that you're only untested in the first...",
@@ -1739,7 +1739,7 @@
                                           "created": 1412511961,
                                           "author_flair_text": null,
                                           "created_utc": 1412483161,
-                                          "ups": -1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1757,7 +1757,7 @@
                                 "report_reasons": null,
                                 "author": "cryptard",
                                 "parent_id": "t1_cl0iokl",
-                                "score": 0,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "How does the gold analogy work with the existence of altcoins with apparent value? There's also no enforced exclusivity of bitcoin for any service that deals with bitcoin - most deal with multiple coins, and are primed to continuously accept any popular ones.\n\nDo people still really  believe this idiocy? ",
@@ -1774,7 +1774,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 0
+                                "ups": 1
                               }
                             }
                           ],
@@ -1789,7 +1789,7 @@
                       "report_reasons": null,
                       "author": "Natanael_L",
                       "parent_id": "t1_cl0i1fk",
-                      "score": 0,
+                      "score": -1,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Sounds like gold ",
@@ -1803,7 +1803,7 @@
                       "created": 1412490095,
                       "author_flair_text": null,
                       "created_utc": 1412461295,
-                      "ups": 0,
+                      "ups": -1,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1821,7 +1821,7 @@
             "report_reasons": null,
             "author": "cryptard",
             "parent_id": "t3_2ib1qb",
-            "score": -5,
+            "score": -2,
             "approved_by": null,
             "controversiality": 0,
             "body": "The problem is the implementation of the currency on bitcoin's end. It has a pyramid structure which is going to discourage new users. It's designed around giving incentive to early adopters instead of promoting new users; bitcoin is insecure about itself from the start.\n\nGive me a coin that I can reliably burn energy to consistently make, remove arbitrary caps that attempt to *force* value, and allow advancements in hardware efficiency to dictate inflation. People will use it, adopt it, and spend far less time trying to play wall street with it. It's the eventual future of cryptocurrency and the inevitable death of bitcoin.",
@@ -1838,7 +1838,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -5
+            "ups": -2
           }
         }
       ],

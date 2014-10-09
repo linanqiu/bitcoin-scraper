@@ -46,7 +46,7 @@
             "title": "Reverse \"pay with bitcoin\". User pays by credit card and I receive bitcoin. Does this exist?",
             "created_utc": 1412456492,
             "ups": 11,
-            "upvote_ratio": 0.76,
+            "upvote_ratio": 0.78,
             "num_comments": 10,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "iwantathink",
             "parent_id": "t3_2ib065",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "Yes. Bitpagos.com, an argentine startup. ",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -324,7 +324,7 @@
             "report_reasons": null,
             "author": "smartfbrankings",
             "parent_id": "t3_2ib065",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "coinvoice.",
@@ -341,7 +341,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 2
           }
         },
         {
@@ -359,7 +359,7 @@
             "report_reasons": null,
             "author": "wbic16",
             "parent_id": "t3_2ib065",
-            "score": 0,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "I think you'd do better to setup daily or weekly buys using your profits. That way you cover your costs while minimizing the risk of Bitcoin losing value.",
@@ -376,7 +376,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 0
+            "ups": 1
           }
         },
         {
@@ -438,7 +438,7 @@
             "report_reasons": null,
             "author": "Kurdish-Nationalist",
             "parent_id": "t3_2ib065",
-            "score": -1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "I think it could be implemented, maybe with PayPal.\n\nExample:\n\nYou have a webshop and you accept PayPal payments.\nPayPal integrates Bitcoin. You accept Credit Card &amp; Bitcoin payments via PayPal.\n\nUser pays with his Credit Card, via PayPal.\n\nPayPal converts his payment to Bitcoin instantly and adds that to your PayPal Bitcoin balance.\n\n",
@@ -455,7 +455,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -1
+            "ups": 0
           }
         }
       ],

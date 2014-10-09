@@ -47,7 +47,7 @@
             "created_utc": 1412589232,
             "ups": 14,
             "upvote_ratio": 0.94,
-            "num_comments": 6,
+            "num_comments": 14,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -141,7 +141,183 @@
                                           "banned_by": null,
                                           "link_id": "t3_2ifnw2",
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ifnw2",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ifnw2",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ifnw2",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ifnw2",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl3pfmv",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "blanket12334",
+                                                                                  "parent_id": "t1_cl33a2a",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "How would they devalue the currency? Who gets the additional notes that are printed?\n\nIt seems like if the notes are distributed proportionally to current note holders, then the real value of their money holdings would remain unchanged and so purchasing power abroad and at home would remain unchanged (you'd just find a new equilibrium at a higher price level).\n\nIf new notes were all claimed and spent by the government, then you would get the intended result: locals will buy less and sell more across the border. However, this result is merely a product of a poorer population... when they have less money in real terms they are forced to buy less and sell more. That seems like a bad thing!\n\nI guess I'm having trouble understanding why a current account surplus or deficit is a good or bad thing. Maybe you could elaborate on that for me?\n\nThanks again, I appreciate the effort in your responses and I am finding the discussion quite interesting",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;How would they devalue the currency? Who gets the additional notes that are printed?&lt;/p&gt;\n\n&lt;p&gt;It seems like if the notes are distributed proportionally to current note holders, then the real value of their money holdings would remain unchanged and so purchasing power abroad and at home would remain unchanged (you&amp;#39;d just find a new equilibrium at a higher price level).&lt;/p&gt;\n\n&lt;p&gt;If new notes were all claimed and spent by the government, then you would get the intended result: locals will buy less and sell more across the border. However, this result is merely a product of a poorer population... when they have less money in real terms they are forced to buy less and sell more. That seems like a bad thing!&lt;/p&gt;\n\n&lt;p&gt;I guess I&amp;#39;m having trouble understanding why a current account surplus or deficit is a good or bad thing. Maybe you could elaborate on that for me?&lt;/p&gt;\n\n&lt;p&gt;Thanks again, I appreciate the effort in your responses and I am finding the discussion quite interesting&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl3pfmv",
+                                                                                  "created": 1412801598,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412772798,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl33a2a",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "BTCoverlord",
+                                                                        "parent_id": "t1_cl31nw2",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Well, I think it's obvious. By devaluating the currency, for this particular aspect, they make people buy less foreign, and as such, since having a weak currency, expensive goods.\n\nAt the same time, since the work is cheap (compared to external goods), but the wages stays up to date with the 1st necessity goods these countries already produced by themselves, people are not in poverty. After all, they can afford housing, food, and basic goods easily.\n\nAt the same time, they produce for cheap (again, compared to foreign goods), so the country has a lot of these agricultural, and fishing goods available for exporting.\n\nThat equilibrates the import/export balance, or even pushes it to benefit these countries.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Well, I think it&amp;#39;s obvious. By devaluating the currency, for this particular aspect, they make people buy less foreign, and as such, since having a weak currency, expensive goods.&lt;/p&gt;\n\n&lt;p&gt;At the same time, since the work is cheap (compared to external goods), but the wages stays up to date with the 1st necessity goods these countries already produced by themselves, people are not in poverty. After all, they can afford housing, food, and basic goods easily.&lt;/p&gt;\n\n&lt;p&gt;At the same time, they produce for cheap (again, compared to foreign goods), so the country has a lot of these agricultural, and fishing goods available for exporting.&lt;/p&gt;\n\n&lt;p&gt;That equilibrates the import/export balance, or even pushes it to benefit these countries.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl33a2a",
+                                                                        "created": 1412739482,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412710682,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl31nw2",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "blanket12334",
+                                                              "parent_id": "t1_cl2o8xr",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Could you explain why that would be an issue and how controlling money and credit markets could positively impact the situation?\n\nI can't envision it without further detail. Thanks",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Could you explain why that would be an issue and how controlling money and credit markets could positively impact the situation?&lt;/p&gt;\n\n&lt;p&gt;I can&amp;#39;t envision it without further detail. Thanks&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl31nw2",
+                                                              "created": 1412736598,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412707798,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2o8xr",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "BTCoverlord",
+                                                    "parent_id": "t1_cl2f1yz",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "No they can't, specially for a small nation that relies mainly on agriculture, fishing and other low priced products while practically all of it's high end technology comes from the outside.\n\nCurbing consumerism by controlling the currency, is a perfectly acceptable way for the state to balance their imports/exports.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No they can&amp;#39;t, specially for a small nation that relies mainly on agriculture, fishing and other low priced products while practically all of it&amp;#39;s high end technology comes from the outside.&lt;/p&gt;\n\n&lt;p&gt;Curbing consumerism by controlling the currency, is a perfectly acceptable way for the state to balance their imports/exports.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2o8xr",
+                                                    "created": 1412698383,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412669583,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "cl2f1yz",
@@ -176,7 +352,183 @@
                                           "banned_by": null,
                                           "link_id": "t3_2ifnw2",
                                           "likes": null,
-                                          "replies": "",
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ifnw2",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ifnw2",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ifnw2",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ifnw2",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl32010",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "blanket12334",
+                                                                                  "parent_id": "t1_cl31lcm",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "OK, I see. Thank you.\n\nIn light of your comments I would change my original statement to \"inflation\" rather than \"extreme inflation.\"  The severity of the inflation would be proportional to the severity of their financial ruin.",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OK, I see. Thank you.&lt;/p&gt;\n\n&lt;p&gt;In light of your comments I would change my original statement to &amp;quot;inflation&amp;quot; rather than &amp;quot;extreme inflation.&amp;quot;  The severity of the inflation would be proportional to the severity of their financial ruin.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl32010",
+                                                                                  "created": 1412737187,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412708387,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl31lcm",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "BTCoverlord",
+                                                                        "parent_id": "t1_cl31cdo",
+                                                                        "score": 1,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "They devaluated their currency. Yes they had inflation, controlled one. But let's not pretend your point, which I was clearly addressing, wasn't that they had *\"extreme inflation\"*. That's what you specifically stated and that's what I was telling you that you where wrong about.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;They devaluated their currency. Yes they had inflation, controlled one. But let&amp;#39;s not pretend your point, which I was clearly addressing, wasn&amp;#39;t that they had &lt;em&gt;&amp;quot;extreme inflation&amp;quot;&lt;/em&gt;. That&amp;#39;s what you specifically stated and that&amp;#39;s what I was telling you that you where wrong about.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl31lcm",
+                                                                        "created": 1412736472,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412707672,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 1
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl31cdo",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "blanket12334",
+                                                              "parent_id": "t1_cl2o78r",
+                                                              "score": 1,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "OK. How did control over their own currency allow these nations to avoid potential insolvency (if that's what you're saying)?",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;OK. How did control over their own currency allow these nations to avoid potential insolvency (if that&amp;#39;s what you&amp;#39;re saying)?&lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl31cdo",
+                                                              "created": 1412736028,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412707228,
+                                                              "ups": 1,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl2o78r",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "BTCoverlord",
+                                                    "parent_id": "t1_cl2f4ni",
+                                                    "score": 1,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "&gt; That's interesting that you say they didn't have extreme inflation. In my understanding, most insolvent countries with control over the money supply monetize the debt and cause inflation.\n\nYou are failing to see the all point. These countries, just didn't went insolvent exactly because they had control over their own currency. Now, since joining the euro, they don't.",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;blockquote&gt;\n&lt;p&gt;That&amp;#39;s interesting that you say they didn&amp;#39;t have extreme inflation. In my understanding, most insolvent countries with control over the money supply monetize the debt and cause inflation.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;You are failing to see the all point. These countries, just didn&amp;#39;t went insolvent exactly because they had control over their own currency. Now, since joining the euro, they don&amp;#39;t.&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl2o78r",
+                                                    "created": 1412698118,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412669318,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 1
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
                                           "user_reports": [],
                                           "saved": false,
                                           "id": "cl2f4ni",

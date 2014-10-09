@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "TkHamed",
             "media": null,
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "Russia Plans Total Bitcoin Ban in 2015",
             "created_utc": 1412472009,
-            "ups": 1,
-            "upvote_ratio": 0.53,
+            "ups": 0,
+            "upvote_ratio": 0.5,
             "num_comments": 8,
             "visited": false,
             "num_reports": null,
@@ -90,7 +90,7 @@
                       "report_reasons": null,
                       "author": "solex1",
                       "parent_id": "t1_cl0nuya",
-                      "score": 5,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Correct.\nThe ironic thing is that Bitcoin is something Russia could use to its advantage when it is blacklisted by Western banks and cut off from SWIFT.",
@@ -104,7 +104,7 @@
                       "created": 1412519034,
                       "author_flair_text": null,
                       "created_utc": 1412490234,
-                      "ups": 5,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -122,7 +122,7 @@
             "report_reasons": null,
             "author": "Cawley22",
             "parent_id": "t3_2ibmog",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Good thing it doesn't matter.",
@@ -139,7 +139,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -216,7 +216,7 @@
                                                     "subreddit": "Bitcoin",
                                                     "score_hidden": false,
                                                     "name": "t1_cl1dqzr",
-                                                    "created": 1412577763,
+                                                    "created": 1412552563,
                                                     "author_flair_text": null,
                                                     "created_utc": 1412548963,
                                                     "distinguished": null,
@@ -333,7 +333,7 @@
             "report_reasons": null,
             "author": "LetsSeeWhatsUpThere",
             "parent_id": "t3_2ibmog",
-            "score": 1,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "Max Keiser's chosen employer. Edward Snowden's chosen refuge. Russia, land of the free. What a bunch of hypocrites. ",
@@ -350,7 +350,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 2
           }
         },
         {

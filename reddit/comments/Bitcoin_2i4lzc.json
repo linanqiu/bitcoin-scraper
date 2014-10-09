@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "NeutralityMentality",
             "media": null,
-            "score": 301,
+            "score": 300,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,7 +45,7 @@
             "author_flair_text": null,
             "title": "Bloomberg says JPMorgan was hacked, \"data breach affects 76 million households, 7 million businesses\"",
             "created_utc": 1412284091,
-            "ups": 301,
+            "ups": 300,
             "upvote_ratio": 0.92,
             "num_comments": 78,
             "visited": false,
@@ -202,7 +202,7 @@
                                           "report_reasons": null,
                                           "author": "zeusa1mighty",
                                           "parent_id": "t1_ckyyw9a",
-                                          "score": 6,
+                                          "score": 3,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "If you don't hold it you don't own it.",
@@ -216,7 +216,7 @@
                                           "created": 1412328914,
                                           "author_flair_text": null,
                                           "created_utc": 1412300114,
-                                          "ups": 6,
+                                          "ups": 3,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -392,7 +392,7 @@
                                 "report_reasons": null,
                                 "author": "MikeD209",
                                 "parent_id": "t1_ckys8yo",
-                                "score": 9,
+                                "score": 10,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "The point isn't that Coinbase and BitPay are some how better than JPM... The point is that Bitcoin is a step towards a world where you might not have to give up all this private data just to make financial transactions.",
@@ -409,7 +409,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 9
+                                "ups": 10
                               }
                             },
                             {
@@ -483,7 +483,7 @@
                                           "report_reasons": null,
                                           "author": "Bipolarruledout",
                                           "parent_id": "t1_ckysgop",
-                                          "score": 6,
+                                          "score": 7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "You think this isn't all internal? The web facing security is usually decent or at least *better*. It's the internal workstations that aren't. And don't think you need access to the server room. Lots of databases are replicated right on the clients so you only need a moderately skilled wage slave \"script kiddie\". Here's a thought: Companies could pretend they actually value employees by paying them enough that they aren't desperate or vindictive enough to steal from the company....but I digress. ",
@@ -497,7 +497,7 @@
                                           "created": 1412321991,
                                           "author_flair_text": null,
                                           "created_utc": 1412293191,
-                                          "ups": 6,
+                                          "ups": 7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -550,7 +550,7 @@
                                 "report_reasons": null,
                                 "author": "Introshine",
                                 "parent_id": "t1_ckys8yo",
-                                "score": 1,
+                                "score": 3,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "That would be deadly. I hope they keep cust. info outside of the internet DMZ, or at least encrypted. Best would be airgapped. That's what I would do when designing such a system.",
@@ -567,7 +567,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 3
                               }
                             },
                             {
@@ -687,7 +687,7 @@
                       "report_reasons": null,
                       "author": "cap2002",
                       "parent_id": "t1_ckyrz2d",
-                      "score": 27,
+                      "score": 29,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Who knows. I have a suspicion one day Coinbase or BitPay might have a huge data breach of their own. They seem quite happy about logging info on people, so it's probably just a matter of time.",
@@ -701,7 +701,7 @@
                       "created": 1412314671,
                       "author_flair_text": null,
                       "created_utc": 1412285871,
-                      "ups": 27,
+                      "ups": 29,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -846,7 +846,7 @@
                                                     "report_reasons": null,
                                                     "author": "hopeful_end",
                                                     "parent_id": "t1_ckyv6ow",
-                                                    "score": 5,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Then why are you in that bank and not a credit union or another bank which does not have that fee. I'm part of a credit union and a bank and neither have this fee. Research before joining a crappy bank like BoA. The top 3 banks in the US care for their members if they have over $10,000 in worth. They want the low level holders to leave through fees. Some people like the op of this chain is one of the guys who is not getting the hint. &gt;.&gt; \n\nTL;DR: Use a different bank.",
@@ -863,7 +863,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -878,7 +878,7 @@
                                           "report_reasons": null,
                                           "author": "Sluisifer",
                                           "parent_id": "t1_ckyusz5",
-                                          "score": 6,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Many accounts have a minimum balance fee if you don't have enough in the account.",
@@ -892,7 +892,7 @@
                                           "created": 1412320626,
                                           "author_flair_text": null,
                                           "created_utc": 1412291826,
-                                          "ups": 6,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -945,7 +945,7 @@
                                 "report_reasons": null,
                                 "author": "hopeful_end",
                                 "parent_id": "t1_ckyrl03",
-                                "score": 1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Fees such as???",
@@ -962,7 +962,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 1
+                                "ups": 0
                               }
                             }
                           ],
@@ -1167,7 +1167,7 @@
             "report_reasons": null,
             "author": "ZoidbergCoin",
             "parent_id": "t3_2i4lzc",
-            "score": 22,
+            "score": 24,
             "approved_by": null,
             "controversiality": 0,
             "body": "I use chase! I just checked. My $16.28 is still there! Phew, that was a close one.",
@@ -1184,7 +1184,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 22
+            "ups": 24
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "report_reasons": null,
             "author": "binarysoup",
             "parent_id": "t3_2i4lzc",
-            "score": 11,
+            "score": 10,
             "approved_by": null,
             "controversiality": 0,
             "body": "Bitcoin users not affected.",
@@ -1219,7 +1219,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 11
+            "ups": 10
           }
         },
         {
@@ -1281,7 +1281,7 @@
             "report_reasons": null,
             "author": "meagainstyouiwin",
             "parent_id": "t3_2i4lzc",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Here's a link to the [Article!](http://www.businessinsider.com/jp-morgan-data-breach-2014-10)",
@@ -1298,7 +1298,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -1443,7 +1443,7 @@
                                                     "report_reasons": null,
                                                     "author": "zeusa1mighty",
                                                     "parent_id": "t1_ckywudr",
-                                                    "score": 5,
+                                                    "score": 3,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Agreed, but I'm thinking /u/Bipolarruledout was implying that the actual merchandise can't be reversed.  I think he's trying to point out that reversals in the fiat world are bad because the corresponding goods/services transfer can't be reversed.  Seems you two agree.",
@@ -1460,7 +1460,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 3
                                                   }
                                                 }
                                               ],
@@ -1475,7 +1475,7 @@
                                           "report_reasons": null,
                                           "author": "whitslack",
                                           "parent_id": "t1_ckyvlru",
-                                          "score": 7,
+                                          "score": 8,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "Unfortunately, you can, and that's exactly why the legacy financial system is so expensive for merchants.",
@@ -1489,7 +1489,7 @@
                                           "created": 1412324218,
                                           "author_flair_text": null,
                                           "created_utc": 1412295418,
-                                          "ups": 7,
+                                          "ups": 8,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -1788,7 +1788,7 @@
                                 "report_reasons": null,
                                 "author": "supernatendo",
                                 "parent_id": "t1_ckytalg",
-                                "score": -4,
+                                "score": -5,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Let's say someone stole identities, transferred the money to western union, took the money out. No amount of \"Reversal\" is going to fix that without the printing of more money.",
@@ -1805,7 +1805,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -4
+                                "ups": -5
                               }
                             }
                           ],
@@ -1820,7 +1820,7 @@
                       "report_reasons": null,
                       "author": "whitslack",
                       "parent_id": "t1_ckysg0o",
-                      "score": 9,
+                      "score": 11,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "If the accounts are emptied, they can just reverse the transactions. Nothing is permanent in the fiat world. Of course, this also means nothing can be relied upon.",
@@ -1834,7 +1834,7 @@
                       "created": 1412316720,
                       "author_flair_text": null,
                       "created_utc": 1412287920,
-                      "ups": 9,
+                      "ups": 11,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -1891,7 +1891,7 @@
                                                     "report_reasons": null,
                                                     "author": "PleaseRespectTables",
                                                     "parent_id": "t1_ckz375y",
-                                                    "score": 5,
+                                                    "score": 2,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "┬─┬ノ(ಠ_ಠノ)",
@@ -1908,7 +1908,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 5
+                                                    "ups": 2
                                                   }
                                                 }
                                               ],
@@ -2037,7 +2037,7 @@
                                           "report_reasons": null,
                                           "author": "icheckessay",
                                           "parent_id": "t1_ckywzbj",
-                                          "score": 2,
+                                          "score": 5,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "&gt; This game is coming to an end and bitcoin is gonna flip the board.\n\nIs this before or after the rapture? Seriously, saying the end of the dollar is \"near\" is insane right now (and if THAT happened, we would have bigger problems anyway than \"what currency to use\").",
@@ -2051,7 +2051,7 @@
                                           "created": 1412335464,
                                           "author_flair_text": null,
                                           "created_utc": 1412306664,
-                                          "ups": 2,
+                                          "ups": 5,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2069,7 +2069,7 @@
                                 "report_reasons": null,
                                 "author": "pizzaface18",
                                 "parent_id": "t1_ckywfi9",
-                                "score": 6,
+                                "score": 9,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Monopoly money only has value while we're still playing Monopoly.  This game is coming to an end and bitcoin is gonna flip the board.",
@@ -2086,7 +2086,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 6
+                                "ups": 9
                               }
                             }
                           ],
@@ -2101,7 +2101,7 @@
                       "report_reasons": null,
                       "author": "Kristkind",
                       "parent_id": "t1_ckysg0o",
-                      "score": 5,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Monopoly paper that still gets you pretty far though ... e. g. let's you buy bitcoins ",
@@ -2115,7 +2115,7 @@
                       "created": 1412323319,
                       "author_flair_text": null,
                       "created_utc": 1412294519,
-                      "ups": 5,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2208,7 +2208,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "nobodybelievesyou",
                                                                                   "parent_id": "t1_ckz4v7m",
-                                                                                  "score": -3,
+                                                                                  "score": -2,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Awesome. ",
@@ -2222,7 +2222,7 @@
                                                                                   "created": 1412344971,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412316171,
-                                                                                  "ups": -3,
+                                                                                  "ups": -2,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -2272,7 +2272,7 @@
                                                               "report_reasons": null,
                                                               "author": "nobodybelievesyou",
                                                               "parent_id": "t1_ckz3961",
-                                                              "score": -3,
+                                                              "score": -5,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "It is astounding how many people \"used to think I was a credible critic\" until I told them that they were saying something stupid. \n\nLuckily, I don't care what anybody thinks about my internet posts. Phew. Disaster averted. ",
@@ -2286,7 +2286,7 @@
                                                               "created": 1412338110,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412309310,
-                                                              "ups": -3,
+                                                              "ups": -5,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -2336,7 +2336,7 @@
                                           "report_reasons": null,
                                           "author": "nobodybelievesyou",
                                           "parent_id": "t1_ckz1io2",
-                                          "score": -4,
+                                          "score": -7,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "It isn't a simplification, it is a stupid pandering catchphrase, which is basically all that is required to be a Bitcoin superstar. ",
@@ -2350,7 +2350,7 @@
                                           "created": 1412334471,
                                           "author_flair_text": null,
                                           "created_utc": 1412305671,
-                                          "ups": -4,
+                                          "ups": -7,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -2368,7 +2368,7 @@
                                 "report_reasons": null,
                                 "author": "Coolfishin",
                                 "parent_id": "t1_ckywck7",
-                                "score": 5,
+                                "score": 4,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Its a simplification, but there is some truth there.  If JPM were existentially threatened, they are backed by the full faith and credit of the USG through the FDIC and have access to cheap (ie freshly printed) money from the Fed Reserve.",
@@ -2385,7 +2385,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 5
+                                "ups": 4
                               }
                             },
                             {
@@ -2514,7 +2514,7 @@
                       "report_reasons": null,
                       "author": "nobodybelievesyou",
                       "parent_id": "t1_ckysg0o",
-                      "score": 1,
+                      "score": -2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Whenever something this moronic is posted, I always hope it is because the poster is an actual child and not because there is a grown adult this mind bogglingly stupid. ",
@@ -2528,7 +2528,7 @@
                       "created": 1412323137,
                       "author_flair_text": null,
                       "created_utc": 1412294337,
-                      "ups": 1,
+                      "ups": -2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2546,7 +2546,7 @@
             "report_reasons": null,
             "author": "keinur",
             "parent_id": "t3_2i4lzc",
-            "score": 17,
+            "score": 15,
             "approved_by": null,
             "controversiality": 0,
             "body": "No worries. If the accounts are emptied they can just print more $ to fill them back.\n\nA dollar is just monopoly paper, not money anymore.",
@@ -2563,7 +2563,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 17
+            "ups": 15
           }
         },
         {
@@ -2581,7 +2581,7 @@
             "report_reasons": null,
             "author": "TweetPoster",
             "parent_id": "t3_2i4lzc",
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "[**@BloombergTV**](https://twitter.com/BloombergTV):\n&gt;[2014-10-02 20:55:05 UTC](https://twitter.com/BloombergTV/status/517779828544929792)\n\n&gt;BREAKING: JPMorgan says data breach affects 76 million households, 7 million businesses\n\n----\n\n[^[Mistake?]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Error%20Report&amp;message=http://reddit.com/2i4lzc%0A%0APlease leave above link unaltered.)\n[^[Suggestion]](http://www.reddit.com/message/compose/?to=TweetPoster&amp;subject=Suggestion)\n[^[FAQ]](http://np.reddit.com/r/TweetPoster/comments/13relk/)\n[^[Code]](https://github.com/buttscicles/TweetPoster)\n[^[Issues]](https://github.com/buttscicles/TweetPoster/issues)\n",
@@ -2598,7 +2598,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -2686,7 +2686,7 @@
             "report_reasons": null,
             "author": "hamiltino",
             "parent_id": "t3_2i4lzc",
-            "score": 3,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "This makes me happy",
@@ -2703,7 +2703,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 0
           }
         },
         {
@@ -2844,7 +2844,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2i4lzc",
-            "score": -2,
+            "score": -1,
             "approved_by": null,
             "controversiality": 0,
             "body": "http://www.youtube.com/watch?v=4Z9WVZddH9w&amp;t=156m23s",
@@ -2861,7 +2861,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -2
+            "ups": -1
           }
         },
         {
@@ -2979,7 +2979,7 @@
                       "report_reasons": null,
                       "author": "hopeful_end",
                       "parent_id": "t1_ckys01g",
-                      "score": 6,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "This was not a heist of dollars. This was an attempt at identity theft which is far more valuable since stealing money from an account can be reversed. Unlike bitcoin transactions. No CHARGEBACKS!",
@@ -2993,7 +2993,7 @@
                       "created": 1412319883,
                       "author_flair_text": null,
                       "created_utc": 1412291083,
-                      "ups": 6,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3084,7 +3084,7 @@
                       "report_reasons": null,
                       "author": "DoiF",
                       "parent_id": "t1_ckys01g",
-                      "score": 4,
+                      "score": 3,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "I don't know if you wanna be saying stuff like that bro, PETA might be browsing Reddit.",
@@ -3098,7 +3098,7 @@
                       "created": 1412314440,
                       "author_flair_text": null,
                       "created_utc": 1412285640,
-                      "ups": 4,
+                      "ups": 3,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null

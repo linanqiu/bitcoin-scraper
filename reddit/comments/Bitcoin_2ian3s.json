@@ -46,8 +46,8 @@
             "title": "If you want to know why Bitcoin is falling, listen to Peter Schiff. You may hate to hear it, but he has been right every step of the way.",
             "created_utc": 1412448138,
             "ups": 0,
-            "upvote_ratio": 0.35,
-            "num_comments": 18,
+            "upvote_ratio": 0.41,
+            "num_comments": 25,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -63,6 +63,129 @@
     "data": {
       "modhash": "",
       "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ian3s",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ian3s",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl0e6z7",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "pinhead26",
+                                "parent_id": "t1_cl0e4hn",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No, it's fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, it&amp;#39;s fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl0e6z7",
+                                "created": 1412479314,
+                                "author_flair_text": null,
+                                "created_utc": 1412450514,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl0e4hn",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "sevenonelmao",
+                      "parent_id": "t1_cl0dvmy",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "And everybody with bitcoins saying \"this is actually good news\" don't have bias either?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And everybody with bitcoins saying &amp;quot;this is actually good news&amp;quot; don&amp;#39;t have bias either?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl0e4hn",
+                      "created": 1412479155,
+                      "author_flair_text": null,
+                      "created_utc": 1412450355,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0dvmy",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "pinhead26",
+            "parent_id": "t3_2ian3s",
+            "score": 3,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "\"If you're still holding bitcoin, don't go down with the ship... come over to my website and buy gold from me with your bitcoins\"\n\nI think Schiff might have a bias on this issue",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;If you&amp;#39;re still holding bitcoin, don&amp;#39;t go down with the ship... come over to my website and buy gold from me with your bitcoins&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;I think Schiff might have a bias on this issue&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0dvmy",
+            "created": 1412478561,
+            "author_flair_text": null,
+            "created_utc": 1412449761,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 3
+          }
+        },
         {
           "kind": "t1",
           "data": {
@@ -206,7 +329,7 @@
                                                                                   "report_reasons": null,
                                                                                   "author": "sevenonelmao",
                                                                                   "parent_id": "t1_cl0fm9s",
-                                                                                  "score": 2,
+                                                                                  "score": 3,
                                                                                   "approved_by": null,
                                                                                   "controversiality": 0,
                                                                                   "body": "Yeah dude nice find, he's absolutely right about the necessity to generate enthusiasm and hysteria, and there's no easier place to do that than on reddit. A few hours on I feel a bit guilty about starting this thread at all, it feels a bit cruel, nobody's going to want to hear what I'm saying and I don't blame them",
@@ -220,7 +343,7 @@
                                                                                   "created": 1412498394,
                                                                                   "author_flair_text": null,
                                                                                   "created_utc": 1412469594,
-                                                                                  "ups": 2,
+                                                                                  "ups": 3,
                                                                                   "mod_reports": [],
                                                                                   "num_reports": null,
                                                                                   "distinguished": null
@@ -238,7 +361,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "Right_In-The-Pussy",
                                                                         "parent_id": "t1_cl0e23h",
-                                                                        "score": 1,
+                                                                        "score": 2,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "Thanks for posting this, \n\nyou might want to see his discussion with jim rickards where they also predict the same \n\nhttp://youtu.be/ImqxhaPyLEo?t=26m54s",
@@ -255,7 +378,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 2
                                                                       }
                                                                     },
                                                                     {
@@ -273,7 +396,7 @@
                                                                         "report_reasons": null,
                                                                         "author": "usrn",
                                                                         "parent_id": "t1_cl0e23h",
-                                                                        "score": 1,
+                                                                        "score": 0,
                                                                         "approved_by": null,
                                                                         "controversiality": 0,
                                                                         "body": "I think that's short-sighted, but obviously time will tell who's right.",
@@ -290,7 +413,7 @@
                                                                         "distinguished": null,
                                                                         "mod_reports": [],
                                                                         "num_reports": null,
-                                                                        "ups": 1
+                                                                        "ups": 0
                                                                       }
                                                                     }
                                                                   ],
@@ -305,7 +428,7 @@
                                                               "report_reasons": null,
                                                               "author": "sevenonelmao",
                                                               "parent_id": "t1_cl0dshj",
-                                                              "score": 1,
+                                                              "score": 3,
                                                               "approved_by": null,
                                                               "controversiality": 0,
                                                               "body": "That the price was going to collapse and continue to fall, that a lot of people were going to lose a lot of money, that it wouldnt be widely adopted by the general public, that as more merchants start to accept it and sell it off as soon as they receive it there aren't enough new buyers so the price falls, that everyone who bought into bitcoins was doing it to hoard them rather than use them...",
@@ -319,7 +442,7 @@
                                                               "created": 1412478994,
                                                               "author_flair_text": null,
                                                               "created_utc": 1412450194,
-                                                              "ups": 1,
+                                                              "ups": 3,
                                                               "mod_reports": [],
                                                               "num_reports": null,
                                                               "distinguished": null
@@ -337,7 +460,7 @@
                                                     "report_reasons": null,
                                                     "author": "usrn",
                                                     "parent_id": "t1_cl0ds02",
-                                                    "score": 1,
+                                                    "score": 0,
                                                     "approved_by": null,
                                                     "controversiality": 0,
                                                     "body": "Spot on in what exactly?",
@@ -354,7 +477,7 @@
                                                     "distinguished": null,
                                                     "mod_reports": [],
                                                     "num_reports": null,
-                                                    "ups": 1
+                                                    "ups": 0
                                                   }
                                                 }
                                               ],
@@ -401,7 +524,7 @@
                                 "report_reasons": null,
                                 "author": "usrn",
                                 "parent_id": "t1_cl0dman",
-                                "score": 3,
+                                "score": 2,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "I listened to Schiff and I don't think that he gets bitcoin at all.",
@@ -418,7 +541,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 3
+                                "ups": 2
                               }
                             }
                           ],
@@ -433,7 +556,7 @@
                       "report_reasons": null,
                       "author": "sevenonelmao",
                       "parent_id": "t1_cl0dho0",
-                      "score": 1,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Just spend 20 minutes listening to it",
@@ -447,7 +570,7 @@
                       "created": 1412477915,
                       "author_flair_text": null,
                       "created_utc": 1412449115,
-                      "ups": 1,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -465,7 +588,7 @@
             "report_reasons": null,
             "author": "usrn",
             "parent_id": "t3_2ian3s",
-            "score": 3,
+            "score": 2,
             "approved_by": null,
             "controversiality": 0,
             "body": "How do you know if he was right when:\n\n- It's not over yet\n\n- The markets have seen many panics before\n\nI know that it can be stressful to see the exchange rate go down, especially if you're new to this. \nConsider limiting your exposure to btc if you're too worried.",
@@ -479,164 +602,6 @@
             "created": 1412477617,
             "author_flair_text": null,
             "created_utc": 1412448817,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 3
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ian3s",
-            "likes": null,
-            "replies": {
-              "kind": "Listing",
-              "data": {
-                "modhash": "",
-                "children": [
-                  {
-                    "kind": "t1",
-                    "data": {
-                      "subreddit_id": "t5_2s3qj",
-                      "banned_by": null,
-                      "link_id": "t3_2ian3s",
-                      "likes": null,
-                      "replies": {
-                        "kind": "Listing",
-                        "data": {
-                          "modhash": "",
-                          "children": [
-                            {
-                              "kind": "t1",
-                              "data": {
-                                "subreddit_id": "t5_2s3qj",
-                                "banned_by": null,
-                                "link_id": "t3_2ian3s",
-                                "likes": null,
-                                "replies": "",
-                                "user_reports": [],
-                                "saved": false,
-                                "id": "cl0e6z7",
-                                "gilded": 0,
-                                "report_reasons": null,
-                                "author": "pinhead26",
-                                "parent_id": "t1_cl0e4hn",
-                                "score": 1,
-                                "approved_by": null,
-                                "controversiality": 0,
-                                "body": "No, it's fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.",
-                                "edited": false,
-                                "author_flair_css_class": null,
-                                "downs": 0,
-                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, it&amp;#39;s fair. Schiff prefers gold to bitcoin, is encouraging his listeners to follow him.&lt;/p&gt;\n&lt;/div&gt;",
-                                "subreddit": "Bitcoin",
-                                "score_hidden": false,
-                                "name": "t1_cl0e6z7",
-                                "created": 1412479314,
-                                "author_flair_text": null,
-                                "created_utc": 1412450514,
-                                "distinguished": null,
-                                "mod_reports": [],
-                                "num_reports": null,
-                                "ups": 1
-                              }
-                            }
-                          ],
-                          "after": null,
-                          "before": null
-                        }
-                      },
-                      "user_reports": [],
-                      "saved": false,
-                      "id": "cl0e4hn",
-                      "gilded": 0,
-                      "report_reasons": null,
-                      "author": "sevenonelmao",
-                      "parent_id": "t1_cl0dvmy",
-                      "score": 0,
-                      "approved_by": null,
-                      "controversiality": 0,
-                      "body": "And everybody with bitcoins saying \"this is actually good news\" don't have bias either?",
-                      "edited": false,
-                      "author_flair_css_class": null,
-                      "downs": 0,
-                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And everybody with bitcoins saying &amp;quot;this is actually good news&amp;quot; don&amp;#39;t have bias either?&lt;/p&gt;\n&lt;/div&gt;",
-                      "subreddit": "Bitcoin",
-                      "score_hidden": false,
-                      "name": "t1_cl0e4hn",
-                      "created": 1412479155,
-                      "author_flair_text": null,
-                      "created_utc": 1412450355,
-                      "ups": 0,
-                      "mod_reports": [],
-                      "num_reports": null,
-                      "distinguished": null
-                    }
-                  }
-                ],
-                "after": null,
-                "before": null
-              }
-            },
-            "user_reports": [],
-            "saved": false,
-            "id": "cl0dvmy",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "pinhead26",
-            "parent_id": "t3_2ian3s",
-            "score": 4,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "\"If you're still holding bitcoin, don't go down with the ship... come over to my website and buy gold from me with your bitcoins\"\n\nI think Schiff might have a bias on this issue",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;If you&amp;#39;re still holding bitcoin, don&amp;#39;t go down with the ship... come over to my website and buy gold from me with your bitcoins&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;I think Schiff might have a bias on this issue&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl0dvmy",
-            "created": 1412478561,
-            "author_flair_text": null,
-            "created_utc": 1412449761,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 4
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2ian3s",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl0e5jd",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "BC4U",
-            "parent_id": "t3_2ian3s",
-            "score": 2,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl0e5jd",
-            "created": 1412479222,
-            "author_flair_text": null,
-            "created_utc": 1412450422,
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
@@ -674,7 +639,227 @@
                                 "banned_by": null,
                                 "link_id": "t3_2ian3s",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2ian3s",
+                                          "likes": null,
+                                          "replies": {
+                                            "kind": "Listing",
+                                            "data": {
+                                              "modhash": "",
+                                              "children": [
+                                                {
+                                                  "kind": "t1",
+                                                  "data": {
+                                                    "subreddit_id": "t5_2s3qj",
+                                                    "banned_by": null,
+                                                    "link_id": "t3_2ian3s",
+                                                    "likes": null,
+                                                    "replies": {
+                                                      "kind": "Listing",
+                                                      "data": {
+                                                        "modhash": "",
+                                                        "children": [
+                                                          {
+                                                            "kind": "t1",
+                                                            "data": {
+                                                              "subreddit_id": "t5_2s3qj",
+                                                              "banned_by": null,
+                                                              "link_id": "t3_2ian3s",
+                                                              "likes": null,
+                                                              "replies": {
+                                                                "kind": "Listing",
+                                                                "data": {
+                                                                  "modhash": "",
+                                                                  "children": [
+                                                                    {
+                                                                      "kind": "t1",
+                                                                      "data": {
+                                                                        "subreddit_id": "t5_2s3qj",
+                                                                        "banned_by": null,
+                                                                        "link_id": "t3_2ian3s",
+                                                                        "likes": null,
+                                                                        "replies": {
+                                                                          "kind": "Listing",
+                                                                          "data": {
+                                                                            "modhash": "",
+                                                                            "children": [
+                                                                              {
+                                                                                "kind": "t1",
+                                                                                "data": {
+                                                                                  "subreddit_id": "t5_2s3qj",
+                                                                                  "banned_by": null,
+                                                                                  "link_id": "t3_2ian3s",
+                                                                                  "likes": null,
+                                                                                  "replies": "",
+                                                                                  "user_reports": [],
+                                                                                  "saved": false,
+                                                                                  "id": "cl3u8on",
+                                                                                  "gilded": 0,
+                                                                                  "report_reasons": null,
+                                                                                  "author": "SkullCollector",
+                                                                                  "parent_id": "t1_cl3mcux",
+                                                                                  "score": 1,
+                                                                                  "approved_by": null,
+                                                                                  "controversiality": 0,
+                                                                                  "body": "Who cares if he doesn't know how the exchanges work.  He knows how MONEY works and he's telling it like it is but you people just refuse to hear it.  It's kind of pathetic actually, he could have saved a lot of you morons a LOT of heartache but you're taking it in the ass for pride's sake LOL.  Well just don't act all surprised when his warnings about bitcoin keep coming true, oK?  ",
+                                                                                  "edited": false,
+                                                                                  "author_flair_css_class": null,
+                                                                                  "downs": 0,
+                                                                                  "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Who cares if he doesn&amp;#39;t know how the exchanges work.  He knows how MONEY works and he&amp;#39;s telling it like it is but you people just refuse to hear it.  It&amp;#39;s kind of pathetic actually, he could have saved a lot of you morons a LOT of heartache but you&amp;#39;re taking it in the ass for pride&amp;#39;s sake LOL.  Well just don&amp;#39;t act all surprised when his warnings about bitcoin keep coming true, oK?  &lt;/p&gt;\n&lt;/div&gt;",
+                                                                                  "subreddit": "Bitcoin",
+                                                                                  "score_hidden": false,
+                                                                                  "name": "t1_cl3u8on",
+                                                                                  "created": 1412812147,
+                                                                                  "author_flair_text": null,
+                                                                                  "created_utc": 1412783347,
+                                                                                  "ups": 1,
+                                                                                  "mod_reports": [],
+                                                                                  "num_reports": null,
+                                                                                  "distinguished": null
+                                                                                }
+                                                                              }
+                                                                            ],
+                                                                            "after": null,
+                                                                            "before": null
+                                                                          }
+                                                                        },
+                                                                        "user_reports": [],
+                                                                        "saved": false,
+                                                                        "id": "cl3mcux",
+                                                                        "gilded": 0,
+                                                                        "report_reasons": null,
+                                                                        "author": "BTCoverlord",
+                                                                        "parent_id": "t1_cl3g075",
+                                                                        "score": 0,
+                                                                        "approved_by": null,
+                                                                        "controversiality": 0,
+                                                                        "body": "Everyone can make \"predictions\". Yet, you still didn't address the basic issue that the guy doesn't understand how the exchanges work. Thereby, by the exact definition of the word, he is an ignorant.\n\nBesides being ignorant, by stating like an absolute truth the wrong facts he is putting out about how the exchanges work, he is also a self righteous prick.",
+                                                                        "edited": false,
+                                                                        "author_flair_css_class": null,
+                                                                        "downs": 0,
+                                                                        "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Everyone can make &amp;quot;predictions&amp;quot;. Yet, you still didn&amp;#39;t address the basic issue that the guy doesn&amp;#39;t understand how the exchanges work. Thereby, by the exact definition of the word, he is an ignorant.&lt;/p&gt;\n\n&lt;p&gt;Besides being ignorant, by stating like an absolute truth the wrong facts he is putting out about how the exchanges work, he is also a self righteous prick.&lt;/p&gt;\n&lt;/div&gt;",
+                                                                        "subreddit": "Bitcoin",
+                                                                        "score_hidden": false,
+                                                                        "name": "t1_cl3mcux",
+                                                                        "created": 1412786719,
+                                                                        "author_flair_text": null,
+                                                                        "created_utc": 1412757919,
+                                                                        "distinguished": null,
+                                                                        "mod_reports": [],
+                                                                        "num_reports": null,
+                                                                        "ups": 0
+                                                                      }
+                                                                    }
+                                                                  ],
+                                                                  "after": null,
+                                                                  "before": null
+                                                                }
+                                                              },
+                                                              "user_reports": [],
+                                                              "saved": false,
+                                                              "id": "cl3g075",
+                                                              "gilded": 0,
+                                                              "report_reasons": null,
+                                                              "author": "SkullCollector",
+                                                              "parent_id": "t1_cl38dp8",
+                                                              "score": 0,
+                                                              "approved_by": null,
+                                                              "controversiality": 0,
+                                                              "body": "Nothing really.  It doesn't have anything to do with the fact that he warned of a big btc price drop and then a big btc price drop happened either.  ",
+                                                              "edited": false,
+                                                              "author_flair_css_class": null,
+                                                              "downs": 0,
+                                                              "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Nothing really.  It doesn&amp;#39;t have anything to do with the fact that he warned of a big btc price drop and then a big btc price drop happened either.  &lt;/p&gt;\n&lt;/div&gt;",
+                                                              "subreddit": "Bitcoin",
+                                                              "score_hidden": false,
+                                                              "name": "t1_cl3g075",
+                                                              "created": 1412765668,
+                                                              "author_flair_text": null,
+                                                              "created_utc": 1412736868,
+                                                              "ups": 0,
+                                                              "mod_reports": [],
+                                                              "num_reports": null,
+                                                              "distinguished": null
+                                                            }
+                                                          }
+                                                        ],
+                                                        "after": null,
+                                                        "before": null
+                                                      }
+                                                    },
+                                                    "user_reports": [],
+                                                    "saved": false,
+                                                    "id": "cl38dp8",
+                                                    "gilded": 0,
+                                                    "report_reasons": null,
+                                                    "author": "BTCoverlord",
+                                                    "parent_id": "t1_cl385dz",
+                                                    "score": 0,
+                                                    "approved_by": null,
+                                                    "controversiality": 0,
+                                                    "body": "And what exactly does that have to do with the **fact** that he is **ignorant**, by **his** own statements, in **this** exact podcast, about the basic way the bitcoin exchanges work?",
+                                                    "edited": false,
+                                                    "author_flair_css_class": null,
+                                                    "downs": 0,
+                                                    "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;And what exactly does that have to do with the &lt;strong&gt;fact&lt;/strong&gt; that he is &lt;strong&gt;ignorant&lt;/strong&gt;, by &lt;strong&gt;his&lt;/strong&gt; own statements, in &lt;strong&gt;this&lt;/strong&gt; exact podcast, about the basic way the bitcoin exchanges work?&lt;/p&gt;\n&lt;/div&gt;",
+                                                    "subreddit": "Bitcoin",
+                                                    "score_hidden": false,
+                                                    "name": "t1_cl38dp8",
+                                                    "created": 1412748934,
+                                                    "author_flair_text": null,
+                                                    "created_utc": 1412720134,
+                                                    "distinguished": null,
+                                                    "mod_reports": [],
+                                                    "num_reports": null,
+                                                    "ups": 0
+                                                  }
+                                                }
+                                              ],
+                                              "after": null,
+                                              "before": null
+                                            }
+                                          },
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl385dz",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "SkullCollector",
+                                          "parent_id": "t1_cl0dvwg",
+                                          "score": 0,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "This ignorant Peter Schiff guy is worth about $70 million, FYI.  So dumb! ",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;This ignorant Peter Schiff guy is worth about $70 million, FYI.  So dumb! &lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl385dz",
+                                          "created": 1412748453,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412719653,
+                                          "ups": 0,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl0dvwg",
@@ -682,7 +867,7 @@
                                 "report_reasons": null,
                                 "author": "BTCoverlord",
                                 "parent_id": "t1_cl0dqv7",
-                                "score": 2,
+                                "score": 1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Sounds to me that, like this ignorant Peter Shiff guy, you also don't know shit about how the exchanges work, and are just ignoring that a major point of his argument for BTC to drop in value, was completely wrong in stating that, you can't take shorts on bitcoin.",
@@ -699,7 +884,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": 2
+                                "ups": 1
                               }
                             }
                           ],
@@ -714,7 +899,7 @@
                       "report_reasons": null,
                       "author": "sevenonelmao",
                       "parent_id": "t1_cl0dnw6",
-                      "score": -3,
+                      "score": -2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "It sounds to me like you're taking any opportunity you can to clasp your hands over your ears and shut out anything negative, blinded by the money. There might be mistakes here or there but his analysis is spot on, and has been all along.",
@@ -728,7 +913,7 @@
                       "created": 1412478238,
                       "author_flair_text": null,
                       "created_utc": 1412449438,
-                      "ups": -3,
+                      "ups": -2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -746,7 +931,7 @@
             "report_reasons": null,
             "author": "BTCoverlord",
             "parent_id": "t3_2ian3s",
-            "score": 3,
+            "score": 1,
             "approved_by": null,
             "controversiality": 0,
             "body": "Ok, I stopped listening at:\n\n- *\"There are no exchanges where you can borrow bitcoin and go short\"*\n\nRight after another pearl of complete ignorance:\n\n- *\"In bitstamp you can now put selling stops and the market manipulators can see your stops in the order book\".*\n\nThis tells me exactly how absolutely ignorant this idiot talking like he knew something is.\n\nFirst, the stops don't show up in the order book. But ok, the guy could be wrong about that not so big detail.\n\nBut then, he has to be completely clueless and ignorant to tell you you cannot take a short on bitcoin when - **by very, very far** - all the highest trading exchanges, except bitstamp, allow shorts ranging from 2.2x to 10x leverage.\n\n**So, this Peter Schiff if an ignorant. Nuff said**\n\n",
@@ -763,7 +948,130 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 1
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2ian3s",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2ian3s",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2ian3s",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl38jp5",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "BC4U",
+                                "parent_id": "t1_cl386pr",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "No, but I tend to not listen to people when they have to throw in a sales pitch. It seems like the only reason he's ranting is to get you to buy from his business. \n\nI am aware that btc price has gone down, but I have also speculated on the way down and increased my btc holding. Still only invested what I can afford to lose. \n\nCheers! :D",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;No, but I tend to not listen to people when they have to throw in a sales pitch. It seems like the only reason he&amp;#39;s ranting is to get you to buy from his business. &lt;/p&gt;\n\n&lt;p&gt;I am aware that btc price has gone down, but I have also speculated on the way down and increased my btc holding. Still only invested what I can afford to lose. &lt;/p&gt;\n\n&lt;p&gt;Cheers! :D&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl38jp5",
+                                "created": 1412749284,
+                                "author_flair_text": null,
+                                "created_utc": 1412720484,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl386pr",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "SkullCollector",
+                      "parent_id": "t1_cl0e5jd",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "What about the fact that your holdings have lost 50% of their value in the last few months just like he said they would?  Did that kill his credibility too? ",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;What about the fact that your holdings have lost 50% of their value in the last few months just like he said they would?  Did that kill his credibility too? &lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl386pr",
+                      "created": 1412748525,
+                      "author_flair_text": null,
+                      "created_utc": 1412719725,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl0e5jd",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "BC4U",
+            "parent_id": "t3_2ian3s",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;lol,.. After 20 minutes he wants you to buy gold from his company... Killed any credibility for him right there for me..&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl0e5jd",
+            "created": 1412479222,
+            "author_flair_text": null,
+            "created_utc": 1412450422,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
           }
         },
         {
@@ -781,7 +1089,7 @@
             "report_reasons": null,
             "author": "Bankless",
             "parent_id": "t3_2ian3s",
-            "score": 1,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "I think the bitcoin Blockchain ledger and supercomputernetwork is every bankers wet dream, how is that for some intrinsic value?\n ",
@@ -798,7 +1106,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 1
+            "ups": 0
           }
         }
       ],

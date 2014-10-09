@@ -47,7 +47,7 @@
             "created_utc": 1412610948,
             "ups": 4,
             "upvote_ratio": 0.83,
-            "num_comments": 2,
+            "num_comments": 3,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -140,6 +140,41 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 2
+          }
+        },
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2iggr2",
+            "likes": null,
+            "replies": "",
+            "user_reports": [],
+            "saved": false,
+            "id": "cl2ozih",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "Elmer__FUD",
+            "parent_id": "t3_2iggr2",
+            "score": 1,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "Are you actually asking r/bitcoin for money laundering tips? Wow.",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;Are you actually asking r/bitcoin for money laundering tips? Wow.&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl2ozih",
+            "created": 1412702836,
+            "author_flair_text": null,
+            "created_utc": 1412674036,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 1
           }
         }
       ],

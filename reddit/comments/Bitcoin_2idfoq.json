@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "secret_message",
             "media": null,
-            "score": 70,
+            "score": 65,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "How does one buy $50k worth of Bitcoin right now?",
             "created_utc": 1412532021,
-            "ups": 70,
-            "upvote_ratio": 0.79,
-            "num_comments": 124,
+            "ups": 65,
+            "upvote_ratio": 0.78,
+            "num_comments": 125,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -149,7 +149,7 @@
                                           "report_reasons": null,
                                           "author": "theblazehen",
                                           "parent_id": "t1_cl1jjux",
-                                          "score": 1,
+                                          "score": 0,
                                           "approved_by": null,
                                           "controversiality": 0,
                                           "body": "I started friday! Now to wait for the others to download...",
@@ -163,7 +163,7 @@
                                           "created": 1412595354,
                                           "author_flair_text": null,
                                           "created_utc": 1412566554,
-                                          "ups": 1,
+                                          "ups": 0,
                                           "mod_reports": [],
                                           "num_reports": null,
                                           "distinguished": null
@@ -315,7 +315,7 @@
             "report_reasons": null,
             "author": "rewire",
             "parent_id": "t3_2idfoq",
-            "score": 49,
+            "score": 45,
             "approved_by": null,
             "controversiality": 0,
             "body": "Your best bet is to [call SecondMarket](https://www.secondmarket.com/bitcoin-trading)\n\nOf course, you can buy small quantities from Celery, Coinbase, Circle.",
@@ -332,7 +332,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 49
+            "ups": 45
           }
         },
         {
@@ -485,7 +485,7 @@
                       "report_reasons": null,
                       "author": "Nexusmaxis",
                       "parent_id": "t1_cl15x83",
-                      "score": 14,
+                      "score": 15,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Just give me the 50k! I already have that as my limit. I'll buy it for you and hold onto it in my account until it rises!",
@@ -499,7 +499,7 @@
                       "created": 1412576788,
                       "author_flair_text": null,
                       "created_utc": 1412547988,
-                      "ups": 14,
+                      "ups": 15,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -710,7 +710,7 @@
             "report_reasons": null,
             "author": "wbic16",
             "parent_id": "t3_2idfoq",
-            "score": 36,
+            "score": 37,
             "approved_by": null,
             "controversiality": 0,
             "body": "If you signup for Coinbase and wait about a month for Level 2 status, then your buy limit should be $50k/day.",
@@ -727,7 +727,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 36
+            "ups": 37
           }
         },
         {
@@ -745,7 +745,7 @@
             "report_reasons": null,
             "author": "ESTeGo",
             "parent_id": "t3_2idfoq",
-            "score": 21,
+            "score": 22,
             "approved_by": null,
             "controversiality": 0,
             "body": "ITT: The very reason why the price is low",
@@ -762,7 +762,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 21
+            "ups": 22
           }
         },
         {
@@ -780,7 +780,7 @@
             "report_reasons": null,
             "author": "sqrt7744",
             "parent_id": "t3_2idfoq",
-            "score": 10,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "Call second market, they can set you up.",
@@ -797,7 +797,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 10
+            "ups": 8
           }
         },
         {
@@ -859,7 +859,7 @@
             "report_reasons": null,
             "author": "nobbynobbynoob",
             "parent_id": "t3_2idfoq",
-            "score": 8,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "There's [localbitcoins.com](http://localbitcoins.com/) but it might be hard to find traders for that amount in one fell swoop. Good luck!",
@@ -876,7 +876,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 8
+            "ups": 7
           }
         },
         {
@@ -938,7 +938,7 @@
             "report_reasons": null,
             "author": "silverlitecoin",
             "parent_id": "t3_2idfoq",
-            "score": 7,
+            "score": 8,
             "approved_by": null,
             "controversiality": 0,
             "body": "[Bitstamp](https://www.bitstamp.net/)\n\nBut like the op said localbitcoins would be the fastest. But you'd have to buy in smaller increments at a time. ",
@@ -955,7 +955,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 7
+            "ups": 8
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "report_reasons": null,
             "author": "italeffect",
             "parent_id": "t3_2idfoq",
-            "score": 26,
+            "score": 24,
             "approved_by": null,
             "controversiality": 0,
             "body": "And here's the fundamental issue. It takes an hour or two to move Bitcoin to an exchange and sell. It takes several days to move fiat to an exchange and buy. ",
@@ -1069,7 +1069,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 26
+            "ups": 24
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "report_reasons": null,
             "author": "OhMyMemories",
             "parent_id": "t3_2idfoq",
-            "score": 4,
+            "score": 3,
             "approved_by": null,
             "controversiality": 0,
             "body": "But the max off circle, then the max off coinbase XD\n",
@@ -1104,7 +1104,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 4
+            "ups": 3
           }
         },
         {
@@ -1464,7 +1464,7 @@
             "report_reasons": null,
             "author": "ResilientDonkey",
             "parent_id": "t3_2idfoq",
-            "score": 81,
+            "score": 77,
             "approved_by": null,
             "controversiality": 0,
             "body": "Detailed instructions follow:  \n1. Buy $100K worth of Bitcoin  \n2. Transfer immediately to a paper wallet  \n3. Wait for a couple of days for the price to drop  \n4. There you go, you now own $50K worth of Bitcoin!  \n5. Profit!  ",
@@ -1481,7 +1481,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 81
+            "ups": 77
           }
         },
         {
@@ -1958,7 +1958,7 @@
                       "report_reasons": null,
                       "author": "battenupthehatches",
                       "parent_id": "t1_cl16nkh",
-                      "score": 7,
+                      "score": 6,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "But new accounts can only buy a few thousand dollars worth a day.",
@@ -1972,7 +1972,7 @@
                       "created": 1412564777,
                       "author_flair_text": null,
                       "created_utc": 1412535977,
-                      "ups": 7,
+                      "ups": 6,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -2411,7 +2411,7 @@
             "report_reasons": null,
             "author": "Holos620",
             "parent_id": "t3_2idfoq",
-            "score": 3,
+            "score": 0,
             "approved_by": null,
             "controversiality": 0,
             "body": "What makes you think the price is low?",
@@ -2428,7 +2428,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 0
           }
         },
         {
@@ -2607,7 +2607,7 @@
                       "report_reasons": null,
                       "author": "secret_message",
                       "parent_id": "t1_cl159yo",
-                      "score": 10,
+                      "score": 9,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "Yea, I realize it's a bit of s crazy request and may not be possible. Just thought I'd ask.",
@@ -2621,7 +2621,7 @@
                       "created": 1412561122,
                       "author_flair_text": null,
                       "created_utc": 1412532322,
-                      "ups": 10,
+                      "ups": 9,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -3466,7 +3466,7 @@
                       "report_reasons": null,
                       "author": "secret_message",
                       "parent_id": "t1_cl1a4sa",
-                      "score": 9,
+                      "score": 8,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "7%",
@@ -3480,7 +3480,7 @@
                       "created": 1412572692,
                       "author_flair_text": null,
                       "created_utc": 1412543892,
-                      "ups": 9,
+                      "ups": 8,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4216,7 +4216,51 @@
                                 "banned_by": null,
                                 "link_id": "t3_2idfoq",
                                 "likes": null,
-                                "replies": "",
+                                "replies": {
+                                  "kind": "Listing",
+                                  "data": {
+                                    "modhash": "",
+                                    "children": [
+                                      {
+                                        "kind": "t1",
+                                        "data": {
+                                          "subreddit_id": "t5_2s3qj",
+                                          "banned_by": null,
+                                          "link_id": "t3_2idfoq",
+                                          "likes": null,
+                                          "replies": "",
+                                          "user_reports": [],
+                                          "saved": false,
+                                          "id": "cl2vcrq",
+                                          "gilded": 0,
+                                          "report_reasons": null,
+                                          "author": "_niko",
+                                          "parent_id": "t1_cl2etzr",
+                                          "score": 1,
+                                          "approved_by": null,
+                                          "controversiality": 0,
+                                          "body": "\"This\" has happened many times, and yet here we are - Bitcoin works, and enables things not possible before. Even if you are focused on the value of XBT tokens, look at the complete picture, or at least the past 2-3 years.",
+                                          "edited": false,
+                                          "author_flair_css_class": null,
+                                          "downs": 0,
+                                          "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;&amp;quot;This&amp;quot; has happened many times, and yet here we are - Bitcoin works, and enables things not possible before. Even if you are focused on the value of XBT tokens, look at the complete picture, or at least the past 2-3 years.&lt;/p&gt;\n&lt;/div&gt;",
+                                          "subreddit": "Bitcoin",
+                                          "score_hidden": false,
+                                          "name": "t1_cl2vcrq",
+                                          "created": 1412724306,
+                                          "author_flair_text": null,
+                                          "created_utc": 1412695506,
+                                          "ups": 1,
+                                          "mod_reports": [],
+                                          "num_reports": null,
+                                          "distinguished": null
+                                        }
+                                      }
+                                    ],
+                                    "after": null,
+                                    "before": null
+                                  }
+                                },
                                 "user_reports": [],
                                 "saved": false,
                                 "id": "cl2etzr",
@@ -4461,7 +4505,7 @@
                                 "report_reasons": null,
                                 "author": "anon515",
                                 "parent_id": "t1_cl17id4",
-                                "score": -1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Not in the long term. If he's just in it for some gains, he'll just dump it when it's convenient. All this becomes noise and unnecessary volatility. All the people selling were itching to sell it. For some reason. And adding more people who are going to be itching to sell it doesn't help.\n\nYou are right, he might make it a bit less volatile now, balancing things out. But there's a difference between something that goes up and down 20% every day and averages to $100, and something that barely moves every day and averages to $100. \n\nBoth are the same price, but I would argue the first is more volatile regardless of final price.",
@@ -4478,7 +4522,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 0
                               }
                             }
                           ],
@@ -4493,7 +4537,7 @@
                       "report_reasons": null,
                       "author": "road_laya",
                       "parent_id": "t1_cl16pgw",
-                      "score": 5,
+                      "score": 4,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "By buying when the price is falling, he is increasing the price and is making the price *less* volatile.",
@@ -4507,7 +4551,7 @@
                       "created": 1412565305,
                       "author_flair_text": null,
                       "created_utc": 1412536505,
-                      "ups": 5,
+                      "ups": 4,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4584,7 +4628,7 @@
                                 "report_reasons": null,
                                 "author": "anon515",
                                 "parent_id": "t1_cl17r8r",
-                                "score": -2,
+                                "score": -1,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "If you're greedy, fine, I won't and can't stop anyone.\n\nAll I'm saying is that Bitcoin isn't a better technology when it's worth $10,000 per coin. It's the exact same.\n\nYes, I want big-time adoption. But speculation isn't helping anyone except the previous speculators and maybe the future of the person speculating. Bitcoin begins to feel EXACTLY like some MLM scheme, which distracts from the sheer awesomeness that Bitcoin as a technology truly is.\n\nI love Bitcoin, and for the sake of Bitcoin, I am simply *pleading* without any power but my logic, to please help stabilize Bitcoin and stop caring about the price.",
@@ -4601,7 +4645,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -2
+                                "ups": -1
                               }
                             }
                           ],
@@ -4616,7 +4660,7 @@
                       "report_reasons": null,
                       "author": "BS_Filter",
                       "parent_id": "t1_cl16pgw",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "You tell other people what to do with their money AND call them greedy for making their own choices. What kind of stupid are you exactly?",
@@ -4630,7 +4674,7 @@
                       "created": 1412565768,
                       "author_flair_text": null,
                       "created_utc": 1412536968,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4698,7 +4742,7 @@
                                 "report_reasons": null,
                                 "author": "anon515",
                                 "parent_id": "t1_cl1704l",
-                                "score": -1,
+                                "score": 0,
                                 "approved_by": null,
                                 "controversiality": 0,
                                 "body": "Why would that be?\n\nIf Bitcoin had a ton of attention from large fund managers and the likes, certainly some bad news can tank a huge market cap stock sometimes 20-30% in a day.\n\nFor me, it depends on HOW we get to 10k per coin.\n\nIf it's because simply millions of people are using it with very few speculators, and that's simply how much it needs to be worth for people to hold a little in their wallet and do their daily transactions, excellent!\n\nBut if it's because a small number of people have put a ton of speculative dough into it for the sake of making a few bucks on the upturn, then we're going to be talking about a very volatile $10k coin maybe moving many % every day or week.",
@@ -4715,7 +4759,7 @@
                                 "distinguished": null,
                                 "mod_reports": [],
                                 "num_reports": null,
-                                "ups": -1
+                                "ups": 0
                               }
                             }
                           ],
@@ -4730,7 +4774,7 @@
                       "report_reasons": null,
                       "author": "WhyAllTheUpvotes",
                       "parent_id": "t1_cl16pgw",
-                      "score": 3,
+                      "score": 2,
                       "approved_by": null,
                       "controversiality": 0,
                       "body": "It's gonna be way less volatile at 10k per coin. ",
@@ -4744,7 +4788,7 @@
                       "created": 1412564354,
                       "author_flair_text": null,
                       "created_utc": 1412535554,
-                      "ups": 3,
+                      "ups": 2,
                       "mod_reports": [],
                       "num_reports": null,
                       "distinguished": null
@@ -4797,7 +4841,7 @@
             "report_reasons": null,
             "author": "anon515",
             "parent_id": "t3_2idfoq",
-            "score": -15,
+            "score": -13,
             "approved_by": null,
             "controversiality": 0,
             "body": "Why would you want to buy $50k of Bitcoin? Because you want to be there for the next hype train? Come on, please stop making Bitcoin so volatile for your own greedy goals.\n\nPut $50k into part of the Bitcoin ecosystem - invest in some of the projects that make Bitcoin a better technology for everyone. Bitcoin isn't better when it's worth $10,000 per coin. It's exactly the same except more volatile which I would argue is even worse. :-(",
@@ -4814,7 +4858,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": -15
+            "ups": -13
           }
         }
       ],

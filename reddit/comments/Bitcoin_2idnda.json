@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "hiver",
             "media": null,
-            "score": 0,
+            "score": 2,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,9 +45,9 @@
             "author_flair_text": null,
             "title": "Exit Strategies",
             "created_utc": 1412536617,
-            "ups": 0,
-            "upvote_ratio": 0.46,
-            "num_comments": 2,
+            "ups": 2,
+            "upvote_ratio": 0.54,
+            "num_comments": 4,
             "visited": false,
             "num_reports": null,
             "distinguished": null
@@ -63,6 +63,129 @@
     "data": {
       "modhash": "",
       "children": [
+        {
+          "kind": "t1",
+          "data": {
+            "subreddit_id": "t5_2s3qj",
+            "banned_by": null,
+            "link_id": "t3_2idnda",
+            "likes": null,
+            "replies": {
+              "kind": "Listing",
+              "data": {
+                "modhash": "",
+                "children": [
+                  {
+                    "kind": "t1",
+                    "data": {
+                      "subreddit_id": "t5_2s3qj",
+                      "banned_by": null,
+                      "link_id": "t3_2idnda",
+                      "likes": null,
+                      "replies": {
+                        "kind": "Listing",
+                        "data": {
+                          "modhash": "",
+                          "children": [
+                            {
+                              "kind": "t1",
+                              "data": {
+                                "subreddit_id": "t5_2s3qj",
+                                "banned_by": null,
+                                "link_id": "t3_2idnda",
+                                "likes": null,
+                                "replies": "",
+                                "user_reports": [],
+                                "saved": false,
+                                "id": "cl3afn1",
+                                "gilded": 0,
+                                "report_reasons": null,
+                                "author": "is4k",
+                                "parent_id": "t1_cl3aagq",
+                                "score": 1,
+                                "approved_by": null,
+                                "controversiality": 0,
+                                "body": "you can lock the value of your coins to silver, $, € etc \n\nhttps://coinapult.com/locks/info",
+                                "edited": false,
+                                "author_flair_css_class": null,
+                                "downs": 0,
+                                "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;you can lock the value of your coins to silver, $, € etc &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://coinapult.com/locks/info\"&gt;https://coinapult.com/locks/info&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;",
+                                "subreddit": "Bitcoin",
+                                "score_hidden": false,
+                                "name": "t1_cl3afn1",
+                                "created": 1412753606,
+                                "author_flair_text": null,
+                                "created_utc": 1412724806,
+                                "distinguished": null,
+                                "mod_reports": [],
+                                "num_reports": null,
+                                "ups": 1
+                              }
+                            }
+                          ],
+                          "after": null,
+                          "before": null
+                        }
+                      },
+                      "user_reports": [],
+                      "saved": false,
+                      "id": "cl3aagq",
+                      "gilded": 0,
+                      "report_reasons": null,
+                      "author": "kleer001",
+                      "parent_id": "t1_cl195ek",
+                      "score": 1,
+                      "approved_by": null,
+                      "controversiality": 0,
+                      "body": "vas is dat?",
+                      "edited": false,
+                      "author_flair_css_class": null,
+                      "downs": 0,
+                      "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;vas is dat?&lt;/p&gt;\n&lt;/div&gt;",
+                      "subreddit": "Bitcoin",
+                      "score_hidden": false,
+                      "name": "t1_cl3aagq",
+                      "created": 1412753312,
+                      "author_flair_text": null,
+                      "created_utc": 1412724512,
+                      "ups": 1,
+                      "mod_reports": [],
+                      "num_reports": null,
+                      "distinguished": null
+                    }
+                  }
+                ],
+                "after": null,
+                "before": null
+              }
+            },
+            "user_reports": [],
+            "saved": false,
+            "id": "cl195ek",
+            "gilded": 0,
+            "report_reasons": null,
+            "author": "is4k",
+            "parent_id": "t3_2idnda",
+            "score": 2,
+            "approved_by": null,
+            "controversiality": 0,
+            "body": "There is also coinapult locks",
+            "edited": false,
+            "author_flair_css_class": null,
+            "downs": 0,
+            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There is also coinapult locks&lt;/p&gt;\n&lt;/div&gt;",
+            "subreddit": "Bitcoin",
+            "score_hidden": false,
+            "name": "t1_cl195ek",
+            "created": 1412568416,
+            "author_flair_text": null,
+            "created_utc": 1412539616,
+            "distinguished": null,
+            "mod_reports": [],
+            "num_reports": null,
+            "ups": 2
+          }
+        },
         {
           "kind": "t1",
           "data": {
@@ -96,41 +219,6 @@
             "mod_reports": [],
             "num_reports": null,
             "ups": 2
-          }
-        },
-        {
-          "kind": "t1",
-          "data": {
-            "subreddit_id": "t5_2s3qj",
-            "banned_by": null,
-            "link_id": "t3_2idnda",
-            "likes": null,
-            "replies": "",
-            "user_reports": [],
-            "saved": false,
-            "id": "cl195ek",
-            "gilded": 0,
-            "report_reasons": null,
-            "author": "is4k",
-            "parent_id": "t3_2idnda",
-            "score": 1,
-            "approved_by": null,
-            "controversiality": 0,
-            "body": "There is also coinapult locks",
-            "edited": false,
-            "author_flair_css_class": null,
-            "downs": 0,
-            "body_html": "&lt;div class=\"md\"&gt;&lt;p&gt;There is also coinapult locks&lt;/p&gt;\n&lt;/div&gt;",
-            "subreddit": "Bitcoin",
-            "score_hidden": false,
-            "name": "t1_cl195ek",
-            "created": 1412568416,
-            "author_flair_text": null,
-            "created_utc": 1412539616,
-            "distinguished": null,
-            "mod_reports": [],
-            "num_reports": null,
-            "ups": 1
           }
         }
       ],

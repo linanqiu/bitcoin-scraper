@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "siclik",
             "media": null,
-            "score": 11,
+            "score": 17,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "That app already exists, and it's called \"Bitcoin\" (xpost from /r/Portland)",
             "created_utc": 1412625938,
-            "ups": 11,
-            "upvote_ratio": 0.79,
+            "ups": 17,
+            "upvote_ratio": 0.87,
             "num_comments": 2,
             "visited": false,
             "num_reports": null,
@@ -78,7 +78,7 @@
             "report_reasons": null,
             "author": "siclik",
             "parent_id": "t3_2ihbua",
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "controversiality": 0,
             "body": "This is proof that the demand for easy-magic-cloud-money is there!",
@@ -95,7 +95,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 6
+            "ups": 7
           }
         },
         {
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "AaronPaul",
             "parent_id": "t3_2ihbua",
-            "score": 3,
+            "score": 4,
             "approved_by": null,
             "controversiality": 0,
             "body": "Great job!  Help when you can!",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 3
+            "ups": 4
           }
         }
       ],

@@ -3,24 +3,47 @@ var fs = require('fs');
 var request = require('request');
 var junk = require('junk');
 
-var redditPath = './reddit'
+var redditPath = './reddit';
+// var timeNow = parseInt((new Date).getTime() / 1000);
+var timeNow = parseInt(new Date().getTime() / 1000);
+var timePast = parseInt(new Date('Jan 1, 2012').getTime() / 1000);
+var iterations = 100;
 
 var threads = [];
+var threadCount = 0;
 
-function scrapeThreads(subreddit) {
-  reddit.r(subreddit).sort('new').all(function(res) {
+function dateConverter(UNIX_timestamp) {
+  var a = new Date(UNIX_timestamp * 1000);
+  var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+  var year = a.getFullYear();
+  var month = months[a.getMonth()];
+  var date = a.getDate();
+  var hour = a.getHours();
+  var min = a.getMinutes();
+  var sec = a.getSeconds();
+  var time = month + ' ' + date + ', ' + year;
+  return time;
+}
 
+function scrapeThreads(subreddit, timePast, timeNow) {
+  reddit.search('bitcoin', timePast, timeNow).all(function(res) {
     var fileName = redditPath + '/threads/' + subreddit;
 
-    var i = 0;
-
     res.on('data', function(data, res) {
-      fs.writeFile(fileName + '_' + i + '.json', JSON.stringify(data, null, 2), function(err) {
-        if (err) {
-          throw err;
-        }
-      });
-      i++;
+      var children = data['data']['children'];
+      var lastThread = children[children.length - 1];
+      if (lastThread !== undefined) {
+        timeNow = lastThread['data']['created_utc'];
+        console.log(dateConverter(timeNow));
+
+
+        fs.writeFile(fileName + '_' + threadCount + '.json', JSON.stringify(data, null, 2), function(err) {
+          if (err) {
+            throw err;
+          }
+        });
+        threadCount++;
+      }
     });
 
     res.on('error', function(e) {
@@ -28,8 +51,9 @@ function scrapeThreads(subreddit) {
     });
 
     res.on('end', function() {
-      console.log('All Done');
-
+      iterations--;
+      console.log('Iterations left: ' + iterations);
+      scrapeThreads(subreddit, timePast, timeNow);
     });
   });
 }
@@ -48,11 +72,9 @@ function loadThreads(dir, cb) {
       tempThreads = tempThreads['data']['children'];
 
       tempThreads.forEach(function(tempThread) {
-        threads.push(tempThread);
+        scrapeComment(tempThread);
       });
     });
-
-    cb(threads);
   });
 }
 
@@ -64,18 +86,18 @@ function scrapeComment(thread) {
     fs.writeFile(redditPath + '/comments/' + subreddit + '_' + id + '.json', JSON.stringify(data, null, 2), function(err) {
       if (err) {
         throw err;
+      } else {
+        console.log("Done writing: " + redditPath + '/comments/' + subreddit + '_' + id + '.json');
       }
     });
   });
 }
 
-var scrapeThreadsForComments = function(threads) {
-  threads.forEach(function(elem, index, array) {
-    scrapeComment(elem);
-  });
-}
+// var scrapeThreadsForComments = function(threads) {
+//   threads.forEach(function(elem, index, array) {
+//     scrapeComment(elem);
+//   });
+// }
 
-// scrapeThreads('bitcoin');
-loadThreads(redditPath + '/threads', scrapeThreadsForComments);
-
-
+// scrapeThreads('bitcoin', timePast, timeNow);
+loadThreads(redditPath + '/threads');

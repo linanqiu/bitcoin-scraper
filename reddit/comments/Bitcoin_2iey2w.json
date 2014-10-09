@@ -24,7 +24,7 @@
             "report_reasons": null,
             "author": "wewtr",
             "media": null,
-            "score": 6,
+            "score": 7,
             "approved_by": null,
             "over_18": false,
             "hidden": false,
@@ -45,8 +45,8 @@
             "author_flair_text": null,
             "title": "My sell order at $301 is taking *forever* to fill. Wtf bitstamp?",
             "created_utc": 1412565285,
-            "ups": 6,
-            "upvote_ratio": 0.61,
+            "ups": 7,
+            "upvote_ratio": 0.62,
             "num_comments": 13,
             "visited": false,
             "num_reports": null,
@@ -113,7 +113,7 @@
             "report_reasons": null,
             "author": "Scrandroid",
             "parent_id": "t3_2iey2w",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "You're only 17000 btc away, hold on.",
@@ -130,7 +130,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
@@ -315,7 +315,7 @@
             "report_reasons": null,
             "author": "TheBitcoinPope",
             "parent_id": "t3_2iey2w",
-            "score": 5,
+            "score": 6,
             "approved_by": null,
             "controversiality": 0,
             "body": "Why do you sell the sacred coin that guides us against the injustice of the banking empire?",
@@ -332,7 +332,7 @@
             "distinguished": null,
             "mod_reports": [],
             "num_reports": null,
-            "ups": 5
+            "ups": 6
           }
         },
         {
